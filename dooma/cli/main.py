@@ -20,5 +20,11 @@ app.command(name="sync")(commands.sync_registry)
 app.command(name="pull")(commands.pull_problem)
 app.command(name="test")(commands.test_problem)
 
+# Prep commands
+prep_app = typer.Typer(name="prep", help="Company preparation campaign mode.")
+app.add_typer(prep_app)
+prep_app.command(name="start")(commands.prep_start)
+prep_app.command(name="next")(commands.prep_next)
+
 if __name__ == "__main__":
     app()
