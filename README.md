@@ -3,42 +3,49 @@
 ![Dooma Logo](https://img.shields.io/badge/Dooma-DSA_Forge-blue?style=for-the-badge)
 [![Python Version](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![CI Build](https://img.shields.io/github/actions/workflow/status/im-anishraj/dooma/ci.yml?branch=main)](https://github.com/im-anishraj/dooma/actions)
 
-**Dooma** is a professional, open-source Python library and CLI tool designed for Data Structures and Algorithms (DSA) practice.
+**Dooma** is your ultimate, blazing-fast Data Structures and Algorithms (DSA) preparation companion. Built entirely for the terminal, it serves as a lightweight, interactive explorer for over **17,900+ real interview questions** from **660+ top tech companies**.
 
-Instead of a messy folder of random `.py` or `.cpp` files, Dooma creates a **structured, local-first workspace**. It acts as a hybrid between a package manager (pulling questions), a test runner (verifying solutions), and a progress tracker (monitoring stats and company-wise readiness).
+No more scrolling through clunky websites or losing track of which questions Amazon or Google actually ask. Dooma brings the entire dataset straight into your console with a beautiful, responsive UI.
 
-## Core Features
+## 🚀 Features
 
-- **CLI-First**: Native, fast, and terminal-friendly operations.
-- **Local SQLite Tracking**: All your progress, attempts, and stats are stored locally.
-- **Company-Wise Campaigns**: Prepare for specific companies (e.g., Google, Amazon) using smart algorithms that track your readiness.
-- **Automated Workflows**: Write your solution and let Dooma test it and move it to `solved/` automatically upon success.
-- **Python-Native**: Fully extensible as a Python library.
+- **Massive Database**: Access a curated, offline-first dataset of 17,931 question mappings across 662 companies.
+- **Interactive Terminal UI**: Built with `Rich` and `Typer`, Dooma offers a stunning, paginated, and easy-to-navigate interface.
+- **Alphabetical Explorer**: Quickly jump to your target company (e.g., press `G` for Google) and view all associated questions.
+- **Data Rich**: Instantly see Question Titles, Difficulty Ratings (color-coded), Frequency/Acceptance percentages, and direct LeetCode URLs.
+- **Zero Overhead**: No accounts, no internet required to browse the database, no tracking. Just pure preparation.
 
-## Quickstart
+## 📦 Quickstart
 
+Dooma is incredibly easy to set up and use. 
+
+### Installation
+Clone the repository and install it locally using `pip`:
 ```bash
-# Install the CLI
-pip install dooma
-
-# Initialize a new workspace
-mkdir my-dsa-journey && cd my-dsa-journey
-dooma init
-
-# Start a company preparation campaign
-dooma prep start Google
-
-# Test a solution
-dooma test active/two_sum/solution.py
+git clone https://github.com/im-anishraj/dooma.git
+cd dooma
+pip install -e .
 ```
 
-## Contributing
+### Usage
+Once installed, simply run the tool from anywhere in your terminal:
+```bash
+dooma
+```
+1. You will be greeted by an alphabet menu. Type the first letter of your target company (e.g., `A` for Amazon).
+2. Select your company from the beautifully paginated list.
+3. Browse the questions, take note of the difficulties and frequencies, and click the URLs to practice!
+4. Type `0` at any time to safely step back through the menus.
 
-We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to get started, our architectural guidelines, and the pull request process.
+## 🤝 Contributing
+
+We welcome contributions to make Dooma even better! Whether you want to update the dataset, add new features, or improve the UI, we'd love your help.
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to get started and the pull request process.
 
 Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 
-## License
+## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

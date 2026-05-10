@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "dooma"
 version = "0.1.0"
-description = "A professional, open-source Python library and CLI for DSA practice."
+description = "A blazing-fast, interactive terminal explorer for 17,000+ company-wise DSA interview questions."
 readme = "README.md"
 requires-python = ">=3.9"
 license = { text = "MIT" }
