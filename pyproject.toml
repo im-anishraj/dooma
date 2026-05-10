@@ -28,3 +28,6 @@ dev = [
 
 [project.scripts]
 dooma = "dooma.cli.main:app"
+
+[tool.setuptools.package-data]
+dooma = ["dataset/*.json", "dataset/problems/*.json"]

@@ -2,7 +2,6 @@ from pathlib import Path
 from typer.testing import CliRunner
 from dooma.cli.main import app
 from dooma.db.manager import DatabaseManager
-from dooma.registry.parser import RegistrySync
 
 
 runner = CliRunner()
@@ -13,10 +12,6 @@ def test_prep_campaign(tmp_path: Path, monkeypatch):
     
     # Init workspace
     result = runner.invoke(app, ["init"])
-    assert result.exit_code == 0
-    
-    # Sync registry
-    result = runner.invoke(app, ["sync"])
     assert result.exit_code == 0
     
     # Start campaign
