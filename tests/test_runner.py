@@ -18,12 +18,14 @@ def two_sum(nums, target):
             return [seen[diff], i]
         seen[num] = i
     return []
-"""
+""",
+        encoding="utf-8"
     )
 
     # Create .tests.json
     (problem_dir / ".tests.json").write_text(
-        json.dumps([{"input": {"nums": [2, 7, 11, 15], "target": 9}, "expected": [0, 1]}])
+        json.dumps([{"input": {"nums": [2, 7, 11, 15], "target": 9}, "expected": [0, 1]}]),
+        encoding="utf-8"
     )
 
     success, msg = TestRunner.run_tests(problem_dir)
@@ -39,11 +41,13 @@ def test_runner_failure(tmp_path: Path):
         """
 def two_sum(nums, target):
     return [0, 0] # Wrong
-"""
+""",
+        encoding="utf-8",
     )
 
     (problem_dir / ".tests.json").write_text(
-        json.dumps([{"input": {"nums": [2, 7, 11, 15], "target": 9}, "expected": [0, 1]}])
+        json.dumps([{"input": {"nums": [2, 7, 11, 15], "target": 9}, "expected": [0, 1]}]),
+        encoding="utf-8"
     )
 
     success, msg = TestRunner.run_tests(problem_dir)
