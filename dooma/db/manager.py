@@ -36,6 +36,14 @@ class DatabaseManager:
         conn = self.connect()
         cursor = conn.cursor()
 
+        # Schema Version Tracking
+        cursor.execute(
+            "CREATE TABLE IF NOT EXISTS meta (key TEXT PRIMARY KEY, value TEXT)"
+        )
+        cursor.execute(
+            "INSERT OR IGNORE INTO meta (key, value) VALUES ('schema_version', '1')"
+        )
+
         # Table: Problems (Metadata downloaded from registry)
         cursor.execute(
             """

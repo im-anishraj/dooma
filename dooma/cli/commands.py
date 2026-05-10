@@ -1,12 +1,13 @@
 import typer
 import shutil
 import time
+import json
 from pathlib import Path
 from rich.console import Console
 from dooma.core.workspace import WorkspaceManager
-from dooma.registry.parser import RegistrySync, ProblemPuller
 from dooma.db.manager import DatabaseManager
 from dooma.runner.executor import TestRunner
+from dooma.dataset.loader import DatasetLoader
 
 console = Console()
 
@@ -25,23 +26,7 @@ def init_workspace():
     console.print(
         "Directories created: [bold cyan]active/[/bold cyan], [bold cyan]solved/[/bold cyan], [bold cyan]archive/[/bold cyan]"
     )
-    console.print("Run [bold]dooma sync[/bold] to pull questions.")
-
-def sync_registry():
-    """Syncs the latest problems from the open-source registry."""
-    cwd = Path.cwd()
-    dooma_dir = cwd / ".dooma"
-    if not dooma_dir.exists():
-        console.print("[red]Workspace not initialized. Run `dooma init` first.[/red]")
-        raise typer.Exit(1)
-        
-    db_path = dooma_dir / "state.db"
-    db = DatabaseManager(db_path)
-    
-    with console.status("[bold green]Syncing problem registry...[/bold green]"):
-        RegistrySync.sync_to_db(db)
-        
-    console.print("[green]Registry synced successfully![/green]")
+    console.print("Run [bold]dooma pull <id>[/bold] or [bold]dooma prep start[/bold] to begin.")
 
 def pull_problem(problem_id: str):
     """Pulls a problem by its ID and sets it up in the active directory."""
@@ -53,11 +38,19 @@ def pull_problem(problem_id: str):
         console.print("[red]Workspace not initialized. Run `dooma init` first.[/red]")
         raise typer.Exit(1)
         
-    success = ProblemPuller.pull(problem_id, dooma_dir, active_dir)
-    if not success:
-        console.print(f"[red]Problem '{problem_id}' not found in local registry. Did you run `dooma sync`?[/red]")
+    try:
+        problem_data = DatasetLoader.fetch_problem(problem_id)
+    except FileNotFoundError:
+        console.print(f"[red]Problem '{problem_id}' not found in packaged dataset.[/red]")
         raise typer.Exit(1)
         
+    target_dir = active_dir / problem_id
+    target_dir.mkdir(parents=True, exist_ok=True)
+    
+    (target_dir / "problem.md").write_text(f"# {problem_data.get('title', problem_id)}\n\n{problem_data.get('description', '')}")
+    (target_dir / "solution.py").write_text(problem_data.get('stub', ''))
+    (target_dir / ".tests.json").write_text(json.dumps(problem_data.get('tests', []), indent=2))
+    
     console.print(f"[green]Successfully pulled '{problem_id}' into active/{problem_id}[/green]")
     console.print("Happy coding!")
 
@@ -179,11 +172,19 @@ def prep_next():
     problem_id = problem_row["id"]
     console.print(f"[yellow]Pulling next problem for {company}: {problem_row['title']}[/yellow]")
     
-    # Call the existing pull command logic
-    success = ProblemPuller.pull(problem_id, dooma_dir, cwd / "active")
-    if not success:
-        console.print(f"[red]Failed to scaffold problem {problem_id}.[/red]")
+    # Call the existing pull command logic directly instead of invoking ProblemPuller
+    try:
+        problem_data = DatasetLoader.fetch_problem(problem_id)
+    except FileNotFoundError:
+        console.print(f"[red]Problem '{problem_id}' not found in packaged dataset.[/red]")
         raise typer.Exit(1)
+        
+    target_dir = cwd / "active" / problem_id
+    target_dir.mkdir(parents=True, exist_ok=True)
+    
+    (target_dir / "problem.md").write_text(f"# {problem_data.get('title', problem_id)}\n\n{problem_data.get('description', '')}")
+    (target_dir / "solution.py").write_text(problem_data.get('stub', ''))
+    (target_dir / ".tests.json").write_text(json.dumps(problem_data.get('tests', []), indent=2))
         
     console.print(f"[bold green]Successfully pulled '{problem_id}' into active/[/bold green]")
 
