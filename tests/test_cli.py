@@ -1,4 +1,5 @@
 from typer.testing import CliRunner
+
 from dooma.cli.main import app
 
 runner = CliRunner(charset="utf-8")

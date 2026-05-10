@@ -31,3 +31,21 @@ dooma = "dooma.cli.main:app"
 
 [tool.setuptools.package-data]
 dooma = ["dataset/*.json", "dataset/problems/*.json"]
+
+[tool.black]
+line-length = 88
+target-version = ['py39']
+include = '\.pyi?$'
+
+[tool.ruff]
+line-length = 88
+target-version = "py39"
+
+[tool.ruff.lint]
+select = ["E", "F", "I"]
+ignore = ["E501"] # Ignore line length for CLI string panels and DB queries
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = "test_*.py"
+addopts = "--cov=dooma --cov-report=term-missing"

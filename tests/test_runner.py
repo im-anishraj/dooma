@@ -1,5 +1,6 @@
-from pathlib import Path
 import json
+from pathlib import Path
+
 from dooma.runner.executor import TestRunner
 
 
@@ -19,13 +20,15 @@ def two_sum(nums, target):
         seen[num] = i
     return []
 """,
-        encoding="utf-8"
+        encoding="utf-8",
     )
 
     # Create .tests.json
     (problem_dir / ".tests.json").write_text(
-        json.dumps([{"input": {"nums": [2, 7, 11, 15], "target": 9}, "expected": [0, 1]}]),
-        encoding="utf-8"
+        json.dumps(
+            [{"input": {"nums": [2, 7, 11, 15], "target": 9}, "expected": [0, 1]}]
+        ),
+        encoding="utf-8",
     )
 
     success, msg = TestRunner.run_tests(problem_dir)
@@ -46,8 +49,10 @@ def two_sum(nums, target):
     )
 
     (problem_dir / ".tests.json").write_text(
-        json.dumps([{"input": {"nums": [2, 7, 11, 15], "target": 9}, "expected": [0, 1]}]),
-        encoding="utf-8"
+        json.dumps(
+            [{"input": {"nums": [2, 7, 11, 15], "target": 9}, "expected": [0, 1]}]
+        ),
+        encoding="utf-8",
     )
 
     success, msg = TestRunner.run_tests(problem_dir)

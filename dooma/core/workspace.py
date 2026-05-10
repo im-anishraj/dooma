@@ -1,7 +1,8 @@
-from pathlib import Path
 import json
-from dooma.db.manager import DatabaseManager
+from pathlib import Path
+
 from dooma.dataset.loader import DatasetLoader
+from dooma.db.manager import DatabaseManager
 
 
 class WorkspaceManager:
@@ -26,22 +27,25 @@ class WorkspaceManager:
         db_path = self.dooma_dir / "state.db"
         db = DatabaseManager(db_path)
         db.initialize_schema()
-        
+
         # Instantly load the packaged dataset catalog
         catalog = DatasetLoader.fetch_catalog()
         conn = db.connect()
         cursor = conn.cursor()
         for problem in catalog:
-            cursor.execute("""
+            cursor.execute(
+                """
                 INSERT OR REPLACE INTO problems (id, title, difficulty, topics, companies)
                 VALUES (?, ?, ?, ?, ?)
-            """, (
-                problem["id"],
-                problem["title"],
-                problem["difficulty"],
-                json.dumps(problem["topics"]),
-                json.dumps(problem.get("companies", {}))
-            ))
+            """,
+                (
+                    problem["id"],
+                    problem["title"],
+                    problem["difficulty"],
+                    json.dumps(problem["topics"]),
+                    json.dumps(problem.get("companies", {})),
+                ),
+            )
         conn.commit()
         db.close()
 
