@@ -16,6 +16,8 @@ def callback():
 
 # Register commands
 app.command(name="init")(commands.init_workspace)
+app.command(name="sync")(commands.sync_registry)
+app.command(name="pull")(commands.pull_problem)
 
 if __name__ == "__main__":
     app()
