@@ -115,3 +115,75 @@ def test_problem(problem_path: str):
         db.close()
         
         console.print("[bold green]Progress saved! 🎉[/bold green]")
+
+def prep_start(company: str):
+    """Starts a new preparation campaign for a specific company."""
+    cwd = Path.cwd()
+    dooma_dir = cwd / ".dooma"
+    if not dooma_dir.exists():
+        console.print("[red]Workspace not initialized.[/red]")
+        raise typer.Exit(1)
+        
+    db_path = dooma_dir / "state.db"
+    db = DatabaseManager(db_path)
+    conn = db.connect()
+    cursor = conn.cursor()
+    
+    # Create campaign
+    cursor.execute("INSERT INTO campaigns (target_company) VALUES (?)", (company,))
+    conn.commit()
+    db.close()
+    
+    console.print(f"[bold green]Started preparation campaign for {company}![/bold green]")
+    console.print(f"Run [bold cyan]dooma prep next[/bold cyan] to pull your first problem.")
+
+def prep_next():
+    """Pulls the next unsolved problem for the active campaign."""
+    cwd = Path.cwd()
+    dooma_dir = cwd / ".dooma"
+    if not dooma_dir.exists():
+        console.print("[red]Workspace not initialized.[/red]")
+        raise typer.Exit(1)
+        
+    db_path = dooma_dir / "state.db"
+    db = DatabaseManager(db_path)
+    conn = db.connect()
+    cursor = conn.cursor()
+    
+    # Get latest campaign
+    cursor.execute("SELECT target_company FROM campaigns ORDER BY created_at DESC LIMIT 1")
+    row = cursor.fetchone()
+    if not row:
+        console.print("[red]No active campaign found. Run `dooma prep start <company>`.[/red]")
+        raise typer.Exit(1)
+        
+    company = row["target_company"]
+    
+    # Find next unsolved problem for this company
+    search_str = f'%"{company}"%'
+    
+    cursor.execute("""
+        SELECT id, title FROM problems 
+        WHERE companies LIKE ?
+        AND id NOT IN (SELECT problem_id FROM progress WHERE status='solved')
+        LIMIT 1
+    """, (search_str,))
+    problem_row = cursor.fetchone()
+    
+    db.close()
+    
+    if not problem_row:
+        console.print(f"[bold green]Congratulations! You have solved all available {company} problems.[/bold green]")
+        return
+        
+    problem_id = problem_row["id"]
+    console.print(f"[yellow]Pulling next problem for {company}: {problem_row['title']}[/yellow]")
+    
+    # Call the existing pull command logic
+    success = ProblemPuller.pull(problem_id, dooma_dir, cwd / "active")
+    if not success:
+        console.print(f"[red]Failed to scaffold problem {problem_id}.[/red]")
+        raise typer.Exit(1)
+        
+    console.print(f"[bold green]Successfully pulled '{problem_id}' into active/[/bold green]")
+
