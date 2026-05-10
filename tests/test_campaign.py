@@ -4,7 +4,7 @@ from dooma.cli.main import app
 from dooma.db.manager import DatabaseManager
 
 
-runner = CliRunner()
+runner = CliRunner(charset="utf-8")
 
 
 def test_prep_campaign(tmp_path: Path, monkeypatch):
@@ -22,7 +22,7 @@ def test_prep_campaign(tmp_path: Path, monkeypatch):
     # Pull next
     result = runner.invoke(app, ["prep", "next"])
     assert result.exit_code == 0
-    assert "Pulling next problem for Amazon" in result.stdout
+    assert "Successfully pulled Two Sum for Amazon" in result.stdout
     
     # Verify in DB
     db = DatabaseManager(tmp_path / ".dooma" / "state.db")

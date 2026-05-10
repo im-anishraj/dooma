@@ -1,7 +1,7 @@
 from typer.testing import CliRunner
 from dooma.cli.main import app
 
-runner = CliRunner()
+runner = CliRunner(charset="utf-8")
 
 
 def test_app_help():
@@ -16,5 +16,5 @@ def test_init_command_creates_workspace(tmp_path, monkeypatch):
 
     result = runner.invoke(app, ["init"])
     assert result.exit_code == 0
-    assert "Successfully initialized Dooma workspace" in result.stdout
+    assert "Workspace Initialized Successfully" in result.stdout
     assert (tmp_path / ".dooma").exists()

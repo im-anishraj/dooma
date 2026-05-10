@@ -4,6 +4,7 @@ import time
 import json
 from pathlib import Path
 from rich.console import Console
+from rich.panel import Panel
 from dooma.core.workspace import WorkspaceManager
 from dooma.db.manager import DatabaseManager
 from dooma.runner.executor import TestRunner
@@ -22,11 +23,31 @@ def init_workspace():
         return
 
     workspace.initialize()
-    console.print(f"[green]Successfully initialized Dooma workspace at {cwd}![/green]")
-    console.print(
-        "Directories created: [bold cyan]active/[/bold cyan], [bold cyan]solved/[/bold cyan], [bold cyan]archive/[/bold cyan]"
-    )
-    console.print("Run [bold]dooma pull <id>[/bold] or [bold]dooma prep start[/bold] to begin.")
+    console.print(Panel(
+        "[bold green]Workspace Initialized Successfully![/bold green]\n\n"
+        "Directories created:\n"
+        " 📁 [cyan]active/[/cyan]  - For currently unsolved problems\n"
+        " 📁 [cyan]solved/[/cyan]  - For your completed solutions\n"
+        " 📁 [cyan]archive/[/cyan] - For inactive problems\n\n"
+        "Run [bold yellow]dooma pull <id>[/bold yellow] or [bold yellow]dooma prep start <company>[/bold yellow] to begin.",
+        title="[bold]Dooma Workspace[/bold]",
+        border_style="cyan",
+        expand=False
+    ))
+
+def _format_problem_md(data: dict) -> str:
+    diff_color = {"Easy": "🟢", "Medium": "🟡", "Hard": "🔴"}.get(data.get("difficulty"), "⚪")
+    difficulty = data.get("difficulty", "Unknown")
+    topics = ", ".join(data.get("topics", []))
+    companies = ", ".join(data.get("companies", {}).keys())
+    
+    md = f"# {data.get('title', 'Problem')}\n\n"
+    md += f"**Difficulty:** {diff_color} {difficulty} | "
+    if topics: md += f"**Topics:** {topics} | "
+    if companies: md += f"**Companies:** {companies}"
+    md += "\n\n---\n\n"
+    md += data.get("description", "")
+    return md
 
 def pull_problem(problem_id: str):
     """Pulls a problem by its ID and sets it up in the active directory."""
@@ -47,12 +68,18 @@ def pull_problem(problem_id: str):
     target_dir = active_dir / problem_id
     target_dir.mkdir(parents=True, exist_ok=True)
     
-    (target_dir / "problem.md").write_text(f"# {problem_data.get('title', problem_id)}\n\n{problem_data.get('description', '')}")
-    (target_dir / "solution.py").write_text(problem_data.get('stub', ''))
-    (target_dir / ".tests.json").write_text(json.dumps(problem_data.get('tests', []), indent=2))
+    (target_dir / "problem.md").write_text(_format_problem_md(problem_data), encoding="utf-8")
+    (target_dir / "solution.py").write_text(problem_data.get('stub', ''), encoding="utf-8")
+    (target_dir / ".tests.json").write_text(json.dumps(problem_data.get('tests', []), indent=2), encoding="utf-8")
     
-    console.print(f"[green]Successfully pulled '{problem_id}' into active/{problem_id}[/green]")
-    console.print("Happy coding!")
+    console.print(Panel(
+        f"🚀 Successfully pulled [bold cyan]{problem_data.get('title', problem_id)}[/bold cyan]!\n\n"
+        f"📁 Directory: [green]active/{problem_id}[/green]\n"
+        f"🎯 Difficulty: {problem_data.get('difficulty', 'Unknown')}",
+        title="Problem Scaffolded",
+        border_style="green",
+        expand=False
+    ))
 
 def test_problem(problem_path: str):
     """Tests the solution in the specified directory."""
@@ -75,10 +102,10 @@ def test_problem(problem_path: str):
         end_time = time.time()
         
     if not success:
-        console.print(f"[red]❌ {message}[/red]")
+        console.print(Panel(f"[bold red]❌ {message}[/bold red]", title="Test Failed", border_style="red", expand=False))
         raise typer.Exit(1)
         
-    console.print(f"[green]✅ {message}[/green]")
+    console.print(Panel(f"[bold green]✅ {message}[/bold green]", title="Test Passed", border_style="green", expand=False))
     
     # Auto-updater logic
     # Move from active/ to solved/
@@ -87,7 +114,6 @@ def test_problem(problem_path: str):
         if solved_dir.exists():
             shutil.rmtree(solved_dir) # Overwrite if exists
         shutil.move(str(problem_dir), str(solved_dir))
-        console.print(f"[bold cyan]Moved '{problem_id}' to solved/[/bold cyan]")
         
         # Update SQLite DB
         db_path = dooma_dir / "state.db"
@@ -107,7 +133,14 @@ def test_problem(problem_path: str):
         conn.commit()
         db.close()
         
-        console.print("[bold green]Progress saved! 🎉[/bold green]")
+        console.print(Panel(
+            f"🎉 [bold cyan]{problem_id}[/bold cyan] is now solved!\n"
+            f"Moved to [green]solved/[/green]\n"
+            f"⏱ Time Taken: [yellow]{time_taken_ms}ms[/yellow]",
+            title="Progress Saved",
+            border_style="magenta",
+            expand=False
+        ))
 
 def prep_start(company: str):
     """Starts a new preparation campaign for a specific company."""
@@ -127,8 +160,13 @@ def prep_start(company: str):
     conn.commit()
     db.close()
     
-    console.print(f"[bold green]Started preparation campaign for {company}![/bold green]")
-    console.print(f"Run [bold cyan]dooma prep next[/bold cyan] to pull your first problem.")
+    console.print(Panel(
+        f"[bold green]Started preparation campaign for {company}![/bold green]\n\n"
+        f"Run [bold cyan]dooma prep next[/bold cyan] to pull your first problem.",
+        title="Campaign Mode",
+        border_style="blue",
+        expand=False
+    ))
 
 def prep_next():
     """Pulls the next unsolved problem for the active campaign."""
@@ -166,13 +204,16 @@ def prep_next():
     db.close()
     
     if not problem_row:
-        console.print(f"[bold green]Congratulations! You have solved all available {company} problems.[/bold green]")
+        console.print(Panel(
+            f"[bold green]Congratulations![/bold green] You have solved all available [bold cyan]{company}[/bold cyan] problems.",
+            title="Campaign Complete",
+            border_style="green",
+            expand=False
+        ))
         return
         
     problem_id = problem_row["id"]
-    console.print(f"[yellow]Pulling next problem for {company}: {problem_row['title']}[/yellow]")
     
-    # Call the existing pull command logic directly instead of invoking ProblemPuller
     try:
         problem_data = DatasetLoader.fetch_problem(problem_id)
     except FileNotFoundError:
@@ -182,9 +223,16 @@ def prep_next():
     target_dir = cwd / "active" / problem_id
     target_dir.mkdir(parents=True, exist_ok=True)
     
-    (target_dir / "problem.md").write_text(f"# {problem_data.get('title', problem_id)}\n\n{problem_data.get('description', '')}")
-    (target_dir / "solution.py").write_text(problem_data.get('stub', ''))
-    (target_dir / ".tests.json").write_text(json.dumps(problem_data.get('tests', []), indent=2))
+    (target_dir / "problem.md").write_text(_format_problem_md(problem_data), encoding="utf-8")
+    (target_dir / "solution.py").write_text(problem_data.get('stub', ''), encoding="utf-8")
+    (target_dir / ".tests.json").write_text(json.dumps(problem_data.get('tests', []), indent=2), encoding="utf-8")
         
-    console.print(f"[bold green]Successfully pulled '{problem_id}' into active/[/bold green]")
+    console.print(Panel(
+        f"🚀 Successfully pulled [bold cyan]{problem_data.get('title', problem_id)}[/bold cyan] for [bold yellow]{company}[/bold yellow]!\n\n"
+        f"📁 Directory: [green]active/{problem_id}[/green]\n"
+        f"🎯 Difficulty: {problem_data.get('difficulty', 'Unknown')}",
+        title="Next Campaign Problem",
+        border_style="blue",
+        expand=False
+    ))
 
