@@ -92,7 +92,8 @@ def show_company_list(letter, group_companies, data):
             console.print("[dim]- Enter 'p' for the previous page[/dim]")
         console.print("[dim]- Enter '0' to go one step back to the alphabet menu[/dim]")
         
-        choice = Prompt.ask("\nYour choice", default="0")
+        choice = Prompt.ask("\nYour choice", default="")
+        choice = choice.strip()
         
         if choice == "0":
             return
@@ -164,7 +165,8 @@ def show_company_questions(company_name, questions):
             console.print("[dim]- Enter 'p' for the previous page of questions[/dim]")
         console.print("[dim]- Enter '0' to go one step back to the company list[/dim]")
         
-        choice = Prompt.ask("\nYour choice", default="0")
+        choice = Prompt.ask("\nYour choice", default="")
+        choice = choice.strip()
         
         if choice == "0":
             return # Go back to company list
