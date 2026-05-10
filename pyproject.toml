@@ -12,11 +12,33 @@ license = { text = "MIT" }
 authors = [
     { name = "dooma-dev" }
 ]
+keywords = ["dsa", "interview", "leetcode", "terminal", "cli", "algorithms"]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Environment :: Console",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Education",
+    "Topic :: Software Development :: User Interfaces",
+]
+
 dependencies = [
     "typer>=0.9.0",
     "rich>=13.0.0",
     "pydantic>=2.0.0",
 ]
+
+[project.urls]
+Homepage = "https://github.com/im-anishraj/dooma"
+Repository = "https://github.com/im-anishraj/dooma.git"
+"Bug Tracker" = "https://github.com/im-anishraj/dooma/issues"
 
 [project.optional-dependencies]
 dev = [
@@ -27,6 +49,9 @@ dev = [
 
 [project.scripts]
 dooma = "dooma.cli.main:app"
+
+[tool.setuptools.packages.find]
+include = ["dooma*"]
 
 [tool.setuptools.package-data]
 dooma = ["dataset/*.json"]
