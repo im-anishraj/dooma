@@ -1,157 +1,51 @@
-<div align="center">
+# Dooma
 
-<br>
+![Dooma Logo](https://img.shields.io/badge/Dooma-DSA_Forge-blue?style=for-the-badge)
+[![Python Version](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![CI Build](https://img.shields.io/github/actions/workflow/status/im-anishraj/dooma/ci.yml?branch=main)](https://github.com/im-anishraj/dooma/actions)
 
-<h1>⚡ Dooma</h1>
+**Dooma** is your ultimate, blazing-fast Data Structures and Algorithms (DSA) preparation companion. Built entirely for the terminal, it serves as a lightweight, interactive explorer for over **17,900+ real interview questions** from **660+ top tech companies**.
 
-**An offline-first, terminal-based Data Structures & Algorithms (DSA) practice ecosystem.**
+No more scrolling through clunky websites or losing track of which questions Amazon or Google actually ask. Dooma brings the entire dataset straight into your console with a beautiful, responsive UI.
 
-<br>
+## 🚀 Features
 
-Instead of a messy folder of random `.py` or `.cpp` files, Dooma creates a **structured, local-first workspace**. It acts as a hybrid between a package manager (pulling questions), a test runner (verifying solutions), and a progress tracker (monitoring stats and company-wise readiness).
+- **Massive Database**: Access a curated, offline-first dataset of 17,931 question mappings across 662 companies.
+- **Interactive Terminal UI**: Built with `Rich` and `Typer`, Dooma offers a stunning, paginated, and easy-to-navigate interface.
+- **Alphabetical Explorer**: Quickly jump to your target company (e.g., press `G` for Google) and view all associated questions.
+- **Data Rich**: Instantly see Question Titles, Difficulty Ratings (color-coded), Frequency/Acceptance percentages, and direct LeetCode URLs.
+- **Zero Overhead**: No accounts, no internet required to browse the database, no tracking. Just pure preparation.
 
-<br>
+## 📦 Quickstart
 
-<a href="https://pypi.org/project/dooma/"><img src="https://img.shields.io/pypi/v/dooma?style=flat-square&logo=pypi&logoColor=white&labelColor=0d1117&color=3572A5" alt="PyPI"></a>&nbsp;
-<a href="https://pypi.org/project/dooma/"><img src="https://img.shields.io/pypi/pyversions/dooma?style=flat-square&logo=python&logoColor=white&labelColor=0d1117&color=3572A5" alt="Python"></a>&nbsp;
-<a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square&labelColor=0d1117" alt="MIT"></a>&nbsp;
-<a href="https://gssoc.girlscript.tech/"><img src="https://img.shields.io/badge/GSSoC-2026-ff6b35?style=flat-square&labelColor=0d1117" alt="GSSoC 2026"></a>
+Dooma is incredibly easy to set up and use. 
 
-<br><br>
-
+### Installation
+Clone the repository and install it locally using `pip`:
 ```bash
-pip install dooma
+git clone https://github.com/im-anishraj/dooma.git
+cd dooma
+pip install -e .
 ```
 
-<br>
-
-<a href="#-quickstart">Quickstart</a>&ensp;·&ensp;<a href="#-core-features">Features</a>&ensp;·&ensp;<a href="#%EF%B8%8F-how-it-works">Architecture</a>&ensp;·&ensp;<a href="#-contributing">Contribute</a>
-
-</div>
-
-<br>
-
----
-
-<br>
-
-## 🚀 Quickstart
-
-Initialize your journey and start tracking your DSA progress entirely from the terminal.
-
+### Usage
+Once installed, simply run the tool from anywhere in your terminal:
 ```bash
-# 1. Initialize a new local workspace
-mkdir my-dsa-journey && cd my-dsa-journey
-dooma init
-
-# 2. Start a targeted company campaign
-dooma prep start Google
-
-# 3. Pull a problem and write your solution
-# (Dooma fetches the boilerplate and metadata automatically)
-
-# 4. Test your solution locally
-dooma test active/two_sum/solution.py
+dooma
 ```
-
-<br>
-
----
-
-<br>
-
-## 🎯 Core Features
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💻 CLI-First Experience</h3>
-      <p>Native, fast, and terminal-friendly operations built with <a href="https://github.com/Textualize/rich">Rich</a>. Experience premium UI directly in your console with color-coded test runners and progress bars.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📡 Offline-First</h3>
-      <p>No internet required after initial setup. All your progress, attempts, and metadata are stored locally in a high-performance SQLite database.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏢 Company Campaigns</h3>
-      <p>Prepare for specific companies (e.g., Google, Amazon). Dooma curates questions and uses smart algorithms to track your readiness for technical interviews.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 Automated Workflows</h3>
-      <p>Write your solution and let Dooma handle the rest. It automatically runs tests and moves verified solutions to a structured <code>solved/</code> archive.</p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
----
-
-<br>
-
-## 🏗️ How It Works (Under the Hood)
-
-Dooma isn't just a script; it's a metadata-first ecosystem. 
-
-When you run `dooma init`, it scaffolds a structured directory and spins up a local **SQLite** database (`.dooma/metadata.db`). 
-
-```text
-my-dsa-journey/
-├── .dooma/               # Internal state & SQLite DB
-├── active/               # Problems you are currently working on
-│   └── two_sum/
-│       ├── solution.py   # Your code
-│       └── tests.py      # Auto-generated tests
-└── solved/               # Successfully passed algorithms
-```
-
-Every test run, success, or failure is logged. This allows Dooma to generate analytics on your success rate, weak data structures, and campaign progress without ever sending your data to a remote server.
-
-<br>
-
----
-
-<br>
+1. You will be greeted by an alphabet menu. Type the first letter of your target company (e.g., `A` for Amazon).
+2. Select your company from the beautifully paginated list.
+3. Browse the questions, take note of the difficulties and frequencies, and click the URLs to practice!
+4. Type `0` at any time to safely step back through the menus.
 
 ## 🤝 Contributing
 
-Dooma is participating in **[GSSoC 2026](https://gssoc.girlscript.tech/)**! We are actively looking for contributors to add more data structures, testing algorithms, and UI improvements.
+We welcome contributions to make Dooma even better! Whether you want to update the dataset, add new features, or improve the UI, we'd love your help.
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to get started and the pull request process.
 
-### Getting Started
+Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 
-```bash
-# Clone the repository
-git clone https://github.com/im-anishraj/dooma.git
-cd dooma
+## 📜 License
 
-# Install in development mode
-pip install -e ".[dev]"
-```
-
-Please review our [CONTRIBUTING.md](CONTRIBUTING.md) for architectural guidelines and the pull request process. We enforce a strict [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a welcoming environment for all developers.
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-<br>
-
-**Master algorithms, not file management.**
-
-<br>
-
-<a href="https://pypi.org/project/dooma/"><img src="https://img.shields.io/pypi/dm/dooma?style=flat-square&logo=pypi&logoColor=white&labelColor=0d1117&color=3572A5&label=installs" alt="Downloads"></a>&ensp;
-<a href="https://github.com/im-anishraj/dooma/stargazers"><img src="https://img.shields.io/github/stars/im-anishraj/dooma?style=flat-square&logo=github&labelColor=0d1117&color=e3b341&label=stars" alt="Stars"></a>&ensp;
-<a href="https://github.com/im-anishraj/dooma/network/members"><img src="https://img.shields.io/github/forks/im-anishraj/dooma?style=flat-square&logo=github&labelColor=0d1117&color=8b949e&label=forks" alt="Forks"></a>
-
-<br>
-
-<sub>Built with Python · Licensed under MIT · Maintained by <a href="https://github.com/im-anishraj">@im-anishraj</a></sub>
-
-</div>
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

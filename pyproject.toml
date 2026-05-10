@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "dooma"
 version = "0.1.0"
-description = "A professional, open-source Python library and CLI for DSA practice."
+description = "A blazing-fast, interactive terminal explorer for 17,000+ company-wise DSA interview questions."
 readme = "README.md"
 requires-python = ">=3.9"
 license = { text = "MIT" }
@@ -20,8 +20,6 @@ dependencies = [
 
 [project.optional-dependencies]
 dev = [
-    "pytest>=7.0.0",
-    "pytest-cov>=4.0.0",
     "black>=23.0.0",
     "ruff>=0.1.0",
     "mypy>=1.0.0",
@@ -46,7 +44,3 @@ target-version = "py39"
 select = ["E", "F", "I"]
 ignore = ["E501"] # Ignore line length for CLI string panels and DB queries
 
-[tool.pytest.ini_options]
-testpaths = ["tests"]
-python_files = "test_*.py"
-addopts = "--cov=dooma --cov-report=term-missing"
