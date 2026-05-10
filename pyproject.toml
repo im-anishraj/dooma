@@ -31,7 +31,7 @@ dev = [
 dooma = "dooma.cli.main:app"
 
 [tool.setuptools.package-data]
-dooma = ["dataset/*.json", "dataset/problems/*.json"]
+dooma = ["dataset/*.json"]
 
 [tool.black]
 line-length = 88
