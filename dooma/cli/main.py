@@ -178,12 +178,12 @@ def show_company_questions(company_name, questions):
         console.print(table)
         
         console.print("\n[dim #FAD7A1]Options:[/dim #FAD7A1]")
-        console.print("[dim #FAD7A1]- Enter the question number to open it in your browser[/dim #FAD7A1]")
         if end_idx < len(questions):
             console.print("[dim #FAD7A1]- Enter 'n' for the next page of questions[/dim #FAD7A1]")
         if page > 0:
             console.print("[dim #FAD7A1]- Enter 'p' for the previous page of questions[/dim #FAD7A1]")
         console.print("[dim #FAD7A1]- Enter '0' to go one step back to the company list[/dim #FAD7A1]")
+        console.print("[dim #FAD7A1]- Enter the question number (e.g., '1') to open it in your browser[/dim #FAD7A1]")
         
         choice = Prompt.ask("\nYour choice", default="")
         choice = choice.strip()
@@ -197,13 +197,11 @@ def show_company_questions(company_name, questions):
         elif choice.isdigit():
             idx = int(choice) - 1
             if 0 <= idx < len(questions):
-                import webbrowser
-                import time
                 url = questions[idx].get("url")
                 if url and url != "N/A":
-                    console.print(f"[bold green]Opening {url} in your default browser...[/bold green]")
+                    import webbrowser
+                    console.print(f"[bold #F7CA18]Opening... {url}[/bold #F7CA18]")
                     webbrowser.open(url)
-                    time.sleep(1)
                 else:
                     console.print("[bold #E74C3C]No URL available for this question.[/bold #E74C3C]")
                     Prompt.ask("[dim #FAD7A1]Press Enter to continue...[/dim #FAD7A1]")
