@@ -15,29 +15,44 @@ We follow a strict GitFlow-inspired branching strategy:
 
 ## 2. Development Setup
 
-1. Fork and clone the repository.
+1. Fork and clone the repository:
+   ```bash
+   git clone https://github.com/<your-username>/dooma.git
+   cd dooma
+   ```
 2. Checkout the develop branch: `git checkout develop`
 3. Create your feature branch: `git checkout -b feature/your-feature-name`
-4. Install dependencies: `pip install -e ".[dev]"`
-5. Run tests: `pytest`
+4. Install the package locally:
+   ```bash
+   pip install -e .
+   ```
+5. Install development tools when you plan to run formatting and static checks:
+   ```bash
+   pip install -e ".[dev]"
+   ```
+6. Run the CLI locally:
+   ```bash
+   dooma
+   ```
 
 ## 3. Code Style
 
 We enforce standard Python formatting:
 - Use `black` for code formatting.
-- Use `flake8` for linting.
+- Use `ruff` for linting.
 - Use type hints wherever possible, validated by `mypy`.
 
 Before submitting a PR, ensure you have run:
 ```bash
 black .
-flake8 .
+ruff check .
 mypy dooma
 ```
 
 ## 4. Pull Request Process
 
-1. Ensure your code passes all tests and styling checks.
-2. Update the README.md or relevant documentation if you are adding new commands or features.
-3. Open a Pull Request using the provided PR template.
-4. Wait for a maintainer to review and approve your changes.
+1. Keep each PR focused on one bug, feature, or documentation improvement.
+2. Ensure your code passes the relevant checks before pushing.
+3. Update `README.md`, dataset docs, or CLI docs when your change affects user-facing behavior.
+4. Use the provided PR template and link the related issue with `Fixes #<issue-number>` when applicable.
+5. Respond to maintainer feedback with a follow-up commit instead of opening a duplicate PR.
