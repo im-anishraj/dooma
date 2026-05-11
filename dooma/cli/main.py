@@ -15,7 +15,14 @@ console = Console()
 def load_data():
     dataset_path = Path(__file__).parent.parent / "dataset" / "companies.json"
     if not dataset_path.exists():
-        console.print(f"[red]Dataset not found at {dataset_path}![/red]")
+        panel = Panel(
+            f"[bold #E74C3C]Dataset Not Found![/bold #E74C3C]\n\n"
+            f"The dataset file is missing at:\n[bold]{dataset_path}[/bold]\n\n"
+            f"[#F7CA18]To fix this:[/#F7CA18]\n"
+            f"1. Run [bold]python scripts/build_dataset.py[/bold] to download the dataset\n"
+            f"2. Or manually place a [bold]companies.json[/bold] file in the dataset folder"
+        )
+        console.print(panel)
         raise typer.Exit(1)
     with open(dataset_path, "r", encoding="utf-8") as f:
         return json.load(f)
@@ -25,68 +32,72 @@ def interactive_loop(ctx: typer.Context):
     if ctx.invoked_subcommand is not None:
         return
     
-    data = load_data()
-    companies = sorted(list(data.keys()))
-    
-    # Group companies by first letter
-    groups = {}
-    for company in companies:
-        first_char = company[0].upper()
-        if not first_char.isalpha():
-            first_char = '#'
+    try:
+        data = load_data()
+        companies = sorted(list(data.keys()))
+        
+        # Group companies by first letter
+        groups = {}
+        for company in companies:
+            first_char = company[0].upper()
+            if not first_char.isalpha():
+                first_char = '#'
+                
+            if first_char not in groups:
+                groups[first_char] = []
+            groups[first_char].append(company)
             
-        if first_char not in groups:
-            groups[first_char] = []
-        groups[first_char].append(company)
+        sorted_letters = sorted(list(groups.keys()))
         
-    sorted_letters = sorted(list(groups.keys()))
-    
-    while True:
-        console.clear()
-        
-        logo = Text.from_markup(
-            "[#F39C12]██████████████[/]\n"
-            "[#F39C12]██[/][#E74C3C]████████████[/][#F7CA18]▄▄[/]\n"
-            "[#F39C12]██[/][#E74C3C]██[/]        [#F7CA18]██[/]\n"
-            "[#F39C12]██[/][#E74C3C]██[/]        [#F7CA18]██[/]\n"
-            "[#F39C12]██[/][#E74C3C]██[/]        [#F7CA18]██[/]\n"
-            "[#F39C12]██[/][#E74C3C]██[/]        [#F7CA18]██[/]\n"
-            "[#F39C12]██[/][#E74C3C]████████████[/][#F7CA18]▀▀[/]\n"
-            "[#F39C12]██████████████[/]"
-        )
-        welcome_panel = Panel("[bold #F39C12]Welcome to Dooma - Your Ultimate DSA Preparation Companion[/bold #F39C12]")
-        
-        grid = Table.grid(padding=(0, 2))
-        grid.add_column(justify="center", vertical="middle")
-        grid.add_column(justify="left", vertical="middle")
-        grid.add_row(logo, welcome_panel)
-        
-        console.print(grid)
-        console.print("\n[bold #E74C3C]--- Step 1: Select the First Letter of the Company You Want to Prepare For ---[/bold #E74C3C]\n")
-        
-        # Display letters nicely
-        letter_display = []
-        for letter in sorted_letters:
-            count = len(groups[letter])
-            letter_display.append(f"[bold #F7CA18]{letter}[/bold #F7CA18] [dim #FAD7A1]({count})[/dim #FAD7A1]")
+        while True:
+            console.clear()
             
-        console.print(Columns(letter_display, expand=True, equal=True))
-        
-        console.print("\n[dim #FAD7A1]Options:[/dim #FAD7A1]")
-        console.print("[dim #FAD7A1]- Type a letter to explore companies (e.g., 'A', 'G', '#')[/dim #FAD7A1]")
-        console.print("[dim #FAD7A1]- Enter '0' to safely exit the application[/dim #FAD7A1]")
-        
-        choice = Prompt.ask("\nYour choice", default="")
-        choice = choice.upper().strip()
-        
-        if choice == "0":
-            console.print("[bold #F39C12]Goodbye![/bold #F39C12]")
-            raise typer.Exit()
-        elif choice in groups:
-            show_company_list(choice, groups[choice], data)
-        else:
-            console.print("[bold #E74C3C]Invalid letter. Please select a letter from the list above.[/bold #E74C3C]")
-            Prompt.ask("[dim #FAD7A1]Press Enter to continue...[/dim #FAD7A1]")
+            logo = Text.from_markup(
+                "[#F39C12]██████████████[/]\n"
+                "[#F39C12]██[/][#E74C3C]████████████[/][#F7CA18]▄▄[/]\n"
+                "[#F39C12]██[/][#E74C3C]██[/]        [#F7CA18]██[/]\n"
+                "[#F39C12]██[/][#E74C3C]██[/]        [#F7CA18]██[/]\n"
+                "[#F39C12]██[/][#E74C3C]██[/]        [#F7CA18]██[/]\n"
+                "[#F39C12]██[/][#E74C3C]██[/]        [#F7CA18]██[/]\n"
+                "[#F39C12]██[/][#E74C3C]████████████[/][#F7CA18]▀▀[/]\n"
+                "[#F39C12]██████████████[/]"
+            )
+            welcome_panel = Panel("[bold #F39C12]Welcome to Dooma - Your Ultimate DSA Preparation Companion[/bold #F39C12]")
+            
+            grid = Table.grid(padding=(0, 2))
+            grid.add_column(justify="center", vertical="middle")
+            grid.add_column(justify="left", vertical="middle")
+            grid.add_row(logo, welcome_panel)
+            
+            console.print(grid)
+            console.print("\n[bold #E74C3C]--- Step 1: Select the First Letter of the Company You Want to Prepare For ---[/bold #E74C3C]\n")
+            
+            # Display letters nicely
+            letter_display = []
+            for letter in sorted_letters:
+                count = len(groups[letter])
+                letter_display.append(f"[bold #F7CA18]{letter}[/bold #F7CA18] [dim #FAD7A1]({count})[/dim #FAD7A1]")
+                
+            console.print(Columns(letter_display, expand=True, equal=True))
+            
+            console.print("\n[dim #FAD7A1]Options:[/dim #FAD7A1]")
+            console.print("[dim #FAD7A1]- Type a letter to explore companies (e.g., 'A', 'G', '#')[/dim #FAD7A1]")
+            console.print("[dim #FAD7A1]- Enter '0' to safely exit the application[/dim #FAD7A1]")
+            
+            choice = Prompt.ask("\nYour choice", default="")
+            choice = choice.upper().strip()
+            
+            if choice == "0":
+                console.print("[bold #F39C12]Goodbye![/bold #F39C12]")
+                raise typer.Exit()
+            elif choice in groups:
+                show_company_list(choice, groups[choice], data)
+            else:
+                console.print("[bold #E74C3C]Invalid letter. Please select a letter from the list above.[/bold #E74C3C]")
+                Prompt.ask("[dim #FAD7A1]Press Enter to continue...[/dim #FAD7A1]")
+    except KeyboardInterrupt:
+        console.print("\n[bold #F39C12]Goodbye! See you next time! 🚀[/bold #F39C12]")
+        raise typer.Exit(0)
 
 def show_company_list(letter, group_companies, data):
     page = 0
