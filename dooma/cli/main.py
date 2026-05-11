@@ -13,6 +13,14 @@ app = typer.Typer(add_completion=False)
 console = Console()
 
 def load_data():
+    """Load the bundled company-question dataset.
+
+    Returns:
+        dict: Mapping of company names to their interview question lists.
+
+    Raises:
+        typer.Exit: If the dataset file is missing.
+    """
     dataset_path = Path(__file__).parent.parent / "dataset" / "companies.json"
     if not dataset_path.exists():
         panel = Panel(
@@ -29,6 +37,15 @@ def load_data():
 
 @app.callback(invoke_without_command=True)
 def interactive_loop(ctx: typer.Context):
+    """Run the interactive company and question browser.
+
+    Args:
+        ctx: Typer invocation context used to skip the browser when a
+            subcommand is invoked.
+
+    Returns:
+        None
+    """
     if ctx.invoked_subcommand is not None:
         return
     
@@ -100,6 +117,16 @@ def interactive_loop(ctx: typer.Context):
         raise typer.Exit(0)
 
 def show_company_list(letter, group_companies, data):
+    """Display a paginated company list for a selected starting letter.
+
+    Args:
+        letter: Selected alphabet bucket shown in the page heading.
+        group_companies: Company names that belong to the selected bucket.
+        data: Full dataset mapping company names to question lists.
+
+    Returns:
+        None
+    """
     page = 0
     items_per_page = 30
     
@@ -144,6 +171,15 @@ def show_company_list(letter, group_companies, data):
             Prompt.ask("[dim #FAD7A1]Press Enter to continue...[/dim #FAD7A1]")
 
 def show_company_questions(company_name, questions):
+    """Display paginated interview questions for a company.
+
+    Args:
+        company_name: Name of the selected company.
+        questions: Question dictionaries associated with the selected company.
+
+    Returns:
+        None
+    """
     page = 0
     items_per_page = 15
     
