@@ -45,9 +45,9 @@ def interactive_loop(ctx: typer.Context):
         console.clear()
         
         logo = Text.from_markup(
-            "[#F7CA18]██[/#F7CA18] [white]██████[/white]\n"
-            "[white]██[/white]   [white]██[/white]\n"
-            "[white]██████[/white] [#F7CA18]██[/#F7CA18]"
+            "[#F7CA18]██[/#F7CA18]  [#F39C12]██[/#F39C12]  [#E74C3C]██[/#E74C3C]\n"
+            "[#E74C3C]██[/#E74C3C]  [#F7CA18]██[/#F7CA18]  [#F39C12]██[/#F39C12]\n"
+            "[#F39C12]██[/#F39C12]  [#E74C3C]██[/#E74C3C]  [#F7CA18]██[/#F7CA18]"
         )
         welcome_panel = Panel("[bold #F39C12]Welcome to Dooma - Your Ultimate DSA Preparation Companion[/bold #F39C12]")
         
