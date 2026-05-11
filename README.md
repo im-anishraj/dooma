@@ -1,9 +1,10 @@
 # Dooma
 
 ![Dooma Logo](https://img.shields.io/badge/Dooma-DSA_Forge-blue?style=for-the-badge)
+[![PyPI version](https://badge.fury.io/py/dooma.svg)](https://badge.fury.io/py/dooma)
+[![Downloads](https://pepy.tech/badge/dooma)](https://pepy.tech/project/dooma)
 [![Python Version](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![CI Build](https://img.shields.io/github/actions/workflow/status/im-anishraj/dooma/ci.yml?branch=main)](https://github.com/im-anishraj/dooma/actions)
 
 **Dooma** is your ultimate, blazing-fast Data Structures and Algorithms (DSA) preparation companion. Built entirely for the terminal, it serves as a lightweight, interactive explorer for over **17,900+ real interview questions** from **660+ top tech companies**.
 
