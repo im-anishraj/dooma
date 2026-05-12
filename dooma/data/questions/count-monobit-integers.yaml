@@ -1,0 +1,13 @@
+id: count-monobit-integers
+title: Count Monobit Integers
+url: https://leetcode.com/problems/count-monobit-integers
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  zoho:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

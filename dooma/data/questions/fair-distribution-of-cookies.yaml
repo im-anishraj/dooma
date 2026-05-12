@@ -1,0 +1,15 @@
+id: fair-distribution-of-cookies
+title: Fair Distribution of Cookies
+url: https://leetcode.com/problems/fair-distribution-of-cookies
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

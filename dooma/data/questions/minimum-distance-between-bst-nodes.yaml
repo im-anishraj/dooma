@@ -1,0 +1,19 @@
+id: minimum-distance-between-bst-nodes
+title: Minimum Distance Between BST Nodes
+url: https://leetcode.com/problems/minimum-distance-between-bst-nodes
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  wix:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

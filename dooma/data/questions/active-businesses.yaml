@@ -1,0 +1,13 @@
+id: active-businesses
+title: Active Businesses
+url: https://leetcode.com/problems/active-businesses
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  yelp:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

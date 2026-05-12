@@ -1,0 +1,19 @@
+id: keep-multiplying-found-values-by-two
+title: Keep Multiplying Found Values by Two
+url: https://leetcode.com/problems/keep-multiplying-found-values-by-two
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  goldman-sachs:
+    frequency: 50
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

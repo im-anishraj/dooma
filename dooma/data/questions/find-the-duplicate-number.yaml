@@ -1,0 +1,57 @@
+id: find-the-duplicate-number
+title: Find the Duplicate Number
+url: https://leetcode.com/problems/find-the-duplicate-number
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  amazon:
+    frequency: 50
+  anduril:
+    frequency: 50
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 50
+  cisco:
+    frequency: 37
+  citadel:
+    frequency: 75
+  de-shaw:
+    frequency: 37
+  dp-world:
+    frequency: 87
+  flipkart:
+    frequency: 37
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 50
+  ibm:
+    frequency: 37
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 50
+  niantic:
+    frequency: 87
+  nike:
+    frequency: 75
+  nvidia:
+    frequency: 62
+  oracle:
+    frequency: 37
+  salesforce:
+    frequency: 25
+  tcs:
+    frequency: 37
+  tiktok:
+    frequency: 37
+  zoho:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

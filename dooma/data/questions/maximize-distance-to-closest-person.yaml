@@ -1,0 +1,27 @@
+id: maximize-distance-to-closest-person
+title: Maximize Distance to Closest Person
+url: https://leetcode.com/problems/maximize-distance-to-closest-person
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  apple:
+    frequency: 25
+  google:
+    frequency: 25
+  roblox:
+    frequency: 87
+  samsung:
+    frequency: 75
+  snowflake:
+    frequency: 62
+  vk:
+    frequency: 100
+  yandex:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

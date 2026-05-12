@@ -1,0 +1,13 @@
+id: alphabet-board-path
+title: Alphabet Board Path
+url: https://leetcode.com/problems/alphabet-board-path
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

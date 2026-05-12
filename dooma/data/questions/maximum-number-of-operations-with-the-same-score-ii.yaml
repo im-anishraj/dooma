@@ -1,0 +1,15 @@
+id: maximum-number-of-operations-with-the-same-score-ii
+title: Maximum Number of Operations With the Same Score II
+url: https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-ii
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  apple:
+    frequency: 25
+  microsoft:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: sum-game
+title: Sum Game
+url: https://leetcode.com/problems/sum-game
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  de-shaw:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

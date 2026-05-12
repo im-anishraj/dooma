@@ -1,0 +1,17 @@
+id: chalkboard-xor-game
+title: Chalkboard XOR Game
+url: https://leetcode.com/problems/chalkboard-xor-game
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  garena:
+    frequency: 100
+  google:
+    frequency: 12
+  hashedin:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

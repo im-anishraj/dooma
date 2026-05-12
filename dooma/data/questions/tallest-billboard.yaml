@@ -1,0 +1,19 @@
+id: tallest-billboard
+title: Tallest Billboard
+url: https://leetcode.com/problems/tallest-billboard
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  tcs:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

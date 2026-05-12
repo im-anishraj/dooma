@@ -1,0 +1,15 @@
+id: finding-mk-average
+title: Finding MK Average
+url: https://leetcode.com/problems/finding-mk-average
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

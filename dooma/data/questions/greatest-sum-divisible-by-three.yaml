@@ -1,0 +1,23 @@
+id: greatest-sum-divisible-by-three
+title: Greatest Sum Divisible by Three
+url: https://leetcode.com/problems/greatest-sum-divisible-by-three
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  de-shaw:
+    frequency: 75
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

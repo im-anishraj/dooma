@@ -1,0 +1,17 @@
+id: minimum-addition-to-make-integer-beautiful
+title: Minimum Addition to Make Integer Beautiful
+url: https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  infosys:
+    frequency: 75
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: lexicographically-smallest-string-after-deleting-duplicate-characters
+title: Lexicographically Smallest String After Deleting Duplicate Characters
+url: https://leetcode.com/problems/lexicographically-smallest-string-after-deleting-duplicate-characters
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  paytm:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

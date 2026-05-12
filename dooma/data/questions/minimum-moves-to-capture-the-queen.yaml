@@ -1,0 +1,15 @@
+id: minimum-moves-to-capture-the-queen
+title: Minimum Moves to Capture The Queen
+url: https://leetcode.com/problems/minimum-moves-to-capture-the-queen
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  goldman-sachs:
+    frequency: 50
+  wipro:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,27 @@
+id: water-and-jug-problem
+title: Water and Jug Problem
+url: https://leetcode.com/problems/water-and-jug-problem
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  apple:
+    frequency: 25
+  google:
+    frequency: 25
+  lyft:
+    frequency: 50
+  microsoft:
+    frequency: 37
+  oracle:
+    frequency: 25
+  tiktok:
+    frequency: 50
+  uber:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

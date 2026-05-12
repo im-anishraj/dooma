@@ -1,0 +1,13 @@
+id: sum-of-scores-of-built-strings
+title: Sum of Scores of Built Strings
+url: https://leetcode.com/problems/sum-of-scores-of-built-strings
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

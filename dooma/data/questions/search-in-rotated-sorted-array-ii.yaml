@@ -1,0 +1,31 @@
+id: search-in-rotated-sorted-array-ii
+title: Search in Rotated Sorted Array II
+url: https://leetcode.com/problems/search-in-rotated-sorted-array-ii
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 50
+  cisco:
+    frequency: 37
+  google:
+    frequency: 37
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 37
+  tcs:
+    frequency: 37
+  uber:
+    frequency: 25
+  walmart-labs:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

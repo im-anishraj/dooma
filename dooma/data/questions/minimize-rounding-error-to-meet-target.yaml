@@ -1,0 +1,13 @@
+id: minimize-rounding-error-to-meet-target
+title: Minimize Rounding Error to Meet Target
+url: https://leetcode.com/problems/minimize-rounding-error-to-meet-target
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  airbnb:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

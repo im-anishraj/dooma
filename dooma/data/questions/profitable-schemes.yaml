@@ -1,0 +1,15 @@
+id: profitable-schemes
+title: Profitable Schemes
+url: https://leetcode.com/problems/profitable-schemes
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

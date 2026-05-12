@@ -1,0 +1,41 @@
+id: design-hashmap
+title: Design HashMap
+url: https://leetcode.com/problems/design-hashmap
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 62
+  couchbase:
+    frequency: 75
+  goldman-sachs:
+    frequency: 50
+  google:
+    frequency: 12
+  linkedin:
+    frequency: 37
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 37
+  nvidia:
+    frequency: 50
+  oracle:
+    frequency: 37
+  palo-alto-networks:
+    frequency: 50
+  servicenow:
+    frequency: 62
+  snowflake:
+    frequency: 62
+  tiktok:
+    frequency: 62
+  tripactions:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

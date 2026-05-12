@@ -1,0 +1,21 @@
+id: longest-path-with-different-adjacent-characters
+title: Longest Path With Different Adjacent Characters
+url: https://leetcode.com/problems/longest-path-with-different-adjacent-characters
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  hrt:
+    frequency: 100
+  microsoft:
+    frequency: 50
+  target:
+    frequency: 87
+  uber:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,17 @@
+id: rotate-function
+title: Rotate Function
+url: https://leetcode.com/problems/rotate-function
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  amazon:
+    frequency: 25
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

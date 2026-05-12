@@ -1,0 +1,103 @@
+id: subarray-sum-equals-k
+title: Subarray Sum Equals K
+url: https://leetcode.com/problems/subarray-sum-equals-k
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  adobe:
+    frequency: 37
+  agoda:
+    frequency: 50
+  amazon:
+    frequency: 75
+  amd:
+    frequency: 75
+  apolloio:
+    frequency: 87
+  apple:
+    frequency: 62
+  bitgo:
+    frequency: 62
+  bloomberg:
+    frequency: 75
+  bolt:
+    frequency: 62
+  bytedance:
+    frequency: 50
+  capgemini:
+    frequency: 50
+  capital-one:
+    frequency: 37
+  cisco:
+    frequency: 37
+  cognizant:
+    frequency: 62
+  flipkart:
+    frequency: 50
+  goldman-sachs:
+    frequency: 50
+  google:
+    frequency: 62
+  grab:
+    frequency: 62
+  ibm:
+    frequency: 50
+  infosys:
+    frequency: 75
+  linkedin:
+    frequency: 25
+  meta:
+    frequency: 87
+  microsoft:
+    frequency: 75
+  mindtree:
+    frequency: 62
+  morgan-stanley:
+    frequency: 50
+  nvidia:
+    frequency: 50
+  oracle:
+    frequency: 50
+  palo-alto-networks:
+    frequency: 50
+  paypal:
+    frequency: 50
+  qualcomm:
+    frequency: 50
+  quora:
+    frequency: 62
+  ripple:
+    frequency: 87
+  scale-ai:
+    frequency: 100
+  servicenow:
+    frequency: 50
+  sprinklr:
+    frequency: 62
+  swiggy:
+    frequency: 50
+  tcs:
+    frequency: 62
+  tiktok:
+    frequency: 75
+  tinkoff:
+    frequency: 62
+  uber:
+    frequency: 25
+  visa:
+    frequency: 50
+  walmart-labs:
+    frequency: 62
+  yahoo:
+    frequency: 50
+  yandex:
+    frequency: 75
+  zoho:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

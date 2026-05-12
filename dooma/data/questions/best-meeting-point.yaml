@@ -1,0 +1,29 @@
+id: best-meeting-point
+title: Best Meeting Point
+url: https://leetcode.com/problems/best-meeting-point
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  applied-intuition:
+    frequency: 62
+  doordash:
+    frequency: 50
+  google:
+    frequency: 12
+  linkedin:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  snapchat:
+    frequency: 62
+  twitter:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

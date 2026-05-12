@@ -1,0 +1,95 @@
+id: valid-palindrome
+title: Valid Palindrome
+url: https://leetcode.com/problems/valid-palindrome
+difficulty: easy
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 50
+  american-express:
+    frequency: 62
+  apple:
+    frequency: 75
+  arista-networks:
+    frequency: 62
+  axon:
+    frequency: 62
+  bcg:
+    frequency: 100
+  bloomberg:
+    frequency: 62
+  cadence:
+    frequency: 100
+  cisco:
+    frequency: 37
+  clevertap:
+    frequency: 100
+  cognizant:
+    frequency: 50
+  comcast:
+    frequency: 87
+  epam-systems:
+    frequency: 50
+  fidelity:
+    frequency: 62
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 50
+  hcl:
+    frequency: 75
+  infosys:
+    frequency: 50
+  intel:
+    frequency: 62
+  intuit:
+    frequency: 50
+  meta:
+    frequency: 87
+  microsoft:
+    frequency: 62
+  oracle:
+    frequency: 50
+  salesforce:
+    frequency: 37
+  sap:
+    frequency: 62
+  shopee:
+    frequency: 62
+  tcs:
+    frequency: 50
+  tiktok:
+    frequency: 37
+  tinkoff:
+    frequency: 62
+  toast:
+    frequency: 87
+  turing:
+    frequency: 50
+  uber:
+    frequency: 50
+  ukg:
+    frequency: 62
+  visa:
+    frequency: 37
+  vk:
+    frequency: 75
+  walmart-labs:
+    frequency: 37
+  wayfair:
+    frequency: 62
+  yandex:
+    frequency: 75
+  zenefits:
+    frequency: 100
+  zoho:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

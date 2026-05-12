@@ -1,0 +1,15 @@
+id: minimum-number-of-keypresses
+title: Minimum Number of Keypresses
+url: https://leetcode.com/problems/minimum-number-of-keypresses
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  snapchat:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

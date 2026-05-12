@@ -1,0 +1,13 @@
+id: maximum-rows-covered-by-columns
+title: Maximum Rows Covered by Columns
+url: https://leetcode.com/problems/maximum-rows-covered-by-columns
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  apple:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

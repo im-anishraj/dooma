@@ -1,0 +1,13 @@
+id: design-compressed-string-iterator
+title: Design Compressed String Iterator
+url: https://leetcode.com/problems/design-compressed-string-iterator
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,27 @@
+id: single-number-iii
+title: Single Number III
+url: https://leetcode.com/problems/single-number-iii
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 37
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  oracle:
+    frequency: 25
+  siemens:
+    frequency: 62
+  zomato:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

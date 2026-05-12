@@ -1,0 +1,19 @@
+id: maximum-subarray-sum-with-length-divisible-by-k
+title: Maximum Subarray Sum With Length Divisible by K
+url: https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

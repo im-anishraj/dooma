@@ -1,0 +1,31 @@
+id: lowest-common-ancestor-of-a-binary-tree-iii
+title: Lowest Common Ancestor of a Binary Tree III
+url: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 37
+  atlassian:
+    frequency: 37
+  google:
+    frequency: 12
+  linkedin:
+    frequency: 62
+  meta:
+    frequency: 87
+  microsoft:
+    frequency: 37
+  mongodb:
+    frequency: 62
+  wix:
+    frequency: 50
+  yandex:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

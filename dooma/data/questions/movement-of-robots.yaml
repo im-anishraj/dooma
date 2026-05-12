@@ -1,0 +1,15 @@
+id: movement-of-robots
+title: Movement of Robots
+url: https://leetcode.com/problems/movement-of-robots
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

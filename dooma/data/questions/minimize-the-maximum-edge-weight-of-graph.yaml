@@ -1,0 +1,13 @@
+id: minimize-the-maximum-edge-weight-of-graph
+title: Minimize the Maximum Edge Weight of Graph
+url: https://leetcode.com/problems/minimize-the-maximum-edge-weight-of-graph
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

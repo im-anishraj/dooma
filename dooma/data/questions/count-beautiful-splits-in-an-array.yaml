@@ -1,0 +1,15 @@
+id: count-beautiful-splits-in-an-array
+title: Count Beautiful Splits in an Array
+url: https://leetcode.com/problems/count-beautiful-splits-in-an-array
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

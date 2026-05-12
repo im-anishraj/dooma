@@ -1,0 +1,21 @@
+id: number-of-perfect-pairs
+title: Number of Perfect Pairs
+url: https://leetcode.com/problems/number-of-perfect-pairs
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  atlassian:
+    frequency: 37
+  bloomberg:
+    frequency: 12
+  goldman-sachs:
+    frequency: 37
+  squarepoint-capital:
+    frequency: 75
+  visa:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

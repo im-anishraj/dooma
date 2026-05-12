@@ -1,0 +1,17 @@
+id: random-pick-with-blacklist
+title: Random Pick with Blacklist
+url: https://leetcode.com/problems/random-pick-with-blacklist
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+  uber:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

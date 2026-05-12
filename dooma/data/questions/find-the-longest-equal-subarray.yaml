@@ -1,0 +1,17 @@
+id: find-the-longest-equal-subarray
+title: Find the Longest Equal Subarray
+url: https://leetcode.com/problems/find-the-longest-equal-subarray
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  mathworks:
+    frequency: 50
+  palo-alto-networks:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

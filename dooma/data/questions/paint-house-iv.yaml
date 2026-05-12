@@ -1,0 +1,17 @@
+id: paint-house-iv
+title: Paint House IV
+url: https://leetcode.com/problems/paint-house-iv
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  chargebee:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

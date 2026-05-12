@@ -1,0 +1,19 @@
+id: minimum-operations-to-make-the-array-increasing
+title: Minimum Operations to Make the Array Increasing
+url: https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  deutsche-bank:
+    frequency: 100
+  google:
+    frequency: 12
+  tiktok:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

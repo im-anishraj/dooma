@@ -1,0 +1,13 @@
+id: reward-top-k-students
+title: Reward Top K Students
+url: https://leetcode.com/problems/reward-top-k-students
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  bookingcom:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

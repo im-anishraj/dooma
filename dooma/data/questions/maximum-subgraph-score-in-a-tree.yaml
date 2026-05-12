@@ -1,0 +1,13 @@
+id: maximum-subgraph-score-in-a-tree
+title: Maximum Subgraph Score in a Tree
+url: https://leetcode.com/problems/maximum-subgraph-score-in-a-tree
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

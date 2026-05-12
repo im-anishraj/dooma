@@ -1,0 +1,13 @@
+id: sum-of-largest-prime-substrings
+title: Sum of Largest Prime Substrings
+url: https://leetcode.com/problems/sum-of-largest-prime-substrings
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  netcracker-technology:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

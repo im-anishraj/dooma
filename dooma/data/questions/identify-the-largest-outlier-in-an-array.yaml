@@ -1,0 +1,19 @@
+id: identify-the-largest-outlier-in-an-array
+title: Identify the Largest Outlier in an Array
+url: https://leetcode.com/problems/identify-the-largest-outlier-in-an-array
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 62
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 12
+  meta:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

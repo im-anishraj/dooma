@@ -1,0 +1,27 @@
+id: swim-in-rising-water
+title: Swim in Rising Water
+url: https://leetcode.com/problems/swim-in-rising-water
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  de-shaw:
+    frequency: 50
+  doordash:
+    frequency: 37
+  google:
+    frequency: 37
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 12
+  uber:
+    frequency: 25
+  weride:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

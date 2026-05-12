@@ -1,0 +1,19 @@
+id: find-unique-binary-string
+title: Find Unique Binary String
+url: https://leetcode.com/problems/find-unique-binary-string
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

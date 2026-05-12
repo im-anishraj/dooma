@@ -1,0 +1,79 @@
+id: find-peak-element
+title: Find Peak Element
+url: https://leetcode.com/problems/find-peak-element
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 62
+  amazon:
+    frequency: 62
+  apple:
+    frequency: 37
+  bloomberg:
+    frequency: 62
+  bytedance:
+    frequency: 50
+  commvault:
+    frequency: 62
+  databricks:
+    frequency: 37
+  ebay:
+    frequency: 62
+  flipkart:
+    frequency: 50
+  goldman-sachs:
+    frequency: 37
+  google:
+    frequency: 62
+  infosys:
+    frequency: 50
+  ixl:
+    frequency: 75
+  jpmorgan:
+    frequency: 37
+  meta:
+    frequency: 87
+  microsoft:
+    frequency: 62
+  nvidia:
+    frequency: 50
+  oracle:
+    frequency: 37
+  paypal:
+    frequency: 50
+  salesforce:
+    frequency: 25
+  samsung:
+    frequency: 75
+  servicenow:
+    frequency: 50
+  tcs:
+    frequency: 25
+  tekion:
+    frequency: 62
+  tiktok:
+    frequency: 62
+  uber:
+    frequency: 37
+  urban-company:
+    frequency: 100
+  visa:
+    frequency: 37
+  walmart-labs:
+    frequency: 37
+  waymo:
+    frequency: 62
+  wix:
+    frequency: 50
+  yahoo:
+    frequency: 50
+  zepto:
+    frequency: 87
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

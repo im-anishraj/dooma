@@ -1,0 +1,23 @@
+id: combination-sum-iv
+title: Combination Sum IV
+url: https://leetcode.com/problems/combination-sum-iv
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 37
+  meta:
+    frequency: 25
+  snapchat:
+    frequency: 87
+  tiktok:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

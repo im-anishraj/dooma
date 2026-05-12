@@ -1,0 +1,15 @@
+id: number-of-nodes-in-the-sub-tree-with-the-same-label
+title: Number of Nodes in the Sub-Tree With the Same Label
+url: https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  samsung:
+    frequency: 87
+  uber:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

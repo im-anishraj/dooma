@@ -1,0 +1,17 @@
+id: subrectangle-queries
+title: Subrectangle Queries
+url: https://leetcode.com/problems/subrectangle-queries
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  info-edge:
+    frequency: 75
+  nuro:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

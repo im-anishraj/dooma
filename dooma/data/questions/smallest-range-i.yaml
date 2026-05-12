@@ -1,0 +1,17 @@
+id: smallest-range-i
+title: Smallest Range I
+url: https://leetcode.com/problems/smallest-range-i
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 75
+  glassdoor:
+    frequency: 100
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

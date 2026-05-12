@@ -1,0 +1,13 @@
+id: convert-object-to-json-string
+title: Convert Object to JSON String
+url: https://leetcode.com/problems/convert-object-to-json-string
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

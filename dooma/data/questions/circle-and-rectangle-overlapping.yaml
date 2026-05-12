@@ -1,0 +1,15 @@
+id: circle-and-rectangle-overlapping
+title: Circle and Rectangle Overlapping
+url: https://leetcode.com/problems/circle-and-rectangle-overlapping
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

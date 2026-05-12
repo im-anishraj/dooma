@@ -1,0 +1,13 @@
+id: maximum-score-of-a-node-sequence
+title: Maximum Score of a Node Sequence
+url: https://leetcode.com/problems/maximum-score-of-a-node-sequence
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

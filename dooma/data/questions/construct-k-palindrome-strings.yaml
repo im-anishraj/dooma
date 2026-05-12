@@ -1,0 +1,23 @@
+id: construct-k-palindrome-strings
+title: Construct K Palindrome Strings
+url: https://leetcode.com/problems/construct-k-palindrome-strings
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  uber:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

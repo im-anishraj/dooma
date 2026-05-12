@@ -1,0 +1,25 @@
+id: find-bottom-left-tree-value
+title: Find Bottom Left Tree Value
+url: https://leetcode.com/problems/find-bottom-left-tree-value
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 12
+  gopuff:
+    frequency: 87
+  josh-technology:
+    frequency: 62
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

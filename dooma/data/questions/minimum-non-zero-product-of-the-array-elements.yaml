@@ -1,0 +1,15 @@
+id: minimum-non-zero-product-of-the-array-elements
+title: Minimum Non-Zero Product of the Array Elements
+url: https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  paypal:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

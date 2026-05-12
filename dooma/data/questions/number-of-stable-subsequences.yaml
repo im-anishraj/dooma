@@ -1,0 +1,13 @@
+id: number-of-stable-subsequences
+title: Number of Stable Subsequences
+url: https://leetcode.com/problems/number-of-stable-subsequences
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

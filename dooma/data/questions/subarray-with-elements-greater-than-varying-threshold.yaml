@@ -1,0 +1,19 @@
+id: subarray-with-elements-greater-than-varying-threshold
+title: Subarray With Elements Greater Than Varying Threshold
+url: https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+  instabase:
+    frequency: 100
+  tiktok:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

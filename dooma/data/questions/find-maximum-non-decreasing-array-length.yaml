@@ -1,0 +1,19 @@
+id: find-maximum-non-decreasing-array-length
+title: Find Maximum Non-decreasing Array Length
+url: https://leetcode.com/problems/find-maximum-non-decreasing-array-length
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  google:
+    frequency: 12
+  medianet:
+    frequency: 62
+  tiktok:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

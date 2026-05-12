@@ -1,0 +1,45 @@
+id: binary-tree-zigzag-level-order-traversal
+title: Binary Tree Zigzag Level Order Traversal
+url: https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  adobe:
+    frequency: 50
+  amazon:
+    frequency: 62
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 50
+  citadel:
+    frequency: 62
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 37
+  linkedin:
+    frequency: 50
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 62
+  nutanix:
+    frequency: 62
+  oracle:
+    frequency: 50
+  sigmoid:
+    frequency: 100
+  tiktok:
+    frequency: 50
+  walmart-labs:
+    frequency: 62
+  yandex:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,17 @@
+id: length-of-the-longest-valid-substring
+title: Length of the Longest Valid Substring
+url: https://leetcode.com/problems/length-of-the-longest-valid-substring
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,21 @@
+id: stone-game-ii
+title: Stone Game II
+url: https://leetcode.com/problems/stone-game-ii
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

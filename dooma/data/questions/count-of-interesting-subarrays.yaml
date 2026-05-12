@@ -1,0 +1,19 @@
+id: count-of-interesting-subarrays
+title: Count of Interesting Subarrays
+url: https://leetcode.com/problems/count-of-interesting-subarrays
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,21 @@
+id: maximum-number-of-tasks-you-can-assign
+title: Maximum Number of Tasks You Can Assign
+url: https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  walmart-labs:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

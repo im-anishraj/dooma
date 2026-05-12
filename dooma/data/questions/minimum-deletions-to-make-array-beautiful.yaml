@@ -1,0 +1,13 @@
+id: minimum-deletions-to-make-array-beautiful
+title: Minimum Deletions to Make Array Beautiful
+url: https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

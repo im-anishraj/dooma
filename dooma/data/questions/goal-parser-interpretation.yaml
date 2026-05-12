@@ -1,0 +1,15 @@
+id: goal-parser-interpretation
+title: Goal Parser Interpretation
+url: https://leetcode.com/problems/goal-parser-interpretation
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

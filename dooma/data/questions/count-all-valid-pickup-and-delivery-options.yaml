@@ -1,0 +1,17 @@
+id: count-all-valid-pickup-and-delivery-options
+title: Count All Valid Pickup and Delivery Options
+url: https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  acko:
+    frequency: 100
+  doordash:
+    frequency: 50
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

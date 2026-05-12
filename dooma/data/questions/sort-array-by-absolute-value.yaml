@@ -1,0 +1,13 @@
+id: sort-array-by-absolute-value
+title: Sort Array By Absolute Value
+url: https://leetcode.com/problems/sort-array-by-absolute-value
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  cognizant:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

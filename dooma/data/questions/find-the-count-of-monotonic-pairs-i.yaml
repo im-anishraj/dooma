@@ -1,0 +1,15 @@
+id: find-the-count-of-monotonic-pairs-i
+title: Find the Count of Monotonic Pairs I
+url: https://leetcode.com/problems/find-the-count-of-monotonic-pairs-i
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  arcesium:
+    frequency: 62
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,27 @@
+id: paint-house
+title: Paint House
+url: https://leetcode.com/problems/paint-house
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  citadel:
+    frequency: 50
+  google:
+    frequency: 12
+  linkedin:
+    frequency: 62
+  microsoft:
+    frequency: 12
+  navan:
+    frequency: 100
+  shopify:
+    frequency: 62
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

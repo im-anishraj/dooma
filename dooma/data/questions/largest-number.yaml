@@ -1,0 +1,59 @@
+id: largest-number
+title: Largest Number
+url: https://leetcode.com/problems/largest-number
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 62
+  adobe:
+    frequency: 50
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 50
+  clevertap:
+    frequency: 87
+  cvent:
+    frequency: 100
+  google:
+    frequency: 37
+  graviton:
+    frequency: 87
+  josh-technology:
+    frequency: 100
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 50
+  myntra:
+    frequency: 75
+  nvidia:
+    frequency: 37
+  nykaa:
+    frequency: 100
+  oracle:
+    frequency: 50
+  servicenow:
+    frequency: 62
+  tcs:
+    frequency: 37
+  tiktok:
+    frequency: 37
+  tracxn:
+    frequency: 100
+  visa:
+    frequency: 37
+  works-applications:
+    frequency: 100
+  zalando:
+    frequency: 62
+  zoho:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

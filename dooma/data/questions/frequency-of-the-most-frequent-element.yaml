@@ -1,0 +1,31 @@
+id: frequency-of-the-most-frequent-element
+title: Frequency of the Most Frequent Element
+url: https://leetcode.com/problems/frequency-of-the-most-frequent-element
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 50
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 37
+  infosys:
+    frequency: 50
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 50
+  phonepe:
+    frequency: 62
+  ponyai:
+    frequency: 100
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

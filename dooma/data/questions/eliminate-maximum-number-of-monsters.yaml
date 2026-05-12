@@ -1,0 +1,17 @@
+id: eliminate-maximum-number-of-monsters
+title: Eliminate Maximum Number of Monsters
+url: https://leetcode.com/problems/eliminate-maximum-number-of-monsters
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  agoda:
+    frequency: 100
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

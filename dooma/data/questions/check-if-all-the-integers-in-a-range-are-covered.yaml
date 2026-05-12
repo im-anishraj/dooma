@@ -1,0 +1,17 @@
+id: check-if-all-the-integers-in-a-range-are-covered
+title: Check if All the Integers in a Range Are Covered
+url: https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 37
+  squarespace:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

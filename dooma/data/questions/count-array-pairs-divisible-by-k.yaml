@@ -1,0 +1,15 @@
+id: count-array-pairs-divisible-by-k
+title: Count Array Pairs Divisible by K
+url: https://leetcode.com/problems/count-array-pairs-divisible-by-k
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  paypal:
+    frequency: 75
+  qualcomm:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

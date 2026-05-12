@@ -1,0 +1,13 @@
+id: maximum-number-that-makes-result-of-bitwise-and-zero
+title: Maximum Number That Makes Result of Bitwise AND Zero
+url: https://leetcode.com/problems/maximum-number-that-makes-result-of-bitwise-and-zero
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  salesforce:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

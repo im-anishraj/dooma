@@ -1,0 +1,15 @@
+id: match-alphanumerical-pattern-in-matrix-i
+title: Match Alphanumerical Pattern in Matrix I
+url: https://leetcode.com/problems/match-alphanumerical-pattern-in-matrix-i
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  uber:
+    frequency: 50
+  visa:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

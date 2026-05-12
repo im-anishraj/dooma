@@ -1,0 +1,47 @@
+id: flatten-nested-list-iterator
+title: Flatten Nested List Iterator
+url: https://leetcode.com/problems/flatten-nested-list-iterator
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  airbnb:
+    frequency: 37
+  amazon:
+    frequency: 25
+  apple:
+    frequency: 50
+  aurora:
+    frequency: 62
+  de-shaw:
+    frequency: 37
+  google:
+    frequency: 37
+  hbo:
+    frequency: 100
+  linkedin:
+    frequency: 50
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 12
+  mixpanel:
+    frequency: 100
+  openai:
+    frequency: 87
+  tesla:
+    frequency: 50
+  twitter:
+    frequency: 100
+  walmart-labs:
+    frequency: 62
+  warnermedia:
+    frequency: 62
+  yahoo:
+    frequency: 50
+  yandex:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

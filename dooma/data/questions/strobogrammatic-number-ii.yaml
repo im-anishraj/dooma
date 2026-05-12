@@ -1,0 +1,19 @@
+id: strobogrammatic-number-ii
+title: Strobogrammatic Number II
+url: https://leetcode.com/problems/strobogrammatic-number-ii
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 37
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

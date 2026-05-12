@@ -1,0 +1,13 @@
+id: maximum-xor-score-subarray-queries
+title: Maximum XOR Score Subarray Queries
+url: https://leetcode.com/problems/maximum-xor-score-subarray-queries
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: closest-dessert-cost
+title: Closest Dessert Cost
+url: https://leetcode.com/problems/closest-dessert-cost
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

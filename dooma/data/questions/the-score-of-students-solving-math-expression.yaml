@@ -1,0 +1,15 @@
+id: the-score-of-students-solving-math-expression
+title: The Score of Students Solving Math Expression
+url: https://leetcode.com/problems/the-score-of-students-solving-math-expression
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  flipkart:
+    frequency: 75
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

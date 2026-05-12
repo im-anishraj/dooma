@@ -1,0 +1,13 @@
+id: shortest-distance-to-target-color
+title: Shortest Distance to Target Color
+url: https://leetcode.com/problems/shortest-distance-to-target-color
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

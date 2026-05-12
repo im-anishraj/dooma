@@ -1,0 +1,25 @@
+id: longest-strictly-increasing-or-strictly-decreasing-subarray
+title: Longest Strictly Increasing or Strictly Decreasing Subarray
+url: https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 12
+  larsen-toubro:
+    frequency: 100
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  yandex:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,17 @@
+id: count-the-number-of-special-characters-ii
+title: Count the Number of Special Characters II
+url: https://leetcode.com/problems/count-the-number-of-special-characters-ii
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

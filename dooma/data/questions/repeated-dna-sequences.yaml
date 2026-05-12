@@ -1,0 +1,25 @@
+id: repeated-dna-sequences
+title: Repeated DNA Sequences
+url: https://leetcode.com/problems/repeated-dna-sequences
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 37
+  google:
+    frequency: 25
+  grammarly:
+    frequency: 75
+  linkedin:
+    frequency: 62
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

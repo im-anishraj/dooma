@@ -1,0 +1,13 @@
+id: employees-with-deductions
+title: Employees With Deductions
+url: https://leetcode.com/problems/employees-with-deductions
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

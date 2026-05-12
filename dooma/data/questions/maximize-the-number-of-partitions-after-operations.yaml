@@ -1,0 +1,15 @@
+id: maximize-the-number-of-partitions-after-operations
+title: Maximize the Number of Partitions After Operations
+url: https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  hilabs:
+    frequency: 100
+  thoughtworks:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

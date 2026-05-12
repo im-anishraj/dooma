@@ -1,0 +1,29 @@
+id: remove-linked-list-elements
+title: Remove Linked List Elements
+url: https://leetcode.com/problems/remove-linked-list-elements
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  apple:
+    frequency: 25
+  arista-networks:
+    frequency: 87
+  bloomberg:
+    frequency: 37
+  google:
+    frequency: 37
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 37
+  oracle:
+    frequency: 25
+  yahoo:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

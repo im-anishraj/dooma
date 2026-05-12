@@ -1,0 +1,19 @@
+id: crawler-log-folder
+title: Crawler Log Folder
+url: https://leetcode.com/problems/crawler-log-folder
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  flipkart:
+    frequency: 37
+  mercari:
+    frequency: 100
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

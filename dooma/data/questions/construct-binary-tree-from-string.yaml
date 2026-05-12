@@ -1,0 +1,17 @@
+id: construct-binary-tree-from-string
+title: Construct Binary Tree from String
+url: https://leetcode.com/problems/construct-binary-tree-from-string
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  meta:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,17 @@
+id: check-if-two-chessboard-squares-have-the-same-color
+title: Check if Two Chessboard Squares Have the Same Color
+url: https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

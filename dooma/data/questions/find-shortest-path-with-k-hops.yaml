@@ -1,0 +1,13 @@
+id: find-shortest-path-with-k-hops
+title: Find Shortest Path with K Hops
+url: https://leetcode.com/problems/find-shortest-path-with-k-hops
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  goldman-sachs:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

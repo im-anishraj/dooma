@@ -1,0 +1,29 @@
+id: cherry-pickup-ii
+title: Cherry Pickup II
+url: https://leetcode.com/problems/cherry-pickup-ii
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  flipkart:
+    frequency: 62
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  rubrik:
+    frequency: 37
+  salesforce:
+    frequency: 25
+  sprinklr:
+    frequency: 62
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: number-of-unique-xor-triplets-ii
+title: Number of Unique XOR Triplets II
+url: https://leetcode.com/problems/number-of-unique-xor-triplets-ii
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  meesho:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

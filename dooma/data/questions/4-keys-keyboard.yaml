@@ -1,0 +1,15 @@
+id: 4-keys-keyboard
+title: 4 Keys Keyboard
+url: https://leetcode.com/problems/4-keys-keyboard
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  microsoft:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

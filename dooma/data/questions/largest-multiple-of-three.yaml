@@ -1,0 +1,15 @@
+id: largest-multiple-of-three
+title: Largest Multiple of Three
+url: https://leetcode.com/problems/largest-multiple-of-three
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

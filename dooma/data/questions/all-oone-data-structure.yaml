@@ -1,0 +1,31 @@
+id: all-oone-data-structure
+title: All O`one Data Structure
+url: https://leetcode.com/problems/all-oone-data-structure
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  airbnb:
+    frequency: 50
+  amazon:
+    frequency: 37
+  atlassian:
+    frequency: 87
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 25
+  linkedin:
+    frequency: 100
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  nextdoor:
+    frequency: 87
+  uber:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: maximum-value-after-insertion
+title: Maximum Value after Insertion
+url: https://leetcode.com/problems/maximum-value-after-insertion
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

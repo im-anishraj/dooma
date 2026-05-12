@@ -1,0 +1,19 @@
+id: add-two-promises
+title: Add Two Promises
+url: https://leetcode.com/problems/add-two-promises
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

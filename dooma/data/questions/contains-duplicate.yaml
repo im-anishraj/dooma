@@ -1,0 +1,57 @@
+id: contains-duplicate
+title: Contains Duplicate
+url: https://leetcode.com/problems/contains-duplicate
+difficulty: easy
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 62
+  adobe:
+    frequency: 37
+  airbnb:
+    frequency: 75
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 37
+  bloomberg:
+    frequency: 62
+  capgemini:
+    frequency: 62
+  factset:
+    frequency: 62
+  google:
+    frequency: 50
+  ibm:
+    frequency: 37
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 62
+  netflix:
+    frequency: 75
+  oracle:
+    frequency: 37
+  palantir-technologies:
+    frequency: 62
+  paycom:
+    frequency: 87
+  siemens:
+    frequency: 62
+  tcs:
+    frequency: 50
+  uber:
+    frequency: 25
+  visa:
+    frequency: 37
+  yahoo:
+    frequency: 87
+  zoho:
+    frequency: 37
+  zscaler:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

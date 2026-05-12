@@ -1,0 +1,19 @@
+id: difference-between-element-sum-and-digit-sum-of-an-array
+title: Difference Between Element Sum and Digit Sum of an Array
+url: https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  innovaccer:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

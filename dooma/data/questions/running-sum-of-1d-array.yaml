@@ -1,0 +1,27 @@
+id: running-sum-of-1d-array
+title: Running Sum of 1d Array
+url: https://leetcode.com/problems/running-sum-of-1d-array
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 25
+  epam-systems:
+    frequency: 50
+  google:
+    frequency: 50
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 37
+  tcs:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

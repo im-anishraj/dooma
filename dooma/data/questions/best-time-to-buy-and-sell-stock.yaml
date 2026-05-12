@@ -1,0 +1,219 @@
+id: best-time-to-buy-and-sell-stock
+title: Best Time to Buy and Sell Stock
+url: https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+difficulty: easy
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 87
+  accolite:
+    frequency: 50
+  adobe:
+    frequency: 75
+  agoda:
+    frequency: 100
+  airtel:
+    frequency: 62
+  akamai:
+    frequency: 87
+  amazon:
+    frequency: 87
+  american-express:
+    frequency: 62
+  apple:
+    frequency: 87
+  aqr-capital-management-llc:
+    frequency: 62
+  arista-networks:
+    frequency: 62
+  athenahealth:
+    frequency: 62
+  atlassian:
+    frequency: 50
+  bank-of-america:
+    frequency: 87
+  blackrock:
+    frequency: 62
+  bloomberg:
+    frequency: 87
+  bny-mellon:
+    frequency: 62
+  bolt:
+    frequency: 100
+  bytedance:
+    frequency: 62
+  capgemini:
+    frequency: 62
+  capital-one:
+    frequency: 50
+  carwale:
+    frequency: 75
+  cisco:
+    frequency: 50
+  citadel:
+    frequency: 87
+  citi:
+    frequency: 87
+  cognizant:
+    frequency: 62
+  coinbase:
+    frequency: 50
+  comcast:
+    frequency: 87
+  crowdstrike:
+    frequency: 62
+  de-shaw:
+    frequency: 50
+  deloitte:
+    frequency: 75
+  deutsche-bank:
+    frequency: 62
+  drw:
+    frequency: 62
+  epam-systems:
+    frequency: 87
+  expedia:
+    frequency: 50
+  fanatics:
+    frequency: 100
+  flipkart:
+    frequency: 37
+  garmin:
+    frequency: 87
+  goldman-sachs:
+    frequency: 50
+  google:
+    frequency: 75
+  groww:
+    frequency: 75
+  hashedin:
+    frequency: 62
+  hsbc:
+    frequency: 87
+  ibm:
+    frequency: 87
+  impact-analytics:
+    frequency: 100
+  infosys:
+    frequency: 75
+  intuit:
+    frequency: 37
+  jpmorgan:
+    frequency: 75
+  lg-electronics:
+    frequency: 75
+  linkedin:
+    frequency: 25
+  maq-software:
+    frequency: 62
+  mastercard:
+    frequency: 87
+  meta:
+    frequency: 75
+  microsoft:
+    frequency: 75
+  microstrategy:
+    frequency: 62
+  millennium:
+    frequency: 100
+  morgan-stanley:
+    frequency: 100
+  murex:
+    frequency: 100
+  myntra:
+    frequency: 75
+  nasdaq:
+    frequency: 100
+  nvidia:
+    frequency: 87
+  optiver:
+    frequency: 75
+  oracle:
+    frequency: 62
+  ozon:
+    frequency: 87
+  paypal:
+    frequency: 62
+  paytm:
+    frequency: 62
+  phonepe:
+    frequency: 75
+  qualys:
+    frequency: 100
+  razorpay:
+    frequency: 62
+  rbc:
+    frequency: 100
+  remitly:
+    frequency: 75
+  robinhood:
+    frequency: 62
+  salesforce:
+    frequency: 50
+  samsung:
+    frequency: 75
+  sap:
+    frequency: 75
+  servicenow:
+    frequency: 62
+  shopee:
+    frequency: 62
+  sigmoid:
+    frequency: 87
+  snapchat:
+    frequency: 37
+  snowflake:
+    frequency: 37
+  societe-generale:
+    frequency: 62
+  sprinklr:
+    frequency: 50
+  squarepoint-capital:
+    frequency: 75
+  swiggy:
+    frequency: 62
+  tcs:
+    frequency: 62
+  tech-mahindra:
+    frequency: 100
+  tesla:
+    frequency: 87
+  thoughtworks:
+    frequency: 62
+  tiger-analytics:
+    frequency: 87
+  tiktok:
+    frequency: 62
+  toast:
+    frequency: 75
+  turing:
+    frequency: 62
+  uber:
+    frequency: 75
+  visa:
+    frequency: 87
+  vk:
+    frequency: 62
+  vmware:
+    frequency: 62
+  walmart-labs:
+    frequency: 62
+  yahoo:
+    frequency: 50
+  yandex:
+    frequency: 50
+  zeta:
+    frequency: 62
+  zeta-suite:
+    frequency: 62
+  zoho:
+    frequency: 87
+  zoox:
+    frequency: 100
+  zopsmart:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

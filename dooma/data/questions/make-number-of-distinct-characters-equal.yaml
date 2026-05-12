@@ -1,0 +1,13 @@
+id: make-number-of-distinct-characters-equal
+title: Make Number of Distinct Characters Equal
+url: https://leetcode.com/problems/make-number-of-distinct-characters-equal
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

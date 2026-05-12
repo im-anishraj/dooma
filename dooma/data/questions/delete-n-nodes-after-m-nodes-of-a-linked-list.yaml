@@ -1,0 +1,13 @@
+id: delete-n-nodes-after-m-nodes-of-a-linked-list
+title: Delete N Nodes After M Nodes of a Linked List
+url: https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

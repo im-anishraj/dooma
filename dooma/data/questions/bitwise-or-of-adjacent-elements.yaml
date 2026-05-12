@@ -1,0 +1,13 @@
+id: bitwise-or-of-adjacent-elements
+title: Bitwise OR of Adjacent Elements
+url: https://leetcode.com/problems/bitwise-or-of-adjacent-elements
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,17 @@
+id: remove-stones-to-minimize-the-total
+title: Remove Stones to Minimize the Total
+url: https://leetcode.com/problems/remove-stones-to-minimize-the-total
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  expedia:
+    frequency: 62
+  nvidia:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

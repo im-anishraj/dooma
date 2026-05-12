@@ -1,0 +1,23 @@
+id: sum-root-to-leaf-numbers
+title: Sum Root to Leaf Numbers
+url: https://leetcode.com/problems/sum-root-to-leaf-numbers
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 75
+  microsoft:
+    frequency: 25
+  visa:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

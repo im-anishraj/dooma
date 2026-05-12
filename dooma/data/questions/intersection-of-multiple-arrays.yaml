@@ -1,0 +1,15 @@
+id: intersection-of-multiple-arrays
+title: Intersection of Multiple Arrays
+url: https://leetcode.com/problems/intersection-of-multiple-arrays
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  meta:
+    frequency: 12
+  uber:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: convert-json-string-to-object
+title: Convert JSON String to Object
+url: https://leetcode.com/problems/convert-json-string-to-object
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  mongodb:
+    frequency: 75
+  verizon:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

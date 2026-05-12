@@ -1,0 +1,33 @@
+id: snakes-and-ladders
+title: Snakes and Ladders
+url: https://leetcode.com/problems/snakes-and-ladders
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  anduril:
+    frequency: 50
+  apple:
+    frequency: 37
+  bloomberg:
+    frequency: 25
+  cisco:
+    frequency: 37
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 37
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  tiktok:
+    frequency: 37
+  zomato:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,17 @@
+id: number-of-segments-in-a-string
+title: Number of Segments in a String
+url: https://leetcode.com/problems/number-of-segments-in-a-string
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

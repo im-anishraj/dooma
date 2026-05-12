@@ -1,0 +1,21 @@
+id: subtract-the-product-and-sum-of-digits-of-an-integer
+title: Subtract the Product and Sum of Digits of an Integer
+url: https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  quora:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

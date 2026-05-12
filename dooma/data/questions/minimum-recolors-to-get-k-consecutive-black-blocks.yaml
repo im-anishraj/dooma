@@ -1,0 +1,21 @@
+id: minimum-recolors-to-get-k-consecutive-black-blocks
+title: Minimum Recolors to Get K Consecutive Black Blocks
+url: https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  dailyhunt:
+    frequency: 100
+  google:
+    frequency: 12
+  hp:
+    frequency: 100
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,23 @@
+id: number-of-dice-rolls-with-target-sum
+title: Number of Dice Rolls With Target Sum
+url: https://leetcode.com/problems/number-of-dice-rolls-with-target-sum
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 25
+  citadel:
+    frequency: 50
+  coindcx:
+    frequency: 87
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

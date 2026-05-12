@@ -1,0 +1,17 @@
+id: number-of-good-paths
+title: Number of Good Paths
+url: https://leetcode.com/problems/number-of-good-paths
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,29 @@
+id: maximum-performance-of-a-team
+title: Maximum Performance of a Team
+url: https://leetcode.com/problems/maximum-performance-of-a-team
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  citrix:
+    frequency: 100
+  de-shaw:
+    frequency: 50
+  doordash:
+    frequency: 25
+  flipkart:
+    frequency: 62
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  phonepe:
+    frequency: 62
+  tiktok:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

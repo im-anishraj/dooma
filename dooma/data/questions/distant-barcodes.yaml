@@ -1,0 +1,15 @@
+id: distant-barcodes
+title: Distant Barcodes
+url: https://leetcode.com/problems/distant-barcodes
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

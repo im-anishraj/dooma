@@ -1,0 +1,19 @@
+id: number-of-divisible-substrings
+title: Number of Divisible Substrings
+url: https://leetcode.com/problems/number-of-divisible-substrings
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amdocs:
+    frequency: 100
+  ibm:
+    frequency: 50
+  paytm:
+    frequency: 87
+  wayfair:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

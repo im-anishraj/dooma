@@ -1,0 +1,13 @@
+id: count-paths-with-the-given-xor-value
+title: Count Paths With the Given XOR Value
+url: https://leetcode.com/problems/count-paths-with-the-given-xor-value
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

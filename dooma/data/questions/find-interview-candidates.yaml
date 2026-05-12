@@ -1,0 +1,13 @@
+id: find-interview-candidates
+title: Find Interview Candidates
+url: https://leetcode.com/problems/find-interview-candidates
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

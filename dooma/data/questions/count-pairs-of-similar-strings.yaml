@@ -1,0 +1,19 @@
+id: count-pairs-of-similar-strings
+title: Count Pairs Of Similar Strings
+url: https://leetcode.com/problems/count-pairs-of-similar-strings
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 50
+  ibm:
+    frequency: 50
+  oracle:
+    frequency: 62
+  tiktok:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,19 @@
+id: minimum-time-to-visit-a-cell-in-a-grid
+title: Minimum Time to Visit a Cell In a Grid
+url: https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  atlassian:
+    frequency: 62
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

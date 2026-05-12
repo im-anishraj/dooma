@@ -1,0 +1,13 @@
+id: minimum-swaps-to-avoid-forbidden-values
+title: Minimum Swaps to Avoid Forbidden Values
+url: https://leetcode.com/problems/minimum-swaps-to-avoid-forbidden-values
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

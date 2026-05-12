@@ -1,0 +1,19 @@
+id: convert-integer-to-the-sum-of-two-no-zero-integers
+title: Convert Integer to the Sum of Two No-Zero Integers
+url: https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  hrt:
+    frequency: 100
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

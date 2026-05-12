@@ -1,0 +1,33 @@
+id: employees-earning-more-than-their-managers
+title: Employees Earning More Than Their Managers
+url: https://leetcode.com/problems/employees-earning-more-than-their-managers
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 50
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 50
+  bloomberg:
+    frequency: 37
+  cognizant:
+    frequency: 50
+  google:
+    frequency: 37
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 37
+  tcs:
+    frequency: 25
+  wix:
+    frequency: 87
+  yandex:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

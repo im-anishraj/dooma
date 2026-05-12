@@ -1,0 +1,15 @@
+id: plus-one-linked-list
+title: Plus One Linked List
+url: https://leetcode.com/problems/plus-one-linked-list
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

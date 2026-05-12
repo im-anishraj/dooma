@@ -1,0 +1,33 @@
+id: keys-and-rooms
+title: Keys and Rooms
+url: https://leetcode.com/problems/keys-and-rooms
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  apple:
+    frequency: 25
+  google:
+    frequency: 37
+  graviton:
+    frequency: 87
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  nvidia:
+    frequency: 37
+  oracle:
+    frequency: 37
+  snowflake:
+    frequency: 50
+  tinkoff:
+    frequency: 87
+  walmart-labs:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

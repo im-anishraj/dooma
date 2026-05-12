@@ -1,0 +1,17 @@
+id: soup-servings
+title: Soup Servings
+url: https://leetcode.com/problems/soup-servings
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

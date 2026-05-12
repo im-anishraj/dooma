@@ -1,0 +1,15 @@
+id: minimum-number-of-operations-to-make-array-empty
+title: Minimum Number of Operations to Make Array Empty
+url: https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

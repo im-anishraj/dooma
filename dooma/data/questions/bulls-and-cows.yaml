@@ -1,0 +1,23 @@
+id: bulls-and-cows
+title: Bulls and Cows
+url: https://leetcode.com/problems/bulls-and-cows
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  cars24:
+    frequency: 87
+  epic-systems:
+    frequency: 62
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  zopsmart:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

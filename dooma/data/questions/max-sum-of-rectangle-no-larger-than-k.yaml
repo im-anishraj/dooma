@@ -1,0 +1,19 @@
+id: max-sum-of-rectangle-no-larger-than-k
+title: Max Sum of Rectangle No Larger Than K
+url: https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  de-shaw:
+    frequency: 37
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

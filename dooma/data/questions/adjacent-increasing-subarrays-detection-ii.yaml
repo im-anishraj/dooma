@@ -1,0 +1,13 @@
+id: adjacent-increasing-subarrays-detection-ii
+title: Adjacent Increasing Subarrays Detection II
+url: https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

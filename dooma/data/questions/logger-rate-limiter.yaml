@@ -1,0 +1,49 @@
+id: logger-rate-limiter
+title: Logger Rate Limiter
+url: https://leetcode.com/problems/logger-rate-limiter
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  appfolio:
+    frequency: 100
+  apple:
+    frequency: 25
+  atlassian:
+    frequency: 62
+  bloomberg:
+    frequency: 12
+  cloudflare:
+    frequency: 50
+  docusign:
+    frequency: 75
+  google:
+    frequency: 62
+  grammarly:
+    frequency: 75
+  intuit:
+    frequency: 62
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  netflix:
+    frequency: 100
+  oracle:
+    frequency: 62
+  palo-alto-networks:
+    frequency: 62
+  patreon:
+    frequency: 75
+  reddit:
+    frequency: 75
+  roblox:
+    frequency: 62
+  waymo:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,33 @@
+id: exclusive-time-of-functions
+title: Exclusive Time of Functions
+url: https://leetcode.com/problems/exclusive-time-of-functions
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  anthropic:
+    frequency: 75
+  athenahealth:
+    frequency: 62
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 37
+  ibm:
+    frequency: 62
+  linkedin:
+    frequency: 62
+  meta:
+    frequency: 62
+  microsoft:
+    frequency: 25
+  salesforce:
+    frequency: 25
+  uber:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

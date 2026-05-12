@@ -1,0 +1,13 @@
+id: sorted-gcd-pair-queries
+title: Sorted GCD Pair Queries
+url: https://leetcode.com/problems/sorted-gcd-pair-queries
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

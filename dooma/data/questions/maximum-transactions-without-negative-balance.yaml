@@ -1,0 +1,13 @@
+id: maximum-transactions-without-negative-balance
+title: Maximum Transactions Without Negative Balance
+url: https://leetcode.com/problems/maximum-transactions-without-negative-balance
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  paytm:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

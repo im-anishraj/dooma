@@ -1,0 +1,19 @@
+id: the-number-of-beautiful-subsets
+title: The Number of Beautiful Subsets
+url: https://leetcode.com/problems/the-number-of-beautiful-subsets
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  infosys:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

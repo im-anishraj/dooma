@@ -1,0 +1,33 @@
+id: create-hello-world-function
+title: Create Hello World Function
+url: https://leetcode.com/problems/create-hello-world-function
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 50
+  amazon:
+    frequency: 62
+  apple:
+    frequency: 37
+  bloomberg:
+    frequency: 62
+  google:
+    frequency: 75
+  innovaccer:
+    frequency: 87
+  meta:
+    frequency: 62
+  microsoft:
+    frequency: 75
+  tcs:
+    frequency: 25
+  wipro:
+    frequency: 62
+  yandex:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

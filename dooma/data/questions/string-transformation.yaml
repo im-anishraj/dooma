@@ -1,0 +1,17 @@
+id: string-transformation
+title: String Transformation
+url: https://leetcode.com/problems/string-transformation
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  mathworks:
+    frequency: 62
+  snowflake:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

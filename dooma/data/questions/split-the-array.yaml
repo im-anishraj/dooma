@@ -1,0 +1,17 @@
+id: split-the-array
+title: Split the Array
+url: https://leetcode.com/problems/split-the-array
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  google:
+    frequency: 12
+  visa:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

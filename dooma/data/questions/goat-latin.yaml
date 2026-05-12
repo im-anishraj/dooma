@@ -1,0 +1,17 @@
+id: goat-latin
+title: Goat Latin
+url: https://leetcode.com/problems/goat-latin
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  apple:
+    frequency: 25
+  meta:
+    frequency: 62
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

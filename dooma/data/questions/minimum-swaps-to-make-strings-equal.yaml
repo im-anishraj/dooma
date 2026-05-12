@@ -1,0 +1,19 @@
+id: minimum-swaps-to-make-strings-equal
+title: Minimum Swaps to Make Strings Equal
+url: https://leetcode.com/problems/minimum-swaps-to-make-strings-equal
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 12
+  jpmorgan:
+    frequency: 87
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

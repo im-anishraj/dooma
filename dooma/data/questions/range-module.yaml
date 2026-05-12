@@ -1,0 +1,21 @@
+id: range-module
+title: Range Module
+url: https://leetcode.com/problems/range-module
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  coupang:
+    frequency: 87
+  google:
+    frequency: 50
+  machine-zone:
+    frequency: 100
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

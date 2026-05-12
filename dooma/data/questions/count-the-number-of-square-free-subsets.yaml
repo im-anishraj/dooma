@@ -1,0 +1,15 @@
+id: count-the-number-of-square-free-subsets
+title: Count the Number of Square-Free Subsets
+url: https://leetcode.com/problems/count-the-number-of-square-free-subsets
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  medianet:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

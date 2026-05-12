@@ -1,0 +1,13 @@
+id: maximum-balanced-subsequence-sum
+title: Maximum Balanced Subsequence Sum
+url: https://leetcode.com/problems/maximum-balanced-subsequence-sum
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

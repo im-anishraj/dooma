@@ -1,0 +1,25 @@
+id: minimum-height-trees
+title: Minimum Height Trees
+url: https://leetcode.com/problems/minimum-height-trees
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  splunk:
+    frequency: 87
+  stackline:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

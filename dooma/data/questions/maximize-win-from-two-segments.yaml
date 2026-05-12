@@ -1,0 +1,13 @@
+id: maximize-win-from-two-segments
+title: Maximize Win From Two Segments
+url: https://leetcode.com/problems/maximize-win-from-two-segments
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  uber:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

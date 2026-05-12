@@ -1,0 +1,33 @@
+id: minimum-number-of-taps-to-open-to-water-a-garden
+title: Minimum Number of Taps to Open to Water a Garden
+url: https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  akuna-capital:
+    frequency: 100
+  amazon:
+    frequency: 12
+  de-shaw:
+    frequency: 75
+  google:
+    frequency: 12
+  meesho:
+    frequency: 75
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  morgan-stanley:
+    frequency: 50
+  rippling:
+    frequency: 50
+  salesforce:
+    frequency: 62
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

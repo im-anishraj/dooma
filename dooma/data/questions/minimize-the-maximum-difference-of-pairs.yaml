@@ -1,0 +1,23 @@
+id: minimize-the-maximum-difference-of-pairs
+title: Minimize the Maximum Difference of Pairs
+url: https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  navi:
+    frequency: 100
+  zeta:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

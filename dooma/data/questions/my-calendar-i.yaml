@@ -1,0 +1,31 @@
+id: my-calendar-i
+title: My Calendar I
+url: https://leetcode.com/problems/my-calendar-i
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  flexport:
+    frequency: 87
+  google:
+    frequency: 37
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  oracle:
+    frequency: 25
+  snowflake:
+    frequency: 37
+  tiktok:
+    frequency: 37
+  uber:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

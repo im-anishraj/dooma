@@ -1,0 +1,19 @@
+id: binary-gap
+title: Binary Gap
+url: https://leetcode.com/problems/binary-gap
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  ebay:
+    frequency: 87
+  google:
+    frequency: 12
+  twitter:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

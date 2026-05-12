@@ -1,0 +1,33 @@
+id: palindrome-partitioning-ii
+title: Palindrome Partitioning II
+url: https://leetcode.com/problems/palindrome-partitioning-ii
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  flipkart:
+    frequency: 37
+  google:
+    frequency: 12
+  josh-technology:
+    frequency: 62
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  mykaarma:
+    frequency: 100
+  nutanix:
+    frequency: 50
+  scaler:
+    frequency: 100
+  zeta:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

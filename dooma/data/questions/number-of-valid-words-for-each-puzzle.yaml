@@ -1,0 +1,13 @@
+id: number-of-valid-words-for-each-puzzle
+title: Number of Valid Words for Each Puzzle
+url: https://leetcode.com/problems/number-of-valid-words-for-each-puzzle
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  dropbox:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

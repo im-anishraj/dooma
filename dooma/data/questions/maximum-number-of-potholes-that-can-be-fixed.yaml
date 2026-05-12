@@ -1,0 +1,15 @@
+id: maximum-number-of-potholes-that-can-be-fixed
+title: Maximum Number of Potholes That Can Be Fixed
+url: https://leetcode.com/problems/maximum-number-of-potholes-that-can-be-fixed
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  geico:
+    frequency: 100
+  microsoft:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

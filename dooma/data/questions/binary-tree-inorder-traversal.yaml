@@ -1,0 +1,23 @@
+id: binary-tree-inorder-traversal
+title: Binary Tree Inorder Traversal
+url: https://leetcode.com/problems/binary-tree-inorder-traversal
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 37
+  google:
+    frequency: 37
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 50
+  tcs:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

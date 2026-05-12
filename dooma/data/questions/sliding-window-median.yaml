@@ -1,0 +1,31 @@
+id: sliding-window-median
+title: Sliding Window Median
+url: https://leetcode.com/problems/sliding-window-median
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  datadog:
+    frequency: 75
+  doordash:
+    frequency: 37
+  google:
+    frequency: 37
+  meta:
+    frequency: 62
+  microsoft:
+    frequency: 25
+  snapchat:
+    frequency: 37
+  spotify:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,67 @@
+id: longest-valid-parentheses
+title: Longest Valid Parentheses
+url: https://leetcode.com/problems/longest-valid-parentheses
+difficulty: hard
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 50
+  bloomberg:
+    frequency: 37
+  bookingcom:
+    frequency: 50
+  de-shaw:
+    frequency: 37
+  flipkart:
+    frequency: 37
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 37
+  ibm:
+    frequency: 37
+  inmobi:
+    frequency: 62
+  intuit:
+    frequency: 50
+  kotak-mahindra-bank:
+    frequency: 100
+  linkedin:
+    frequency: 37
+  makemytrip:
+    frequency: 62
+  maq-software:
+    frequency: 62
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 50
+  nielsen:
+    frequency: 75
+  nike:
+    frequency: 87
+  nykaa:
+    frequency: 87
+  oracle:
+    frequency: 50
+  sprinklr:
+    frequency: 50
+  tiktok:
+    frequency: 37
+  uber:
+    frequency: 25
+  visa:
+    frequency: 37
+  zeta:
+    frequency: 62
+  zoho:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

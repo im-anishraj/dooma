@@ -1,0 +1,43 @@
+id: binary-tree-right-side-view
+title: Binary Tree Right Side View
+url: https://leetcode.com/problems/binary-tree-right-side-view
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  accolite:
+    frequency: 50
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 37
+  google:
+    frequency: 37
+  meta:
+    frequency: 87
+  microsoft:
+    frequency: 37
+  oracle:
+    frequency: 62
+  servicenow:
+    frequency: 50
+  tiktok:
+    frequency: 62
+  uber:
+    frequency: 50
+  visa:
+    frequency: 37
+  walmart-labs:
+    frequency: 62
+  wix:
+    frequency: 87
+  yandex:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

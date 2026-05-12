@@ -1,0 +1,35 @@
+id: minimum-cost-for-tickets
+title: Minimum Cost For Tickets
+url: https://leetcode.com/problems/minimum-cost-for-tickets
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  grab:
+    frequency: 100
+  intuit:
+    frequency: 37
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 12
+  roku:
+    frequency: 75
+  tiktok:
+    frequency: 37
+  turing:
+    frequency: 87
+  uber:
+    frequency: 37
+  zepto:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

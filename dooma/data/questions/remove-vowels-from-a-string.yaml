@@ -1,0 +1,13 @@
+id: remove-vowels-from-a-string
+title: Remove Vowels from a String
+url: https://leetcode.com/problems/remove-vowels-from-a-string
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: minimize-deviation-in-array
+title: Minimize Deviation in Array
+url: https://leetcode.com/problems/minimize-deviation-in-array
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  apple:
+    frequency: 25
+  samsung:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

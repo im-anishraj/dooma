@@ -1,0 +1,27 @@
+id: task-scheduler-ii
+title: Task Scheduler II
+url: https://leetcode.com/problems/task-scheduler-ii
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  doordash:
+    frequency: 25
+  duolingo:
+    frequency: 62
+  google:
+    frequency: 12
+  meta:
+    frequency: 25
+  nvidia:
+    frequency: 75
+  rubrik:
+    frequency: 37
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

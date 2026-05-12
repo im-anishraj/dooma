@@ -1,0 +1,23 @@
+id: minimum-genetic-mutation
+title: Minimum Genetic Mutation
+url: https://leetcode.com/problems/minimum-genetic-mutation
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  twitter:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,21 @@
+id: maximum-value-of-an-ordered-triplet-ii
+title: Maximum Value of an Ordered Triplet II
+url: https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  medianet:
+    frequency: 87
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

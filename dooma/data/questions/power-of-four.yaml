@@ -1,0 +1,27 @@
+id: power-of-four
+title: Power of Four
+url: https://leetcode.com/problems/power-of-four
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  qualcomm:
+    frequency: 50
+  two-sigma:
+    frequency: 87
+  wix:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,31 @@
+id: minimum-number-of-arrows-to-burst-balloons
+title: Minimum Number of Arrows to Burst Balloons
+url: https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 12
+  livspace:
+    frequency: 87
+  microsoft:
+    frequency: 37
+  tiktok:
+    frequency: 37
+  yahoo:
+    frequency: 50
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

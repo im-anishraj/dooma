@@ -1,0 +1,27 @@
+id: brick-wall
+title: Brick Wall
+url: https://leetcode.com/problems/brick-wall
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  agoda:
+    frequency: 50
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 12
+  kla:
+    frequency: 87
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 12
+  trexquant:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

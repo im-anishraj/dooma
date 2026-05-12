@@ -1,0 +1,25 @@
+id: count-the-number-of-good-subarrays
+title: Count the Number of Good Subarrays
+url: https://leetcode.com/problems/count-the-number-of-good-subarrays
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  roblox:
+    frequency: 50
+  tiktok:
+    frequency: 25
+  uber:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

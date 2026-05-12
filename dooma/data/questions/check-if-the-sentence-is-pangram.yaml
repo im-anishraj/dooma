@@ -1,0 +1,23 @@
+id: check-if-the-sentence-is-pangram
+title: Check if the Sentence Is Pangram
+url: https://leetcode.com/problems/check-if-the-sentence-is-pangram
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 25
+  goldman-sachs:
+    frequency: 50
+  google:
+    frequency: 12
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

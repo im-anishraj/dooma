@@ -1,0 +1,47 @@
+id: cheapest-flights-within-k-stops
+title: Cheapest Flights Within K Stops
+url: https://leetcode.com/problems/cheapest-flights-within-k-stops
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  airbnb:
+    frequency: 75
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 37
+  bloomberg:
+    frequency: 12
+  coupang:
+    frequency: 50
+  de-shaw:
+    frequency: 37
+  expedia:
+    frequency: 50
+  flipkart:
+    frequency: 62
+  google:
+    frequency: 37
+  htc:
+    frequency: 100
+  intuit:
+    frequency: 37
+  makemytrip:
+    frequency: 87
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 25
+  snapchat:
+    frequency: 37
+  snowflake:
+    frequency: 50
+  stripe:
+    frequency: 75
+  uber:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

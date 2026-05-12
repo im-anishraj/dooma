@@ -1,0 +1,15 @@
+id: split-with-minimum-sum
+title: Split With Minimum Sum
+url: https://leetcode.com/problems/split-with-minimum-sum
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

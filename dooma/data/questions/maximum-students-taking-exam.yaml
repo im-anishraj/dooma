@@ -1,0 +1,15 @@
+id: maximum-students-taking-exam
+title: Maximum Students Taking Exam
+url: https://leetcode.com/problems/maximum-students-taking-exam
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  sap:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

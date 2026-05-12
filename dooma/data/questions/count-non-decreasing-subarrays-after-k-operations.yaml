@@ -1,0 +1,15 @@
+id: count-non-decreasing-subarrays-after-k-operations
+title: Count Non-Decreasing Subarrays After K Operations
+url: https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

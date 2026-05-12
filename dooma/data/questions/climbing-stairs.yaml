@@ -1,0 +1,87 @@
+id: climbing-stairs
+title: Climbing Stairs
+url: https://leetcode.com/problems/climbing-stairs
+difficulty: easy
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 87
+  accolite:
+    frequency: 50
+  adobe:
+    frequency: 75
+  agoda:
+    frequency: 62
+  amazon:
+    frequency: 62
+  apple:
+    frequency: 62
+  barclays:
+    frequency: 62
+  blackrock:
+    frequency: 37
+  bloomberg:
+    frequency: 62
+  bytedance:
+    frequency: 50
+  citadel:
+    frequency: 50
+  cognizant:
+    frequency: 50
+  deloitte:
+    frequency: 50
+  disney:
+    frequency: 87
+  flipkart:
+    frequency: 37
+  fractal-analytics:
+    frequency: 62
+  goldman-sachs:
+    frequency: 37
+  google:
+    frequency: 62
+  grammarly:
+    frequency: 75
+  hpe:
+    frequency: 100
+  hsbc:
+    frequency: 87
+  ibm:
+    frequency: 50
+  infosys:
+    frequency: 62
+  jetbrains:
+    frequency: 100
+  josh-technology:
+    frequency: 62
+  jpmorgan:
+    frequency: 37
+  medianet:
+    frequency: 62
+  meta:
+    frequency: 62
+  microsoft:
+    frequency: 62
+  nvidia:
+    frequency: 37
+  oracle:
+    frequency: 37
+  paypal:
+    frequency: 37
+  qualcomm:
+    frequency: 62
+  rakuten:
+    frequency: 87
+  tcs:
+    frequency: 37
+  tiktok:
+    frequency: 50
+  uber:
+    frequency: 25
+  zoho:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

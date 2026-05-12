@@ -1,0 +1,31 @@
+id: minimum-number-of-steps-to-make-two-strings-anagram
+title: Minimum Number of Steps to Make Two Strings Anagram
+url: https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 50
+  doordash:
+    frequency: 62
+  google:
+    frequency: 12
+  ixl:
+    frequency: 75
+  jpmorgan:
+    frequency: 75
+  microsoft:
+    frequency: 12
+  oracle:
+    frequency: 37
+  sofi:
+    frequency: 100
+  twitter:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

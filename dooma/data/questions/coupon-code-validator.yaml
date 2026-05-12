@@ -1,0 +1,13 @@
+id: coupon-code-validator
+title: Coupon Code Validator
+url: https://leetcode.com/problems/coupon-code-validator
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,19 @@
+id: number-of-distinct-substrings-in-a-string
+title: Number of Distinct Substrings in a String
+url: https://leetcode.com/problems/number-of-distinct-substrings-in-a-string
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  dunzo:
+    frequency: 100
+  intuit:
+    frequency: 75
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

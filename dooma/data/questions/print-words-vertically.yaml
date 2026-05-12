@@ -1,0 +1,15 @@
+id: print-words-vertically
+title: Print Words Vertically
+url: https://leetcode.com/problems/print-words-vertically
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  guidewire:
+    frequency: 87
+  microsoft:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

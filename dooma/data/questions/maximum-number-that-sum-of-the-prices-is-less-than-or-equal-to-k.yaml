@@ -1,0 +1,15 @@
+id: maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k
+title: Maximum Number That Sum of the Prices Is Less Than or Equal to K
+url: https://leetcode.com/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

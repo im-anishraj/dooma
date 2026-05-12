@@ -1,0 +1,13 @@
+id: number-of-beautiful-integers-in-the-range
+title: Number of Beautiful Integers in the Range
+url: https://leetcode.com/problems/number-of-beautiful-integers-in-the-range
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  infosys:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: find-champion-ii
+title: Find Champion II
+url: https://leetcode.com/problems/find-champion-ii
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

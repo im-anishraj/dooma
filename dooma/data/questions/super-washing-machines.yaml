@@ -1,0 +1,15 @@
+id: super-washing-machines
+title: Super Washing Machines
+url: https://leetcode.com/problems/super-washing-machines
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

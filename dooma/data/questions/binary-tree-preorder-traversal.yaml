@@ -1,0 +1,23 @@
+id: binary-tree-preorder-traversal
+title: Binary Tree Preorder Traversal
+url: https://leetcode.com/problems/binary-tree-preorder-traversal
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  salesforce:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

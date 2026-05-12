@@ -1,0 +1,15 @@
+id: partition-array-into-disjoint-intervals
+title: Partition Array into Disjoint Intervals
+url: https://leetcode.com/problems/partition-array-into-disjoint-intervals
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

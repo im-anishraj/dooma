@@ -1,0 +1,15 @@
+id: find-distance-in-a-binary-tree
+title: Find Distance in a Binary Tree
+url: https://leetcode.com/problems/find-distance-in-a-binary-tree
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  weride:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

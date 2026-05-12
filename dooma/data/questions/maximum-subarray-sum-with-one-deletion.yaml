@@ -1,0 +1,19 @@
+id: maximum-subarray-sum-with-one-deletion
+title: Maximum Subarray Sum with One Deletion
+url: https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  two-sigma:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: smallest-sufficient-team
+title: Smallest Sufficient Team
+url: https://leetcode.com/problems/smallest-sufficient-team
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  tcs:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

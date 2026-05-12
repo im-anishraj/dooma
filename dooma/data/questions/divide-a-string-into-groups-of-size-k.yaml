@@ -1,0 +1,17 @@
+id: divide-a-string-into-groups-of-size-k
+title: Divide a String Into Groups of Size k
+url: https://leetcode.com/problems/divide-a-string-into-groups-of-size-k
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  canonical:
+    frequency: 100
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

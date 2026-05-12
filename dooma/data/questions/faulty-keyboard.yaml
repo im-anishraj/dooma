@@ -1,0 +1,15 @@
+id: faulty-keyboard
+title: Faulty Keyboard
+url: https://leetcode.com/problems/faulty-keyboard
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  microsoft:
+    frequency: 12
+  samsung:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,19 @@
+id: convert-the-temperature
+title: Convert the Temperature
+url: https://leetcode.com/problems/convert-the-temperature
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,19 @@
+id: tweet-counts-per-frequency
+title: Tweet Counts Per Frequency
+url: https://leetcode.com/problems/tweet-counts-per-frequency
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  intercom:
+    frequency: 100
+  microsoft:
+    frequency: 12
+  twitter:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

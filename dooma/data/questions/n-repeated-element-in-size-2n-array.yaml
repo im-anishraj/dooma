@@ -1,0 +1,23 @@
+id: n-repeated-element-in-size-2n-array
+title: N-Repeated Element in Size 2N Array
+url: https://leetcode.com/problems/n-repeated-element-in-size-2n-array
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  akamai:
+    frequency: 100
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

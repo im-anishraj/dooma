@@ -1,0 +1,23 @@
+id: set-mismatch
+title: Set Mismatch
+url: https://leetcode.com/problems/set-mismatch
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 25
+  github:
+    frequency: 87
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

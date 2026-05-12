@@ -1,0 +1,13 @@
+id: number-of-subarrays-with-and-value-of-k
+title: Number of Subarrays With AND Value of K
+url: https://leetcode.com/problems/number-of-subarrays-with-and-value-of-k
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  de-shaw:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

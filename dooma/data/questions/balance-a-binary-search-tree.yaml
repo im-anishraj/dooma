@@ -1,0 +1,21 @@
+id: balance-a-binary-search-tree
+title: Balance a Binary Search Tree
+url: https://leetcode.com/problems/balance-a-binary-search-tree
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 12
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

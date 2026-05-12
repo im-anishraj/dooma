@@ -1,0 +1,45 @@
+id: open-the-lock
+title: Open the Lock
+url: https://leetcode.com/problems/open-the-lock
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 12
+  bytedance:
+    frequency: 50
+  cars24:
+    frequency: 87
+  coupang:
+    frequency: 50
+  de-shaw:
+    frequency: 50
+  ebay:
+    frequency: 75
+  goldman-sachs:
+    frequency: 37
+  google:
+    frequency: 12
+  linkedin:
+    frequency: 25
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 25
+  oracle:
+    frequency: 25
+  snapchat:
+    frequency: 37
+  tiktok:
+    frequency: 37
+  uber:
+    frequency: 50
+  zip:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

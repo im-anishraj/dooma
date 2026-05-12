@@ -1,0 +1,15 @@
+id: best-poker-hand
+title: Best Poker Hand
+url: https://leetcode.com/problems/best-poker-hand
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

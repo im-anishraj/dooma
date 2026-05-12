@@ -1,0 +1,15 @@
+id: sum-of-mutated-array-closest-to-target
+title: Sum of Mutated Array Closest to Target
+url: https://leetcode.com/problems/sum-of-mutated-array-closest-to-target
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

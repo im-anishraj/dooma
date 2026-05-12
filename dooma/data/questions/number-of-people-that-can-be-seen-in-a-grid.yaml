@@ -1,0 +1,13 @@
+id: number-of-people-that-can-be-seen-in-a-grid
+title: Number of People That Can Be Seen in a Grid
+url: https://leetcode.com/problems/number-of-people-that-can-be-seen-in-a-grid
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  uber:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

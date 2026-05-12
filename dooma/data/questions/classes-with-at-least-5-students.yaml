@@ -1,0 +1,17 @@
+id: classes-with-at-least-5-students
+title: Classes With at Least 5 Students
+url: https://leetcode.com/problems/classes-with-at-least-5-students
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

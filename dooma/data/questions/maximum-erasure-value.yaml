@@ -1,0 +1,25 @@
+id: maximum-erasure-value
+title: Maximum Erasure Value
+url: https://leetcode.com/problems/maximum-erasure-value
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  at-t:
+    frequency: 100
+  bloomberg:
+    frequency: 12
+  cashfree:
+    frequency: 100
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

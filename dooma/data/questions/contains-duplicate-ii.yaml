@@ -1,0 +1,39 @@
+id: contains-duplicate-ii
+title: Contains Duplicate II
+url: https://leetcode.com/problems/contains-duplicate-ii
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 50
+  adobe:
+    frequency: 37
+  airbnb:
+    frequency: 75
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 25
+  arista-networks:
+    frequency: 75
+  bloomberg:
+    frequency: 50
+  google:
+    frequency: 50
+  meta:
+    frequency: 62
+  microsoft:
+    frequency: 50
+  netflix:
+    frequency: 75
+  palantir-technologies:
+    frequency: 75
+  tcs:
+    frequency: 37
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

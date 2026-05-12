@@ -1,0 +1,23 @@
+id: single-number-ii
+title: Single Number II
+url: https://leetcode.com/problems/single-number-ii
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 37
+  google:
+    frequency: 37
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

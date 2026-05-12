@@ -1,0 +1,43 @@
+id: shortest-bridge
+title: Shortest Bridge
+url: https://leetcode.com/problems/shortest-bridge
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  bytedance:
+    frequency: 62
+  coupang:
+    frequency: 75
+  docusign:
+    frequency: 62
+  flipkart:
+    frequency: 50
+  google:
+    frequency: 25
+  mckinsey:
+    frequency: 100
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 25
+  salesforce:
+    frequency: 25
+  tesla:
+    frequency: 50
+  tiktok:
+    frequency: 50
+  tower-research:
+    frequency: 100
+  uber:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

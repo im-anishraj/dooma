@@ -1,0 +1,15 @@
+id: apply-operations-to-make-two-strings-equal
+title: Apply Operations to Make Two Strings Equal
+url: https://leetcode.com/problems/apply-operations-to-make-two-strings-equal
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  zeta:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

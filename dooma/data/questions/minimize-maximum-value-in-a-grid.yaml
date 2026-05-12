@@ -1,0 +1,13 @@
+id: minimize-maximum-value-in-a-grid
+title: Minimize Maximum Value in a Grid
+url: https://leetcode.com/problems/minimize-maximum-value-in-a-grid
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

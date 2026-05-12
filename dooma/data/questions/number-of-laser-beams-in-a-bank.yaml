@@ -1,0 +1,15 @@
+id: number-of-laser-beams-in-a-bank
+title: Number of Laser Beams in a Bank
+url: https://leetcode.com/problems/number-of-laser-beams-in-a-bank
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

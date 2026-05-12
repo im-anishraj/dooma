@@ -1,0 +1,27 @@
+id: online-stock-span
+title: Online Stock Span
+url: https://leetcode.com/problems/online-stock-span
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 50
+  google:
+    frequency: 37
+  ibm:
+    frequency: 37
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

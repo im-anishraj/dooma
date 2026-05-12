@@ -1,0 +1,15 @@
+id: maximum-or
+title: Maximum OR
+url: https://leetcode.com/problems/maximum-or
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  de-shaw:
+    frequency: 37
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

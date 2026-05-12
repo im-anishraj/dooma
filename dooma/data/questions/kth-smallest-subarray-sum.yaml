@@ -1,0 +1,13 @@
+id: kth-smallest-subarray-sum
+title: Kth Smallest Subarray Sum
+url: https://leetcode.com/problems/kth-smallest-subarray-sum
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

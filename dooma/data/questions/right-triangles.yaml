@@ -1,0 +1,15 @@
+id: right-triangles
+title: Right Triangles
+url: https://leetcode.com/problems/right-triangles
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  mitsogo:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

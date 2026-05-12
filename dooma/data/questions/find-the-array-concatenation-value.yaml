@@ -1,0 +1,15 @@
+id: find-the-array-concatenation-value
+title: Find the Array Concatenation Value
+url: https://leetcode.com/problems/find-the-array-concatenation-value
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  ibm:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

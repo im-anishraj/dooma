@@ -1,0 +1,19 @@
+id: apply-operations-to-an-array
+title: Apply Operations to an Array
+url: https://leetcode.com/problems/apply-operations-to-an-array
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

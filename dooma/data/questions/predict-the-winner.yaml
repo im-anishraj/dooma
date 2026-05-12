@@ -1,0 +1,25 @@
+id: predict-the-winner
+title: Predict the Winner
+url: https://leetcode.com/problems/predict-the-winner
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 12
+  cisco:
+    frequency: 37
+  google:
+    frequency: 37
+  microsoft:
+    frequency: 12
+  tanium:
+    frequency: 75
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

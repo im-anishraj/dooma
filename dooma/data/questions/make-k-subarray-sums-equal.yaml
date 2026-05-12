@@ -1,0 +1,15 @@
+id: make-k-subarray-sums-equal
+title: Make K-Subarray Sums Equal
+url: https://leetcode.com/problems/make-k-subarray-sums-equal
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  morgan-stanley:
+    frequency: 62
+  observeai:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

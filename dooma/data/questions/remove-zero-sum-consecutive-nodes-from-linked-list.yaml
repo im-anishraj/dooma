@@ -1,0 +1,29 @@
+id: remove-zero-sum-consecutive-nodes-from-linked-list
+title: Remove Zero Sum Consecutive Nodes from Linked List
+url: https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  bytedance:
+    frequency: 50
+  google:
+    frequency: 12
+  josh-technology:
+    frequency: 62
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  uber:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

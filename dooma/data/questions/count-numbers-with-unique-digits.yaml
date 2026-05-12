@@ -1,0 +1,15 @@
+id: count-numbers-with-unique-digits
+title: Count Numbers with Unique Digits
+url: https://leetcode.com/problems/count-numbers-with-unique-digits
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

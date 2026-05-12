@@ -1,0 +1,109 @@
+id: move-zeroes
+title: Move Zeroes
+url: https://leetcode.com/problems/move-zeroes
+difficulty: easy
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 62
+  adobe:
+    frequency: 62
+  adp:
+    frequency: 87
+  agoda:
+    frequency: 50
+  amazon:
+    frequency: 62
+  amd:
+    frequency: 75
+  anduril:
+    frequency: 50
+  apple:
+    frequency: 62
+  bloomberg:
+    frequency: 62
+  capgemini:
+    frequency: 62
+  cisco:
+    frequency: 37
+  cognizant:
+    frequency: 50
+  coinswitch-kuber:
+    frequency: 100
+  crowdstrike:
+    frequency: 62
+  ebay:
+    frequency: 62
+  epam-systems:
+    frequency: 75
+  goldman-sachs:
+    frequency: 37
+  google:
+    frequency: 62
+  ibm:
+    frequency: 37
+  infosys:
+    frequency: 62
+  intuit:
+    frequency: 37
+  josh-technology:
+    frequency: 87
+  jtg:
+    frequency: 100
+  kpmg:
+    frequency: 87
+  lti:
+    frequency: 87
+  meta:
+    frequency: 62
+  microsoft:
+    frequency: 62
+  netapp:
+    frequency: 87
+  nvidia:
+    frequency: 75
+  oracle:
+    frequency: 50
+  paypal:
+    frequency: 37
+  qualcomm:
+    frequency: 75
+  salesforce:
+    frequency: 37
+  samsung:
+    frequency: 50
+  sap:
+    frequency: 62
+  servicenow:
+    frequency: 62
+  sigmoid:
+    frequency: 75
+  tcs:
+    frequency: 62
+  tesla:
+    frequency: 50
+  tiktok:
+    frequency: 50
+  uber:
+    frequency: 37
+  verizon:
+    frequency: 62
+  vk:
+    frequency: 87
+  walmart-labs:
+    frequency: 50
+  wix:
+    frequency: 87
+  yahoo:
+    frequency: 50
+  yandex:
+    frequency: 75
+  zoho:
+    frequency: 62
+  zomato:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

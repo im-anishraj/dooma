@@ -1,0 +1,13 @@
+id: number-of-times-a-driver-was-a-passenger
+title: Number of Times a Driver Was a Passenger
+url: https://leetcode.com/problems/number-of-times-a-driver-was-a-passenger
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

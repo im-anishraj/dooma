@@ -1,0 +1,21 @@
+id: ways-to-express-an-integer-as-sum-of-powers
+title: Ways to Express an Integer as Sum of Powers
+url: https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

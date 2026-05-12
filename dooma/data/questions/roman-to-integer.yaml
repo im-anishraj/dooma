@@ -1,0 +1,101 @@
+id: roman-to-integer
+title: Roman to Integer
+url: https://leetcode.com/problems/roman-to-integer
+difficulty: easy
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 50
+  adobe:
+    frequency: 62
+  amazon:
+    frequency: 62
+  amd:
+    frequency: 100
+  apple:
+    frequency: 37
+  axon:
+    frequency: 50
+  bloomberg:
+    frequency: 75
+  bny-mellon:
+    frequency: 62
+  bookingcom:
+    frequency: 50
+  capgemini:
+    frequency: 50
+  cashfree:
+    frequency: 62
+  cognizant:
+    frequency: 50
+  deloitte:
+    frequency: 50
+  deltax:
+    frequency: 100
+  doordash:
+    frequency: 25
+  epam-systems:
+    frequency: 50
+  expedia:
+    frequency: 62
+  geico:
+    frequency: 62
+  goldman-sachs:
+    frequency: 37
+  google:
+    frequency: 62
+  ibm:
+    frequency: 87
+  infosys:
+    frequency: 37
+  jpmorgan:
+    frequency: 37
+  linkedin:
+    frequency: 25
+  meta:
+    frequency: 62
+  microsoft:
+    frequency: 75
+  oracle:
+    frequency: 62
+  philips:
+    frequency: 100
+  pwc:
+    frequency: 75
+  salesforce:
+    frequency: 37
+  sap:
+    frequency: 50
+  snowflake:
+    frequency: 37
+  sofi:
+    frequency: 62
+  tcs:
+    frequency: 50
+  tiktok:
+    frequency: 37
+  uber:
+    frequency: 50
+  uipath:
+    frequency: 62
+  virtusa:
+    frequency: 75
+  walmart-labs:
+    frequency: 37
+  warnermedia:
+    frequency: 75
+  wise:
+    frequency: 62
+  wix:
+    frequency: 75
+  yahoo:
+    frequency: 87
+  yandex:
+    frequency: 25
+  zoho:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

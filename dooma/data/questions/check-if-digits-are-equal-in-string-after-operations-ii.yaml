@@ -1,0 +1,15 @@
+id: check-if-digits-are-equal-in-string-after-operations-ii
+title: Check If Digits Are Equal in String After Operations II
+url: https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-ii
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  adp:
+    frequency: 100
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

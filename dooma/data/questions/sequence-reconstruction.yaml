@@ -1,0 +1,15 @@
+id: sequence-reconstruction
+title: Sequence Reconstruction
+url: https://leetcode.com/problems/sequence-reconstruction
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

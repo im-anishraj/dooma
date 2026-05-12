@@ -1,0 +1,23 @@
+id: minimum-time-to-repair-cars
+title: Minimum Time to Repair Cars
+url: https://leetcode.com/problems/minimum-time-to-repair-cars
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  deloitte:
+    frequency: 50
+  google:
+    frequency: 25
+  hashedin:
+    frequency: 75
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

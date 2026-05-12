@@ -1,0 +1,35 @@
+id: department-top-three-salaries
+title: Department Top Three Salaries
+url: https://leetcode.com/problems/department-top-three-salaries
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  amazon:
+    frequency: 37
+  bcg:
+    frequency: 75
+  bloomberg:
+    frequency: 25
+  dell:
+    frequency: 62
+  fractal-analytics:
+    frequency: 62
+  google:
+    frequency: 12
+  hcl:
+    frequency: 62
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  ozon:
+    frequency: 87
+  tcs:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

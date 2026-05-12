@@ -1,0 +1,67 @@
+id: remove-duplicates-from-sorted-array
+title: Remove Duplicates from Sorted Array
+url: https://leetcode.com/problems/remove-duplicates-from-sorted-array
+difficulty: easy
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 62
+  adobe:
+    frequency: 50
+  amazon:
+    frequency: 62
+  apple:
+    frequency: 62
+  bloomberg:
+    frequency: 75
+  capgemini:
+    frequency: 62
+  cisco:
+    frequency: 50
+  cognizant:
+    frequency: 50
+  deloitte:
+    frequency: 62
+  epam-systems:
+    frequency: 50
+  google:
+    frequency: 62
+  ibm:
+    frequency: 37
+  infosys:
+    frequency: 62
+  meta:
+    frequency: 62
+  microsoft:
+    frequency: 75
+  morgan-stanley:
+    frequency: 50
+  myntra:
+    frequency: 62
+  nagarro:
+    frequency: 62
+  oracle:
+    frequency: 37
+  qualcomm:
+    frequency: 50
+  sap:
+    frequency: 50
+  siemens:
+    frequency: 62
+  tcs:
+    frequency: 50
+  uber:
+    frequency: 25
+  udemy:
+    frequency: 100
+  walmart-labs:
+    frequency: 37
+  yandex:
+    frequency: 37
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

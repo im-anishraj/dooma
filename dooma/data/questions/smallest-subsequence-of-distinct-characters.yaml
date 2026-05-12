@@ -1,0 +1,19 @@
+id: smallest-subsequence-of-distinct-characters
+title: Smallest Subsequence of Distinct Characters
+url: https://leetcode.com/problems/smallest-subsequence-of-distinct-characters
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bytedance:
+    frequency: 87
+  factset:
+    frequency: 100
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

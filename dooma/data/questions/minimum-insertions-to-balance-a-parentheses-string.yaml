@@ -1,0 +1,19 @@
+id: minimum-insertions-to-balance-a-parentheses-string
+title: Minimum Insertions to Balance a Parentheses String
+url: https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  tiktok:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

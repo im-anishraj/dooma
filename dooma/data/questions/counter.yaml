@@ -1,0 +1,23 @@
+id: counter
+title: Counter
+url: https://leetcode.com/problems/counter
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 25
+  epam-systems:
+    frequency: 50
+  google:
+    frequency: 37
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

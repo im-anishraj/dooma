@@ -1,0 +1,15 @@
+id: list-the-products-ordered-in-a-period
+title: List the Products Ordered in a Period
+url: https://leetcode.com/problems/list-the-products-ordered-in-a-period
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

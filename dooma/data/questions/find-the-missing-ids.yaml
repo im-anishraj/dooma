@@ -1,0 +1,13 @@
+id: find-the-missing-ids
+title: Find the Missing IDs
+url: https://leetcode.com/problems/find-the-missing-ids
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

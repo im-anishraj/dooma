@@ -1,0 +1,19 @@
+id: apply-transform-over-each-element-in-array
+title: Apply Transform Over Each Element in Array
+url: https://leetcode.com/problems/apply-transform-over-each-element-in-array
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

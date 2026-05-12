@@ -1,0 +1,25 @@
+id: determine-if-two-strings-are-close
+title: Determine if Two Strings Are Close
+url: https://leetcode.com/problems/determine-if-two-strings-are-close
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  phonepe:
+    frequency: 62
+  postmates:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

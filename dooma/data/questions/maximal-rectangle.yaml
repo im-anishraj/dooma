@@ -1,0 +1,53 @@
+id: maximal-rectangle
+title: Maximal Rectangle
+url: https://leetcode.com/problems/maximal-rectangle
+difficulty: hard
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 25
+  arcesium:
+    frequency: 62
+  bloomberg:
+    frequency: 37
+  de-shaw:
+    frequency: 37
+  flipkart:
+    frequency: 50
+  goldman-sachs:
+    frequency: 37
+  google:
+    frequency: 50
+  intuit:
+    frequency: 50
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 50
+  salesforce:
+    frequency: 25
+  slice:
+    frequency: 100
+  sprinklr:
+    frequency: 50
+  tcs:
+    frequency: 37
+  tiktok:
+    frequency: 25
+  visa:
+    frequency: 37
+  yahoo:
+    frequency: 50
+  zeta:
+    frequency: 62
+  zoho:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

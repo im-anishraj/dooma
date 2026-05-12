@@ -1,0 +1,17 @@
+id: find-nearest-point-that-has-the-same-x-or-y-coordinate
+title: Find Nearest Point That Has the Same X or Y Coordinate
+url: https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  doordash:
+    frequency: 62
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

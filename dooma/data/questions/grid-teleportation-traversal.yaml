@@ -1,0 +1,15 @@
+id: grid-teleportation-traversal
+title: Grid Teleportation Traversal
+url: https://leetcode.com/problems/grid-teleportation-traversal
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  meta:
+    frequency: 12
+  visa:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

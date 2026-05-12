@@ -1,0 +1,17 @@
+id: the-earliest-moment-when-everyone-become-friends
+title: The Earliest Moment When Everyone Become Friends
+url: https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  expedia:
+    frequency: 100
+  google:
+    frequency: 50
+  uber:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

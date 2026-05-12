@@ -1,0 +1,37 @@
+id: rotate-string
+title: Rotate String
+url: https://leetcode.com/problems/rotate-string
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 50
+  google:
+    frequency: 37
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 25
+  morgan-stanley:
+    frequency: 50
+  natwest:
+    frequency: 100
+  oracle:
+    frequency: 37
+  rivian:
+    frequency: 75
+  visa:
+    frequency: 37
+  wells-fargo:
+    frequency: 75
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

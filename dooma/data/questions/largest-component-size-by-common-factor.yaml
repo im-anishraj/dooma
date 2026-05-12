@@ -1,0 +1,15 @@
+id: largest-component-size-by-common-factor
+title: Largest Component Size by Common Factor
+url: https://leetcode.com/problems/largest-component-size-by-common-factor
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

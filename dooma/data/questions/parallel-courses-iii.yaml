@@ -1,0 +1,27 @@
+id: parallel-courses-iii
+title: Parallel Courses III
+url: https://leetcode.com/problems/parallel-courses-iii
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  acko:
+    frequency: 87
+  amazon:
+    frequency: 12
+  citadel:
+    frequency: 75
+  google:
+    frequency: 25
+  snowflake:
+    frequency: 87
+  stripe:
+    frequency: 50
+  tiktok:
+    frequency: 37
+  two-sigma:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

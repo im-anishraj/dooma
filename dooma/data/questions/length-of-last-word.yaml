@@ -1,0 +1,27 @@
+id: length-of-last-word
+title: Length of Last Word
+url: https://leetcode.com/problems/length-of-last-word
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 50
+  google:
+    frequency: 50
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 37
+  qualcomm:
+    frequency: 50
+  tcs:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

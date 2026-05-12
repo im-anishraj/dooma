@@ -1,0 +1,19 @@
+id: allocate-mailboxes
+title: Allocate Mailboxes
+url: https://leetcode.com/problems/allocate-mailboxes
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 37
+  goldman-sachs:
+    frequency: 37
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

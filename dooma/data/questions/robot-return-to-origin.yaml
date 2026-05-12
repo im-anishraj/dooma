@@ -1,0 +1,21 @@
+id: robot-return-to-origin
+title: Robot Return to Origin
+url: https://leetcode.com/problems/robot-return-to-origin
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  goldman-sachs:
+    frequency: 50
+  google:
+    frequency: 25
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

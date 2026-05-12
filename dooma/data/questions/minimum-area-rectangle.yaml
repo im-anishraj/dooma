@@ -1,0 +1,25 @@
+id: minimum-area-rectangle
+title: Minimum Area Rectangle
+url: https://leetcode.com/problems/minimum-area-rectangle
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  bytedance:
+    frequency: 50
+  flipkart:
+    frequency: 50
+  google:
+    frequency: 50
+  meta:
+    frequency: 12
+  snapchat:
+    frequency: 62
+  verily:
+    frequency: 87
+  waymo:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

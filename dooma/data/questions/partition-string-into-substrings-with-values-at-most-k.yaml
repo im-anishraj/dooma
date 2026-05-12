@@ -1,0 +1,13 @@
+id: partition-string-into-substrings-with-values-at-most-k
+title: Partition String Into Substrings With Values at Most K
+url: https://leetcode.com/problems/partition-string-into-substrings-with-values-at-most-k
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

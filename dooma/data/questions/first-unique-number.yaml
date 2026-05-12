@@ -1,0 +1,21 @@
+id: first-unique-number
+title: First Unique Number
+url: https://leetcode.com/problems/first-unique-number
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  tomtom:
+    frequency: 87
+  uber:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

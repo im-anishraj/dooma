@@ -1,0 +1,15 @@
+id: orderly-queue
+title: Orderly Queue
+url: https://leetcode.com/problems/orderly-queue
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

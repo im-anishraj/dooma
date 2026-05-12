@@ -1,0 +1,21 @@
+id: largest-number-after-digit-swaps-by-parity
+title: Largest Number After Digit Swaps by Parity
+url: https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  ibm:
+    frequency: 50
+  salesforce:
+    frequency: 50
+  zscaler:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

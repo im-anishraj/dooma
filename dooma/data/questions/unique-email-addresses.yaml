@@ -1,0 +1,19 @@
+id: unique-email-addresses
+title: Unique Email Addresses
+url: https://leetcode.com/problems/unique-email-addresses
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+  intuit:
+    frequency: 62
+  wix:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

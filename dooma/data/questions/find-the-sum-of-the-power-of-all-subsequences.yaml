@@ -1,0 +1,15 @@
+id: find-the-sum-of-the-power-of-all-subsequences
+title: Find the Sum of the Power of All Subsequences
+url: https://leetcode.com/problems/find-the-sum-of-the-power-of-all-subsequences
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  de-shaw:
+    frequency: 75
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

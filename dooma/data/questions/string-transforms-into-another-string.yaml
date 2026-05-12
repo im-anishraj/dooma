@@ -1,0 +1,13 @@
+id: string-transforms-into-another-string
+title: String Transforms Into Another String
+url: https://leetcode.com/problems/string-transforms-into-another-string
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

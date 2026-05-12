@@ -1,0 +1,27 @@
+id: range-sum-query-immutable
+title: Range Sum Query - Immutable
+url: https://leetcode.com/problems/range-sum-query-immutable
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 37
+  google:
+    frequency: 37
+  infosys:
+    frequency: 50
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 25
+  palantir-technologies:
+    frequency: 62
+  tcs:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

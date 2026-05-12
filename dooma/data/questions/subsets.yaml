@@ -1,0 +1,51 @@
+id: subsets
+title: Subsets
+url: https://leetcode.com/problems/subsets
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 62
+  bloomberg:
+    frequency: 75
+  bytedance:
+    frequency: 50
+  coupang:
+    frequency: 100
+  fiverr:
+    frequency: 87
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 50
+  ibm:
+    frequency: 37
+  infosys:
+    frequency: 50
+  meta:
+    frequency: 62
+  microsoft:
+    frequency: 50
+  oracle:
+    frequency: 25
+  paypal:
+    frequency: 50
+  tcs:
+    frequency: 37
+  tiktok:
+    frequency: 37
+  uber:
+    frequency: 50
+  walmart-labs:
+    frequency: 37
+  wix:
+    frequency: 62
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: minimum-weighted-subgraph-with-the-required-paths
+title: Minimum Weighted Subgraph With the Required Paths
+url: https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

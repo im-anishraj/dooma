@@ -1,0 +1,15 @@
+id: find-the-lexicographically-smallest-valid-sequence
+title: Find the Lexicographically Smallest Valid Sequence
+url: https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,23 @@
+id: maximum-sum-of-3-non-overlapping-subarrays
+title: Maximum Sum of 3 Non-Overlapping Subarrays
+url: https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  general-motors:
+    frequency: 50
+  google:
+    frequency: 37
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

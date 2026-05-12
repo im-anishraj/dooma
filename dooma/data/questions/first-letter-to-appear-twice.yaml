@@ -1,0 +1,15 @@
+id: first-letter-to-appear-twice
+title: First Letter to Appear Twice
+url: https://leetcode.com/problems/first-letter-to-appear-twice
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  apple:
+    frequency: 25
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

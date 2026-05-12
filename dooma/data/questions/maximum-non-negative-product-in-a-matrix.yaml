@@ -1,0 +1,13 @@
+id: maximum-non-negative-product-in-a-matrix
+title: Maximum Non Negative Product in a Matrix
+url: https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,33 @@
+id: construct-binary-tree-from-preorder-and-inorder-traversal
+title: Construct Binary Tree from Preorder and Inorder Traversal
+url: https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 50
+  amazon:
+    frequency: 50
+  bloomberg:
+    frequency: 50
+  google:
+    frequency: 37
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 37
+  pure:
+    frequency: 100
+  salesforce:
+    frequency: 25
+  snowflake:
+    frequency: 37
+  tiktok:
+    frequency: 62
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

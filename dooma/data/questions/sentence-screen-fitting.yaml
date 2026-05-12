@@ -1,0 +1,13 @@
+id: sentence-screen-fitting
+title: Sentence Screen Fitting
+url: https://leetcode.com/problems/sentence-screen-fitting
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

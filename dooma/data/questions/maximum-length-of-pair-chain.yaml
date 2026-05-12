@@ -1,0 +1,17 @@
+id: maximum-length-of-pair-chain
+title: Maximum Length of Pair Chain
+url: https://leetcode.com/problems/maximum-length-of-pair-chain
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  google:
+    frequency: 12
+  swiggy:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

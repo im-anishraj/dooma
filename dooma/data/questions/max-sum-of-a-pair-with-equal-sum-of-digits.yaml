@@ -1,0 +1,23 @@
+id: max-sum-of-a-pair-with-equal-sum-of-digits
+title: Max Sum of a Pair With Equal Sum of Digits
+url: https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  nvidia:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

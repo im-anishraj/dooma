@@ -1,0 +1,27 @@
+id: minimum-moves-to-equal-array-elements
+title: Minimum Moves to Equal Array Elements
+url: https://leetcode.com/problems/minimum-moves-to-equal-array-elements
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  coursera:
+    frequency: 100
+  google:
+    frequency: 12
+  ibm:
+    frequency: 75
+  indeed:
+    frequency: 100
+  jpmorgan:
+    frequency: 37
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

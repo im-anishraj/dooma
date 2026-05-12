@@ -1,0 +1,185 @@
+id: number-of-islands
+title: Number of Islands
+url: https://leetcode.com/problems/number-of-islands
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 50
+  adobe:
+    frequency: 62
+  amazon:
+    frequency: 87
+  amd:
+    frequency: 100
+  anduril:
+    frequency: 100
+  apple:
+    frequency: 87
+  arista-networks:
+    frequency: 62
+  axon:
+    frequency: 50
+  barclays:
+    frequency: 62
+  bitgo:
+    frequency: 87
+  blackrock:
+    frequency: 37
+  bloomberg:
+    frequency: 87
+  bytedance:
+    frequency: 75
+  capital-one:
+    frequency: 62
+  cisco:
+    frequency: 50
+  citadel:
+    frequency: 62
+  cloudflare:
+    frequency: 62
+  comcast:
+    frequency: 75
+  coupang:
+    frequency: 62
+  crowdstrike:
+    frequency: 100
+  de-shaw:
+    frequency: 37
+  docusign:
+    frequency: 75
+  doordash:
+    frequency: 37
+  dropbox:
+    frequency: 62
+  earnin:
+    frequency: 100
+  ebay:
+    frequency: 75
+  expedia:
+    frequency: 62
+  flipkart:
+    frequency: 50
+  goldman-sachs:
+    frequency: 62
+  google:
+    frequency: 62
+  grammarly:
+    frequency: 50
+  hashedin:
+    frequency: 62
+  hive:
+    frequency: 100
+  hotstar:
+    frequency: 62
+  huawei:
+    frequency: 87
+  ibm:
+    frequency: 50
+  infosys:
+    frequency: 50
+  intel:
+    frequency: 87
+  kickdrum:
+    frequency: 87
+  linkedin:
+    frequency: 75
+  lucid:
+    frequency: 75
+  meesho:
+    frequency: 50
+  meta:
+    frequency: 62
+  microsoft:
+    frequency: 75
+  moloco:
+    frequency: 87
+  nutanix:
+    frequency: 50
+  nvidia:
+    frequency: 75
+  okta:
+    frequency: 62
+  okx:
+    frequency: 100
+  oracle:
+    frequency: 87
+  paypal:
+    frequency: 75
+  phonepe:
+    frequency: 50
+  pinterest:
+    frequency: 37
+  plaid:
+    frequency: 100
+  qualcomm:
+    frequency: 75
+  redfin:
+    frequency: 100
+  rivian:
+    frequency: 75
+  salesforce:
+    frequency: 62
+  samsung:
+    frequency: 100
+  sap:
+    frequency: 75
+  servicenow:
+    frequency: 75
+  siemens:
+    frequency: 100
+  snapchat:
+    frequency: 87
+  sofi:
+    frequency: 75
+  splunk:
+    frequency: 87
+  squarepoint-capital:
+    frequency: 62
+  tesla:
+    frequency: 87
+  tiktok:
+    frequency: 100
+  tinkoff:
+    frequency: 87
+  turing:
+    frequency: 50
+  two-sigma:
+    frequency: 50
+  uber:
+    frequency: 87
+  uipath:
+    frequency: 62
+  urban-company:
+    frequency: 100
+  visa:
+    frequency: 62
+  walmart-labs:
+    frequency: 87
+  waymo:
+    frequency: 87
+  wells-fargo:
+    frequency: 75
+  whatnot:
+    frequency: 87
+  wix:
+    frequency: 100
+  yahoo:
+    frequency: 62
+  yandex:
+    frequency: 75
+  yext:
+    frequency: 100
+  zenefits:
+    frequency: 100
+  zepto:
+    frequency: 75
+  zoho:
+    frequency: 87
+  zomato:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

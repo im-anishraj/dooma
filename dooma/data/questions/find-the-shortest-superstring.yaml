@@ -1,0 +1,17 @@
+id: find-the-shortest-superstring
+title: Find the Shortest Superstring
+url: https://leetcode.com/problems/find-the-shortest-superstring
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  de-shaw:
+    frequency: 37
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

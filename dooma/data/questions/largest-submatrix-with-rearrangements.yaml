@@ -1,0 +1,15 @@
+id: largest-submatrix-with-rearrangements
+title: Largest Submatrix With Rearrangements
+url: https://leetcode.com/problems/largest-submatrix-with-rearrangements
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  directi:
+    frequency: 100
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

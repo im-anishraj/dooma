@@ -1,0 +1,13 @@
+id: most-frequent-prime
+title: Most Frequent Prime
+url: https://leetcode.com/problems/most-frequent-prime
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

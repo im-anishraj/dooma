@@ -1,0 +1,17 @@
+id: minimum-interval-to-include-each-query
+title: Minimum Interval to Include Each Query
+url: https://leetcode.com/problems/minimum-interval-to-include-each-query
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

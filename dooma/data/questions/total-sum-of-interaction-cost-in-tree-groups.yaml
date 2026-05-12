@@ -1,0 +1,13 @@
+id: total-sum-of-interaction-cost-in-tree-groups
+title: Total Sum of Interaction Cost in Tree Groups
+url: https://leetcode.com/problems/total-sum-of-interaction-cost-in-tree-groups
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

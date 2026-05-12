@@ -1,0 +1,13 @@
+id: maximum-sum-of-three-numbers-divisible-by-three
+title: Maximum Sum of Three Numbers Divisible by Three
+url: https://leetcode.com/problems/maximum-sum-of-three-numbers-divisible-by-three
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

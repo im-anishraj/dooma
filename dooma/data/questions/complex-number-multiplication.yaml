@@ -1,0 +1,15 @@
+id: complex-number-multiplication
+title: Complex Number Multiplication
+url: https://leetcode.com/problems/complex-number-multiplication
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

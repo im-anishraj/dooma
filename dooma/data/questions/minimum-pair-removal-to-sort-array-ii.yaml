@@ -1,0 +1,17 @@
+id: minimum-pair-removal-to-sort-array-ii
+title: Minimum Pair Removal to Sort Array II
+url: https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

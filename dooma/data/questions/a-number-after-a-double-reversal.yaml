@@ -1,0 +1,19 @@
+id: a-number-after-a-double-reversal
+title: A Number After a Double Reversal
+url: https://leetcode.com/problems/a-number-after-a-double-reversal
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

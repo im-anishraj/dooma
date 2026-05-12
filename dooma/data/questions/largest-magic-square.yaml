@@ -1,0 +1,17 @@
+id: largest-magic-square
+title: Largest Magic Square
+url: https://leetcode.com/problems/largest-magic-square
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  wayfair:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

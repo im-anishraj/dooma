@@ -1,0 +1,15 @@
+id: queens-that-can-attack-the-king
+title: Queens That Can Attack the King
+url: https://leetcode.com/problems/queens-that-can-attack-the-king
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  medianet:
+    frequency: 87
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

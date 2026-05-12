@@ -1,0 +1,15 @@
+id: is-object-empty
+title: Is Object Empty
+url: https://leetcode.com/problems/is-object-empty
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

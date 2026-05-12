@@ -1,0 +1,27 @@
+id: shortest-word-distance
+title: Shortest Word Distance
+url: https://leetcode.com/problems/shortest-word-distance
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  anduril:
+    frequency: 87
+  apple:
+    frequency: 25
+  linkedin:
+    frequency: 62
+  microsoft:
+    frequency: 12
+  patreon:
+    frequency: 75
+  snowflake:
+    frequency: 50
+  wix:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

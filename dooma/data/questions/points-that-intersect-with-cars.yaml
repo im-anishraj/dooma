@@ -1,0 +1,13 @@
+id: points-that-intersect-with-cars
+title: Points That Intersect With Cars
+url: https://leetcode.com/problems/points-that-intersect-with-cars
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  uber:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

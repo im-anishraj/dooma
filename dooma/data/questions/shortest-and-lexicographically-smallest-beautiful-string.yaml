@@ -1,0 +1,17 @@
+id: shortest-and-lexicographically-smallest-beautiful-string
+title: Shortest and Lexicographically Smallest Beautiful String
+url: https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  ibm:
+    frequency: 50
+  wells-fargo:
+    frequency: 100
+  yelp:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

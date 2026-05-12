@@ -1,0 +1,17 @@
+id: apply-operations-to-maximize-frequency-score
+title: Apply Operations to Maximize Frequency Score
+url: https://leetcode.com/problems/apply-operations-to-maximize-frequency-score
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  deutsche-bank:
+    frequency: 100
+  google:
+    frequency: 12
+  phonepe:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

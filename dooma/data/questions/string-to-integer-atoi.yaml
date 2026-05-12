@@ -1,0 +1,49 @@
+id: string-to-integer-atoi
+title: String to Integer (atoi)
+url: https://leetcode.com/problems/string-to-integer-atoi
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 50
+  adobe:
+    frequency: 50
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 37
+  bloomberg:
+    frequency: 62
+  databricks:
+    frequency: 37
+  goldman-sachs:
+    frequency: 37
+  google:
+    frequency: 37
+  infosys:
+    frequency: 37
+  meta:
+    frequency: 62
+  microsoft:
+    frequency: 62
+  netflix:
+    frequency: 62
+  niantic:
+    frequency: 100
+  nvidia:
+    frequency: 62
+  qualcomm:
+    frequency: 50
+  tcs:
+    frequency: 25
+  uber:
+    frequency: 50
+  valve:
+    frequency: 87
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

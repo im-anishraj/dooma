@@ -1,0 +1,21 @@
+id: last-stone-weight-ii
+title: Last Stone Weight II
+url: https://leetcode.com/problems/last-stone-weight-ii
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

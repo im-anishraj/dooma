@@ -1,0 +1,13 @@
+id: immediate-food-delivery-i
+title: Immediate Food Delivery I
+url: https://leetcode.com/problems/immediate-food-delivery-i
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  doordash:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

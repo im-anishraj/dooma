@@ -1,0 +1,23 @@
+id: combine-two-tables
+title: Combine Two Tables
+url: https://leetcode.com/problems/combine-two-tables
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 50
+  bloomberg:
+    frequency: 50
+  cognizant:
+    frequency: 62
+  google:
+    frequency: 50
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

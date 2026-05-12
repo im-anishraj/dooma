@@ -1,0 +1,13 @@
+id: longest-common-subpath
+title: Longest Common Subpath
+url: https://leetcode.com/problems/longest-common-subpath
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

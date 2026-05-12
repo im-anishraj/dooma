@@ -1,0 +1,51 @@
+id: capacity-to-ship-packages-within-d-days
+title: Capacity To Ship Packages Within D Days
+url: https://leetcode.com/problems/capacity-to-ship-packages-within-d-days
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  agoda:
+    frequency: 87
+  amazon:
+    frequency: 50
+  apolloio:
+    frequency: 100
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 50
+  chalo:
+    frequency: 100
+  cloudera:
+    frequency: 62
+  dp-world:
+    frequency: 100
+  flipkart:
+    frequency: 50
+  goldman-sachs:
+    frequency: 37
+  google:
+    frequency: 50
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 37
+  mindtickle:
+    frequency: 62
+  oracle:
+    frequency: 50
+  spinny:
+    frequency: 87
+  tiktok:
+    frequency: 50
+  uber:
+    frequency: 25
+  walmart-labs:
+    frequency: 50
+  zeta:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

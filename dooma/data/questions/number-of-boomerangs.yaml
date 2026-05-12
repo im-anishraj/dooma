@@ -1,0 +1,13 @@
+id: number-of-boomerangs
+title: Number of Boomerangs
+url: https://leetcode.com/problems/number-of-boomerangs
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

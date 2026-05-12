@@ -1,0 +1,15 @@
+id: check-if-matrix-is-x-matrix
+title: Check if Matrix Is X-Matrix
+url: https://leetcode.com/problems/check-if-matrix-is-x-matrix
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

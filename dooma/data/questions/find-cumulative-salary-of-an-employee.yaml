@@ -1,0 +1,13 @@
+id: find-cumulative-salary-of-an-employee
+title: Find Cumulative Salary of an Employee
+url: https://leetcode.com/problems/find-cumulative-salary-of-an-employee
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

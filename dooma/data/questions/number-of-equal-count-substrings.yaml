@@ -1,0 +1,13 @@
+id: number-of-equal-count-substrings
+title: Number of Equal Count Substrings
+url: https://leetcode.com/problems/number-of-equal-count-substrings
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  cisco:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

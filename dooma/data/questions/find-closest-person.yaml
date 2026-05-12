@@ -1,0 +1,19 @@
+id: find-closest-person
+title: Find Closest Person
+url: https://leetcode.com/problems/find-closest-person
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

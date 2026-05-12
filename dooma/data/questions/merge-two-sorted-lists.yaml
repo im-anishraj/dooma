@@ -1,0 +1,91 @@
+id: merge-two-sorted-lists
+title: Merge Two Sorted Lists
+url: https://leetcode.com/problems/merge-two-sorted-lists
+difficulty: easy
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 62
+  apple:
+    frequency: 62
+  arista-networks:
+    frequency: 62
+  bloomberg:
+    frequency: 75
+  capgemini:
+    frequency: 62
+  docusign:
+    frequency: 62
+  flipkart:
+    frequency: 37
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 62
+  hpe:
+    frequency: 100
+  huawei:
+    frequency: 62
+  hubspot:
+    frequency: 75
+  infosys:
+    frequency: 50
+  intel:
+    frequency: 62
+  josh-technology:
+    frequency: 62
+  linkedin:
+    frequency: 50
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 62
+  nvidia:
+    frequency: 37
+  oracle:
+    frequency: 50
+  palo-alto-networks:
+    frequency: 50
+  revolut:
+    frequency: 62
+  rippling:
+    frequency: 62
+  salesforce:
+    frequency: 37
+  servicenow:
+    frequency: 62
+  shopee:
+    frequency: 62
+  siemens:
+    frequency: 75
+  snowflake:
+    frequency: 50
+  squarespace:
+    frequency: 62
+  swiggy:
+    frequency: 50
+  tcs:
+    frequency: 25
+  tiktok:
+    frequency: 37
+  tokopedia:
+    frequency: 100
+  udemy:
+    frequency: 87
+  visa:
+    frequency: 50
+  vk:
+    frequency: 62
+  wix:
+    frequency: 87
+  yandex:
+    frequency: 62
+  zoho:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

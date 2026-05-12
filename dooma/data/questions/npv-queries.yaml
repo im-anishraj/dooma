@@ -1,0 +1,13 @@
+id: npv-queries
+title: NPV Queries
+url: https://leetcode.com/problems/npv-queries
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

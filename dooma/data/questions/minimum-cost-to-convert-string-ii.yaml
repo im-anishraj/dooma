@@ -1,0 +1,17 @@
+id: minimum-cost-to-convert-string-ii
+title: Minimum Cost to Convert String II
+url: https://leetcode.com/problems/minimum-cost-to-convert-string-ii
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  atlassian:
+    frequency: 62
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

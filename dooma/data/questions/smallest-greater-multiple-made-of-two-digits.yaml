@@ -1,0 +1,13 @@
+id: smallest-greater-multiple-made-of-two-digits
+title: Smallest Greater Multiple Made of Two Digits
+url: https://leetcode.com/problems/smallest-greater-multiple-made-of-two-digits
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  paypal:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

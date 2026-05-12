@@ -1,0 +1,13 @@
+id: count-common-words-with-one-occurrence
+title: Count Common Words With One Occurrence
+url: https://leetcode.com/problems/count-common-words-with-one-occurrence
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  jane-street:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

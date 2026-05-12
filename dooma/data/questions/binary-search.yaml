@@ -1,0 +1,37 @@
+id: binary-search
+title: Binary Search
+url: https://leetcode.com/problems/binary-search
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 37
+  bloomberg:
+    frequency: 50
+  cognizant:
+    frequency: 50
+  epam-systems:
+    frequency: 50
+  google:
+    frequency: 50
+  infosys:
+    frequency: 50
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 50
+  oracle:
+    frequency: 25
+  pure-storage:
+    frequency: 50
+  tcs:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

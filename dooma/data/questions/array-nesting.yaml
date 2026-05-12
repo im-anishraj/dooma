@@ -1,0 +1,17 @@
+id: array-nesting
+title: Array Nesting
+url: https://leetcode.com/problems/array-nesting
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  apple:
+    frequency: 50
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

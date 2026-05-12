@@ -1,0 +1,13 @@
+id: customer-order-frequency
+title: Customer Order Frequency
+url: https://leetcode.com/problems/customer-order-frequency
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

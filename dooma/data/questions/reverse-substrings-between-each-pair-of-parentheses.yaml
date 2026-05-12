@@ -1,0 +1,29 @@
+id: reverse-substrings-between-each-pair-of-parentheses
+title: Reverse Substrings Between Each Pair of Parentheses
+url: https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 75
+  agoda:
+    frequency: 50
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 25
+  flipkart:
+    frequency: 62
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  okta:
+    frequency: 62
+  oracle:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

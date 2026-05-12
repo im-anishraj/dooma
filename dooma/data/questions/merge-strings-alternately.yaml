@@ -1,0 +1,35 @@
+id: merge-strings-alternately
+title: Merge Strings Alternately
+url: https://leetcode.com/problems/merge-strings-alternately
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 50
+  amazon:
+    frequency: 62
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 50
+  google:
+    frequency: 75
+  ibm:
+    frequency: 50
+  meta:
+    frequency: 62
+  microsoft:
+    frequency: 75
+  oracle:
+    frequency: 25
+  uber:
+    frequency: 62
+  wells-fargo:
+    frequency: 75
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,29 @@
+id: range-sum-query-2d-immutable
+title: Range Sum Query 2D - Immutable
+url: https://leetcode.com/problems/range-sum-query-2d-immutable
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  doordash:
+    frequency: 25
+  google:
+    frequency: 25
+  lyft:
+    frequency: 37
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 25
+  okta:
+    frequency: 62
+  upstart:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,23 @@
+id: count-servers-that-communicate
+title: Count Servers that Communicate
+url: https://leetcode.com/problems/count-servers-that-communicate
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  oracle:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

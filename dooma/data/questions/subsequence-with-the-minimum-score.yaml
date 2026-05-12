@@ -1,0 +1,13 @@
+id: subsequence-with-the-minimum-score
+title: Subsequence With the Minimum Score
+url: https://leetcode.com/problems/subsequence-with-the-minimum-score
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  doordash:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

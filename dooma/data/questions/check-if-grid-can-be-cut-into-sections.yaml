@@ -1,0 +1,17 @@
+id: check-if-grid-can-be-cut-into-sections
+title: Check if Grid can be Cut into Sections
+url: https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

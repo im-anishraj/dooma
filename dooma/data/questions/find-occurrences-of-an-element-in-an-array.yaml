@@ -1,0 +1,17 @@
+id: find-occurrences-of-an-element-in-an-array
+title: Find Occurrences of an Element in an Array
+url: https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  ibm:
+    frequency: 75
+  jpmorgan:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

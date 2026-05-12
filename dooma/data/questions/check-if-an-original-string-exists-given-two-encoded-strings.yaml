@@ -1,0 +1,15 @@
+id: check-if-an-original-string-exists-given-two-encoded-strings
+title: Check if an Original String Exists Given Two Encoded Strings
+url: https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bitgo:
+    frequency: 100
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

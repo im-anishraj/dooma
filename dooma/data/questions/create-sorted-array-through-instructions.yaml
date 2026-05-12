@@ -1,0 +1,15 @@
+id: create-sorted-array-through-instructions
+title: Create Sorted Array through Instructions
+url: https://leetcode.com/problems/create-sorted-array-through-instructions
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  akuna-capital:
+    frequency: 100
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

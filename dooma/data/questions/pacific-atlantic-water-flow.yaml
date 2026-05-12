@@ -1,0 +1,35 @@
+id: pacific-atlantic-water-flow
+title: Pacific Atlantic Water Flow
+url: https://leetcode.com/problems/pacific-atlantic-water-flow
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 12
+  flipkart:
+    frequency: 50
+  google:
+    frequency: 50
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 12
+  nutanix:
+    frequency: 50
+  servicenow:
+    frequency: 75
+  tiktok:
+    frequency: 50
+  uber:
+    frequency: 37
+  urban-company:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

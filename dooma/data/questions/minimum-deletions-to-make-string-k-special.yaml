@@ -1,0 +1,17 @@
+id: minimum-deletions-to-make-string-k-special
+title: Minimum Deletions to Make String K-Special
+url: https://leetcode.com/problems/minimum-deletions-to-make-string-k-special
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  de-shaw:
+    frequency: 75
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,53 @@
+id: maximum-product-subarray
+title: Maximum Product Subarray
+url: https://leetcode.com/problems/maximum-product-subarray
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 62
+  amazon:
+    frequency: 50
+  bloomberg:
+    frequency: 50
+  de-shaw:
+    frequency: 50
+  delhivery:
+    frequency: 100
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 50
+  hashedin:
+    frequency: 62
+  linkedin:
+    frequency: 75
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 50
+  morgan-stanley:
+    frequency: 50
+  paypal:
+    frequency: 50
+  salesforce:
+    frequency: 25
+  servicenow:
+    frequency: 62
+  siemens:
+    frequency: 62
+  swiggy:
+    frequency: 50
+  tcs:
+    frequency: 37
+  tiktok:
+    frequency: 50
+  walmart-labs:
+    frequency: 37
+  wayfair:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

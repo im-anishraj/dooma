@@ -1,0 +1,15 @@
+id: length-of-the-longest-alphabetical-continuous-substring
+title: Length of the Longest Alphabetical Continuous Substring
+url: https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  tiktok:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

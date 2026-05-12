@@ -1,0 +1,15 @@
+id: maximum-sum-with-at-most-k-elements
+title: Maximum Sum With at Most K Elements
+url: https://leetcode.com/problems/maximum-sum-with-at-most-k-elements
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: longest-even-odd-subarray-with-threshold
+title: Longest Even Odd Subarray With Threshold
+url: https://leetcode.com/problems/longest-even-odd-subarray-with-threshold
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

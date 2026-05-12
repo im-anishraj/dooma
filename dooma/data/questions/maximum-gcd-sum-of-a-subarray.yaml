@@ -1,0 +1,13 @@
+id: maximum-gcd-sum-of-a-subarray
+title: Maximum GCD-Sum of a Subarray
+url: https://leetcode.com/problems/maximum-gcd-sum-of-a-subarray
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  thoughtworks:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

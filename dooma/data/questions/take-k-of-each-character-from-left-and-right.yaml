@@ -1,0 +1,19 @@
+id: take-k-of-each-character-from-left-and-right
+title: Take K of Each Character From Left and Right
+url: https://leetcode.com/problems/take-k-of-each-character-from-left-and-right
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

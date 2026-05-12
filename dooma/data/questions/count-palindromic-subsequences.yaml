@@ -1,0 +1,33 @@
+id: count-palindromic-subsequences
+title: Count Palindromic Subsequences
+url: https://leetcode.com/problems/count-palindromic-subsequences
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  atlassian:
+    frequency: 37
+  citadel:
+    frequency: 100
+  dialpad:
+    frequency: 87
+  goldman-sachs:
+    frequency: 50
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  millennium:
+    frequency: 100
+  phonepe:
+    frequency: 50
+  salesforce:
+    frequency: 50
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

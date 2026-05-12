@@ -1,0 +1,13 @@
+id: average-height-of-buildings-in-each-segment
+title: Average Height of Buildings in Each Segment
+url: https://leetcode.com/problems/average-height-of-buildings-in-each-segment
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

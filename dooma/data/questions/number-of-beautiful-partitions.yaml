@@ -1,0 +1,13 @@
+id: number-of-beautiful-partitions
+title: Number of Beautiful Partitions
+url: https://leetcode.com/problems/number-of-beautiful-partitions
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

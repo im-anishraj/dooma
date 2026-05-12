@@ -1,0 +1,23 @@
+id: human-traffic-of-stadium
+title: Human Traffic of Stadium
+url: https://leetcode.com/problems/human-traffic-of-stadium
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  tiktok:
+    frequency: 25
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

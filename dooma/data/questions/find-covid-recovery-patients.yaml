@@ -1,0 +1,13 @@
+id: find-covid-recovery-patients
+title: Find COVID Recovery Patients
+url: https://leetcode.com/problems/find-covid-recovery-patients
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

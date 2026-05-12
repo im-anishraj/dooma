@@ -1,0 +1,19 @@
+id: minimum-suffix-flips
+title: Minimum Suffix Flips
+url: https://leetcode.com/problems/minimum-suffix-flips
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  jpmorgan:
+    frequency: 50
+  microsoft:
+    frequency: 12
+  morgan-stanley:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

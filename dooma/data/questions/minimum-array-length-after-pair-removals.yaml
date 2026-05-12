@@ -1,0 +1,13 @@
+id: minimum-array-length-after-pair-removals
+title: Minimum Array Length After Pair Removals
+url: https://leetcode.com/problems/minimum-array-length-after-pair-removals
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  snowflake:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

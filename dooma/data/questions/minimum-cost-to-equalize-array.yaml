@@ -1,0 +1,17 @@
+id: minimum-cost-to-equalize-array
+title: Minimum Cost to Equalize Array
+url: https://leetcode.com/problems/minimum-cost-to-equalize-array
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

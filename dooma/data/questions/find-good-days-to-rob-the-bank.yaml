@@ -1,0 +1,15 @@
+id: find-good-days-to-rob-the-bank
+title: Find Good Days to Rob the Bank
+url: https://leetcode.com/problems/find-good-days-to-rob-the-bank
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

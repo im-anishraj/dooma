@@ -1,0 +1,17 @@
+id: operations-on-tree
+title: Operations on Tree
+url: https://leetcode.com/problems/operations-on-tree
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+  juspay:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

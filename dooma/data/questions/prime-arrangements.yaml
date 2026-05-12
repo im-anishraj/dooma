@@ -1,0 +1,13 @@
+id: prime-arrangements
+title: Prime Arrangements
+url: https://leetcode.com/problems/prime-arrangements
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

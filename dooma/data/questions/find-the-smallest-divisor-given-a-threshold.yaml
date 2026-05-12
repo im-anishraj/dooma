@@ -1,0 +1,37 @@
+id: find-the-smallest-divisor-given-a-threshold
+title: Find the Smallest Divisor Given a Threshold
+url: https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  agoda:
+    frequency: 62
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 25
+  clevertap:
+    frequency: 100
+  de-shaw:
+    frequency: 50
+  expedia:
+    frequency: 100
+  google:
+    frequency: 25
+  ibm:
+    frequency: 50
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 12
+  oracle:
+    frequency: 37
+  paypal:
+    frequency: 62
+  zscaler:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

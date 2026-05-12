@@ -1,0 +1,15 @@
+id: maximum-length-of-subarray-with-positive-product
+title: Maximum Length of Subarray With Positive Product
+url: https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  arcesium:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

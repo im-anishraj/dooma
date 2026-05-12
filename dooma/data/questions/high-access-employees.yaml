@@ -1,0 +1,15 @@
+id: high-access-employees
+title: High-Access Employees
+url: https://leetcode.com/problems/high-access-employees
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  atlassian:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

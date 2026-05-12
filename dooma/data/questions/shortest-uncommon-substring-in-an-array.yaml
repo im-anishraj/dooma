@@ -1,0 +1,19 @@
+id: shortest-uncommon-substring-in-an-array
+title: Shortest Uncommon Substring in an Array
+url: https://leetcode.com/problems/shortest-uncommon-substring-in-an-array
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  affirm:
+    frequency: 87
+  airbnb:
+    frequency: 50
+  amazon:
+    frequency: 12
+  moveworks:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: maximum-product-after-k-increments
+title: Maximum Product After K Increments
+url: https://leetcode.com/problems/maximum-product-after-k-increments
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  infosys:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

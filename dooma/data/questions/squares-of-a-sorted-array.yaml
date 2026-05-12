@@ -1,0 +1,49 @@
+id: squares-of-a-sorted-array
+title: Squares of a Sorted Array
+url: https://leetcode.com/problems/squares-of-a-sorted-array
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  adobe:
+    frequency: 37
+  agoda:
+    frequency: 50
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 37
+  crowdstrike:
+    frequency: 75
+  deutsche-bank:
+    frequency: 62
+  google:
+    frequency: 37
+  infosys:
+    frequency: 37
+  instacart:
+    frequency: 87
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 37
+  ozon:
+    frequency: 87
+  tcs:
+    frequency: 37
+  uber:
+    frequency: 87
+  whatnot:
+    frequency: 75
+  yahoo:
+    frequency: 50
+  yandex:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

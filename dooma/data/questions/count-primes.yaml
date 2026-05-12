@@ -1,0 +1,49 @@
+id: count-primes
+title: Count Primes
+url: https://leetcode.com/problems/count-primes
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 62
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 37
+  citadel:
+    frequency: 50
+  epic-systems:
+    frequency: 50
+  fast:
+    frequency: 100
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 37
+  intel:
+    frequency: 75
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 50
+  nokia:
+    frequency: 75
+  oracle:
+    frequency: 25
+  sap:
+    frequency: 50
+  tcs:
+    frequency: 25
+  tech-mahindra:
+    frequency: 100
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

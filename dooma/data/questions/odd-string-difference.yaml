@@ -1,0 +1,17 @@
+id: odd-string-difference
+title: Odd String Difference
+url: https://leetcode.com/problems/odd-string-difference
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  ibm:
+    frequency: 37
+  salesforce:
+    frequency: 50
+  visa:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

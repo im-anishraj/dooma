@@ -1,0 +1,13 @@
+id: existence-of-a-substring-in-a-string-and-its-reverse
+title: Existence of a Substring in a String and Its Reverse
+url: https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  rubrik:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,31 @@
+id: design-snake-game
+title: Design Snake Game
+url: https://leetcode.com/problems/design-snake-game
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  amplitude:
+    frequency: 100
+  atlassian:
+    frequency: 87
+  google:
+    frequency: 25
+  ixl:
+    frequency: 87
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  salesforce:
+    frequency: 25
+  uber:
+    frequency: 25
+  weride:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

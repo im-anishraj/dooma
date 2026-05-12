@@ -1,0 +1,49 @@
+id: search-a-2d-matrix
+title: Search a 2D Matrix
+url: https://leetcode.com/problems/search-a-2d-matrix
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  adobe:
+    frequency: 50
+  amazon:
+    frequency: 62
+  apple:
+    frequency: 37
+  arista-networks:
+    frequency: 62
+  bloomberg:
+    frequency: 50
+  goldman-sachs:
+    frequency: 37
+  google:
+    frequency: 37
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 50
+  nutanix:
+    frequency: 62
+  oracle:
+    frequency: 50
+  paytm:
+    frequency: 62
+  tcs:
+    frequency: 25
+  tiktok:
+    frequency: 37
+  tinkoff:
+    frequency: 62
+  walmart-labs:
+    frequency: 50
+  wissen:
+    frequency: 100
+  yandex:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

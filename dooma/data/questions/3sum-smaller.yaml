@@ -1,0 +1,25 @@
+id: 3sum-smaller
+title: 3Sum Smaller
+url: https://leetcode.com/problems/3sum-smaller
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  ibm:
+    frequency: 37
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  oracle:
+    frequency: 25
+  paypal:
+    frequency: 50
+  tiktok:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

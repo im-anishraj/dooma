@@ -1,0 +1,13 @@
+id: convex-polygon
+title: Convex Polygon
+url: https://leetcode.com/problems/convex-polygon
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

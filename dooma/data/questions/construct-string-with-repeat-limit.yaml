@@ -1,0 +1,23 @@
+id: construct-string-with-repeat-limit
+title: Construct String With Repeat Limit
+url: https://leetcode.com/problems/construct-string-with-repeat-limit
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  arista-networks:
+    frequency: 100
+  fortinet:
+    frequency: 100
+  google:
+    frequency: 12
+  jpmorgan:
+    frequency: 37
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

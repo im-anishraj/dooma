@@ -1,0 +1,21 @@
+id: insert-into-a-sorted-circular-linked-list
+title: Insert into a Sorted Circular Linked List
+url: https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  anduril:
+    frequency: 50
+  google:
+    frequency: 25
+  meta:
+    frequency: 62
+  tiktok:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

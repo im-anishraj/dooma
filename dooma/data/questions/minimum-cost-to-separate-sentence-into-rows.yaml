@@ -1,0 +1,13 @@
+id: minimum-cost-to-separate-sentence-into-rows
+title: Minimum Cost to Separate Sentence Into Rows
+url: https://leetcode.com/problems/minimum-cost-to-separate-sentence-into-rows
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

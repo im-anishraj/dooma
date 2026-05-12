@@ -1,0 +1,27 @@
+id: number-of-ways-to-form-a-target-string-given-a-dictionary
+title: Number of Ways to Form a Target String Given a Dictionary
+url: https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  dunzo:
+    frequency: 100
+  google:
+    frequency: 12
+  meesho:
+    frequency: 75
+  meta:
+    frequency: 12
+  snapchat:
+    frequency: 37
+  snowflake:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

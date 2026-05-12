@@ -1,0 +1,193 @@
+id: group-anagrams
+title: Group Anagrams
+url: https://leetcode.com/problems/group-anagrams
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accolite:
+    frequency: 50
+  adobe:
+    frequency: 75
+  affirm:
+    frequency: 75
+  agoda:
+    frequency: 50
+  amazon:
+    frequency: 75
+  anduril:
+    frequency: 87
+  apple:
+    frequency: 75
+  athenahealth:
+    frequency: 87
+  atlassian:
+    frequency: 50
+  autodesk:
+    frequency: 75
+  avito:
+    frequency: 87
+  blackrock:
+    frequency: 62
+  blinkit:
+    frequency: 100
+  bloomberg:
+    frequency: 62
+  bny-mellon:
+    frequency: 62
+  bp:
+    frequency: 100
+  capgemini:
+    frequency: 62
+  cisco:
+    frequency: 50
+  citadel:
+    frequency: 62
+  cognizant:
+    frequency: 50
+  compass:
+    frequency: 87
+  coupang:
+    frequency: 75
+  cyntexa:
+    frequency: 100
+  dell:
+    frequency: 62
+  deloitte:
+    frequency: 50
+  disney:
+    frequency: 87
+  docusign:
+    frequency: 62
+  doordash:
+    frequency: 25
+  dp-world:
+    frequency: 87
+  ebay:
+    frequency: 75
+  epam-systems:
+    frequency: 87
+  expedia:
+    frequency: 75
+  factset:
+    frequency: 75
+  freshworks:
+    frequency: 75
+  goldman-sachs:
+    frequency: 50
+  google:
+    frequency: 50
+  hashedin:
+    frequency: 62
+  ibm:
+    frequency: 62
+  infosys:
+    frequency: 62
+  instacart:
+    frequency: 62
+  intuit:
+    frequency: 50
+  jio:
+    frequency: 62
+  josh-technology:
+    frequency: 62
+  jpmorgan:
+    frequency: 100
+  keeptruckin:
+    frequency: 75
+  makemytrip:
+    frequency: 75
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 75
+  morgan-stanley:
+    frequency: 62
+  msci:
+    frequency: 100
+  myntra:
+    frequency: 75
+  netapp:
+    frequency: 75
+  nielsen:
+    frequency: 87
+  nutanix:
+    frequency: 75
+  nvidia:
+    frequency: 75
+  okta:
+    frequency: 87
+  oracle:
+    frequency: 75
+  palo-alto-networks:
+    frequency: 50
+  park:
+    frequency: 100
+  paypal:
+    frequency: 75
+  persistent-systems:
+    frequency: 87
+  phonepe:
+    frequency: 62
+  publicis-sapient:
+    frequency: 75
+  ripple:
+    frequency: 75
+  salesforce:
+    frequency: 62
+  sap:
+    frequency: 62
+  servicenow:
+    frequency: 75
+  siemens:
+    frequency: 62
+  sigmoid:
+    frequency: 75
+  snapchat:
+    frequency: 37
+  splunk:
+    frequency: 100
+  squarepoint-capital:
+    frequency: 62
+  tcs:
+    frequency: 37
+  tiktok:
+    frequency: 62
+  turing:
+    frequency: 50
+  twilio:
+    frequency: 62
+  uber:
+    frequency: 62
+  ubs:
+    frequency: 75
+  upstart:
+    frequency: 62
+  veeva:
+    frequency: 100
+  verily:
+    frequency: 87
+  visa:
+    frequency: 75
+  walmart-labs:
+    frequency: 75
+  wayfair:
+    frequency: 62
+  whatnot:
+    frequency: 62
+  workday:
+    frequency: 75
+  yahoo:
+    frequency: 50
+  yandex:
+    frequency: 62
+  yelp:
+    frequency: 100
+  zoho:
+    frequency: 75
+  zopsmart:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

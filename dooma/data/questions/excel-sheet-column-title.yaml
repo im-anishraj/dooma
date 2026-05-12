@@ -1,0 +1,27 @@
+id: excel-sheet-column-title
+title: Excel Sheet Column Title
+url: https://leetcode.com/problems/excel-sheet-column-title
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  de-shaw:
+    frequency: 50
+  google:
+    frequency: 25
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 50
+  zenefits:
+    frequency: 100
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

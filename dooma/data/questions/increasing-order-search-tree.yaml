@@ -1,0 +1,15 @@
+id: increasing-order-search-tree
+title: Increasing Order Search Tree
+url: https://leetcode.com/problems/increasing-order-search-tree
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

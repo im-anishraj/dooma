@@ -1,0 +1,15 @@
+id: minimum-number-of-swaps-to-make-the-binary-string-alternating
+title: Minimum Number of Swaps to Make the Binary String Alternating
+url: https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  societe-generale:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

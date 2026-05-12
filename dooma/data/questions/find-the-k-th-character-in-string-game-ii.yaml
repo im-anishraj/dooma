@@ -1,0 +1,17 @@
+id: find-the-k-th-character-in-string-game-ii
+title: Find the K-th Character in String Game II
+url: https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

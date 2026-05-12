@@ -1,0 +1,13 @@
+id: number-of-ships-in-a-rectangle
+title: Number of Ships in a Rectangle
+url: https://leetcode.com/problems/number-of-ships-in-a-rectangle
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

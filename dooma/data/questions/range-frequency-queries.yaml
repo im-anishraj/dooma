@@ -1,0 +1,15 @@
+id: range-frequency-queries
+title: Range Frequency Queries
+url: https://leetcode.com/problems/range-frequency-queries
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  quora:
+    frequency: 87
+  tiktok:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

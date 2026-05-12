@@ -1,0 +1,19 @@
+id: shortest-path-with-alternating-colors
+title: Shortest Path with Alternating Colors
+url: https://leetcode.com/problems/shortest-path-with-alternating-colors
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  sprinklr:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

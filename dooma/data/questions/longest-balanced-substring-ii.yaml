@@ -1,0 +1,23 @@
+id: longest-balanced-substring-ii
+title: Longest Balanced Substring II
+url: https://leetcode.com/problems/longest-balanced-substring-ii
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  tcs:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

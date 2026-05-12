@@ -1,0 +1,21 @@
+id: teemo-attacking
+title: Teemo Attacking
+url: https://leetcode.com/problems/teemo-attacking
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  jane-street:
+    frequency: 62
+  riot-games:
+    frequency: 100
+  tcs:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

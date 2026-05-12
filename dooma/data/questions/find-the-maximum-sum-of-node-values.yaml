@@ -1,0 +1,19 @@
+id: find-the-maximum-sum-of-node-values
+title: Find the Maximum Sum of Node Values
+url: https://leetcode.com/problems/find-the-maximum-sum-of-node-values
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  blackrock:
+    frequency: 62
+  deutsche-bank:
+    frequency: 100
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

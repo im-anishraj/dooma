@@ -1,0 +1,83 @@
+id: reverse-linked-list
+title: Reverse Linked List
+url: https://leetcode.com/problems/reverse-linked-list
+difficulty: easy
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  adobe:
+    frequency: 75
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 75
+  bloomberg:
+    frequency: 62
+  bytedance:
+    frequency: 50
+  cisco:
+    frequency: 37
+  epam-systems:
+    frequency: 50
+  goldman-sachs:
+    frequency: 37
+  google:
+    frequency: 62
+  ibm:
+    frequency: 37
+  jio:
+    frequency: 62
+  jpmorgan:
+    frequency: 37
+  luxoft:
+    frequency: 100
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 62
+  nvidia:
+    frequency: 62
+  oracle:
+    frequency: 62
+  paytm:
+    frequency: 75
+  qualcomm:
+    frequency: 87
+  sap:
+    frequency: 62
+  servicenow:
+    frequency: 62
+  siemens:
+    frequency: 75
+  snapchat:
+    frequency: 87
+  tcs:
+    frequency: 37
+  tesla:
+    frequency: 50
+  tiktok:
+    frequency: 62
+  twitter:
+    frequency: 100
+  uber:
+    frequency: 50
+  visa:
+    frequency: 62
+  yahoo:
+    frequency: 87
+  yandex:
+    frequency: 37
+  yelp:
+    frequency: 100
+  zenefits:
+    frequency: 100
+  zopsmart:
+    frequency: 50
+  zynga:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

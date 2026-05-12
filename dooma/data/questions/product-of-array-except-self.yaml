@@ -1,0 +1,99 @@
+id: product-of-array-except-self
+title: Product of Array Except Self
+url: https://leetcode.com/problems/product-of-array-except-self
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  adobe:
+    frequency: 50
+  amazon:
+    frequency: 62
+  amdocs:
+    frequency: 62
+  apple:
+    frequency: 75
+  asana:
+    frequency: 100
+  autodesk:
+    frequency: 50
+  bloomberg:
+    frequency: 62
+  cisco:
+    frequency: 37
+  flipkart:
+    frequency: 62
+  fractal-analytics:
+    frequency: 62
+  goldman-sachs:
+    frequency: 37
+  google:
+    frequency: 50
+  ibm:
+    frequency: 50
+  infosys:
+    frequency: 50
+  intel:
+    frequency: 62
+  intuit:
+    frequency: 62
+  linkedin:
+    frequency: 50
+  lyft:
+    frequency: 50
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 62
+  nutanix:
+    frequency: 50
+  nvidia:
+    frequency: 50
+  oracle:
+    frequency: 50
+  paypal:
+    frequency: 62
+  quantcast:
+    frequency: 100
+  ripple:
+    frequency: 75
+  salesforce:
+    frequency: 37
+  sap:
+    frequency: 50
+  sigmoid:
+    frequency: 75
+  snapchat:
+    frequency: 50
+  tekion:
+    frequency: 75
+  thousandeyes:
+    frequency: 100
+  tiktok:
+    frequency: 37
+  turing:
+    frequency: 62
+  uber:
+    frequency: 75
+  visa:
+    frequency: 50
+  walmart-labs:
+    frequency: 50
+  warnermedia:
+    frequency: 75
+  wells-fargo:
+    frequency: 62
+  yahoo:
+    frequency: 50
+  yandex:
+    frequency: 50
+  zoho:
+    frequency: 62
+  zs-associates:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

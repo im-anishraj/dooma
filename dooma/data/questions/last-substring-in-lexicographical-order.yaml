@@ -1,0 +1,21 @@
+id: last-substring-in-lexicographical-order
+title: Last Substring in Lexicographical Order
+url: https://leetcode.com/problems/last-substring-in-lexicographical-order
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  ibm:
+    frequency: 37
+  mathworks:
+    frequency: 87
+  microsoft:
+    frequency: 12
+  qualcomm:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

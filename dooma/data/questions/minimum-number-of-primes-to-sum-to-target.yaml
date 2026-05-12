@@ -1,0 +1,13 @@
+id: minimum-number-of-primes-to-sum-to-target
+title: Minimum Number of Primes to Sum to Target
+url: https://leetcode.com/problems/minimum-number-of-primes-to-sum-to-target
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

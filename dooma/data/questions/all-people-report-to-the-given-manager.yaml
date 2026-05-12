@@ -1,0 +1,15 @@
+id: all-people-report-to-the-given-manager
+title: All People Report to the Given Manager
+url: https://leetcode.com/problems/all-people-report-to-the-given-manager
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,87 @@
+id: find-median-from-data-stream
+title: Find Median from Data Stream
+url: https://leetcode.com/problems/find-median-from-data-stream
+difficulty: hard
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 62
+  anduril:
+    frequency: 75
+  apple:
+    frequency: 62
+  bloomberg:
+    frequency: 37
+  citadel:
+    frequency: 87
+  cohesity:
+    frequency: 100
+  coupang:
+    frequency: 62
+  docusign:
+    frequency: 75
+  flipkart:
+    frequency: 62
+  goldman-sachs:
+    frequency: 37
+  google:
+    frequency: 50
+  intuit:
+    frequency: 37
+  ixl:
+    frequency: 87
+  jpmorgan:
+    frequency: 50
+  kla:
+    frequency: 62
+  meesho:
+    frequency: 50
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 50
+  nvidia:
+    frequency: 62
+  okta:
+    frequency: 87
+  oracle:
+    frequency: 62
+  paypal:
+    frequency: 62
+  pinterest:
+    frequency: 75
+  salesforce:
+    frequency: 37
+  samsung:
+    frequency: 50
+  snowflake:
+    frequency: 50
+  splunk:
+    frequency: 100
+  spotify:
+    frequency: 50
+  sprinklr:
+    frequency: 50
+  stackadapt:
+    frequency: 100
+  tiktok:
+    frequency: 50
+  tinder:
+    frequency: 100
+  twitch:
+    frequency: 62
+  uber:
+    frequency: 50
+  visa:
+    frequency: 50
+  walmart-labs:
+    frequency: 62
+  worldquant:
+    frequency: 87
+  yandex:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

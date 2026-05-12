@@ -1,0 +1,31 @@
+id: minimum-swaps-to-group-all-1s-together-ii
+title: Minimum Swaps to Group All 1's Together II
+url: https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 37
+  arcesium:
+    frequency: 62
+  bloomberg:
+    frequency: 12
+  bytedance:
+    frequency: 50
+  google:
+    frequency: 12
+  ibm:
+    frequency: 37
+  josh-technology:
+    frequency: 62
+  microsoft:
+    frequency: 12
+  tiktok:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

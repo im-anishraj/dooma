@@ -1,0 +1,15 @@
+id: minimum-division-operations-to-make-array-non-decreasing
+title: Minimum Division Operations to Make Array Non Decreasing
+url: https://leetcode.com/problems/minimum-division-operations-to-make-array-non-decreasing
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

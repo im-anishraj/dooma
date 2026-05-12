@@ -1,0 +1,37 @@
+id: interval-list-intersections
+title: Interval List Intersections
+url: https://leetcode.com/problems/interval-list-intersections
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  cisco:
+    frequency: 37
+  doordash:
+    frequency: 50
+  google:
+    frequency: 25
+  meta:
+    frequency: 75
+  microsoft:
+    frequency: 25
+  mixpanel:
+    frequency: 100
+  nuro:
+    frequency: 75
+  uber:
+    frequency: 37
+  verkada:
+    frequency: 87
+  yandex:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

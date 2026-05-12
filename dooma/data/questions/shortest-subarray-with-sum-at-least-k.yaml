@@ -1,0 +1,23 @@
+id: shortest-subarray-with-sum-at-least-k
+title: Shortest Subarray with Sum at Least K
+url: https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  goldman-sachs:
+    frequency: 50
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

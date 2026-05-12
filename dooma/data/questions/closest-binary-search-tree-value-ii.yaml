@@ -1,0 +1,17 @@
+id: closest-binary-search-tree-value-ii
+title: Closest Binary Search Tree Value II
+url: https://leetcode.com/problems/closest-binary-search-tree-value-ii
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+  linkedin:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,17 @@
+id: minimum-space-wasted-from-packaging
+title: Minimum Space Wasted From Packaging
+url: https://leetcode.com/problems/minimum-space-wasted-from-packaging
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  imc:
+    frequency: 100
+  two-sigma:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

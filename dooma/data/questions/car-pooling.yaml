@@ -1,0 +1,39 @@
+id: car-pooling
+title: Car Pooling
+url: https://leetcode.com/problems/car-pooling
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  careem:
+    frequency: 100
+  flipkart:
+    frequency: 50
+  goldman-sachs:
+    frequency: 37
+  google:
+    frequency: 25
+  infosys:
+    frequency: 37
+  lyft:
+    frequency: 75
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 12
+  paytm:
+    frequency: 62
+  tiktok:
+    frequency: 25
+  uber:
+    frequency: 25
+  zepto:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

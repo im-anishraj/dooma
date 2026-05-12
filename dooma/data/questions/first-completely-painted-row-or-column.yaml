@@ -1,0 +1,17 @@
+id: first-completely-painted-row-or-column
+title: First Completely Painted Row or Column
+url: https://leetcode.com/problems/first-completely-painted-row-or-column
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  citadel:
+    frequency: 87
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

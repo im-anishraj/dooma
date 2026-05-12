@@ -1,0 +1,21 @@
+id: minimum-number-game
+title: Minimum Number Game
+url: https://leetcode.com/problems/minimum-number-game
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  bt-group:
+    frequency: 100
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

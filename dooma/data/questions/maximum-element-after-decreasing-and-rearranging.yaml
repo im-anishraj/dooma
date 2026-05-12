@@ -1,0 +1,13 @@
+id: maximum-element-after-decreasing-and-rearranging
+title: Maximum Element After Decreasing and Rearranging
+url: https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: data-stream-as-disjoint-intervals
+title: Data Stream as Disjoint Intervals
+url: https://leetcode.com/problems/data-stream-as-disjoint-intervals
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

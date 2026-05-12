@@ -1,0 +1,13 @@
+id: longest-chunked-palindrome-decomposition
+title: Longest Chunked Palindrome Decomposition
+url: https://leetcode.com/problems/longest-chunked-palindrome-decomposition
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

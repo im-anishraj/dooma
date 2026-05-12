@@ -1,0 +1,39 @@
+id: burst-balloons
+title: Burst Balloons
+url: https://leetcode.com/problems/burst-balloons
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 25
+  directi:
+    frequency: 62
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 37
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  paytm:
+    frequency: 62
+  phonepe:
+    frequency: 62
+  samsung:
+    frequency: 87
+  snapchat:
+    frequency: 87
+  tcs:
+    frequency: 37
+  uber:
+    frequency: 37
+  uipath:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

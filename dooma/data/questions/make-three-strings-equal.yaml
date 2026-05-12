@@ -1,0 +1,13 @@
+id: make-three-strings-equal
+title: Make Three Strings Equal
+url: https://leetcode.com/problems/make-three-strings-equal
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

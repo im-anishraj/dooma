@@ -1,0 +1,15 @@
+id: number-of-senior-citizens
+title: Number of Senior Citizens
+url: https://leetcode.com/problems/number-of-senior-citizens
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

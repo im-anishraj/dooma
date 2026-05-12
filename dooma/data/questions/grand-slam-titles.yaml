@@ -1,0 +1,13 @@
+id: grand-slam-titles
+title: Grand Slam Titles
+url: https://leetcode.com/problems/grand-slam-titles
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

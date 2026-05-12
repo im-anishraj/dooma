@@ -1,0 +1,15 @@
+id: apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k
+title: Apply Operations to Make Sum of Array Greater Than or Equal to k
+url: https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  turing:
+    frequency: 62
+  zscaler:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

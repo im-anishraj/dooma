@@ -1,0 +1,19 @@
+id: minimize-length-of-array-using-operations
+title: Minimize Length of Array Using Operations
+url: https://leetcode.com/problems/minimize-length-of-array-using-operations
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bny-mellon:
+    frequency: 100
+  dtcc:
+    frequency: 100
+  hashedin:
+    frequency: 75
+  oracle:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

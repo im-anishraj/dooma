@@ -1,0 +1,15 @@
+id: equal-rational-numbers
+title: Equal Rational Numbers
+url: https://leetcode.com/problems/equal-rational-numbers
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

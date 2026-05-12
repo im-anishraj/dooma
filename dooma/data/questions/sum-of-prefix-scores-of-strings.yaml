@@ -1,0 +1,19 @@
+id: sum-of-prefix-scores-of-strings
+title: Sum of Prefix Scores of Strings
+url: https://leetcode.com/problems/sum-of-prefix-scores-of-strings
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  boeing:
+    frequency: 87
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

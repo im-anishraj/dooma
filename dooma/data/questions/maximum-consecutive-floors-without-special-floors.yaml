@@ -1,0 +1,13 @@
+id: maximum-consecutive-floors-without-special-floors
+title: Maximum Consecutive Floors Without Special Floors
+url: https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

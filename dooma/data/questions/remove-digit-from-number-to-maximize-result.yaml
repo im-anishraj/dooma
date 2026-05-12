@@ -1,0 +1,23 @@
+id: remove-digit-from-number-to-maximize-result
+title: Remove Digit From Number to Maximize Result
+url: https://leetcode.com/problems/remove-digit-from-number-to-maximize-result
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  infosys:
+    frequency: 62
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

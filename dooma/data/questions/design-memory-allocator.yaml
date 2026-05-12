@@ -1,0 +1,43 @@
+id: design-memory-allocator
+title: Design Memory Allocator
+url: https://leetcode.com/problems/design-memory-allocator
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  apple:
+    frequency: 25
+  bytedance:
+    frequency: 62
+  capital-one:
+    frequency: 62
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 37
+  nvidia:
+    frequency: 37
+  openai:
+    frequency: 75
+  qualcomm:
+    frequency: 50
+  roblox:
+    frequency: 37
+  rubrik:
+    frequency: 37
+  sig:
+    frequency: 75
+  tiktok:
+    frequency: 37
+  two-sigma:
+    frequency: 62
+  uber:
+    frequency: 37
+  visa:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

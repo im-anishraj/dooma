@@ -1,0 +1,17 @@
+id: jump-game-vii
+title: Jump Game VII
+url: https://leetcode.com/problems/jump-game-vii
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  apple:
+    frequency: 25
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

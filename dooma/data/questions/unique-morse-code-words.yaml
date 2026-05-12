@@ -1,0 +1,19 @@
+id: unique-morse-code-words
+title: Unique Morse Code Words
+url: https://leetcode.com/problems/unique-morse-code-words
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  wix:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

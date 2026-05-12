@@ -1,0 +1,21 @@
+id: three-consecutive-odds
+title: Three Consecutive Odds
+url: https://leetcode.com/problems/three-consecutive-odds
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  dji:
+    frequency: 100
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

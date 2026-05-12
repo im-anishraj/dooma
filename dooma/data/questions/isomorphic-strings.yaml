@@ -1,0 +1,53 @@
+id: isomorphic-strings
+title: Isomorphic Strings
+url: https://leetcode.com/problems/isomorphic-strings
+difficulty: easy
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  amazon:
+    frequency: 50
+  american-express:
+    frequency: 50
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 50
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 50
+  hashedin:
+    frequency: 62
+  linkedin:
+    frequency: 62
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 37
+  oracle:
+    frequency: 37
+  remitly:
+    frequency: 100
+  sprinklr:
+    frequency: 75
+  tiktok:
+    frequency: 25
+  tinkoff:
+    frequency: 62
+  uber:
+    frequency: 25
+  yahoo:
+    frequency: 50
+  yandex:
+    frequency: 75
+  zoho:
+    frequency: 50
+  zomato:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

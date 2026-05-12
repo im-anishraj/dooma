@@ -1,0 +1,19 @@
+id: minimum-operations-to-exceed-threshold-value-ii
+title: Minimum Operations to Exceed Threshold Value II
+url: https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  tcs:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

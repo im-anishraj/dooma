@@ -1,0 +1,15 @@
+id: maximum-segment-sum-after-removals
+title: Maximum Segment Sum After Removals
+url: https://leetcode.com/problems/maximum-segment-sum-after-removals
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  infosys:
+    frequency: 75
+  medianet:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,21 @@
+id: string-compression-ii
+title: String Compression II
+url: https://leetcode.com/problems/string-compression-ii
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  github:
+    frequency: 87
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  toptal:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

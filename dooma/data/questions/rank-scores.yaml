@@ -1,0 +1,23 @@
+id: rank-scores
+title: Rank Scores
+url: https://leetcode.com/problems/rank-scores
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

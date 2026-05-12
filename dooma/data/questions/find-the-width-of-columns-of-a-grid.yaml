@@ -1,0 +1,15 @@
+id: find-the-width-of-columns-of-a-grid
+title: Find the Width of Columns of a Grid
+url: https://leetcode.com/problems/find-the-width-of-columns-of-a-grid
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  atlassian:
+    frequency: 62
+  samsung:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

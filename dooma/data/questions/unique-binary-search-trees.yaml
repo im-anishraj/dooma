@@ -1,0 +1,33 @@
+id: unique-binary-search-trees
+title: Unique Binary Search Trees
+url: https://leetcode.com/problems/unique-binary-search-trees
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 12
+  clari:
+    frequency: 87
+  google:
+    frequency: 25
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 12
+  oracle:
+    frequency: 50
+  snapchat:
+    frequency: 87
+  swiggy:
+    frequency: 62
+  tiktok:
+    frequency: 37
+  tower-research:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

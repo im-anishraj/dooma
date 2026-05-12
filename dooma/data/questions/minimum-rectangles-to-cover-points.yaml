@@ -1,0 +1,13 @@
+id: minimum-rectangles-to-cover-points
+title: Minimum Rectangles to Cover Points
+url: https://leetcode.com/problems/minimum-rectangles-to-cover-points
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  microsoft:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

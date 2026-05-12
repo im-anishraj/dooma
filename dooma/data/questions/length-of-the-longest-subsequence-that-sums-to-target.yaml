@@ -1,0 +1,17 @@
+id: length-of-the-longest-subsequence-that-sums-to-target
+title: Length of the Longest Subsequence That Sums to Target
+url: https://leetcode.com/problems/length-of-the-longest-subsequence-that-sums-to-target
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  intuit:
+    frequency: 75
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

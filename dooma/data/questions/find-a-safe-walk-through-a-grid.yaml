@@ -1,0 +1,15 @@
+id: find-a-safe-walk-through-a-grid
+title: Find a Safe Walk Through a Grid
+url: https://leetcode.com/problems/find-a-safe-walk-through-a-grid
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

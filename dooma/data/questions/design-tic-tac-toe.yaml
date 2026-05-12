@@ -1,0 +1,41 @@
+id: design-tic-tac-toe
+title: Design Tic-Tac-Toe
+url: https://leetcode.com/problems/design-tic-tac-toe
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  airbnb:
+    frequency: 62
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 62
+  bloomberg:
+    frequency: 12
+  chewy:
+    frequency: 87
+  citadel:
+    frequency: 50
+  databricks:
+    frequency: 87
+  google:
+    frequency: 25
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 50
+  tesla:
+    frequency: 50
+  tiktok:
+    frequency: 50
+  waymo:
+    frequency: 62
+  wise:
+    frequency: 75
+  yext:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

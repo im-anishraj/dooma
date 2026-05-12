@@ -1,0 +1,17 @@
+id: student-attendance-record-ii
+title: Student Attendance Record II
+url: https://leetcode.com/problems/student-attendance-record-ii
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 37
+  sprinklr:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

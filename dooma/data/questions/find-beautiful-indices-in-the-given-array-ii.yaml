@@ -1,0 +1,17 @@
+id: find-beautiful-indices-in-the-given-array-ii
+title: Find Beautiful Indices in the Given Array II
+url: https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  palantir-technologies:
+    frequency: 75
+  phonepe:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

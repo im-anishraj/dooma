@@ -1,0 +1,25 @@
+id: least-number-of-unique-integers-after-k-removals
+title: Least Number of Unique Integers after K Removals
+url: https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  expedia:
+    frequency: 50
+  fivetran:
+    frequency: 100
+  google:
+    frequency: 12
+  morgan-stanley:
+    frequency: 50
+  oracle:
+    frequency: 25
+  salesforce:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

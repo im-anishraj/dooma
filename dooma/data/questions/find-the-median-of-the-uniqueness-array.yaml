@@ -1,0 +1,15 @@
+id: find-the-median-of-the-uniqueness-array
+title: Find the Median of the Uniqueness Array
+url: https://leetcode.com/problems/find-the-median-of-the-uniqueness-array
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

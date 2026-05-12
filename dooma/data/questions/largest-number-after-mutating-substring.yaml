@@ -1,0 +1,13 @@
+id: largest-number-after-mutating-substring
+title: Largest Number After Mutating Substring
+url: https://leetcode.com/problems/largest-number-after-mutating-substring
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  infosys:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

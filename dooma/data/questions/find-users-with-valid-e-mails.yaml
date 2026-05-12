@@ -1,0 +1,21 @@
+id: find-users-with-valid-e-mails
+title: Find Users With Valid E-Mails
+url: https://leetcode.com/problems/find-users-with-valid-e-mails
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  shopify:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

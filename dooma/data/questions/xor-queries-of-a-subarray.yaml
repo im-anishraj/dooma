@@ -1,0 +1,21 @@
+id: xor-queries-of-a-subarray
+title: XOR Queries of a Subarray
+url: https://leetcode.com/problems/xor-queries-of-a-subarray
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  airtel:
+    frequency: 100
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

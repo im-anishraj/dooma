@@ -1,0 +1,17 @@
+id: minimum-number-of-operations-to-make-all-array-elements-equal-to-1
+title: Minimum Number of Operations to Make All Array Elements Equal to 1
+url: https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

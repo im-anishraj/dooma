@@ -1,0 +1,85 @@
+id: word-ladder
+title: Word Ladder
+url: https://leetcode.com/problems/word-ladder
+difficulty: hard
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 75
+  apple:
+    frequency: 62
+  arcesium:
+    frequency: 62
+  bloomberg:
+    frequency: 50
+  box:
+    frequency: 62
+  bytedance:
+    frequency: 62
+  capital-one:
+    frequency: 37
+  citadel:
+    frequency: 50
+  clevertap:
+    frequency: 100
+  docusign:
+    frequency: 62
+  ebay:
+    frequency: 75
+  expedia:
+    frequency: 50
+  flipkart:
+    frequency: 50
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 37
+  linkedin:
+    frequency: 75
+  makemytrip:
+    frequency: 62
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 50
+  navan:
+    frequency: 87
+  okta:
+    frequency: 62
+  oracle:
+    frequency: 50
+  phonepe:
+    frequency: 62
+  reddit:
+    frequency: 100
+  salesforce:
+    frequency: 37
+  samsung:
+    frequency: 50
+  servicenow:
+    frequency: 50
+  snapchat:
+    frequency: 87
+  tekion:
+    frequency: 62
+  the-trade-desk:
+    frequency: 75
+  tiktok:
+    frequency: 62
+  uber:
+    frequency: 37
+  visa:
+    frequency: 50
+  walmart-labs:
+    frequency: 37
+  yelp:
+    frequency: 100
+  zscaler:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

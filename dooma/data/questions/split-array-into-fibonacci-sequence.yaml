@@ -1,0 +1,15 @@
+id: split-array-into-fibonacci-sequence
+title: Split Array into Fibonacci Sequence
+url: https://leetcode.com/problems/split-array-into-fibonacci-sequence
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

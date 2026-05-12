@@ -1,0 +1,23 @@
+id: split-message-based-on-limit
+title: Split Message Based on Limit
+url: https://leetcode.com/problems/split-message-based-on-limit
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  databricks:
+    frequency: 62
+  faire:
+    frequency: 75
+  meta:
+    frequency: 12
+  tiktok:
+    frequency: 37
+  uber:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

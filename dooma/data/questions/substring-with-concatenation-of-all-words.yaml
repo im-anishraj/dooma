@@ -1,0 +1,31 @@
+id: substring-with-concatenation-of-all-words
+title: Substring with Concatenation of All Words
+url: https://leetcode.com/problems/substring-with-concatenation-of-all-words
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 37
+  infosys:
+    frequency: 37
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 25
+  roku:
+    frequency: 87
+  samsung:
+    frequency: 87
+  texas-instruments:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

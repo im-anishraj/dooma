@@ -1,0 +1,13 @@
+id: make-array-non-decreasing
+title: Make Array Non-decreasing
+url: https://leetcode.com/problems/make-array-non-decreasing
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

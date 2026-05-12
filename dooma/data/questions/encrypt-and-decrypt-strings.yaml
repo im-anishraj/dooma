@@ -1,0 +1,17 @@
+id: encrypt-and-decrypt-strings
+title: Encrypt and Decrypt Strings
+url: https://leetcode.com/problems/encrypt-and-decrypt-strings
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  duolingo:
+    frequency: 100
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

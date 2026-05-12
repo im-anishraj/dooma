@@ -1,0 +1,19 @@
+id: flip-columns-for-maximum-number-of-equal-rows
+title: Flip Columns For Maximum Number of Equal Rows
+url: https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: maximum-subarray-sum-after-one-operation
+title: Maximum Subarray Sum After One Operation
+url: https://leetcode.com/problems/maximum-subarray-sum-after-one-operation
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  sprinklr:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

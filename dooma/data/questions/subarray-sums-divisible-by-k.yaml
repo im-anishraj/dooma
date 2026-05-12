@@ -1,0 +1,35 @@
+id: subarray-sums-divisible-by-k
+title: Subarray Sums Divisible by K
+url: https://leetcode.com/problems/subarray-sums-divisible-by-k
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 37
+  google:
+    frequency: 25
+  hashedin:
+    frequency: 62
+  jpmorgan:
+    frequency: 37
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 37
+  tiktok:
+    frequency: 50
+  uber:
+    frequency: 37
+  visa:
+    frequency: 37
+  yandex:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: number-of-music-playlists
+title: Number of Music Playlists
+url: https://leetcode.com/problems/number-of-music-playlists
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  coursera:
+    frequency: 100
+  oracle:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

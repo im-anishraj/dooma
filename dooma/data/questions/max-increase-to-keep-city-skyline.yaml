@@ -1,0 +1,15 @@
+id: max-increase-to-keep-city-skyline
+title: Max Increase to Keep City Skyline
+url: https://leetcode.com/problems/max-increase-to-keep-city-skyline
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  rivian:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

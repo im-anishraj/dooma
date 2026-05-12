@@ -1,0 +1,19 @@
+id: count-prefix-and-suffix-pairs-ii
+title: Count Prefix and Suffix Pairs II
+url: https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  autodesk:
+    frequency: 100
+  capital-one:
+    frequency: 62
+  samsung:
+    frequency: 87
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

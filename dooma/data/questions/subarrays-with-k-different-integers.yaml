@@ -1,0 +1,45 @@
+id: subarrays-with-k-different-integers
+title: Subarrays with K Different Integers
+url: https://leetcode.com/problems/subarrays-with-k-different-integers
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 50
+  bloomberg:
+    frequency: 25
+  capital-one:
+    frequency: 37
+  google:
+    frequency: 37
+  hashedin:
+    frequency: 87
+  infosys:
+    frequency: 37
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 37
+  morgan-stanley:
+    frequency: 50
+  oracle:
+    frequency: 37
+  roblox:
+    frequency: 62
+  salesforce:
+    frequency: 37
+  servicenow:
+    frequency: 50
+  tiktok:
+    frequency: 37
+  uber:
+    frequency: 37
+  yahoo:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

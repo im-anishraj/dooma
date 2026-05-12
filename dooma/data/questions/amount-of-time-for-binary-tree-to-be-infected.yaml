@@ -1,0 +1,35 @@
+id: amount-of-time-for-binary-tree-to-be-infected
+title: Amount of Time for Binary Tree to Be Infected
+url: https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 37
+  blinkit:
+    frequency: 100
+  bloomberg:
+    frequency: 12
+  flipkart:
+    frequency: 62
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  servicenow:
+    frequency: 50
+  sharechat:
+    frequency: 100
+  snapchat:
+    frequency: 50
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

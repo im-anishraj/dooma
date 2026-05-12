@@ -1,0 +1,13 @@
+id: minimum-skips-to-arrive-at-meeting-on-time
+title: Minimum Skips to Arrive at Meeting On Time
+url: https://leetcode.com/problems/minimum-skips-to-arrive-at-meeting-on-time
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

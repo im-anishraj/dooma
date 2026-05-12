@@ -1,0 +1,21 @@
+id: count-negative-numbers-in-a-sorted-matrix
+title: Count Negative Numbers in a Sorted Matrix
+url: https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 12
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

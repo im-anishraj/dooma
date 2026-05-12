@@ -1,0 +1,13 @@
+id: minimum-path-cost-in-a-grid
+title: Minimum Path Cost in a Grid
+url: https://leetcode.com/problems/minimum-path-cost-in-a-grid
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

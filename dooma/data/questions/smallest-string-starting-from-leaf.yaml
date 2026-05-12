@@ -1,0 +1,15 @@
+id: smallest-string-starting-from-leaf
+title: Smallest String Starting From Leaf
+url: https://leetcode.com/problems/smallest-string-starting-from-leaf
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

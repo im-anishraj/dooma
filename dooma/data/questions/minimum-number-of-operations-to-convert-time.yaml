@@ -1,0 +1,13 @@
+id: minimum-number-of-operations-to-convert-time
+title: Minimum Number of Operations to Convert Time
+url: https://leetcode.com/problems/minimum-number-of-operations-to-convert-time
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

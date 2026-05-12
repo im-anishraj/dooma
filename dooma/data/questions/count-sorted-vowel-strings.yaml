@@ -1,0 +1,13 @@
+id: count-sorted-vowel-strings
+title: Count Sorted Vowel Strings
+url: https://leetcode.com/problems/count-sorted-vowel-strings
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

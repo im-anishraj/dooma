@@ -1,0 +1,17 @@
+id: get-equal-substrings-within-budget
+title: Get Equal Substrings Within Budget
+url: https://leetcode.com/problems/get-equal-substrings-within-budget
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  ibm:
+    frequency: 37
+  jpmorgan:
+    frequency: 62
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

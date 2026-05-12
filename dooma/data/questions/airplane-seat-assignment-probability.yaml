@@ -1,0 +1,17 @@
+id: airplane-seat-assignment-probability
+title: Airplane Seat Assignment Probability
+url: https://leetcode.com/problems/airplane-seat-assignment-probability
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  microstrategy:
+    frequency: 100
+  toptal:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

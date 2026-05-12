@@ -1,0 +1,15 @@
+id: the-number-of-good-subsets
+title: The Number of Good Subsets
+url: https://leetcode.com/problems/the-number-of-good-subsets
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  lowe:
+    frequency: 100
+  medianet:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

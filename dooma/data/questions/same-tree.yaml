@@ -1,0 +1,29 @@
+id: same-tree
+title: Same Tree
+url: https://leetcode.com/problems/same-tree
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 50
+  google:
+    frequency: 50
+  linkedin:
+    frequency: 25
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 37
+  sap:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

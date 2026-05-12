@@ -1,0 +1,19 @@
+id: check-knight-tour-configuration
+title: Check Knight Tour Configuration
+url: https://leetcode.com/problems/check-knight-tour-configuration
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

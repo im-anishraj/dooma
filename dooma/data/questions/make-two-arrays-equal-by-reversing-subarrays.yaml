@@ -1,0 +1,19 @@
+id: make-two-arrays-equal-by-reversing-subarrays
+title: Make Two Arrays Equal by Reversing Subarrays
+url: https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,79 @@
+id: basic-calculator-ii
+title: Basic Calculator II
+url: https://leetcode.com/problems/basic-calculator-ii
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  airbnb:
+    frequency: 75
+  amazon:
+    frequency: 50
+  anduril:
+    frequency: 50
+  apple:
+    frequency: 50
+  bloomberg:
+    frequency: 37
+  bytedance:
+    frequency: 62
+  canva:
+    frequency: 100
+  coupang:
+    frequency: 50
+  de-shaw:
+    frequency: 50
+  doordash:
+    frequency: 50
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 25
+  highspot:
+    frequency: 100
+  ixl:
+    frequency: 75
+  meta:
+    frequency: 87
+  microsoft:
+    frequency: 37
+  netapp:
+    frequency: 75
+  oracle:
+    frequency: 37
+  palo-alto-networks:
+    frequency: 50
+  rivian:
+    frequency: 75
+  rokt:
+    frequency: 100
+  servicenow:
+    frequency: 50
+  snapchat:
+    frequency: 87
+  snowflake:
+    frequency: 50
+  tesla:
+    frequency: 87
+  the-trade-desk:
+    frequency: 62
+  tiktok:
+    frequency: 75
+  uber:
+    frequency: 37
+  verkada:
+    frequency: 87
+  walmart-labs:
+    frequency: 50
+  yandex:
+    frequency: 50
+  zoho:
+    frequency: 62
+  zoox:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: maximum-beauty-of-an-array-after-applying-operation
+title: Maximum Beauty of an Array After Applying Operation
+url: https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

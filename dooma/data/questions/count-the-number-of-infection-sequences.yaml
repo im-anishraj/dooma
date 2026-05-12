@@ -1,0 +1,23 @@
+id: count-the-number-of-infection-sequences
+title: Count the Number of Infection Sequences
+url: https://leetcode.com/problems/count-the-number-of-infection-sequences
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  oracle:
+    frequency: 50
+  salesforce:
+    frequency: 25
+  sap:
+    frequency: 87
+  tekion:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: count-asterisks
+title: Count Asterisks
+url: https://leetcode.com/problems/count-asterisks
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

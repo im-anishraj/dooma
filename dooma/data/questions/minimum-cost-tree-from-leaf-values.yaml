@@ -1,0 +1,19 @@
+id: minimum-cost-tree-from-leaf-values
+title: Minimum Cost Tree From Leaf Values
+url: https://leetcode.com/problems/minimum-cost-tree-from-leaf-values
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  mathworks:
+    frequency: 87
+  phonepe:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,19 @@
+id: longest-balanced-subarray-i
+title: Longest Balanced Subarray I
+url: https://leetcode.com/problems/longest-balanced-subarray-i
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 12
+  intuit:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: maximum-bitwise-and-after-increment-operations
+title: Maximum Bitwise AND After Increment Operations
+url: https://leetcode.com/problems/maximum-bitwise-and-after-increment-operations
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

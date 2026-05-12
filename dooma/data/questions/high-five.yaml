@@ -1,0 +1,15 @@
+id: high-five
+title: High Five
+url: https://leetcode.com/problems/high-five
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  goldman-sachs:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

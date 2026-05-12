@@ -1,0 +1,51 @@
+id: split-array-largest-sum
+title: Split Array Largest Sum
+url: https://leetcode.com/problems/split-array-largest-sum
+difficulty: hard
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 50
+  baidu:
+    frequency: 100
+  bloomberg:
+    frequency: 50
+  de-shaw:
+    frequency: 50
+  deloitte:
+    frequency: 50
+  google:
+    frequency: 50
+  infosys:
+    frequency: 50
+  mathworks:
+    frequency: 50
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 37
+  nutanix:
+    frequency: 50
+  oracle:
+    frequency: 25
+  phonepe:
+    frequency: 50
+  pinterest:
+    frequency: 50
+  salesforce:
+    frequency: 37
+  samsung:
+    frequency: 50
+  tekion:
+    frequency: 75
+  uber:
+    frequency: 37
+  zeta:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

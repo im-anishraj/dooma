@@ -1,0 +1,13 @@
+id: count-pairs-with-xor-in-a-range
+title: Count Pairs With XOR in a Range
+url: https://leetcode.com/problems/count-pairs-with-xor-in-a-range
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  vimeo:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: restore-the-array
+title: Restore The Array
+url: https://leetcode.com/problems/restore-the-array
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  postman:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

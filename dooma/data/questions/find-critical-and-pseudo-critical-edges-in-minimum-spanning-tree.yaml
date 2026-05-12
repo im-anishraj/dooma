@@ -1,0 +1,17 @@
+id: find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree
+title: Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree
+url: https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  google:
+    frequency: 12
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

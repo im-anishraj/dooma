@@ -1,0 +1,133 @@
+id: 3sum
+title: 3Sum
+url: https://leetcode.com/problems/3sum
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 50
+  adobe:
+    frequency: 75
+  agoda:
+    frequency: 75
+  amazon:
+    frequency: 75
+  american-express:
+    frequency: 62
+  apple:
+    frequency: 50
+  autodesk:
+    frequency: 62
+  bloomberg:
+    frequency: 75
+  bny-mellon:
+    frequency: 62
+  cadence:
+    frequency: 100
+  cisco:
+    frequency: 37
+  cloudflare:
+    frequency: 87
+  deloitte:
+    frequency: 50
+  dream11:
+    frequency: 62
+  epam-systems:
+    frequency: 50
+  flipkart:
+    frequency: 37
+  garena:
+    frequency: 62
+  gojek:
+    frequency: 87
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 75
+  goto:
+    frequency: 100
+  hcl:
+    frequency: 62
+  huawei:
+    frequency: 62
+  ibm:
+    frequency: 50
+  infosys:
+    frequency: 62
+  intuit:
+    frequency: 50
+  meesho:
+    frequency: 50
+  meta:
+    frequency: 75
+  microsoft:
+    frequency: 75
+  morgan-stanley:
+    frequency: 62
+  myntra:
+    frequency: 75
+  nutanix:
+    frequency: 50
+  nvidia:
+    frequency: 37
+  oracle:
+    frequency: 62
+  oyo:
+    frequency: 87
+  paypal:
+    frequency: 50
+  persistent-systems:
+    frequency: 62
+  phonepe:
+    frequency: 62
+  qualcomm:
+    frequency: 75
+  rakuten:
+    frequency: 87
+  salesforce:
+    frequency: 37
+  samsung:
+    frequency: 62
+  shipsy:
+    frequency: 100
+  shopee:
+    frequency: 62
+  singlestore:
+    frequency: 100
+  tcs:
+    frequency: 62
+  tesla:
+    frequency: 62
+  tiktok:
+    frequency: 75
+  trexquant:
+    frequency: 87
+  turing:
+    frequency: 50
+  uber:
+    frequency: 25
+  vimeo:
+    frequency: 62
+  visa:
+    frequency: 87
+  walmart-labs:
+    frequency: 62
+  warnermedia:
+    frequency: 62
+  wix:
+    frequency: 87
+  works-applications:
+    frequency: 100
+  yahoo:
+    frequency: 62
+  zoho:
+    frequency: 50
+  zomato:
+    frequency: 62
+  zopsmart:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,73 @@
+id: next-permutation
+title: Next Permutation
+url: https://leetcode.com/problems/next-permutation
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 62
+  airtel:
+    frequency: 75
+  amazon:
+    frequency: 62
+  arcesium:
+    frequency: 62
+  atlassian:
+    frequency: 37
+  bloomberg:
+    frequency: 75
+  citadel:
+    frequency: 50
+  de-shaw:
+    frequency: 37
+  doordash:
+    frequency: 50
+  flipkart:
+    frequency: 62
+  goldman-sachs:
+    frequency: 37
+  google:
+    frequency: 62
+  hashedin:
+    frequency: 62
+  ibm:
+    frequency: 37
+  infosys:
+    frequency: 75
+  intuit:
+    frequency: 37
+  meesho:
+    frequency: 62
+  meta:
+    frequency: 75
+  microsoft:
+    frequency: 62
+  mitsogo:
+    frequency: 75
+  nike:
+    frequency: 75
+  oracle:
+    frequency: 37
+  rubrik:
+    frequency: 37
+  samsung:
+    frequency: 50
+  servicenow:
+    frequency: 50
+  tcs:
+    frequency: 37
+  tiktok:
+    frequency: 37
+  uber:
+    frequency: 50
+  upstart:
+    frequency: 62
+  walmart-labs:
+    frequency: 50
+  zepto:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

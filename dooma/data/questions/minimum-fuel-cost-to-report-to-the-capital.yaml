@@ -1,0 +1,19 @@
+id: minimum-fuel-cost-to-report-to-the-capital
+title: Minimum Fuel Cost to Report to the Capital
+url: https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

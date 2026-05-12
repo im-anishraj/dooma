@@ -1,0 +1,17 @@
+id: design-an-atm-machine
+title: Design an ATM Machine
+url: https://leetcode.com/problems/design-an-atm-machine
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  microsoft:
+    frequency: 12
+  yandex:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,19 @@
+id: delete-leaves-with-a-given-value
+title: Delete Leaves With a Given Value
+url: https://leetcode.com/problems/delete-leaves-with-a-given-value
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  google:
+    frequency: 12
+  josh-technology:
+    frequency: 75
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

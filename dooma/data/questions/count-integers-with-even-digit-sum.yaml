@@ -1,0 +1,13 @@
+id: count-integers-with-even-digit-sum
+title: Count Integers With Even Digit Sum
+url: https://leetcode.com/problems/count-integers-with-even-digit-sum
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  mindtree:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

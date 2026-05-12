@@ -1,0 +1,13 @@
+id: bitwise-or-of-all-subsequence-sums
+title: Bitwise OR of All Subsequence Sums
+url: https://leetcode.com/problems/bitwise-or-of-all-subsequence-sums
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  zomato:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

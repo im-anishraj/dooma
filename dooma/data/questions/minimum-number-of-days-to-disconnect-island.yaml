@@ -1,0 +1,19 @@
+id: minimum-number-of-days-to-disconnect-island
+title: Minimum Number of Days to Disconnect Island
+url: https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  argo-ai:
+    frequency: 87
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

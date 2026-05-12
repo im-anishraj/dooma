@@ -1,0 +1,13 @@
+id: graph-connectivity-with-threshold
+title: Graph Connectivity With Threshold
+url: https://leetcode.com/problems/graph-connectivity-with-threshold
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

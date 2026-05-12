@@ -1,0 +1,13 @@
+id: count-nodes-equal-to-sum-of-descendants
+title: Count Nodes Equal to Sum of Descendants
+url: https://leetcode.com/problems/count-nodes-equal-to-sum-of-descendants
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  meta:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

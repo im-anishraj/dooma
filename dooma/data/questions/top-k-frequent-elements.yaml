@@ -1,0 +1,113 @@
+id: top-k-frequent-elements
+title: Top K Frequent Elements
+url: https://leetcode.com/problems/top-k-frequent-elements
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 62
+  amazon:
+    frequency: 75
+  amd:
+    frequency: 75
+  apple:
+    frequency: 75
+  arista-networks:
+    frequency: 62
+  atlassian:
+    frequency: 50
+  avito:
+    frequency: 100
+  bloomberg:
+    frequency: 50
+  bytedance:
+    frequency: 62
+  chewy:
+    frequency: 100
+  disney:
+    frequency: 100
+  docusign:
+    frequency: 62
+  doordash:
+    frequency: 25
+  ebay:
+    frequency: 75
+  epam-systems:
+    frequency: 50
+  goldman-sachs:
+    frequency: 50
+  google:
+    frequency: 50
+  hubspot:
+    frequency: 50
+  infosys:
+    frequency: 62
+  intuit:
+    frequency: 62
+  jpmorgan:
+    frequency: 37
+  meta:
+    frequency: 87
+  microsoft:
+    frequency: 62
+  microstrategy:
+    frequency: 62
+  netflix:
+    frequency: 62
+  nutanix:
+    frequency: 50
+  nvidia:
+    frequency: 50
+  oracle:
+    frequency: 75
+  paypal:
+    frequency: 50
+  pinterest:
+    frequency: 37
+  pocket-gems:
+    frequency: 100
+  rippling:
+    frequency: 50
+  robinhood:
+    frequency: 62
+  roku:
+    frequency: 100
+  salesforce:
+    frequency: 50
+  servicenow:
+    frequency: 50
+  siemens:
+    frequency: 62
+  smartsheet:
+    frequency: 100
+  snapchat:
+    frequency: 62
+  snowflake:
+    frequency: 62
+  sofi:
+    frequency: 75
+  tesla:
+    frequency: 75
+  tiktok:
+    frequency: 75
+  twilio:
+    frequency: 62
+  uber:
+    frequency: 62
+  visa:
+    frequency: 37
+  walmart-labs:
+    frequency: 62
+  yahoo:
+    frequency: 62
+  yandex:
+    frequency: 25
+  yelp:
+    frequency: 100
+  zoho:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

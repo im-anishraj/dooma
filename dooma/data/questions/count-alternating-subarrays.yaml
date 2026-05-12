@@ -1,0 +1,15 @@
+id: count-alternating-subarrays
+title: Count Alternating Subarrays
+url: https://leetcode.com/problems/count-alternating-subarrays
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  capital-one:
+    frequency: 75
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

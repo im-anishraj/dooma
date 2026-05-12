@@ -1,0 +1,15 @@
+id: construct-the-rectangle
+title: Construct the Rectangle
+url: https://leetcode.com/problems/construct-the-rectangle
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

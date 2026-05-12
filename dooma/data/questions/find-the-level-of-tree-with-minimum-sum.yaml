@@ -1,0 +1,13 @@
+id: find-the-level-of-tree-with-minimum-sum
+title: Find the Level of Tree with Minimum Sum
+url: https://leetcode.com/problems/find-the-level-of-tree-with-minimum-sum
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

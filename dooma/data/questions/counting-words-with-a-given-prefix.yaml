@@ -1,0 +1,19 @@
+id: counting-words-with-a-given-prefix
+title: Counting Words With a Given Prefix
+url: https://leetcode.com/problems/counting-words-with-a-given-prefix
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

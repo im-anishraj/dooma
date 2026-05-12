@@ -1,0 +1,17 @@
+id: maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts
+title: Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts
+url: https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bny-mellon:
+    frequency: 100
+  google:
+    frequency: 12
+  ixl:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

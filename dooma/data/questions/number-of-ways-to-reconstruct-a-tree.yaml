@@ -1,0 +1,13 @@
+id: number-of-ways-to-reconstruct-a-tree
+title: Number Of Ways To Reconstruct A Tree
+url: https://leetcode.com/problems/number-of-ways-to-reconstruct-a-tree
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  uber:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

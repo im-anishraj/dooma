@@ -1,0 +1,31 @@
+id: nth-highest-salary
+title: Nth Highest Salary
+url: https://leetcode.com/problems/nth-highest-salary
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  amazon:
+    frequency: 25
+  atlassian:
+    frequency: 37
+  bloomberg:
+    frequency: 25
+  deloitte:
+    frequency: 50
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  tiktok:
+    frequency: 25
+  zs-associates:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

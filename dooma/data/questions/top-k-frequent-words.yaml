@@ -1,0 +1,63 @@
+id: top-k-frequent-words
+title: Top K Frequent Words
+url: https://leetcode.com/problems/top-k-frequent-words
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 50
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 50
+  box:
+    frequency: 100
+  ebay:
+    frequency: 50
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 37
+  intel:
+    frequency: 62
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 25
+  netflix:
+    frequency: 50
+  oracle:
+    frequency: 50
+  palo-alto-networks:
+    frequency: 50
+  paypal:
+    frequency: 50
+  pocket-gems:
+    frequency: 100
+  redfin:
+    frequency: 100
+  rippling:
+    frequency: 50
+  robinhood:
+    frequency: 87
+  salesforce:
+    frequency: 37
+  servicenow:
+    frequency: 62
+  tiktok:
+    frequency: 25
+  uber:
+    frequency: 62
+  walmart-labs:
+    frequency: 37
+  yelp:
+    frequency: 100
+  zynga:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: stamping-the-grid
+title: Stamping the Grid
+url: https://leetcode.com/problems/stamping-the-grid
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  rubrik:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

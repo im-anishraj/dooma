@@ -1,0 +1,15 @@
+id: minimum-adjacent-swaps-to-reach-the-kth-smallest-number
+title: Minimum Adjacent Swaps to Reach the Kth Smallest Number
+url: https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

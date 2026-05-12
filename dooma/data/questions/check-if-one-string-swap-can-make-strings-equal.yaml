@@ -1,0 +1,21 @@
+id: check-if-one-string-swap-can-make-strings-equal
+title: Check if One String Swap Can Make Strings Equal
+url: https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  doordash:
+    frequency: 75
+  google:
+    frequency: 12
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

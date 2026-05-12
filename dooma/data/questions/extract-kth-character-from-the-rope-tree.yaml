@@ -1,0 +1,13 @@
+id: extract-kth-character-from-the-rope-tree
+title: Extract Kth Character From The Rope Tree
+url: https://leetcode.com/problems/extract-kth-character-from-the-rope-tree
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

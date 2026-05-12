@@ -1,0 +1,13 @@
+id: find-longest-self-contained-substring
+title: Find Longest Self-Contained Substring
+url: https://leetcode.com/problems/find-longest-self-contained-substring
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: split-strings-by-separator
+title: Split Strings by Separator
+url: https://leetcode.com/problems/split-strings-by-separator
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  apple:
+    frequency: 25
+  coupang:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

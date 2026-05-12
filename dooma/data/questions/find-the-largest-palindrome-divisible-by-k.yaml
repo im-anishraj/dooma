@@ -1,0 +1,15 @@
+id: find-the-largest-palindrome-divisible-by-k
+title: Find the Largest Palindrome Divisible by K
+url: https://leetcode.com/problems/find-the-largest-palindrome-divisible-by-k
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

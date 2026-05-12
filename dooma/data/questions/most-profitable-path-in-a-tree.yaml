@@ -1,0 +1,23 @@
+id: most-profitable-path-in-a-tree
+title: Most Profitable Path in a Tree
+url: https://leetcode.com/problems/most-profitable-path-in-a-tree
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  intuit:
+    frequency: 75
+  meta:
+    frequency: 12
+  snowflake:
+    frequency: 37
+  uber:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

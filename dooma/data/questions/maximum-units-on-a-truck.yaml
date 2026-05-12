@@ -1,0 +1,25 @@
+id: maximum-units-on-a-truck
+title: Maximum Units on a Truck
+url: https://leetcode.com/problems/maximum-units-on-a-truck
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  arista-networks:
+    frequency: 62
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  ibm:
+    frequency: 62
+  meta:
+    frequency: 12
+  salesforce:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,21 @@
+id: group-the-people-given-the-group-size-they-belong-to
+title: Group the People Given the Group Size They Belong To
+url: https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  roblox:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

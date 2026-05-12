@@ -1,0 +1,19 @@
+id: allow-one-function-call
+title: Allow One Function Call
+url: https://leetcode.com/problems/allow-one-function-call
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  yandex:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

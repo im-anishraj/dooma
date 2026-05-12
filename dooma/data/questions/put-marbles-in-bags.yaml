@@ -1,0 +1,27 @@
+id: put-marbles-in-bags
+title: Put Marbles in Bags
+url: https://leetcode.com/problems/put-marbles-in-bags
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 12
+  de-shaw:
+    frequency: 50
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  tiktok:
+    frequency: 25
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

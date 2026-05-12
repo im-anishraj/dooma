@@ -1,0 +1,19 @@
+id: count-days-without-meetings
+title: Count Days Without Meetings
+url: https://leetcode.com/problems/count-days-without-meetings
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 37
+  microsoft:
+    frequency: 25
+  swiggy:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,23 @@
+id: design-linked-list
+title: Design Linked List
+url: https://leetcode.com/problems/design-linked-list
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

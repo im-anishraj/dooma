@@ -1,0 +1,13 @@
+id: k-empty-slots
+title: K Empty Slots
+url: https://leetcode.com/problems/k-empty-slots
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

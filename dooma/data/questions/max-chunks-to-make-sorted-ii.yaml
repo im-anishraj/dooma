@@ -1,0 +1,21 @@
+id: max-chunks-to-make-sorted-ii
+title: Max Chunks To Make Sorted II
+url: https://leetcode.com/problems/max-chunks-to-make-sorted-ii
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  salesforce:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

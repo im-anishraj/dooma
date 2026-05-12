@@ -1,0 +1,15 @@
+id: average-salary-excluding-the-minimum-and-maximum-salary
+title: Average Salary Excluding the Minimum and Maximum Salary
+url: https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  netsuite:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

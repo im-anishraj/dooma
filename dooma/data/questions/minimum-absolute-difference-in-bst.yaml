@@ -1,0 +1,17 @@
+id: minimum-absolute-difference-in-bst
+title: Minimum Absolute Difference in BST
+url: https://leetcode.com/problems/minimum-absolute-difference-in-bst
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

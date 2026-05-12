@@ -1,0 +1,23 @@
+id: maximum-total-damage-with-spell-casting
+title: Maximum Total Damage With Spell Casting
+url: https://leetcode.com/problems/maximum-total-damage-with-spell-casting
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  citadel:
+    frequency: 87
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  phonepe:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

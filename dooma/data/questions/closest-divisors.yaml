@@ -1,0 +1,13 @@
+id: closest-divisors
+title: Closest Divisors
+url: https://leetcode.com/problems/closest-divisors
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

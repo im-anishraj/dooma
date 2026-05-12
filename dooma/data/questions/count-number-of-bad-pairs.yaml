@@ -1,0 +1,19 @@
+id: count-number-of-bad-pairs
+title: Count Number of Bad Pairs
+url: https://leetcode.com/problems/count-number-of-bad-pairs
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

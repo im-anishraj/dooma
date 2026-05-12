@@ -1,0 +1,15 @@
+id: apply-operations-to-make-all-array-elements-equal-to-zero
+title: Apply Operations to Make All Array Elements Equal to Zero
+url: https://leetcode.com/problems/apply-operations-to-make-all-array-elements-equal-to-zero
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

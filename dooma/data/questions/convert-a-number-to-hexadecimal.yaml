@@ -1,0 +1,21 @@
+id: convert-a-number-to-hexadecimal
+title: Convert a Number to Hexadecimal
+url: https://leetcode.com/problems/convert-a-number-to-hexadecimal
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 25
+  tcs:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,17 @@
+id: x-of-a-kind-in-a-deck-of-cards
+title: X of a Kind in a Deck of Cards
+url: https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

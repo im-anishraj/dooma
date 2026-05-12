@@ -1,0 +1,45 @@
+id: shortest-path-in-binary-matrix
+title: Shortest Path in Binary Matrix
+url: https://leetcode.com/problems/shortest-path-in-binary-matrix
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  airbnb:
+    frequency: 37
+  amazon:
+    frequency: 37
+  anduril:
+    frequency: 50
+  apple:
+    frequency: 25
+  applied-intuition:
+    frequency: 50
+  bloomberg:
+    frequency: 37
+  databricks:
+    frequency: 37
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 37
+  intuit:
+    frequency: 37
+  meta:
+    frequency: 87
+  microsoft:
+    frequency: 25
+  palo-alto-networks:
+    frequency: 50
+  snapchat:
+    frequency: 37
+  tiktok:
+    frequency: 37
+  uber:
+    frequency: 25
+  yahoo:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

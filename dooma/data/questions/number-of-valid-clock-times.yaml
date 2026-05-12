@@ -1,0 +1,13 @@
+id: number-of-valid-clock-times
+title: Number of Valid Clock Times
+url: https://leetcode.com/problems/number-of-valid-clock-times
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

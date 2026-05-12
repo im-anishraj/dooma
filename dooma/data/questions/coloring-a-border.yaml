@@ -1,0 +1,17 @@
+id: coloring-a-border
+title: Coloring A Border
+url: https://leetcode.com/problems/coloring-a-border
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bookingcom:
+    frequency: 87
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

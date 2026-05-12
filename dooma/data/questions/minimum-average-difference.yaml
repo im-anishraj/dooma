@@ -1,0 +1,15 @@
+id: minimum-average-difference
+title: Minimum Average Difference
+url: https://leetcode.com/problems/minimum-average-difference
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

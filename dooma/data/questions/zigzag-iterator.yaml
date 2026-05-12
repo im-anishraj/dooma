@@ -1,0 +1,19 @@
+id: zigzag-iterator
+title: Zigzag Iterator
+url: https://leetcode.com/problems/zigzag-iterator
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  c3-ai:
+    frequency: 100
+  coinbase:
+    frequency: 87
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

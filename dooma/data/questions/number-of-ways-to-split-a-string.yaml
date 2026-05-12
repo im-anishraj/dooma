@@ -1,0 +1,13 @@
+id: number-of-ways-to-split-a-string
+title: Number of Ways to Split a String
+url: https://leetcode.com/problems/number-of-ways-to-split-a-string
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

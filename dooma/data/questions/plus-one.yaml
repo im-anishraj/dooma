@@ -1,0 +1,39 @@
+id: plus-one
+title: Plus One
+url: https://leetcode.com/problems/plus-one
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 62
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 50
+  bloomberg:
+    frequency: 62
+  capgemini:
+    frequency: 50
+  google:
+    frequency: 50
+  ibm:
+    frequency: 37
+  intuit:
+    frequency: 75
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 50
+  tcs:
+    frequency: 50
+  tiktok:
+    frequency: 25
+  visa:
+    frequency: 50
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

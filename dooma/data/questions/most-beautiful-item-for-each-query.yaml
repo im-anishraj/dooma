@@ -1,0 +1,19 @@
+id: most-beautiful-item-for-each-query
+title: Most Beautiful Item for Each Query
+url: https://leetcode.com/problems/most-beautiful-item-for-each-query
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  postmates:
+    frequency: 100
+  razorpay:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

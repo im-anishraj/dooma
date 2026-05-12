@@ -1,0 +1,43 @@
+id: non-overlapping-intervals
+title: Non-overlapping Intervals
+url: https://leetcode.com/problems/non-overlapping-intervals
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 37
+  capital-one:
+    frequency: 37
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 37
+  ibm:
+    frequency: 37
+  jpmorgan:
+    frequency: 37
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 37
+  oracle:
+    frequency: 37
+  snowflake:
+    frequency: 37
+  tcs:
+    frequency: 25
+  tiktok:
+    frequency: 37
+  verkada:
+    frequency: 100
+  zoho:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

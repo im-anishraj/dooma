@@ -1,0 +1,23 @@
+id: maximum-product-of-two-elements-in-an-array
+title: Maximum Product of Two Elements in an Array
+url: https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  jpmorgan:
+    frequency: 62
+  meta:
+    frequency: 12
+  samsung:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

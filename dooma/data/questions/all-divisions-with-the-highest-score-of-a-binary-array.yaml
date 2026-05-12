@@ -1,0 +1,13 @@
+id: all-divisions-with-the-highest-score-of-a-binary-array
+title: All Divisions With the Highest Score of a Binary Array
+url: https://leetcode.com/problems/all-divisions-with-the-highest-score-of-a-binary-array
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

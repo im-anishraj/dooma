@@ -1,0 +1,13 @@
+id: guess-the-majority-in-a-hidden-array
+title: Guess the Majority in a Hidden Array
+url: https://leetcode.com/problems/guess-the-majority-in-a-hidden-array
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

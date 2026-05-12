@@ -1,0 +1,17 @@
+id: count-the-number-of-consistent-strings
+title: Count the Number of Consistent Strings
+url: https://leetcode.com/problems/count-the-number-of-consistent-strings
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  robinhood:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

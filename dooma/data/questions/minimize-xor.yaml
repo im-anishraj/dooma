@@ -1,0 +1,23 @@
+id: minimize-xor
+title: Minimize XOR
+url: https://leetcode.com/problems/minimize-xor
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 75
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  ibm:
+    frequency: 37
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

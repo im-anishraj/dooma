@@ -1,0 +1,21 @@
+id: find-beautiful-indices-in-the-given-array-i
+title: Find Beautiful Indices in the Given Array I
+url: https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  palantir-technologies:
+    frequency: 100
+  samsara:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

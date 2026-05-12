@@ -1,0 +1,13 @@
+id: optimal-division
+title: Optimal Division
+url: https://leetcode.com/problems/optimal-division
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

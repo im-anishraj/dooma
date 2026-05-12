@@ -1,0 +1,13 @@
+id: number-of-days-in-a-month
+title: Number of Days in a Month
+url: https://leetcode.com/problems/number-of-days-in-a-month
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

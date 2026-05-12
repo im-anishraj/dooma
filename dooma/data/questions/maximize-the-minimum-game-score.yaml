@@ -1,0 +1,15 @@
+id: maximize-the-minimum-game-score
+title: Maximize the Minimum Game Score
+url: https://leetcode.com/problems/maximize-the-minimum-game-score
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  infosys:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

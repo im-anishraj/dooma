@@ -1,0 +1,71 @@
+id: rotate-array
+title: Rotate Array
+url: https://leetcode.com/problems/rotate-array
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 75
+  adobe:
+    frequency: 37
+  altimetrik:
+    frequency: 62
+  amazon:
+    frequency: 62
+  american-express:
+    frequency: 50
+  apple:
+    frequency: 75
+  bloomberg:
+    frequency: 62
+  box:
+    frequency: 75
+  capgemini:
+    frequency: 62
+  cognizant:
+    frequency: 50
+  deloitte:
+    frequency: 50
+  epam-systems:
+    frequency: 75
+  fiverr:
+    frequency: 100
+  google:
+    frequency: 50
+  ibm:
+    frequency: 37
+  infosys:
+    frequency: 62
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 62
+  nutanix:
+    frequency: 50
+  oracle:
+    frequency: 37
+  razorpay:
+    frequency: 62
+  samsung:
+    frequency: 50
+  siemens:
+    frequency: 62
+  tcs:
+    frequency: 62
+  tiktok:
+    frequency: 37
+  virtusa:
+    frequency: 62
+  visa:
+    frequency: 37
+  walmart-labs:
+    frequency: 62
+  wipro:
+    frequency: 62
+  zoho:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

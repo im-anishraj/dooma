@@ -1,0 +1,15 @@
+id: number-of-arithmetic-triplets
+title: Number of Arithmetic Triplets
+url: https://leetcode.com/problems/number-of-arithmetic-triplets
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

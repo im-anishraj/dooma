@@ -1,0 +1,15 @@
+id: xor-operation-in-an-array
+title: XOR Operation in an Array
+url: https://leetcode.com/problems/xor-operation-in-an-array
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  walmart-labs:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

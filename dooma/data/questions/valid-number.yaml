@@ -1,0 +1,25 @@
+id: valid-number
+title: Valid Number
+url: https://leetcode.com/problems/valid-number
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  linkedin:
+    frequency: 50
+  meta:
+    frequency: 62
+  microsoft:
+    frequency: 12
+  nutanix:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

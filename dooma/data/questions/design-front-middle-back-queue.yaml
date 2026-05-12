@@ -1,0 +1,15 @@
+id: design-front-middle-back-queue
+title: Design Front Middle Back Queue
+url: https://leetcode.com/problems/design-front-middle-back-queue
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  citadel:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

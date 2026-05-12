@@ -1,0 +1,19 @@
+id: adjacent-increasing-subarrays-detection-i
+title: Adjacent Increasing Subarrays Detection I
+url: https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

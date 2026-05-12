@@ -1,0 +1,13 @@
+id: subarrays-distinct-element-sum-of-squares-ii
+title: Subarrays Distinct Element Sum of Squares II
+url: https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

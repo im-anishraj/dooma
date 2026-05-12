@@ -1,0 +1,13 @@
+id: minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix
+title: Minimum Number of Flips to Convert Binary Matrix to Zero Matrix
+url: https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  airbnb:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

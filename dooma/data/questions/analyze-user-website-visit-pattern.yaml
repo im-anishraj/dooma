@@ -1,0 +1,25 @@
+id: analyze-user-website-visit-pattern
+title: Analyze User Website Visit Pattern
+url: https://leetcode.com/problems/analyze-user-website-visit-pattern
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 62
+  doordash:
+    frequency: 25
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  spotify:
+    frequency: 87
+  uber:
+    frequency: 25
+  whatnot:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: factor-combinations
+title: Factor Combinations
+url: https://leetcode.com/problems/factor-combinations
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  linkedin:
+    frequency: 62
+  uber:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: simplified-fractions
+title: Simplified Fractions
+url: https://leetcode.com/problems/simplified-fractions
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

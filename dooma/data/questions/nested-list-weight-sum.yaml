@@ -1,0 +1,25 @@
+id: nested-list-weight-sum
+title: Nested List Weight Sum
+url: https://leetcode.com/problems/nested-list-weight-sum
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 25
+  apple:
+    frequency: 25
+  google:
+    frequency: 12
+  linkedin:
+    frequency: 75
+  meta:
+    frequency: 87
+  oracle:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

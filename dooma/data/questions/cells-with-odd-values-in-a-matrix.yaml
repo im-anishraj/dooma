@@ -1,0 +1,15 @@
+id: cells-with-odd-values-in-a-matrix
+title: Cells with Odd Values in a Matrix
+url: https://leetcode.com/problems/cells-with-odd-values-in-a-matrix
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

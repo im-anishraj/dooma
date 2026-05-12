@@ -1,0 +1,23 @@
+id: split-array-with-same-average
+title: Split Array With Same Average
+url: https://leetcode.com/problems/split-array-with-same-average
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  deutsche-bank:
+    frequency: 62
+  google:
+    frequency: 12
+  meesho:
+    frequency: 50
+  microsoft:
+    frequency: 37
+  tcs:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

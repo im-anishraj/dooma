@@ -1,0 +1,17 @@
+id: maximize-sum-of-array-after-k-negations
+title: Maximize Sum Of Array After K Negations
+url: https://leetcode.com/problems/maximize-sum-of-array-after-k-negations
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  druva:
+    frequency: 100
+  google:
+    frequency: 12
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,19 @@
+id: calculate-money-in-leetcode-bank
+title: Calculate Money in Leetcode Bank
+url: https://leetcode.com/problems/calculate-money-in-leetcode-bank
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

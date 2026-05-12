@@ -1,0 +1,21 @@
+id: minimum-number-of-vertices-to-reach-all-nodes
+title: Minimum Number of Vertices to Reach All Nodes
+url: https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  airbnb:
+    frequency: 75
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

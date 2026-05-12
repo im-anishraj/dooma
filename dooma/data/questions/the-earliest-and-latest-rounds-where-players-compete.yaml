@@ -1,0 +1,19 @@
+id: the-earliest-and-latest-rounds-where-players-compete
+title: The Earliest and Latest Rounds Where Players Compete
+url: https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

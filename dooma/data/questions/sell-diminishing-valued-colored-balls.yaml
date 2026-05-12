@@ -1,0 +1,21 @@
+id: sell-diminishing-valued-colored-balls
+title: Sell Diminishing-Valued Colored Balls
+url: https://leetcode.com/problems/sell-diminishing-valued-colored-balls
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  groupon:
+    frequency: 100
+  jpmorgan:
+    frequency: 37
+  mathworks:
+    frequency: 100
+  visa:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

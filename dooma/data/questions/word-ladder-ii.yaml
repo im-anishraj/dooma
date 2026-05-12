@@ -1,0 +1,39 @@
+id: word-ladder-ii
+title: Word Ladder II
+url: https://leetcode.com/problems/word-ladder-ii
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 37
+  citadel:
+    frequency: 50
+  google:
+    frequency: 25
+  linkedin:
+    frequency: 37
+  lyft:
+    frequency: 75
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 25
+  nutanix:
+    frequency: 50
+  okta:
+    frequency: 62
+  tiktok:
+    frequency: 25
+  uber:
+    frequency: 37
+  yelp:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

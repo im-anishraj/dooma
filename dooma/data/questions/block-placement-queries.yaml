@@ -1,0 +1,27 @@
+id: block-placement-queries
+title: Block Placement Queries
+url: https://leetcode.com/problems/block-placement-queries
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  autodesk:
+    frequency: 50
+  capital-one:
+    frequency: 87
+  meta:
+    frequency: 12
+  paypay:
+    frequency: 75
+  roblox:
+    frequency: 62
+  sig:
+    frequency: 75
+  uber:
+    frequency: 62
+  visa:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

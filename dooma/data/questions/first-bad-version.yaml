@@ -1,0 +1,25 @@
+id: first-bad-version
+title: First Bad Version
+url: https://leetcode.com/problems/first-bad-version
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 37
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

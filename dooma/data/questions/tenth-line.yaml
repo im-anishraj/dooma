@@ -1,0 +1,17 @@
+id: tenth-line
+title: Tenth Line
+url: https://leetcode.com/problems/tenth-line
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 75
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

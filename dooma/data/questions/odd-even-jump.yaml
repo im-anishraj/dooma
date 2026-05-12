@@ -1,0 +1,17 @@
+id: odd-even-jump
+title: Odd Even Jump
+url: https://leetcode.com/problems/odd-even-jump
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 37
+  sprinklr:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

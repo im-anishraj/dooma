@@ -1,0 +1,15 @@
+id: find-positive-integer-solution-for-a-given-equation
+title: Find Positive Integer Solution for a Given Equation
+url: https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  tiktok:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

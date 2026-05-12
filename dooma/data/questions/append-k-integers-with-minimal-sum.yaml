@@ -1,0 +1,15 @@
+id: append-k-integers-with-minimal-sum
+title: Append K Integers With Minimal Sum
+url: https://leetcode.com/problems/append-k-integers-with-minimal-sum
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

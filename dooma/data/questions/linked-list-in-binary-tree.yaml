@@ -1,0 +1,21 @@
+id: linked-list-in-binary-tree
+title: Linked List in Binary Tree
+url: https://leetcode.com/problems/linked-list-in-binary-tree
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  soundhound:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

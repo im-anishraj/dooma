@@ -1,0 +1,13 @@
+id: all-paths-from-source-lead-to-destination
+title: All Paths from Source Lead to Destination
+url: https://leetcode.com/problems/all-paths-from-source-lead-to-destination
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

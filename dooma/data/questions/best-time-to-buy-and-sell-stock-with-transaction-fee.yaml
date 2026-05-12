@@ -1,0 +1,25 @@
+id: best-time-to-buy-and-sell-stock-with-transaction-fee
+title: Best Time to Buy and Sell Stock with Transaction Fee
+url: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  apple:
+    frequency: 50
+  bloomberg:
+    frequency: 37
+  google:
+    frequency: 12
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 25
+  tiktok:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,23 @@
+id: movie-rating
+title: Movie Rating
+url: https://leetcode.com/problems/movie-rating
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 12
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 12
+  sap:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

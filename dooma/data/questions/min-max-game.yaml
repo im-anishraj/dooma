@@ -1,0 +1,13 @@
+id: min-max-game
+title: Min Max Game
+url: https://leetcode.com/problems/min-max-game
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

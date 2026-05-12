@@ -1,0 +1,45 @@
+id: k-closest-points-to-origin
+title: K Closest Points to Origin
+url: https://leetcode.com/problems/k-closest-points-to-origin
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 37
+  asana:
+    frequency: 100
+  axon:
+    frequency: 50
+  bloomberg:
+    frequency: 12
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 37
+  linkedin:
+    frequency: 25
+  meta:
+    frequency: 75
+  microsoft:
+    frequency: 25
+  oracle:
+    frequency: 25
+  plaid:
+    frequency: 100
+  salesforce:
+    frequency: 25
+  snapchat:
+    frequency: 37
+  swiggy:
+    frequency: 50
+  wix:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

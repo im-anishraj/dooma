@@ -1,0 +1,21 @@
+id: toeplitz-matrix
+title: Toeplitz Matrix
+url: https://leetcode.com/problems/toeplitz-matrix
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 62
+  tcs:
+    frequency: 25
+  wipro:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

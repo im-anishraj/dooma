@@ -1,0 +1,121 @@
+id: search-in-rotated-sorted-array
+title: Search in Rotated Sorted Array
+url: https://leetcode.com/problems/search-in-rotated-sorted-array
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accolite:
+    frequency: 50
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 75
+  anduril:
+    frequency: 50
+  apple:
+    frequency: 50
+  arista-networks:
+    frequency: 62
+  autodesk:
+    frequency: 75
+  bloomberg:
+    frequency: 75
+  bytedance:
+    frequency: 50
+  cisco:
+    frequency: 37
+  cohesity:
+    frequency: 87
+  criteo:
+    frequency: 87
+  dp-world:
+    frequency: 87
+  epam-systems:
+    frequency: 50
+  f5-networks:
+    frequency: 62
+  flipkart:
+    frequency: 62
+  gainsight:
+    frequency: 100
+  goldman-sachs:
+    frequency: 62
+  google:
+    frequency: 62
+  grammarly:
+    frequency: 87
+  ibm:
+    frequency: 37
+  infosys:
+    frequency: 50
+  ixl:
+    frequency: 50
+  josh-technology:
+    frequency: 62
+  linkedin:
+    frequency: 62
+  meta:
+    frequency: 62
+  microsoft:
+    frequency: 75
+  mongodb:
+    frequency: 62
+  myntra:
+    frequency: 62
+  newsbreak:
+    frequency: 100
+  nutanix:
+    frequency: 62
+  nvidia:
+    frequency: 75
+  oracle:
+    frequency: 62
+  palo-alto-networks:
+    frequency: 62
+  paypal:
+    frequency: 50
+  paytm:
+    frequency: 75
+  roku:
+    frequency: 75
+  salesforce:
+    frequency: 37
+  samsung:
+    frequency: 50
+  sap:
+    frequency: 50
+  sixt:
+    frequency: 100
+  snapchat:
+    frequency: 37
+  syfe:
+    frequency: 87
+  tcs:
+    frequency: 50
+  tiktok:
+    frequency: 75
+  tinkoff:
+    frequency: 87
+  uber:
+    frequency: 62
+  visa:
+    frequency: 62
+  walmart-labs:
+    frequency: 75
+  wish:
+    frequency: 62
+  yahoo:
+    frequency: 50
+  yandex:
+    frequency: 50
+  zepto:
+    frequency: 75
+  zoho:
+    frequency: 62
+  zscaler:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

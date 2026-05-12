@@ -1,0 +1,21 @@
+id: construct-smallest-number-from-di-string
+title: Construct Smallest Number From DI String
+url: https://leetcode.com/problems/construct-smallest-number-from-di-string
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  goldman-sachs:
+    frequency: 50
+  google:
+    frequency: 12
+  josh-technology:
+    frequency: 62
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

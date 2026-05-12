@@ -1,0 +1,19 @@
+id: alternating-groups-ii
+title: Alternating Groups II
+url: https://leetcode.com/problems/alternating-groups-ii
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  microsoft:
+    frequency: 12
+  samsara:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

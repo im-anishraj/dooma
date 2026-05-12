@@ -1,0 +1,13 @@
+id: maximum-number-of-achievable-transfer-requests
+title: Maximum Number of Achievable Transfer Requests
+url: https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: rearrange-words-in-a-sentence
+title: Rearrange Words in a Sentence
+url: https://leetcode.com/problems/rearrange-words-in-a-sentence
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  expedia:
+    frequency: 100
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

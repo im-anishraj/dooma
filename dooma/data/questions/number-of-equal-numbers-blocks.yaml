@@ -1,0 +1,13 @@
+id: number-of-equal-numbers-blocks
+title: Number of Equal Numbers Blocks
+url: https://leetcode.com/problems/number-of-equal-numbers-blocks
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

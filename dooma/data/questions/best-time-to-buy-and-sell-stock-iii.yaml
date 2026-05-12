@@ -1,0 +1,41 @@
+id: best-time-to-buy-and-sell-stock-iii
+title: Best Time to Buy and Sell Stock III
+url: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  bolt:
+    frequency: 62
+  citadel:
+    frequency: 50
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 25
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 37
+  paypal:
+    frequency: 37
+  snapchat:
+    frequency: 62
+  tekion:
+    frequency: 75
+  tiktok:
+    frequency: 37
+  visa:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

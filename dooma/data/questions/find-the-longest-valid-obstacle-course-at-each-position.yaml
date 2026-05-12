@@ -1,0 +1,15 @@
+id: find-the-longest-valid-obstacle-course-at-each-position
+title: Find the Longest Valid Obstacle Course at Each Position
+url: https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  morgan-stanley:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

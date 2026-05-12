@@ -1,0 +1,13 @@
+id: check-if-move-is-legal
+title: Check if Move is Legal
+url: https://leetcode.com/problems/check-if-move-is-legal
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

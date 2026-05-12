@@ -1,0 +1,13 @@
+id: find-median-given-frequency-of-numbers
+title: Find Median Given Frequency of Numbers
+url: https://leetcode.com/problems/find-median-given-frequency-of-numbers
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  pinterest:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

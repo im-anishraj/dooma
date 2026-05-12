@@ -1,0 +1,13 @@
+id: warehouse-manager
+title: Warehouse Manager
+url: https://leetcode.com/problems/warehouse-manager
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

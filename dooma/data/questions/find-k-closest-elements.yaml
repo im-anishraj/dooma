@@ -1,0 +1,47 @@
+id: find-k-closest-elements
+title: Find K Closest Elements
+url: https://leetcode.com/problems/find-k-closest-elements
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 50
+  atlassian:
+    frequency: 37
+  bloomberg:
+    frequency: 37
+  cashfree:
+    frequency: 62
+  coupang:
+    frequency: 75
+  doordash:
+    frequency: 62
+  flipkart:
+    frequency: 37
+  google:
+    frequency: 37
+  linkedin:
+    frequency: 37
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 37
+  nvidia:
+    frequency: 37
+  tcs:
+    frequency: 25
+  tiktok:
+    frequency: 37
+  uber:
+    frequency: 25
+  yandex:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

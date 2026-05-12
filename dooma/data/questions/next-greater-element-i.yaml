@@ -1,0 +1,45 @@
+id: next-greater-element-i
+title: Next Greater Element I
+url: https://leetcode.com/problems/next-greater-element-i
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 50
+  agoda:
+    frequency: 50
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 25
+  barclays:
+    frequency: 62
+  bloomberg:
+    frequency: 50
+  flipkart:
+    frequency: 50
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 37
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 50
+  morgan-stanley:
+    frequency: 62
+  oracle:
+    frequency: 37
+  swiggy:
+    frequency: 87
+  tcs:
+    frequency: 25
+  tiktok:
+    frequency: 25
+  uber:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,17 @@
+id: smallest-value-of-the-rearranged-number
+title: Smallest Value of the Rearranged Number
+url: https://leetcode.com/problems/smallest-value-of-the-rearranged-number
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  cognizant:
+    frequency: 87
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

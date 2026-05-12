@@ -1,0 +1,31 @@
+id: compare-version-numbers
+title: Compare Version Numbers
+url: https://leetcode.com/problems/compare-version-numbers
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 62
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 50
+  nextdoor:
+    frequency: 100
+  sonatus:
+    frequency: 100
+  tiktok:
+    frequency: 50
+  vk:
+    frequency: 62
+  zoho:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

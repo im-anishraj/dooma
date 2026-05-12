@@ -1,0 +1,19 @@
+id: count-good-triplets
+title: Count Good Triplets
+url: https://leetcode.com/problems/count-good-triplets
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  turvo:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

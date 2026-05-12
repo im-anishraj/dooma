@@ -1,0 +1,25 @@
+id: count-complete-tree-nodes
+title: Count Complete Tree Nodes
+url: https://leetcode.com/problems/count-complete-tree-nodes
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 25
+  flipkart:
+    frequency: 37
+  google:
+    frequency: 25
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

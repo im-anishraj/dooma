@@ -1,0 +1,13 @@
+id: count-k-subsequences-of-a-string-with-maximum-beauty
+title: Count K-Subsequences of a String With Maximum Beauty
+url: https://leetcode.com/problems/count-k-subsequences-of-a-string-with-maximum-beauty
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

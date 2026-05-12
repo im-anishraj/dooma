@@ -1,0 +1,29 @@
+id: strange-printer
+title: Strange Printer
+url: https://leetcode.com/problems/strange-printer
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  inmobi:
+    frequency: 87
+  intuit:
+    frequency: 50
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  netease:
+    frequency: 100
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

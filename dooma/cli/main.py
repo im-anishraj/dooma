@@ -1,304 +1,175 @@
-import json
-from pathlib import Path
+"""Dooma CLI — main Typer application with all command registrations."""
+
+from __future__ import annotations
+
+import webbrowser
 
 import typer
-from rich.console import Console
-from rich.table import Table
 from rich.prompt import Prompt
-from rich.panel import Panel
-from rich.columns import Columns
-from rich.text import Text
+from rich.table import Table
 
-app = typer.Typer(add_completion=False)
-console = Console()
+from dooma import __version__, db, display
+from dooma.config import is_onboarded, save_config
+from dooma.display import console, render_logo, show_onboarding
+from dooma.loader import load_index
+from dooma.search import fuzzy_search
+
+from dooma.commands.practice import app as practice_app
+from dooma.commands.browse import app as browse_app
+from dooma.commands.search import app as search_app
+from dooma.commands.sheet import app as sheet_app
+from dooma.commands.mock import app as mock_app
+from dooma.commands.dashboard import app as dashboard_app
+
+app = typer.Typer(
+    name="dooma",
+    help="Dooma — your ultimate DSA interview preparation companion.",
+    add_completion=False,
+    no_args_is_help=False,
+)
+
+# Register sub-commands
+app.add_typer(practice_app, name="practice")
+app.add_typer(browse_app, name="browse")
+app.add_typer(search_app, name="search")
+app.add_typer(sheet_app, name="sheet")
+app.add_typer(mock_app, name="mock")
+app.add_typer(dashboard_app, name="dashboard")
 
 
-def load_data():
-    """Load the bundled company-question dataset.
+@app.command()
+def version():
+    """Print version and exit."""
+    console.print(f"dooma {__version__}")
 
-    Returns:
-        dict: Mapping of company names to their interview question lists.
 
-    Raises:
-        typer.Exit: If the dataset file is missing.
-    """
-    dataset_path = Path(__file__).parent.parent / "dataset" / "companies.json"
-    if not dataset_path.exists():
-        panel = Panel(
-            f"[bold #E74C3C]Dataset Not Found![/bold #E74C3C]\n\n"
-            f"The dataset file is missing at:\n[bold]{dataset_path}[/bold]\n\n"
-            f"[#F7CA18]To fix this:[/#F7CA18]\n"
-            f"1. Run [bold]python scripts/build_dataset.py[/bold] to download the dataset\n"
-            f"2. Or manually place a [bold]companies.json[/bold] file in the dataset folder"
-        )
-        console.print(panel)
+@app.command()
+def question(slug: str = typer.Argument(..., help="Question slug (e.g. two-sum)")):
+    """Open a specific question by slug."""
+    index = load_index()
+    q = index.questions.get(slug)
+    if not q:
+        console.print(f"[red]Question '{slug}' not found.[/red]")
         raise typer.Exit(1)
-    with open(dataset_path, "r", encoding="utf-8") as f:
-        return json.load(f)
+
+    dc = display.difficulty_color(q.difficulty)
+    st = db.get_status(q.id)
+    bm = " 📌" if db.is_bookmarked(q.id) else ""
+    console.print(f"\n[bold]{q.title}[/bold]{bm}")
+    console.print(f"  Difficulty: [{dc}]{q.difficulty or 'N/A'}[/{dc}]")
+    console.print(f"  Status: {display.status_icon(st)} {st}")
+    console.print(f"  URL: [blue]{q.url}[/blue]")
+    if q.patterns:
+        console.print(f"  Patterns: {', '.join(q.patterns)}")
+    if q.companies:
+        top_companies = sorted(q.companies.items(), key=lambda x: x[1].get("frequency", 0), reverse=True)[:5]
+        console.print(f"  Top companies: {', '.join(c for c, _ in top_companies)}")
+
+    note = db.get_note(q.id)
+    if note:
+        console.print(f"  Note: {note}")
+
+    console.print("\n[dim]o: open in browser • m: cycle status • b: bookmark • q: quit[/dim]")
+    action = Prompt.ask("Action", default="q")
+    if action == "o" and q.url:
+        webbrowser.open(q.url)
+    elif action == "m":
+        cycle = ["unsolved", "attempted", "solved", "skipped"]
+        cur = cycle.index(st) if st in cycle else 0
+        new_st = cycle[(cur + 1) % len(cycle)]
+        db.set_status(q.id, new_st)
+        console.print(f"[green]Status → {new_st}[/green]")
+    elif action == "b":
+        result = db.toggle_bookmark(q.id)
+        console.print(f"[green]{'Bookmarked' if result else 'Unbookmarked'}[/green]")
+
+
+@app.command("config")
+def config_cmd(
+    reset: bool = typer.Option(False, "--reset", help="Reset configuration"),
+):
+    """Manage Dooma configuration."""
+    if reset:
+        from dooma.config import reset_config
+        reset_config()
+        console.print("[green]Config reset. Onboarding will run on next launch.[/green]")
+    else:
+        from dooma.config import load_config
+        cfg = load_config()
+        for k, v in cfg.items():
+            console.print(f"  {k}: {v}")
 
 
 @app.callback(invoke_without_command=True)
-def interactive_loop(ctx: typer.Context):
-    """Run the interactive company and question browser.
-
-    Args:
-        ctx: Typer invocation context used to skip the browser when a
-            subcommand is invoked.
-
-    Returns:
-        None
-    """
+def main(ctx: typer.Context):
+    """Dooma home — interactive DSA prep hub."""
     if ctx.invoked_subcommand is not None:
         return
 
+    # Onboarding
+    if not is_onboarded():
+        answers = show_onboarding()
+        save_config(answers)
+
     try:
-        data = load_data()
-        companies = sorted(list(data.keys()))
-
-        # Group companies by first letter
-        groups = {}
-        for company in companies:
-            first_char = company[0].upper()
-            if not first_char.isalpha():
-                first_char = "#"
-
-            if first_char not in groups:
-                groups[first_char] = []
-            groups[first_char].append(company)
-
-        sorted_letters = sorted(list(groups.keys()))
-
+        index = load_index()
         while True:
             console.clear()
-
-            logo = Text.from_markup(
-                "[#F39C12]██████████████[/]\n"
-                "[#F39C12]██[/][#E74C3C]████████████[/][#F7CA18]▄▄[/]\n"
-                "[#F39C12]██[/][#E74C3C]██[/]        [#F7CA18]██[/]\n"
-                "[#F39C12]██[/][#E74C3C]██[/]        [#F7CA18]██[/]\n"
-                "[#F39C12]██[/][#E74C3C]██[/]        [#F7CA18]██[/]\n"
-                "[#F39C12]██[/][#E74C3C]██[/]        [#F7CA18]██[/]\n"
-                "[#F39C12]██[/][#E74C3C]████████████[/][#F7CA18]▀▀[/]\n"
-                "[#F39C12]██████████████[/]"
-            )
-            welcome_panel = Panel(
-                "[bold #F39C12]Welcome to Dooma - Your Ultimate DSA Preparation Companion[/bold #F39C12]"
-            )
+            logo = render_logo()
+            welcome = f"[bold #F39C12]Dooma v{__version__} — DSA Interview Prep[/bold #F39C12]"
 
             grid = Table.grid(padding=(0, 2))
             grid.add_column(justify="center", vertical="middle")
             grid.add_column(justify="left", vertical="middle")
-            grid.add_row(logo, welcome_panel)
-
+            grid.add_row(logo, welcome)
             console.print(grid)
-            console.print(
-                "\n[bold #E74C3C]--- Step 1: Select the First Letter of the Company You Want to Prepare For ---[/bold #E74C3C]\n"
-            )
 
-            # Display letters nicely
-            letter_display = []
-            for letter in sorted_letters:
-                count = len(groups[letter])
-                letter_display.append(
-                    f"[bold #F7CA18]{letter}[/bold #F7CA18] [dim #FAD7A1]({count})[/dim #FAD7A1]"
-                )
+            console.print("\n[bold #E74C3C]Commands:[/bold #E74C3C]")
+            menu = [
+                ("1", "practice", "Pattern-first question browser"),
+                ("2", "browse", "Browse patterns & companies"),
+                ("3", "search", "Fuzzy search questions"),
+                ("4", "sheet", "Curated roadmaps"),
+                ("5", "mock", "Timed mock interview"),
+                ("6", "dashboard", "Your progress stats"),
+                ("q", "quit", "Exit Dooma"),
+            ]
+            for key, cmd, desc in menu:
+                console.print(f"  [bold #F7CA18]{key}[/bold #F7CA18]  {cmd:<12} [dim]{desc}[/dim]")
 
-            console.print(Columns(letter_display, expand=True, equal=True))
+            choice = Prompt.ask("\nYour choice", default="q")
+            choice = choice.strip().lower()
 
-            console.print("\n[dim #FAD7A1]Options:[/dim #FAD7A1]")
-            console.print(
-                "[dim #FAD7A1]- Type a letter to explore companies (e.g., 'A', 'G', '#')[/dim #FAD7A1]"
-            )
-            console.print(
-                "[dim #FAD7A1]- Enter '0' to safely exit the application[/dim #FAD7A1]"
-            )
-
-            choice = Prompt.ask("\nYour choice", default="")
-            choice = choice.upper().strip()
-
-            if choice == "0":
-                console.print("[bold #F39C12]Goodbye![/bold #F39C12]")
-                raise typer.Exit()
-            elif choice in groups:
-                show_company_list(choice, groups[choice], data)
-            else:
-                console.print(
-                    "[bold #E74C3C]Invalid letter. Please select a letter from the list above.[/bold #E74C3C]"
-                )
-                Prompt.ask("[dim #FAD7A1]Press Enter to continue...[/dim #FAD7A1]")
+            if choice in ("q", "0"):
+                console.print("[bold #F39C12]Goodbye! 🚀[/bold #F39C12]")
+                raise typer.Exit(0)
+            elif choice in ("1", "practice"):
+                from dooma.commands.practice import run_practice
+                run_practice()
+            elif choice in ("2", "browse"):
+                from dooma.commands.browse import _browse_companies
+                _browse_companies()
+            elif choice in ("3", "search"):
+                q = Prompt.ask("[bold]Search query[/bold]", default="")
+                if q:
+                    results = fuzzy_search(q, index)
+                    statuses = db.get_all_statuses()
+                    table = display.render_question_table(results, title=f"Search: {q}", statuses=statuses)
+                    console.print(table)
+                    Prompt.ask("Press Enter to continue")
+            elif choice in ("4", "sheet"):
+                from dooma.commands.sheet import run_sheet
+                run_sheet()
+            elif choice in ("5", "mock"):
+                from dooma.commands.mock import run_mock
+                run_mock()
+            elif choice in ("6", "dashboard"):
+                from dooma.commands.dashboard import dashboard as dash_cmd
+                dash_cmd()
+                Prompt.ask("\nPress Enter to continue")
     except KeyboardInterrupt:
-        console.print("\n[bold #F39C12]Goodbye! See you next time! 🚀[/bold #F39C12]")
+        console.print("\n[bold #F39C12]Goodbye! 🚀[/bold #F39C12]")
         raise typer.Exit(0)
-
-
-def show_company_list(letter, group_companies, data):
-    """Display a paginated company list for a selected starting letter.
-
-    Args:
-        letter: Selected alphabet bucket shown in the page heading.
-        group_companies: Company names that belong to the selected bucket.
-        data: Full dataset mapping company names to question lists.
-
-    Returns:
-        None
-    """
-    page = 0
-    items_per_page = 30
-
-    while True:
-        console.clear()
-        console.print(
-            Panel(
-                f"[bold #F39C12]Step 2: Choose Your Target Company (Starting with '{letter}')[/bold #F39C12]"
-            )
-        )
-        console.print(f"[bold #E74C3C]--- Page {page + 1} ---[/bold #E74C3C]\n")
-
-        start_idx = page * items_per_page
-        end_idx = min(start_idx + items_per_page, len(group_companies))
-
-        for i in range(start_idx, end_idx):
-            console.print(
-                f"  [bold #F7CA18]{i + 1}.[/bold #F7CA18] {group_companies[i]}"
-            )
-
-        console.print("\n[dim #FAD7A1]Options:[/dim #FAD7A1]")
-        console.print(
-            "[dim #FAD7A1]- Type the number next to the company name to view its questions[/dim #FAD7A1]"
-        )
-        if end_idx < len(group_companies):
-            console.print("[dim #FAD7A1]- Enter 'n' for the next page[/dim #FAD7A1]")
-        if page > 0:
-            console.print(
-                "[dim #FAD7A1]- Enter 'p' for the previous page[/dim #FAD7A1]"
-            )
-        console.print(
-            "[dim #FAD7A1]- Enter '0' to go one step back to the alphabet menu[/dim #FAD7A1]"
-        )
-
-        choice = Prompt.ask("\nYour choice", default="")
-        choice = choice.strip()
-
-        if choice == "0":
-            return
-        elif choice.lower() == "n" and end_idx < len(group_companies):
-            page += 1
-        elif choice.lower() == "p" and page > 0:
-            page -= 1
-        elif choice.isdigit():
-            idx = int(choice) - 1
-            if 0 <= idx < len(group_companies):
-                company_name = group_companies[idx]
-                show_company_questions(company_name, data[company_name])
-            else:
-                console.print("[bold #E74C3C]Invalid selection.[/bold #E74C3C]")
-                Prompt.ask("[dim #FAD7A1]Press Enter to continue...[/dim #FAD7A1]")
-        else:
-            console.print("[bold #E74C3C]Invalid input.[/bold #E74C3C]")
-            Prompt.ask("[dim #FAD7A1]Press Enter to continue...[/dim #FAD7A1]")
-
-
-def show_company_questions(company_name, questions):
-    """Display paginated interview questions for a company.
-
-    Args:
-        company_name: Name of the selected company.
-        questions: Question dictionaries associated with the selected company.
-
-    Returns:
-        None
-    """
-    page = 0
-    items_per_page = 15
-
-    questions_count = len(questions)
-
-    while True:
-        console.clear()
-        table = Table(
-            title=f"Step 3: Interview Questions for [bold #F39C12]{company_name}[/bold #F39C12] (page {page+1} - showing {1+page*items_per_page}-{min((page+1)*items_per_page,questions_count)} of {questions_count} questions)",
-            show_header=True,
-            header_style="bold #E74C3C",
-            expand=True,
-        )
-        table.add_column("No.", justify="right", style="#F39C12", no_wrap=True)
-        table.add_column("Title", style="white")
-        table.add_column("Difficulty", style="white")
-        table.add_column("Frequency", style="#F7CA18")
-        table.add_column("URL", style="blue")
-
-        start_idx = page * items_per_page
-        end_idx = min(start_idx + items_per_page, questions_count)
-
-        for i in range(start_idx, end_idx):
-            q = questions[i]
-            diff = q.get("difficulty", "N/A")
-            if diff == "Easy":
-                diff_color = "green"
-            elif diff == "Medium":
-                diff_color = "#F7CA18"
-            elif diff == "Hard":
-                diff_color = "#E74C3C"
-            else:
-                diff_color = "white"
-
-            diff_formatted = f"[{diff_color}]{diff}[/{diff_color}]"
-
-            table.add_row(
-                str(i + 1),
-                q.get("title", "N/A"),
-                diff_formatted,
-                q.get("frequency", "N/A"),
-                q.get("url", "N/A"),
-            )
-
-        console.print(table)
-
-        console.print("\n[dim #FAD7A1]Options:[/dim #FAD7A1]")
-        if end_idx < len(questions):
-            console.print(
-                "[dim #FAD7A1]- Enter 'n' for the next page of questions[/dim #FAD7A1]"
-            )
-        if page > 0:
-            console.print(
-                "[dim #FAD7A1]- Enter 'p' for the previous page of questions[/dim #FAD7A1]"
-            )
-        console.print(
-            "[dim #FAD7A1]- Enter '0' to go one step back to the company list[/dim #FAD7A1]"
-        )
-        console.print(
-            "[dim #FAD7A1]- Enter the question number (e.g., '1') to open it in your browser[/dim #FAD7A1]"
-        )
-
-        choice = Prompt.ask("\nYour choice", default="")
-        choice = choice.strip()
-
-        if choice == "0":
-            return  # Go back to company list
-        elif choice.lower() == "n" and end_idx < len(questions):
-            page += 1
-        elif choice.lower() == "p" and page > 0:
-            page -= 1
-        elif choice.isdigit():
-            idx = int(choice) - 1
-            if 0 <= idx < len(questions):
-                url = questions[idx].get("url")
-                if url and url != "N/A":
-                    import webbrowser
-
-                    console.print(f"[bold #F7CA18]Opening... {url}[/bold #F7CA18]")
-                    webbrowser.open(url)
-                else:
-                    console.print(
-                        "[bold #E74C3C]No URL available for this question.[/bold #E74C3C]"
-                    )
-                    Prompt.ask("[dim #FAD7A1]Press Enter to continue...[/dim #FAD7A1]")
-            else:
-                console.print("[bold #E74C3C]Invalid question number.[/bold #E74C3C]")
-                Prompt.ask("[dim #FAD7A1]Press Enter to continue...[/dim #FAD7A1]")
-        else:
-            console.print("[bold #E74C3C]Invalid input.[/bold #E74C3C]")
-            Prompt.ask("[dim #FAD7A1]Press Enter to continue...[/dim #FAD7A1]")
 
 
 if __name__ == "__main__":

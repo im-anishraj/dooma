@@ -1,0 +1,17 @@
+id: video-stitching
+title: Video Stitching
+url: https://leetcode.com/problems/video-stitching
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  anduril:
+    frequency: 87
+  google:
+    frequency: 25
+  verily:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

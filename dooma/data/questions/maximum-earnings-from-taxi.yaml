@@ -1,0 +1,25 @@
+id: maximum-earnings-from-taxi
+title: Maximum Earnings From Taxi
+url: https://leetcode.com/problems/maximum-earnings-from-taxi
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  coindcx:
+    frequency: 87
+  meta:
+    frequency: 12
+  myntra:
+    frequency: 100
+  oracle:
+    frequency: 37
+  salesforce:
+    frequency: 25
+  uber:
+    frequency: 37
+  wells-fargo:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

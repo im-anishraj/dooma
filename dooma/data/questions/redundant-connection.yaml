@@ -1,0 +1,27 @@
+id: redundant-connection
+title: Redundant Connection
+url: https://leetcode.com/problems/redundant-connection
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  box:
+    frequency: 62
+  google:
+    frequency: 37
+  inmobi:
+    frequency: 62
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 25
+  oracle:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

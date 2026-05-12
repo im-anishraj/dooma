@@ -1,0 +1,19 @@
+id: read-n-characters-given-read4
+title: Read N Characters Given Read4
+url: https://leetcode.com/problems/read-n-characters-given-read4
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  apple:
+    frequency: 25
+  google:
+    frequency: 12
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

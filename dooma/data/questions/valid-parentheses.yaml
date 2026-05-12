@@ -1,0 +1,249 @@
+id: valid-parentheses
+title: Valid Parentheses
+url: https://leetcode.com/problems/valid-parentheses
+difficulty: easy
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 62
+  accolite:
+    frequency: 50
+  adobe:
+    frequency: 75
+  agoda:
+    frequency: 62
+  airbnb:
+    frequency: 75
+  amazon:
+    frequency: 75
+  andela:
+    frequency: 100
+  anduril:
+    frequency: 50
+  apple:
+    frequency: 75
+  at-t:
+    frequency: 87
+  autodesk:
+    frequency: 75
+  bank-of-america:
+    frequency: 100
+  barclays:
+    frequency: 62
+  blackrock:
+    frequency: 50
+  bloomberg:
+    frequency: 87
+  braze:
+    frequency: 100
+  bytedance:
+    frequency: 50
+  c3-ai:
+    frequency: 75
+  capital-one:
+    frequency: 37
+  carwale:
+    frequency: 62
+  cerner:
+    frequency: 100
+  chewy:
+    frequency: 87
+  cisco:
+    frequency: 62
+  cognizant:
+    frequency: 62
+  coindcx:
+    frequency: 87
+  comcast:
+    frequency: 75
+  criteo:
+    frequency: 75
+  crowdstrike:
+    frequency: 62
+  dataart:
+    frequency: 100
+  de-shaw:
+    frequency: 62
+  dell:
+    frequency: 62
+  deloitte:
+    frequency: 75
+  disney:
+    frequency: 75
+  ebay:
+    frequency: 75
+  epam-systems:
+    frequency: 100
+  epic-systems:
+    frequency: 87
+  ericsson:
+    frequency: 100
+  expedia:
+    frequency: 87
+  flipkart:
+    frequency: 37
+  freshworks:
+    frequency: 100
+  ge-healthcare:
+    frequency: 75
+  globallogic:
+    frequency: 100
+  godaddy:
+    frequency: 75
+  goldman-sachs:
+    frequency: 37
+  google:
+    frequency: 62
+  grab:
+    frequency: 62
+  hcl:
+    frequency: 75
+  hp:
+    frequency: 75
+  huawei:
+    frequency: 75
+  ibm:
+    frequency: 75
+  infosys:
+    frequency: 75
+  intel:
+    frequency: 87
+  intuit:
+    frequency: 100
+  jane-street:
+    frequency: 62
+  jpmorgan:
+    frequency: 62
+  linkedin:
+    frequency: 75
+  lucid:
+    frequency: 75
+  mastercard:
+    frequency: 100
+  meta:
+    frequency: 75
+  micro1:
+    frequency: 100
+  microsoft:
+    frequency: 75
+  millennium:
+    frequency: 87
+  mitsogo:
+    frequency: 62
+  netflix:
+    frequency: 50
+  nike:
+    frequency: 75
+  nokia:
+    frequency: 87
+  npci:
+    frequency: 100
+  nvidia:
+    frequency: 75
+  odoo:
+    frequency: 87
+  opentext:
+    frequency: 75
+  oracle:
+    frequency: 75
+  ozon:
+    frequency: 87
+  palo-alto-networks:
+    frequency: 50
+  paypal:
+    frequency: 50
+  paytm:
+    frequency: 75
+  persistent-systems:
+    frequency: 75
+  phonepe:
+    frequency: 50
+  playsimple:
+    frequency: 100
+  qualcomm:
+    frequency: 75
+  roblox:
+    frequency: 62
+  rokt:
+    frequency: 75
+  salesforce:
+    frequency: 37
+  samsung:
+    frequency: 50
+  sap:
+    frequency: 75
+  servicenow:
+    frequency: 87
+  shift-technology:
+    frequency: 100
+  siemens:
+    frequency: 75
+  sigmoid:
+    frequency: 75
+  sony:
+    frequency: 62
+  splunk:
+    frequency: 87
+  spotify:
+    frequency: 75
+  swiggy:
+    frequency: 62
+  target:
+    frequency: 87
+  tcs:
+    frequency: 62
+  tesla:
+    frequency: 87
+  tiktok:
+    frequency: 62
+  toast:
+    frequency: 75
+  tomtom:
+    frequency: 62
+  tripadvisor:
+    frequency: 100
+  turing:
+    frequency: 87
+  twitter:
+    frequency: 100
+  two-sigma:
+    frequency: 62
+  uber:
+    frequency: 37
+  ubs:
+    frequency: 62
+  udemy:
+    frequency: 87
+  ust:
+    frequency: 100
+  visa:
+    frequency: 75
+  vk:
+    frequency: 87
+  walmart-labs:
+    frequency: 87
+  wells-fargo:
+    frequency: 75
+  wipro:
+    frequency: 62
+  wix:
+    frequency: 50
+  yahoo:
+    frequency: 50
+  yandex:
+    frequency: 62
+  zenefits:
+    frequency: 100
+  zillow:
+    frequency: 100
+  zoho:
+    frequency: 87
+  zs-associates:
+    frequency: 87
+  zulily:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,23 @@
+id: rank-transform-of-an-array
+title: Rank Transform of an Array
+url: https://leetcode.com/problems/rank-transform-of-an-array
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  agoda:
+    frequency: 50
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 37
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

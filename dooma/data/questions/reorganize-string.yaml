@@ -1,0 +1,59 @@
+id: reorganize-string
+title: Reorganize String
+url: https://leetcode.com/problems/reorganize-string
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  agoda:
+    frequency: 50
+  amazon:
+    frequency: 75
+  audible:
+    frequency: 62
+  bloomberg:
+    frequency: 25
+  citadel:
+    frequency: 50
+  coupang:
+    frequency: 50
+  de-shaw:
+    frequency: 37
+  ebay:
+    frequency: 50
+  expedia:
+    frequency: 50
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 37
+  ibm:
+    frequency: 37
+  infosys:
+    frequency: 37
+  meta:
+    frequency: 25
+  micro1:
+    frequency: 100
+  microsoft:
+    frequency: 37
+  oracle:
+    frequency: 50
+  pinterest:
+    frequency: 62
+  roblox:
+    frequency: 100
+  salesforce:
+    frequency: 25
+  tesla:
+    frequency: 75
+  tiktok:
+    frequency: 62
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

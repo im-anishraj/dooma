@@ -1,0 +1,21 @@
+id: find-the-original-typed-string-ii
+title: Find the Original Typed String II
+url: https://leetcode.com/problems/find-the-original-typed-string-ii
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

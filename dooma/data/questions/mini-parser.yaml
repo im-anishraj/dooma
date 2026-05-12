@@ -1,0 +1,19 @@
+id: mini-parser
+title: Mini Parser
+url: https://leetcode.com/problems/mini-parser
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  airbnb:
+    frequency: 75
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

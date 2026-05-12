@@ -1,0 +1,15 @@
+id: distribute-candies-among-children-iii
+title: Distribute Candies Among Children III
+url: https://leetcode.com/problems/distribute-candies-among-children-iii
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  rubrik:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

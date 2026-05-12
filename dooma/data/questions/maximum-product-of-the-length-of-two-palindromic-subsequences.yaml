@@ -1,0 +1,15 @@
+id: maximum-product-of-the-length-of-two-palindromic-subsequences
+title: Maximum Product of the Length of Two Palindromic Subsequences
+url: https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  ascend:
+    frequency: 100
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

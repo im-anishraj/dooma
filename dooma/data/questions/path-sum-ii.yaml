@@ -1,0 +1,33 @@
+id: path-sum-ii
+title: Path Sum II
+url: https://leetcode.com/problems/path-sum-ii
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  arista-networks:
+    frequency: 62
+  bloomberg:
+    frequency: 37
+  flipkart:
+    frequency: 37
+  google:
+    frequency: 25
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 25
+  oracle:
+    frequency: 37
+  palo-alto-networks:
+    frequency: 50
+  tiktok:
+    frequency: 37
+  walmart-labs:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,81 @@
+id: asteroid-collision
+title: Asteroid Collision
+url: https://leetcode.com/problems/asteroid-collision
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accolite:
+    frequency: 62
+  amazon:
+    frequency: 62
+  apple:
+    frequency: 37
+  bloomberg:
+    frequency: 37
+  de-shaw:
+    frequency: 37
+  doordash:
+    frequency: 62
+  dream11:
+    frequency: 87
+  epam-systems:
+    frequency: 50
+  flipkart:
+    frequency: 75
+  goldman-sachs:
+    frequency: 37
+  google:
+    frequency: 37
+  ibm:
+    frequency: 37
+  imc:
+    frequency: 100
+  juspay:
+    frequency: 50
+  meesho:
+    frequency: 50
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 37
+  myntra:
+    frequency: 75
+  nuro:
+    frequency: 62
+  nvidia:
+    frequency: 50
+  openai:
+    frequency: 50
+  oracle:
+    frequency: 75
+  paypal:
+    frequency: 50
+  phonepe:
+    frequency: 62
+  qualtrics:
+    frequency: 100
+  roku:
+    frequency: 75
+  salesforce:
+    frequency: 50
+  servicenow:
+    frequency: 75
+  sofi:
+    frequency: 87
+  sprinklr:
+    frequency: 50
+  tiktok:
+    frequency: 62
+  uber:
+    frequency: 50
+  walmart-labs:
+    frequency: 50
+  zoho:
+    frequency: 50
+  zynga:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

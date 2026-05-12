@@ -1,0 +1,23 @@
+id: lemonade-change
+title: Lemonade Change
+url: https://leetcode.com/problems/lemonade-change
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 37
+  google:
+    frequency: 12
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 12
+  zalando:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

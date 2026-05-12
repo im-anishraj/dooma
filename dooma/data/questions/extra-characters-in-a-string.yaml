@@ -1,0 +1,17 @@
+id: extra-characters-in-a-string
+title: Extra Characters in a String
+url: https://leetcode.com/problems/extra-characters-in-a-string
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

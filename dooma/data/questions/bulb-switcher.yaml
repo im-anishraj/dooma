@@ -1,0 +1,31 @@
+id: bulb-switcher
+title: Bulb Switcher
+url: https://leetcode.com/problems/bulb-switcher
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 62
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  infosys:
+    frequency: 37
+  linkedin:
+    frequency: 62
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  oracle:
+    frequency: 25
+  tcs:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

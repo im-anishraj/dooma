@@ -1,0 +1,17 @@
+id: check-if-all-1s-are-at-least-length-k-places-away
+title: Check If All 1's Are at Least Length K Places Away
+url: https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

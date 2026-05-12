@@ -1,0 +1,21 @@
+id: kth-smallest-number-in-multiplication-table
+title: Kth Smallest Number in Multiplication Table
+url: https://leetcode.com/problems/kth-smallest-number-in-multiplication-table
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  de-shaw:
+    frequency: 50
+  google:
+    frequency: 25
+  medianet:
+    frequency: 62
+  meta:
+    frequency: 12
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

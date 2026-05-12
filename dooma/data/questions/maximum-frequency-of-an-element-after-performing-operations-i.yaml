@@ -1,0 +1,17 @@
+id: maximum-frequency-of-an-element-after-performing-operations-i
+title: Maximum Frequency of an Element After Performing Operations I
+url: https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

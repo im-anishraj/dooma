@@ -1,0 +1,19 @@
+id: shortest-word-distance-ii
+title: Shortest Word Distance II
+url: https://leetcode.com/problems/shortest-word-distance-ii
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  anduril:
+    frequency: 75
+  google:
+    frequency: 12
+  linkedin:
+    frequency: 75
+  palantir-technologies:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

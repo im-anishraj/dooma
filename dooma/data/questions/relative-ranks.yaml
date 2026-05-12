@@ -1,0 +1,19 @@
+id: relative-ranks
+title: Relative Ranks
+url: https://leetcode.com/problems/relative-ranks
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 25
+  electronic-arts:
+    frequency: 100
+  google:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

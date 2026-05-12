@@ -1,0 +1,31 @@
+id: kth-smallest-element-in-a-sorted-matrix
+title: Kth Smallest Element in a Sorted Matrix
+url: https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 37
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 25
+  oracle:
+    frequency: 37
+  phonepe:
+    frequency: 75
+  tiktok:
+    frequency: 50
+  twitter:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

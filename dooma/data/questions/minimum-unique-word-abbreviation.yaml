@@ -1,0 +1,15 @@
+id: minimum-unique-word-abbreviation
+title: Minimum Unique Word Abbreviation
+url: https://leetcode.com/problems/minimum-unique-word-abbreviation
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

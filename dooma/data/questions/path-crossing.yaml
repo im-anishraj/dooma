@@ -1,0 +1,17 @@
+id: path-crossing
+title: Path Crossing
+url: https://leetcode.com/problems/path-crossing
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  google:
+    frequency: 12
+  yandex:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

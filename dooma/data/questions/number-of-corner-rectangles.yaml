@@ -1,0 +1,13 @@
+id: number-of-corner-rectangles
+title: Number Of Corner Rectangles
+url: https://leetcode.com/problems/number-of-corner-rectangles
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  meta:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

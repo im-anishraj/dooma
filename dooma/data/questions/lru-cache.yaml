@@ -1,0 +1,267 @@
+id: lru-cache
+title: LRU Cache
+url: https://leetcode.com/problems/lru-cache
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 62
+  amazon:
+    frequency: 87
+  amd:
+    frequency: 75
+  appfolio:
+    frequency: 100
+  apple:
+    frequency: 100
+  arista-networks:
+    frequency: 62
+  atlassian:
+    frequency: 37
+  aurora:
+    frequency: 100
+  autodesk:
+    frequency: 75
+  bitgo:
+    frequency: 87
+  bloomberg:
+    frequency: 75
+  bookingcom:
+    frequency: 62
+  broadcom:
+    frequency: 100
+  bytedance:
+    frequency: 100
+  capital-one:
+    frequency: 37
+  chewy:
+    frequency: 100
+  cisco:
+    frequency: 75
+  citadel:
+    frequency: 75
+  citrix:
+    frequency: 62
+  cloudflare:
+    frequency: 75
+  confluent:
+    frequency: 87
+  couchbase:
+    frequency: 62
+  coupang:
+    frequency: 100
+  de-shaw:
+    frequency: 37
+  disney:
+    frequency: 100
+  docusign:
+    frequency: 75
+  doordash:
+    frequency: 37
+  ebay:
+    frequency: 100
+  equinix:
+    frequency: 100
+  expedia:
+    frequency: 50
+  fiverr:
+    frequency: 87
+  ford:
+    frequency: 100
+  freecharge:
+    frequency: 100
+  freshworks:
+    frequency: 75
+  gartner:
+    frequency: 100
+  general-motors:
+    frequency: 50
+  glovo:
+    frequency: 100
+  goldman-sachs:
+    frequency: 62
+  google:
+    frequency: 62
+  grab:
+    frequency: 62
+  groww:
+    frequency: 62
+  grubhub:
+    frequency: 75
+  ibm:
+    frequency: 37
+  intel:
+    frequency: 75
+  intuit:
+    frequency: 87
+  jane-street:
+    frequency: 62
+  jpmorgan:
+    frequency: 62
+  juspay:
+    frequency: 50
+  kla:
+    frequency: 87
+  line:
+    frequency: 87
+  linkedin:
+    frequency: 62
+  marqeta:
+    frequency: 100
+  medianet:
+    frequency: 50
+  meta:
+    frequency: 75
+  microsoft:
+    frequency: 87
+  mobileye:
+    frequency: 87
+  moloco:
+    frequency: 75
+  mongodb:
+    frequency: 62
+  morgan-stanley:
+    frequency: 62
+  myntra:
+    frequency: 75
+  navan:
+    frequency: 87
+  netapp:
+    frequency: 87
+  netflix:
+    frequency: 62
+  netskope:
+    frequency: 100
+  niantic:
+    frequency: 87
+  nokia:
+    frequency: 87
+  nordstrom:
+    frequency: 87
+  nutanix:
+    frequency: 87
+  nvidia:
+    frequency: 87
+  okta:
+    frequency: 100
+  optiver:
+    frequency: 87
+  oracle:
+    frequency: 100
+  palantir-technologies:
+    frequency: 75
+  palo-alto-networks:
+    frequency: 100
+  paypal:
+    frequency: 87
+  phonepe:
+    frequency: 75
+  qualcomm:
+    frequency: 62
+  rakuten:
+    frequency: 87
+  razorpay:
+    frequency: 87
+  reddit:
+    frequency: 75
+  ripple:
+    frequency: 87
+  rippling:
+    frequency: 50
+  rivian:
+    frequency: 100
+  roku:
+    frequency: 87
+  rubrik:
+    frequency: 50
+  salesforce:
+    frequency: 75
+  samsung:
+    frequency: 100
+  sap:
+    frequency: 62
+  servicenow:
+    frequency: 100
+  shopee:
+    frequency: 75
+  shopify:
+    frequency: 87
+  siemens:
+    frequency: 75
+  smartnews:
+    frequency: 100
+  snapchat:
+    frequency: 100
+  snowflake:
+    frequency: 62
+  sofi:
+    frequency: 75
+  spinny:
+    frequency: 87
+  splunk:
+    frequency: 87
+  sprinklr:
+    frequency: 50
+  squarepoint-capital:
+    frequency: 75
+  squarespace:
+    frequency: 87
+  stackadapt:
+    frequency: 100
+  swiggy:
+    frequency: 50
+  tcs:
+    frequency: 25
+  tencent:
+    frequency: 62
+  tesla:
+    frequency: 87
+  thousandeyes:
+    frequency: 100
+  tiktok:
+    frequency: 100
+  tripadvisor:
+    frequency: 75
+  turo:
+    frequency: 100
+  twitch:
+    frequency: 75
+  twitter:
+    frequency: 100
+  uber:
+    frequency: 75
+  ukg:
+    frequency: 62
+  verkada:
+    frequency: 87
+  viasat:
+    frequency: 87
+  vimeo:
+    frequency: 62
+  visa:
+    frequency: 87
+  vmware:
+    frequency: 62
+  walmart-labs:
+    frequency: 100
+  wells-fargo:
+    frequency: 62
+  whatfix:
+    frequency: 100
+  yahoo:
+    frequency: 87
+  yandex:
+    frequency: 50
+  zenefits:
+    frequency: 100
+  zocdoc:
+    frequency: 100
+  zoho:
+    frequency: 37
+  zscaler:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

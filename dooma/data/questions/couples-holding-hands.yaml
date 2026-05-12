@@ -1,0 +1,19 @@
+id: couples-holding-hands
+title: Couples Holding Hands
+url: https://leetcode.com/problems/couples-holding-hands
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 25
+  citadel:
+    frequency: 62
+  google:
+    frequency: 25
+  squarepoint-capital:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

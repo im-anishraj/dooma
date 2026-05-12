@@ -1,0 +1,13 @@
+id: the-most-recent-orders-for-each-product
+title: The Most Recent Orders for Each Product
+url: https://leetcode.com/problems/the-most-recent-orders-for-each-product
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

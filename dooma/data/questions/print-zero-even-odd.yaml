@@ -1,0 +1,15 @@
+id: print-zero-even-odd
+title: Print Zero Even Odd
+url: https://leetcode.com/problems/print-zero-even-odd
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  goldman-sachs:
+    frequency: 50
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

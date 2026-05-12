@@ -1,0 +1,15 @@
+id: minimum-area-rectangle-ii
+title: Minimum Area Rectangle II
+url: https://leetcode.com/problems/minimum-area-rectangle-ii
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 37
+  verily:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

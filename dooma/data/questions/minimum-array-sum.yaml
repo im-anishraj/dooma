@@ -1,0 +1,21 @@
+id: minimum-array-sum
+title: Minimum Array Sum
+url: https://leetcode.com/problems/minimum-array-sum
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  oracle:
+    frequency: 37
+  salesforce:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

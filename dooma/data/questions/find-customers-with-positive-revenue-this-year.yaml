@@ -1,0 +1,13 @@
+id: find-customers-with-positive-revenue-this-year
+title: Find Customers With Positive Revenue this Year
+url: https://leetcode.com/problems/find-customers-with-positive-revenue-this-year
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,19 @@
+id: find-mode-in-binary-search-tree
+title: Find Mode in Binary Search Tree
+url: https://leetcode.com/problems/find-mode-in-binary-search-tree
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

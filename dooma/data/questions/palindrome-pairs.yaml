@@ -1,0 +1,25 @@
+id: palindrome-pairs
+title: Palindrome Pairs
+url: https://leetcode.com/problems/palindrome-pairs
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  airbnb:
+    frequency: 87
+  amazon:
+    frequency: 12
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  wix:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

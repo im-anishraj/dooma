@@ -1,0 +1,13 @@
+id: frequencies-of-shortest-supersequences
+title: Frequencies of Shortest Supersequences
+url: https://leetcode.com/problems/frequencies-of-shortest-supersequences
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  phonepe:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,47 @@
+id: sudoku-solver
+title: Sudoku Solver
+url: https://leetcode.com/problems/sudoku-solver
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 50
+  citadel:
+    frequency: 50
+  confluent:
+    frequency: 100
+  doordash:
+    frequency: 37
+  ebay:
+    frequency: 50
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 50
+  intuit:
+    frequency: 75
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 50
+  oracle:
+    frequency: 25
+  riot-games:
+    frequency: 75
+  snapchat:
+    frequency: 87
+  uber:
+    frequency: 62
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

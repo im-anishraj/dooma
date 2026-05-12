@@ -1,0 +1,17 @@
+id: contain-virus
+title: Contain Virus
+url: https://leetcode.com/problems/contain-virus
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 37
+  flipkart:
+    frequency: 62
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

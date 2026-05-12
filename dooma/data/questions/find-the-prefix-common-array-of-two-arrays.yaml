@@ -1,0 +1,23 @@
+id: find-the-prefix-common-array-of-two-arrays
+title: Find the Prefix Common Array of Two Arrays
+url: https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 12
+  yandex:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,43 @@
+id: minimum-size-subarray-sum
+title: Minimum Size Subarray Sum
+url: https://leetcode.com/problems/minimum-size-subarray-sum
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 25
+  autodesk:
+    frequency: 50
+  bcg:
+    frequency: 87
+  bloomberg:
+    frequency: 50
+  de-shaw:
+    frequency: 37
+  doordash:
+    frequency: 50
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 37
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 50
+  nvidia:
+    frequency: 50
+  oracle:
+    frequency: 37
+  tcs:
+    frequency: 25
+  tiktok:
+    frequency: 50
+  yandex:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

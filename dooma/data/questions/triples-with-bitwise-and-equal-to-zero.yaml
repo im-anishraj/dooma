@@ -1,0 +1,17 @@
+id: triples-with-bitwise-and-equal-to-zero
+title: Triples with Bitwise AND Equal To Zero
+url: https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  flipkart:
+    frequency: 75
+  microsoft:
+    frequency: 12
+  philips:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

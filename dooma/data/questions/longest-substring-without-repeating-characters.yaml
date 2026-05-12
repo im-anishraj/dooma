@@ -1,0 +1,235 @@
+id: longest-substring-without-repeating-characters
+title: Longest Substring Without Repeating Characters
+url: https://leetcode.com/problems/longest-substring-without-repeating-characters
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 75
+  accolite:
+    frequency: 75
+  adobe:
+    frequency: 87
+  agoda:
+    frequency: 62
+  airbnb:
+    frequency: 37
+  airtel:
+    frequency: 75
+  akamai:
+    frequency: 62
+  alibaba:
+    frequency: 62
+  amazon:
+    frequency: 87
+  amd:
+    frequency: 75
+  american-express:
+    frequency: 62
+  apple:
+    frequency: 75
+  arcesium:
+    frequency: 62
+  arista-networks:
+    frequency: 62
+  at-t:
+    frequency: 87
+  athenahealth:
+    frequency: 75
+  atlassian:
+    frequency: 37
+  bitgo:
+    frequency: 75
+  bloomberg:
+    frequency: 87
+  bytedance:
+    frequency: 62
+  capgemini:
+    frequency: 62
+  capital-one:
+    frequency: 37
+  cisco:
+    frequency: 62
+  cognizant:
+    frequency: 75
+  comcast:
+    frequency: 87
+  coupang:
+    frequency: 75
+  cyntexa:
+    frequency: 100
+  de-shaw:
+    frequency: 37
+  dell:
+    frequency: 62
+  deloitte:
+    frequency: 62
+  dialpad:
+    frequency: 100
+  docusign:
+    frequency: 75
+  dp-world:
+    frequency: 87
+  dream11:
+    frequency: 62
+  ebay:
+    frequency: 75
+  epam-systems:
+    frequency: 100
+  epic-systems:
+    frequency: 50
+  expedia:
+    frequency: 62
+  flipkart:
+    frequency: 62
+  fractal-analytics:
+    frequency: 62
+  freecharge:
+    frequency: 87
+  freshworks:
+    frequency: 100
+  goldman-sachs:
+    frequency: 62
+  google:
+    frequency: 75
+  grab:
+    frequency: 62
+  hashedin:
+    frequency: 75
+  hcl:
+    frequency: 75
+  ibm:
+    frequency: 87
+  infosys:
+    frequency: 87
+  intel:
+    frequency: 75
+  intuit:
+    frequency: 37
+  jpmorgan:
+    frequency: 62
+  juspay:
+    frequency: 62
+  kpmg:
+    frequency: 100
+  linkedin:
+    frequency: 25
+  lucid:
+    frequency: 62
+  lyft:
+    frequency: 50
+  makemytrip:
+    frequency: 62
+  maq-software:
+    frequency: 75
+  meta:
+    frequency: 62
+  micro1:
+    frequency: 100
+  microsoft:
+    frequency: 75
+  morgan-stanley:
+    frequency: 75
+  myntra:
+    frequency: 75
+  nagarro:
+    frequency: 75
+  ncr:
+    frequency: 87
+  netflix:
+    frequency: 87
+  netskope:
+    frequency: 100
+  nike:
+    frequency: 75
+  nutanix:
+    frequency: 62
+  nvidia:
+    frequency: 87
+  opentext:
+    frequency: 62
+  oracle:
+    frequency: 87
+  ozon:
+    frequency: 75
+  palo-alto-networks:
+    frequency: 75
+  paypal:
+    frequency: 62
+  paytm:
+    frequency: 62
+  persistent-systems:
+    frequency: 62
+  pornhub:
+    frequency: 100
+  practo:
+    frequency: 100
+  publicis-sapient:
+    frequency: 75
+  qualcomm:
+    frequency: 75
+  rakuten:
+    frequency: 87
+  roblox:
+    frequency: 37
+  salesforce:
+    frequency: 62
+  sap:
+    frequency: 62
+  servicenow:
+    frequency: 100
+  sigmoid:
+    frequency: 75
+  snapchat:
+    frequency: 37
+  softwire:
+    frequency: 62
+  spotify:
+    frequency: 75
+  sprinklr:
+    frequency: 50
+  swiggy:
+    frequency: 50
+  tcs:
+    frequency: 50
+  tesla:
+    frequency: 87
+  tiktok:
+    frequency: 87
+  tinkoff:
+    frequency: 87
+  turing:
+    frequency: 100
+  uber:
+    frequency: 37
+  veeva:
+    frequency: 100
+  virtusa:
+    frequency: 75
+  visa:
+    frequency: 87
+  vk:
+    frequency: 62
+  walmart-labs:
+    frequency: 100
+  wipro:
+    frequency: 75
+  yandex:
+    frequency: 87
+  yelp:
+    frequency: 100
+  zepto:
+    frequency: 75
+  zeta:
+    frequency: 62
+  zoho:
+    frequency: 87
+  zomato:
+    frequency: 75
+  zs-associates:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

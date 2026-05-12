@@ -1,0 +1,15 @@
+id: binary-tree-coloring-game
+title: Binary Tree Coloring Game
+url: https://leetcode.com/problems/binary-tree-coloring-game
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

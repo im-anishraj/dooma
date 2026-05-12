@@ -1,0 +1,19 @@
+id: max-pair-sum-in-an-array
+title: Max Pair Sum in an Array
+url: https://leetcode.com/problems/max-pair-sum-in-an-array
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

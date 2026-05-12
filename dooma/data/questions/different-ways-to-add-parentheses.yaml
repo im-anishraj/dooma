@@ -1,0 +1,25 @@
+id: different-ways-to-add-parentheses
+title: Different Ways to Add Parentheses
+url: https://leetcode.com/problems/different-ways-to-add-parentheses
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 37
+  deltax:
+    frequency: 87
+  deutsche-bank:
+    frequency: 75
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

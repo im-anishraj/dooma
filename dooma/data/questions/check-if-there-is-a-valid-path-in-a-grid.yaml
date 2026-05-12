@@ -1,0 +1,13 @@
+id: check-if-there-is-a-valid-path-in-a-grid
+title: Check if There is a Valid Path in a Grid
+url: https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  robinhood:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

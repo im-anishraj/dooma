@@ -1,0 +1,27 @@
+id: customer-who-visited-but-did-not-make-any-transactions
+title: Customer Who Visited but Did Not Make Any Transactions
+url: https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 25
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 37
+  nerdwallet:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

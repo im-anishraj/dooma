@@ -1,0 +1,27 @@
+id: divide-intervals-into-minimum-number-of-groups
+title: Divide Intervals Into Minimum Number of Groups
+url: https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 75
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  ibm:
+    frequency: 37
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  walmart-labs:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

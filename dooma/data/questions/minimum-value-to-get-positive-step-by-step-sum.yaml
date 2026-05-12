@@ -1,0 +1,27 @@
+id: minimum-value-to-get-positive-step-by-step-sum
+title: Minimum Value to Get Positive Step by Step Sum
+url: https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  dell:
+    frequency: 62
+  expedia:
+    frequency: 50
+  goldman-sachs:
+    frequency: 37
+  google:
+    frequency: 12
+  ibm:
+    frequency: 37
+  microsoft:
+    frequency: 25
+  swiggy:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

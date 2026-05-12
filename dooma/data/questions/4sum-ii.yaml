@@ -1,0 +1,17 @@
+id: 4sum-ii
+title: 4Sum II
+url: https://leetcode.com/problems/4sum-ii
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

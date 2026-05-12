@@ -1,0 +1,15 @@
+id: valid-word-square
+title: Valid Word Square
+url: https://leetcode.com/problems/valid-word-square
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  apple:
+    frequency: 25
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

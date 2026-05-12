@@ -1,0 +1,15 @@
+id: maximum-score-of-a-good-subarray
+title: Maximum Score of a Good Subarray
+url: https://leetcode.com/problems/maximum-score-of-a-good-subarray
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

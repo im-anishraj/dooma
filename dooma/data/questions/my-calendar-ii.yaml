@@ -1,0 +1,19 @@
+id: my-calendar-ii
+title: My Calendar II
+url: https://leetcode.com/problems/my-calendar-ii
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  apple:
+    frequency: 25
+  google:
+    frequency: 25
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,21 @@
+id: richest-customer-wealth
+title: Richest Customer Wealth
+url: https://leetcode.com/problems/richest-customer-wealth
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 37
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

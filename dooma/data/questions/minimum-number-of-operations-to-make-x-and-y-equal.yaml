@@ -1,0 +1,15 @@
+id: minimum-number-of-operations-to-make-x-and-y-equal
+title: Minimum Number of Operations to Make X and Y Equal
+url: https://leetcode.com/problems/minimum-number-of-operations-to-make-x-and-y-equal
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  groww:
+    frequency: 100
+  microsoft:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: count-distinct-numbers-on-board
+title: Count Distinct Numbers on Board
+url: https://leetcode.com/problems/count-distinct-numbers-on-board
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  oracle:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

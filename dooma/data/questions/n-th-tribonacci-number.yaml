@@ -1,0 +1,25 @@
+id: n-th-tribonacci-number
+title: N-th Tribonacci Number
+url: https://leetcode.com/problems/n-th-tribonacci-number
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  coursera:
+    frequency: 100
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  tcs:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

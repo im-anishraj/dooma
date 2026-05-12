@@ -1,0 +1,3 @@
+id: hash-map
+name: Hash Map
+description: Use hash maps for O(1) lookups

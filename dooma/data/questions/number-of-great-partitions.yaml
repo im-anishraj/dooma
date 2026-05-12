@@ -1,0 +1,15 @@
+id: number-of-great-partitions
+title: Number of Great Partitions
+url: https://leetcode.com/problems/number-of-great-partitions
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  darwinbox:
+    frequency: 50
+  sprinklr:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

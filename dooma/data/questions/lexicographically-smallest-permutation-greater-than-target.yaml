@@ -1,0 +1,15 @@
+id: lexicographically-smallest-permutation-greater-than-target
+title: Lexicographically Smallest Permutation Greater Than Target
+url: https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

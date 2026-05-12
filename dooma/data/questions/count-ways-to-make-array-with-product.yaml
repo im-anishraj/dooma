@@ -1,0 +1,13 @@
+id: count-ways-to-make-array-with-product
+title: Count Ways to Make Array With Product
+url: https://leetcode.com/problems/count-ways-to-make-array-with-product
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

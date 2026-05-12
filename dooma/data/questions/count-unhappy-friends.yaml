@@ -1,0 +1,13 @@
+id: count-unhappy-friends
+title: Count Unhappy Friends
+url: https://leetcode.com/problems/count-unhappy-friends
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

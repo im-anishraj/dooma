@@ -1,0 +1,17 @@
+id: number-of-squareful-arrays
+title: Number of Squareful Arrays
+url: https://leetcode.com/problems/number-of-squareful-arrays
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  apple:
+    frequency: 50
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

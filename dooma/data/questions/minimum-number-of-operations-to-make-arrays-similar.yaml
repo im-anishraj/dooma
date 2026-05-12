@@ -1,0 +1,15 @@
+id: minimum-number-of-operations-to-make-arrays-similar
+title: Minimum Number of Operations to Make Arrays Similar
+url: https://leetcode.com/problems/minimum-number-of-operations-to-make-arrays-similar
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  walmart-labs:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

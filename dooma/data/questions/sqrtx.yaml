@@ -1,0 +1,49 @@
+id: sqrtx
+title: Sqrt(x)
+url: https://leetcode.com/problems/sqrtx
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 50
+  amazon:
+    frequency: 62
+  apple:
+    frequency: 62
+  bloomberg:
+    frequency: 62
+  citadel:
+    frequency: 62
+  goldman-sachs:
+    frequency: 37
+  google:
+    frequency: 50
+  grammarly:
+    frequency: 75
+  infosys:
+    frequency: 50
+  linkedin:
+    frequency: 37
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 50
+  nvidia:
+    frequency: 37
+  oracle:
+    frequency: 37
+  tcs:
+    frequency: 37
+  tiktok:
+    frequency: 75
+  uber:
+    frequency: 37
+  yahoo:
+    frequency: 50
+  zoho:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,23 @@
+id: minimum-string-length-after-removing-substrings
+title: Minimum String Length After Removing Substrings
+url: https://leetcode.com/problems/minimum-string-length-after-removing-substrings
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bolt:
+    frequency: 62
+  google:
+    frequency: 12
+  ibm:
+    frequency: 50
+  jpmorgan:
+    frequency: 50
+  wells-fargo:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

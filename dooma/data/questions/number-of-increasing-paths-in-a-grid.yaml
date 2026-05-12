@@ -1,0 +1,15 @@
+id: number-of-increasing-paths-in-a-grid
+title: Number of Increasing Paths in a Grid
+url: https://leetcode.com/problems/number-of-increasing-paths-in-a-grid
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 75
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: reconstruct-a-2-row-binary-matrix
+title: Reconstruct a 2-Row Binary Matrix
+url: https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  grab:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

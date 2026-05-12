@@ -1,0 +1,27 @@
+id: peak-index-in-a-mountain-array
+title: Peak Index in a Mountain Array
+url: https://leetcode.com/problems/peak-index-in-a-mountain-array
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  amazon:
+    frequency: 50
+  bloomberg:
+    frequency: 50
+  de-shaw:
+    frequency: 37
+  google:
+    frequency: 50
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 37
+  tcs:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

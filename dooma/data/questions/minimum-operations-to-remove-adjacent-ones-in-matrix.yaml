@@ -1,0 +1,13 @@
+id: minimum-operations-to-remove-adjacent-ones-in-matrix
+title: Minimum Operations to Remove Adjacent Ones in Matrix
+url: https://leetcode.com/problems/minimum-operations-to-remove-adjacent-ones-in-matrix
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

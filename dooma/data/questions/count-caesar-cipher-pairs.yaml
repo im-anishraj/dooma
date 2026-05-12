@@ -1,0 +1,13 @@
+id: count-caesar-cipher-pairs
+title: Count Caesar Cipher Pairs
+url: https://leetcode.com/problems/count-caesar-cipher-pairs
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

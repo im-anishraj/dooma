@@ -1,0 +1,17 @@
+id: clumsy-factorial
+title: Clumsy Factorial
+url: https://leetcode.com/problems/clumsy-factorial
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

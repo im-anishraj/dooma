@@ -1,0 +1,29 @@
+id: best-time-to-buy-and-sell-stock-with-cooldown
+title: Best Time to Buy and Sell Stock with Cooldown
+url: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  apple:
+    frequency: 25
+  aqr-capital-management-llc:
+    frequency: 62
+  bloomberg:
+    frequency: 12
+  geico:
+    frequency: 75
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 37
+  microsoft:
+    frequency: 12
+  tiktok:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

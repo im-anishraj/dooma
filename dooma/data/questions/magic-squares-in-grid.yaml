@@ -1,0 +1,21 @@
+id: magic-squares-in-grid
+title: Magic Squares In Grid
+url: https://leetcode.com/problems/magic-squares-in-grid
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  infosys:
+    frequency: 37
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

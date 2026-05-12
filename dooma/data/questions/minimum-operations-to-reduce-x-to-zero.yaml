@@ -1,0 +1,19 @@
+id: minimum-operations-to-reduce-x-to-zero
+title: Minimum Operations to Reduce X to Zero
+url: https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  morgan-stanley:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

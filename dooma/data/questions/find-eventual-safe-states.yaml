@@ -1,0 +1,23 @@
+id: find-eventual-safe-states
+title: Find Eventual Safe States
+url: https://leetcode.com/problems/find-eventual-safe-states
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 37
+  google:
+    frequency: 37
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 25
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,17 @@
+id: number-of-good-leaf-nodes-pairs
+title: Number of Good Leaf Nodes Pairs
+url: https://leetcode.com/problems/number-of-good-leaf-nodes-pairs
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bytedance:
+    frequency: 50
+  google:
+    frequency: 25
+  tiktok:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

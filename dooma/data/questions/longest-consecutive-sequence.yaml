@@ -1,0 +1,89 @@
+id: longest-consecutive-sequence
+title: Longest Consecutive Sequence
+url: https://leetcode.com/problems/longest-consecutive-sequence
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 62
+  amazon:
+    frequency: 75
+  apple:
+    frequency: 50
+  atlassian:
+    frequency: 37
+  bloomberg:
+    frequency: 75
+  bytedance:
+    frequency: 50
+  capgemini:
+    frequency: 50
+  cisco:
+    frequency: 50
+  de-shaw:
+    frequency: 50
+  deloitte:
+    frequency: 50
+  epam-systems:
+    frequency: 62
+  flipkart:
+    frequency: 37
+  goldman-sachs:
+    frequency: 37
+  google:
+    frequency: 75
+  ibm:
+    frequency: 50
+  infosys:
+    frequency: 50
+  jpmorgan:
+    frequency: 37
+  linkedin:
+    frequency: 25
+  lyft:
+    frequency: 50
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 62
+  myntra:
+    frequency: 62
+  okta:
+    frequency: 75
+  oracle:
+    frequency: 62
+  paypal:
+    frequency: 50
+  paytm:
+    frequency: 62
+  phonepe:
+    frequency: 50
+  roblox:
+    frequency: 37
+  sap:
+    frequency: 62
+  servicenow:
+    frequency: 50
+  tcs:
+    frequency: 37
+  tesla:
+    frequency: 50
+  tiktok:
+    frequency: 62
+  uber:
+    frequency: 37
+  visa:
+    frequency: 37
+  walmart-labs:
+    frequency: 75
+  wissen:
+    frequency: 100
+  zepto:
+    frequency: 87
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

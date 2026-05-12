@@ -1,0 +1,19 @@
+id: shortest-distance-to-a-character
+title: Shortest Distance to a Character
+url: https://leetcode.com/problems/shortest-distance-to-a-character
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

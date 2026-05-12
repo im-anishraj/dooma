@@ -1,0 +1,37 @@
+id: sort-array-by-increasing-frequency
+title: Sort Array by Increasing Frequency
+url: https://leetcode.com/problems/sort-array-by-increasing-frequency
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 50
+  adobe:
+    frequency: 62
+  agoda:
+    frequency: 62
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 37
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  oracle:
+    frequency: 37
+  sap:
+    frequency: 50
+  tcs:
+    frequency: 25
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

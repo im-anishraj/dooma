@@ -1,0 +1,19 @@
+id: zero-array-transformation-ii
+title: Zero Array Transformation II
+url: https://leetcode.com/problems/zero-array-transformation-ii
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 37
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

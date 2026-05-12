@@ -1,0 +1,81 @@
+id: first-missing-positive
+title: First Missing Positive
+url: https://leetcode.com/problems/first-missing-positive
+difficulty: hard
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 62
+  amazon:
+    frequency: 62
+  apple:
+    frequency: 37
+  athenahealth:
+    frequency: 62
+  bloomberg:
+    frequency: 50
+  cognizant:
+    frequency: 62
+  epam-systems:
+    frequency: 50
+  flipkart:
+    frequency: 37
+  geico:
+    frequency: 62
+  general-motors:
+    frequency: 50
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 50
+  harness:
+    frequency: 87
+  makemytrip:
+    frequency: 87
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 50
+  myntra:
+    frequency: 75
+  netflix:
+    frequency: 62
+  netskope:
+    frequency: 100
+  nutanix:
+    frequency: 50
+  oracle:
+    frequency: 50
+  paypal:
+    frequency: 37
+  phonepe:
+    frequency: 50
+  salesforce:
+    frequency: 37
+  servicenow:
+    frequency: 75
+  siemens:
+    frequency: 62
+  soundhound:
+    frequency: 62
+  sprinklr:
+    frequency: 50
+  swiggy:
+    frequency: 50
+  tcs:
+    frequency: 25
+  tesla:
+    frequency: 50
+  tiktok:
+    frequency: 25
+  visa:
+    frequency: 37
+  walmart-labs:
+    frequency: 62
+  zomato:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

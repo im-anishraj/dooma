@@ -1,0 +1,29 @@
+id: nearest-exit-from-entrance-in-maze
+title: Nearest Exit from Entrance in Maze
+url: https://leetcode.com/problems/nearest-exit-from-entrance-in-maze
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  ebay:
+    frequency: 50
+  google:
+    frequency: 12
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 12
+  paypal:
+    frequency: 37
+  uber:
+    frequency: 50
+  walmart-labs:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,19 @@
+id: check-if-number-is-a-sum-of-powers-of-three
+title: Check if Number is a Sum of Powers of Three
+url: https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

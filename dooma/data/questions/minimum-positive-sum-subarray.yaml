@@ -1,0 +1,13 @@
+id: minimum-positive-sum-subarray
+title: Minimum Positive Sum Subarray
+url: https://leetcode.com/problems/minimum-positive-sum-subarray
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

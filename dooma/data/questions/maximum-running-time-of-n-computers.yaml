@@ -1,0 +1,23 @@
+id: maximum-running-time-of-n-computers
+title: Maximum Running Time of N Computers
+url: https://leetcode.com/problems/maximum-running-time-of-n-computers
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  capital-one:
+    frequency: 37
+  deutsche-bank:
+    frequency: 100
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

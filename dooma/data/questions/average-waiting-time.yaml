@@ -1,0 +1,23 @@
+id: average-waiting-time
+title: Average Waiting Time
+url: https://leetcode.com/problems/average-waiting-time
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  de-shaw:
+    frequency: 50
+  google:
+    frequency: 12
+  instacart:
+    frequency: 87
+  meta:
+    frequency: 12
+  salesforce:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

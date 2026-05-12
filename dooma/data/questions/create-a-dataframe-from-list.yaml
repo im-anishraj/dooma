@@ -1,0 +1,23 @@
+id: create-a-dataframe-from-list
+title: Create a DataFrame from List
+url: https://leetcode.com/problems/create-a-dataframe-from-list
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 37
+  google:
+    frequency: 50
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

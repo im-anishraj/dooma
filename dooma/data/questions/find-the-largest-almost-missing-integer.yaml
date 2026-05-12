@@ -1,0 +1,13 @@
+id: find-the-largest-almost-missing-integer
+title: Find the Largest Almost Missing Integer
+url: https://leetcode.com/problems/find-the-largest-almost-missing-integer
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

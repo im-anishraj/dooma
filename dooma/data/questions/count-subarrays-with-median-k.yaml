@@ -1,0 +1,19 @@
+id: count-subarrays-with-median-k
+title: Count Subarrays With Median K
+url: https://leetcode.com/problems/count-subarrays-with-median-k
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  google:
+    frequency: 25
+  salesforce:
+    frequency: 50
+  thoughtspot:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

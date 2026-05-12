@@ -1,0 +1,23 @@
+id: number-of-digit-one
+title: Number of Digit One
+url: https://leetcode.com/problems/number-of-digit-one
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 37
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  salesforce:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

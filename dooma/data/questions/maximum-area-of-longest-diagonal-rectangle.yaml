@@ -1,0 +1,19 @@
+id: maximum-area-of-longest-diagonal-rectangle
+title: Maximum Area of Longest Diagonal Rectangle
+url: https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 75
+  atlassian:
+    frequency: 62
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

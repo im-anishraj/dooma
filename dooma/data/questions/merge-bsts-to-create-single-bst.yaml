@@ -1,0 +1,17 @@
+id: merge-bsts-to-create-single-bst
+title: Merge BSTs to Create Single BST
+url: https://leetcode.com/problems/merge-bsts-to-create-single-bst
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

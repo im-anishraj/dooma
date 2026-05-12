@@ -1,0 +1,23 @@
+id: baseball-game
+title: Baseball Game
+url: https://leetcode.com/problems/baseball-game
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  turing:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,39 @@
+id: middle-of-the-linked-list
+title: Middle of the Linked List
+url: https://leetcode.com/problems/middle-of-the-linked-list
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 50
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 50
+  bloomberg:
+    frequency: 50
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 50
+  ibm:
+    frequency: 37
+  intuit:
+    frequency: 50
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 37
+  nvidia:
+    frequency: 37
+  qualcomm:
+    frequency: 75
+  tcs:
+    frequency: 37
+  walmart-labs:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

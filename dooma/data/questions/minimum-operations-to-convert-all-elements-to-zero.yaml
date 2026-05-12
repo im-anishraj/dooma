@@ -1,0 +1,19 @@
+id: minimum-operations-to-convert-all-elements-to-zero
+title: Minimum Operations to Convert All Elements to Zero
+url: https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

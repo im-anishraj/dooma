@@ -1,0 +1,15 @@
+id: maximum-product-of-word-lengths
+title: Maximum Product of Word Lengths
+url: https://leetcode.com/problems/maximum-product-of-word-lengths
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

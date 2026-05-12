@@ -1,0 +1,17 @@
+id: rearrange-array-to-maximize-prefix-score
+title: Rearrange Array to Maximize Prefix Score
+url: https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  ibm:
+    frequency: 37
+  jpmorgan:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,17 @@
+id: out-of-boundary-paths
+title: Out of Boundary Paths
+url: https://leetcode.com/problems/out-of-boundary-paths
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  baidu:
+    frequency: 100
+  bloomberg:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

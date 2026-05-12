@@ -1,0 +1,19 @@
+id: divisible-and-non-divisible-sums-difference
+title: Divisible and Non-divisible Sums Difference
+url: https://leetcode.com/problems/divisible-and-non-divisible-sums-difference
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

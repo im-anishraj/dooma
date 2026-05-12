@@ -1,0 +1,17 @@
+id: number-of-substrings-with-only-1s
+title: Number of Substrings With Only 1s
+url: https://leetcode.com/problems/number-of-substrings-with-only-1s
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+  ibm:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

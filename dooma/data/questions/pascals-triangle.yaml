@@ -1,0 +1,49 @@
+id: pascals-triangle
+title: Pascal's Triangle
+url: https://leetcode.com/problems/pascals-triangle
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 50
+  adobe:
+    frequency: 50
+  amazon:
+    frequency: 62
+  apple:
+    frequency: 62
+  bloomberg:
+    frequency: 62
+  cisco:
+    frequency: 37
+  deutsche-bank:
+    frequency: 62
+  goldman-sachs:
+    frequency: 50
+  google:
+    frequency: 62
+  htc:
+    frequency: 100
+  infosys:
+    frequency: 37
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 50
+  mitsogo:
+    frequency: 75
+  tcs:
+    frequency: 37
+  twitter:
+    frequency: 100
+  virtusa:
+    frequency: 75
+  wipro:
+    frequency: 62
+  zoho:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

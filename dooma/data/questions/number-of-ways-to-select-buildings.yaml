@@ -1,0 +1,17 @@
+id: number-of-ways-to-select-buildings
+title: Number of Ways to Select Buildings
+url: https://leetcode.com/problems/number-of-ways-to-select-buildings
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  de-shaw:
+    frequency: 37
+  dream11:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

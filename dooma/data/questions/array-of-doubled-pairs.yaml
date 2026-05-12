@@ -1,0 +1,13 @@
+id: array-of-doubled-pairs
+title: Array of Doubled Pairs
+url: https://leetcode.com/problems/array-of-doubled-pairs
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

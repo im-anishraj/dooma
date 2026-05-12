@@ -1,0 +1,13 @@
+id: count-prime-gap-balanced-subarrays
+title: Count Prime-Gap Balanced Subarrays
+url: https://leetcode.com/problems/count-prime-gap-balanced-subarrays
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

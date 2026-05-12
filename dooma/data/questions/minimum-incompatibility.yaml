@@ -1,0 +1,13 @@
+id: minimum-incompatibility
+title: Minimum Incompatibility
+url: https://leetcode.com/problems/minimum-incompatibility
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

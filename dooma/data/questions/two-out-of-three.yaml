@@ -1,0 +1,17 @@
+id: two-out-of-three
+title: Two Out of Three
+url: https://leetcode.com/problems/two-out-of-three
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bookingcom:
+    frequency: 87
+  info-edge:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

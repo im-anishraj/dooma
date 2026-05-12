@@ -1,0 +1,15 @@
+id: transform-to-chessboard
+title: Transform to Chessboard
+url: https://leetcode.com/problems/transform-to-chessboard
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  citadel:
+    frequency: 50
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

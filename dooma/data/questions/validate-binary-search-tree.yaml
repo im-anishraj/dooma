@@ -1,0 +1,51 @@
+id: validate-binary-search-tree
+title: Validate Binary Search Tree
+url: https://leetcode.com/problems/validate-binary-search-tree
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 37
+  bloomberg:
+    frequency: 62
+  citadel:
+    frequency: 50
+  de-shaw:
+    frequency: 37
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 37
+  ibm:
+    frequency: 50
+  linkedin:
+    frequency: 25
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 50
+  millennium:
+    frequency: 75
+  nvidia:
+    frequency: 50
+  oracle:
+    frequency: 50
+  salesforce:
+    frequency: 50
+  uber:
+    frequency: 25
+  wix:
+    frequency: 87
+  yahoo:
+    frequency: 50
+  yandex:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,19 @@
+id: count-the-number-of-ideal-arrays
+title: Count the Number of Ideal Arrays
+url: https://leetcode.com/problems/count-the-number-of-ideal-arrays
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  infosys:
+    frequency: 75
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

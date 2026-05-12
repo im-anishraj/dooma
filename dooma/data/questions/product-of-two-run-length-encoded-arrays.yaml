@@ -1,0 +1,15 @@
+id: product-of-two-run-length-encoded-arrays
+title: Product of Two Run-Length Encoded Arrays
+url: https://leetcode.com/problems/product-of-two-run-length-encoded-arrays
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  meta:
+    frequency: 50
+  yandex:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: traffic-light-controlled-intersection
+title: Traffic Light Controlled Intersection
+url: https://leetcode.com/problems/traffic-light-controlled-intersection
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

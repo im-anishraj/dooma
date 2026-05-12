@@ -1,0 +1,87 @@
+id: add-two-numbers
+title: Add Two Numbers
+url: https://leetcode.com/problems/add-two-numbers
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 50
+  accolite:
+    frequency: 50
+  adobe:
+    frequency: 75
+  airbnb:
+    frequency: 75
+  amazon:
+    frequency: 75
+  apple:
+    frequency: 50
+  aqr-capital-management-llc:
+    frequency: 62
+  avito:
+    frequency: 87
+  bloomberg:
+    frequency: 87
+  bytedance:
+    frequency: 50
+  capgemini:
+    frequency: 50
+  capital-one:
+    frequency: 50
+  cisco:
+    frequency: 62
+  cognizant:
+    frequency: 50
+  doordash:
+    frequency: 25
+  earnin:
+    frequency: 100
+  epam-systems:
+    frequency: 50
+  goldman-sachs:
+    frequency: 37
+  google:
+    frequency: 75
+  ibm:
+    frequency: 37
+  infosys:
+    frequency: 50
+  josh-technology:
+    frequency: 62
+  meta:
+    frequency: 75
+  microsoft:
+    frequency: 75
+  nvidia:
+    frequency: 62
+  oracle:
+    frequency: 50
+  palo-alto-networks:
+    frequency: 50
+  samsung:
+    frequency: 50
+  sap:
+    frequency: 50
+  snowflake:
+    frequency: 37
+  tcs:
+    frequency: 50
+  tiktok:
+    frequency: 37
+  uber:
+    frequency: 37
+  wix:
+    frequency: 87
+  yahoo:
+    frequency: 50
+  yandex:
+    frequency: 50
+  zoho:
+    frequency: 37
+  zopsmart:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

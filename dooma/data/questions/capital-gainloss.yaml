@@ -1,0 +1,15 @@
+id: capital-gainloss
+title: Capital Gain/Loss
+url: https://leetcode.com/problems/capital-gainloss
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  meta:
+    frequency: 12
+  robinhood:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

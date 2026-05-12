@@ -1,0 +1,117 @@
+id: spiral-matrix
+title: Spiral Matrix
+url: https://leetcode.com/problems/spiral-matrix
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 50
+  adobe:
+    frequency: 62
+  akamai:
+    frequency: 62
+  amazon:
+    frequency: 62
+  amd:
+    frequency: 100
+  anduril:
+    frequency: 62
+  apple:
+    frequency: 75
+  autodesk:
+    frequency: 50
+  blend:
+    frequency: 100
+  bloomberg:
+    frequency: 62
+  c3-ai:
+    frequency: 87
+  capital-one:
+    frequency: 87
+  cisco:
+    frequency: 87
+  crowdstrike:
+    frequency: 62
+  darwinbox:
+    frequency: 50
+  databricks:
+    frequency: 37
+  ebay:
+    frequency: 87
+  epic-games:
+    frequency: 100
+  epic-systems:
+    frequency: 87
+  goldman-sachs:
+    frequency: 37
+  google:
+    frequency: 62
+  ibm:
+    frequency: 50
+  infosys:
+    frequency: 50
+  intuit:
+    frequency: 37
+  josh-technology:
+    frequency: 75
+  jpmorgan:
+    frequency: 37
+  lenskart:
+    frequency: 100
+  medianet:
+    frequency: 50
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 62
+  morgan-stanley:
+    frequency: 50
+  netapp:
+    frequency: 75
+  nordstrom:
+    frequency: 87
+  nutanix:
+    frequency: 62
+  nvidia:
+    frequency: 50
+  oracle:
+    frequency: 62
+  paypal:
+    frequency: 50
+  phonepe:
+    frequency: 50
+  pornhub:
+    frequency: 87
+  rbc:
+    frequency: 87
+  roblox:
+    frequency: 50
+  salesforce:
+    frequency: 25
+  sig:
+    frequency: 75
+  tcs:
+    frequency: 50
+  the-trade-desk:
+    frequency: 62
+  tiktok:
+    frequency: 75
+  uber:
+    frequency: 62
+  visa:
+    frequency: 62
+  walmart-labs:
+    frequency: 62
+  watchguard:
+    frequency: 100
+  wells-fargo:
+    frequency: 62
+  yahoo:
+    frequency: 50
+  zoho:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

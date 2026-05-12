@@ -1,0 +1,13 @@
+id: sum-of-imbalance-numbers-of-all-subarrays
+title: Sum of Imbalance Numbers of All Subarrays
+url: https://leetcode.com/problems/sum-of-imbalance-numbers-of-all-subarrays
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

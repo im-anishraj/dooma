@@ -1,0 +1,23 @@
+id: avoid-flood-in-the-city
+title: Avoid Flood in The City
+url: https://leetcode.com/problems/avoid-flood-in-the-city
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  oracle:
+    frequency: 25
+  trend-micro:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

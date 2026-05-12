@@ -1,0 +1,27 @@
+id: minimum-operations-to-write-the-letter-y-on-a-grid
+title: Minimum Operations to Write the Letter Y on a Grid
+url: https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  capital-one:
+    frequency: 87
+  roblox:
+    frequency: 62
+  tiktok:
+    frequency: 37
+  uber:
+    frequency: 62
+  visa:
+    frequency: 87
+  zeta:
+    frequency: 62
+  ziprecruiter:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

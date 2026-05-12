@@ -1,0 +1,21 @@
+id: delete-operation-for-two-strings
+title: Delete Operation for Two Strings
+url: https://leetcode.com/problems/delete-operation-for-two-strings
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  infosys:
+    frequency: 37
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

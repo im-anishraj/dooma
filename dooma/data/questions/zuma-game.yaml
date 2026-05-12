@@ -1,0 +1,25 @@
+id: zuma-game
+title: Zuma Game
+url: https://leetcode.com/problems/zuma-game
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  aurora:
+    frequency: 62
+  baidu:
+    frequency: 100
+  google:
+    frequency: 12
+  inmobi:
+    frequency: 75
+  phonepe:
+    frequency: 75
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,23 @@
+id: minimize-maximum-pair-sum-in-array
+title: Minimize Maximum Pair Sum in Array
+url: https://leetcode.com/problems/minimize-maximum-pair-sum-in-array
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  capgemini:
+    frequency: 50
+  ebay:
+    frequency: 87
+  google:
+    frequency: 12
+  ibm:
+    frequency: 37
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

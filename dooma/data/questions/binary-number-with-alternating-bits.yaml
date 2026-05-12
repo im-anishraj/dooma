@@ -1,0 +1,19 @@
+id: binary-number-with-alternating-bits
+title: Binary Number with Alternating Bits
+url: https://leetcode.com/problems/binary-number-with-alternating-bits
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  yahoo:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

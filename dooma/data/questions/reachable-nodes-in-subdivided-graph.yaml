@@ -1,0 +1,17 @@
+id: reachable-nodes-in-subdivided-graph
+title: Reachable Nodes In Subdivided Graph
+url: https://leetcode.com/problems/reachable-nodes-in-subdivided-graph
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  phonepe:
+    frequency: 75
+  yugabyte:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

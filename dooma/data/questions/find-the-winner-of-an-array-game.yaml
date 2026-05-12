@@ -1,0 +1,19 @@
+id: find-the-winner-of-an-array-game
+title: Find the Winner of an Array Game
+url: https://leetcode.com/problems/find-the-winner-of-an-array-game
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  directi:
+    frequency: 100
+  jpmorgan:
+    frequency: 37
+  microsoft:
+    frequency: 12
+  nvidia:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

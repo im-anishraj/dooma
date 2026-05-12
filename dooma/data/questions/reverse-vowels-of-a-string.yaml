@@ -1,0 +1,35 @@
+id: reverse-vowels-of-a-string
+title: Reverse Vowels of a String
+url: https://leetcode.com/problems/reverse-vowels-of-a-string
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 50
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 50
+  epam-systems:
+    frequency: 62
+  google:
+    frequency: 50
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 50
+  oracle:
+    frequency: 37
+  twitch:
+    frequency: 62
+  visa:
+    frequency: 37
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

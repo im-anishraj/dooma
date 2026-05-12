@@ -1,0 +1,27 @@
+id: string-compression-iii
+title: String Compression III
+url: https://leetcode.com/problems/string-compression-iii
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  affirm:
+    frequency: 50
+  amazon:
+    frequency: 12
+  apple:
+    frequency: 25
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  qualcomm:
+    frequency: 100
+  tcs:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

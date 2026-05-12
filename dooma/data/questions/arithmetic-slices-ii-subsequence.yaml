@@ -1,0 +1,23 @@
+id: arithmetic-slices-ii-subsequence
+title: Arithmetic Slices II - Subsequence
+url: https://leetcode.com/problems/arithmetic-slices-ii-subsequence
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  baidu:
+    frequency: 100
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

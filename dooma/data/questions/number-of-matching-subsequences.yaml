@@ -1,0 +1,29 @@
+id: number-of-matching-subsequences
+title: Number of Matching Subsequences
+url: https://leetcode.com/problems/number-of-matching-subsequences
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  apple:
+    frequency: 25
+  blend:
+    frequency: 100
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 37
+  meta:
+    frequency: 12
+  spinny:
+    frequency: 87
+  uber:
+    frequency: 37
+  visa:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows
+title: Find the Kth Smallest Sum of a Matrix With Sorted Rows
+url: https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  meta:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

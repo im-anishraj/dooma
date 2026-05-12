@@ -1,0 +1,27 @@
+id: parsing-a-boolean-expression
+title: Parsing A Boolean Expression
+url: https://leetcode.com/problems/parsing-a-boolean-expression
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  affinity:
+    frequency: 100
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 25
+  hilabs:
+    frequency: 62
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

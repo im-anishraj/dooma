@@ -1,0 +1,17 @@
+id: sales-person
+title: Sales Person
+url: https://leetcode.com/problems/sales-person
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

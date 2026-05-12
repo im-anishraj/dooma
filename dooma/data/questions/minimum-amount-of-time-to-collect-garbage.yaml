@@ -1,0 +1,17 @@
+id: minimum-amount-of-time-to-collect-garbage
+title: Minimum Amount of Time to Collect Garbage
+url: https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

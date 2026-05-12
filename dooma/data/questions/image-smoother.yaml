@@ -1,0 +1,23 @@
+id: image-smoother
+title: Image Smoother
+url: https://leetcode.com/problems/image-smoother
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  apple:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  roblox:
+    frequency: 37
+  visa:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: filter-characters-by-frequency
+title: Filter Characters by Frequency
+url: https://leetcode.com/problems/filter-characters-by-frequency
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  opentext:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

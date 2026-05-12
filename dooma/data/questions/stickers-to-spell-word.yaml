@@ -1,0 +1,21 @@
+id: stickers-to-spell-word
+title: Stickers to Spell Word
+url: https://leetcode.com/problems/stickers-to-spell-word
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  ixl:
+    frequency: 87
+  meta:
+    frequency: 37
+  tiktok:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

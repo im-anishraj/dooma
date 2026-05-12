@@ -1,0 +1,13 @@
+id: incremental-memory-leak
+title: Incremental Memory Leak
+url: https://leetcode.com/problems/incremental-memory-leak
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  tiktok:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

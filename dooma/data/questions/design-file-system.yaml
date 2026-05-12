@@ -1,0 +1,35 @@
+id: design-file-system
+title: Design File System
+url: https://leetcode.com/problems/design-file-system
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  airbnb:
+    frequency: 75
+  amazon:
+    frequency: 25
+  atlassian:
+    frequency: 50
+  capital-one:
+    frequency: 50
+  coinbase:
+    frequency: 62
+  doordash:
+    frequency: 75
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  oracle:
+    frequency: 37
+  snowflake:
+    frequency: 37
+  uber:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

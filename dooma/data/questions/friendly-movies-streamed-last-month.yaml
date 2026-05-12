@@ -1,0 +1,13 @@
+id: friendly-movies-streamed-last-month
+title: Friendly Movies Streamed Last Month
+url: https://leetcode.com/problems/friendly-movies-streamed-last-month
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

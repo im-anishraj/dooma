@@ -1,0 +1,13 @@
+id: maximum-split-of-positive-even-integers
+title: Maximum Split of Positive Even Integers
+url: https://leetcode.com/problems/maximum-split-of-positive-even-integers
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

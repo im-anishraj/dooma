@@ -1,0 +1,23 @@
+id: return-length-of-arguments-passed
+title: Return Length of Arguments Passed
+url: https://leetcode.com/problems/return-length-of-arguments-passed
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  tcs:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

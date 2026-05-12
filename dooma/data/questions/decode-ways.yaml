@@ -1,0 +1,57 @@
+id: decode-ways
+title: Decode Ways
+url: https://leetcode.com/problems/decode-ways
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  commvault:
+    frequency: 62
+  de-shaw:
+    frequency: 37
+  flipkart:
+    frequency: 37
+  goldman-sachs:
+    frequency: 62
+  google:
+    frequency: 25
+  graviton:
+    frequency: 87
+  intuit:
+    frequency: 37
+  lyft:
+    frequency: 50
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 50
+  moengage:
+    frequency: 62
+  netapp:
+    frequency: 75
+  oracle:
+    frequency: 25
+  oscar-health:
+    frequency: 100
+  snapchat:
+    frequency: 62
+  tiktok:
+    frequency: 37
+  uber:
+    frequency: 62
+  walmart-labs:
+    frequency: 50
+  zoho:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

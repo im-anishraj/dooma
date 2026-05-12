@@ -1,0 +1,17 @@
+id: minimum-operations-to-make-all-array-elements-equal
+title: Minimum Operations to Make All Array Elements Equal
+url: https://leetcode.com/problems/minimum-operations-to-make-all-array-elements-equal
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  ibm:
+    frequency: 87
+  jpmorgan:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

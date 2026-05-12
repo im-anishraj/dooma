@@ -1,0 +1,15 @@
+id: redundant-connection-ii
+title: Redundant Connection II
+url: https://leetcode.com/problems/redundant-connection-ii
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: check-if-dfs-strings-are-palindromes
+title: Check if DFS Strings Are Palindromes
+url: https://leetcode.com/problems/check-if-dfs-strings-are-palindromes
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

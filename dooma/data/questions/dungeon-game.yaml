@@ -1,0 +1,27 @@
+id: dungeon-game
+title: Dungeon Game
+url: https://leetcode.com/problems/dungeon-game
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  flipkart:
+    frequency: 62
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 37
+  uber:
+    frequency: 50
+  zoho:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

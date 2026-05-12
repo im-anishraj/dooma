@@ -1,0 +1,21 @@
+id: construct-quad-tree
+title: Construct Quad Tree
+url: https://leetcode.com/problems/construct-quad-tree
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  palantir-technologies:
+    frequency: 50
+  uber:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

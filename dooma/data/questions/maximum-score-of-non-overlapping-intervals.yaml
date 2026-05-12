@@ -1,0 +1,15 @@
+id: maximum-score-of-non-overlapping-intervals
+title: Maximum Score of Non-overlapping Intervals
+url: https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  sprinklr:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

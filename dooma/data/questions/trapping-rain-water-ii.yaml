@@ -1,0 +1,41 @@
+id: trapping-rain-water-ii
+title: Trapping Rain Water II
+url: https://leetcode.com/problems/trapping-rain-water-ii
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 25
+  bytedance:
+    frequency: 50
+  flipkart:
+    frequency: 50
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 37
+  medianet:
+    frequency: 100
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  oracle:
+    frequency: 25
+  otterai:
+    frequency: 100
+  qualcomm:
+    frequency: 50
+  samsung:
+    frequency: 62
+  twitter:
+    frequency: 100
+  walmart-labs:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

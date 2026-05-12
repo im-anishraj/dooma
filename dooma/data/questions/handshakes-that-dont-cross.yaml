@@ -1,0 +1,13 @@
+id: handshakes-that-dont-cross
+title: Handshakes That Don't Cross
+url: https://leetcode.com/problems/handshakes-that-dont-cross
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

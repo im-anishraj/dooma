@@ -1,0 +1,29 @@
+id: maximum-width-of-binary-tree
+title: Maximum Width of Binary Tree
+url: https://leetcode.com/problems/maximum-width-of-binary-tree
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 50
+  bloomberg:
+    frequency: 25
+  bytedance:
+    frequency: 50
+  flipkart:
+    frequency: 37
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  tiktok:
+    frequency: 37
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

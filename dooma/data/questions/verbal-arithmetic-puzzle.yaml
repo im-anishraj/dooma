@@ -1,0 +1,17 @@
+id: verbal-arithmetic-puzzle
+title: Verbal Arithmetic Puzzle
+url: https://leetcode.com/problems/verbal-arithmetic-puzzle
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  atlassian:
+    frequency: 62
+  google:
+    frequency: 12
+  wells-fargo:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

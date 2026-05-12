@@ -1,0 +1,13 @@
+id: number-of-strings-which-can-be-rearranged-to-contain-substring
+title: Number of Strings Which Can Be Rearranged to Contain Substring
+url: https://leetcode.com/problems/number-of-strings-which-can-be-rearranged-to-contain-substring
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  meesho:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

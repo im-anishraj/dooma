@@ -1,0 +1,13 @@
+id: count-anagrams
+title: Count Anagrams
+url: https://leetcode.com/problems/count-anagrams
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  mathworks:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

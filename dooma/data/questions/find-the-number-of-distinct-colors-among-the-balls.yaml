@@ -1,0 +1,17 @@
+id: find-the-number-of-distinct-colors-among-the-balls
+title: Find the Number of Distinct Colors Among the Balls
+url: https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

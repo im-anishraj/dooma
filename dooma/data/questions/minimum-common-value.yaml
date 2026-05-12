@@ -1,0 +1,17 @@
+id: minimum-common-value
+title: Minimum Common Value
+url: https://leetcode.com/problems/minimum-common-value
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

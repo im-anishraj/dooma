@@ -1,0 +1,15 @@
+id: minimum-cost-to-reach-city-with-discounts
+title: Minimum Cost to Reach City With Discounts
+url: https://leetcode.com/problems/minimum-cost-to-reach-city-with-discounts
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  flipkart:
+    frequency: 75
+  goldman-sachs:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

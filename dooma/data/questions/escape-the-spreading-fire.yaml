@@ -1,0 +1,19 @@
+id: escape-the-spreading-fire
+title: Escape the Spreading Fire
+url: https://leetcode.com/problems/escape-the-spreading-fire
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  snapchat:
+    frequency: 50
+  uber:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

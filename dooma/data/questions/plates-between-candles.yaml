@@ -1,0 +1,19 @@
+id: plates-between-candles
+title: Plates Between Candles
+url: https://leetcode.com/problems/plates-between-candles
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 75
+  amazon:
+    frequency: 50
+  google:
+    frequency: 12
+  oracle:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

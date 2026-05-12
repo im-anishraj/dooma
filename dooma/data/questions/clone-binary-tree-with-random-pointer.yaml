@@ -1,0 +1,15 @@
+id: clone-binary-tree-with-random-pointer
+title: Clone Binary Tree With Random Pointer
+url: https://leetcode.com/problems/clone-binary-tree-with-random-pointer
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

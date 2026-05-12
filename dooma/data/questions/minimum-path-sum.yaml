@@ -1,0 +1,45 @@
+id: minimum-path-sum
+title: Minimum Path Sum
+url: https://leetcode.com/problems/minimum-path-sum
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 50
+  bloomberg:
+    frequency: 37
+  flipkart:
+    frequency: 37
+  general-motors:
+    frequency: 62
+  goldman-sachs:
+    frequency: 62
+  google:
+    frequency: 37
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 50
+  nvidia:
+    frequency: 50
+  palo-alto-networks:
+    frequency: 62
+  snapchat:
+    frequency: 37
+  spacex:
+    frequency: 100
+  squarepoint-capital:
+    frequency: 62
+  texas-instruments:
+    frequency: 100
+  tiktok:
+    frequency: 37
+  uber:
+    frequency: 37
+  zoho:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

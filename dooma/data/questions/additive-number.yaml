@@ -1,0 +1,17 @@
+id: additive-number
+title: Additive Number
+url: https://leetcode.com/problems/additive-number
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  epic-systems:
+    frequency: 100
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

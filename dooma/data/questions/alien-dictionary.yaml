@@ -1,0 +1,45 @@
+id: alien-dictionary
+title: Alien Dictionary
+url: https://leetcode.com/problems/alien-dictionary
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  airbnb:
+    frequency: 75
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 37
+  coupang:
+    frequency: 62
+  google:
+    frequency: 37
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 25
+  netapp:
+    frequency: 75
+  nuro:
+    frequency: 62
+  oracle:
+    frequency: 37
+  pocket-gems:
+    frequency: 100
+  snapchat:
+    frequency: 87
+  tencent:
+    frequency: 62
+  tiktok:
+    frequency: 50
+  twitter:
+    frequency: 100
+  uber:
+    frequency: 87
+  wix:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

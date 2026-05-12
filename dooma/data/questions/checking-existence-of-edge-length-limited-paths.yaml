@@ -1,0 +1,13 @@
+id: checking-existence-of-edge-length-limited-paths
+title: Checking Existence of Edge Length Limited Paths
+url: https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

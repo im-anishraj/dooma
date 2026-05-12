@@ -1,0 +1,13 @@
+id: count-substrings-with-only-one-distinct-letter
+title: Count Substrings with Only One Distinct Letter
+url: https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  virtu:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

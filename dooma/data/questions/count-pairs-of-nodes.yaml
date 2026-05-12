@@ -1,0 +1,13 @@
+id: count-pairs-of-nodes
+title: Count Pairs Of Nodes
+url: https://leetcode.com/problems/count-pairs-of-nodes
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,23 @@
+id: maximum-good-subarray-sum
+title: Maximum Good Subarray Sum
+url: https://leetcode.com/problems/maximum-good-subarray-sum
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  atlassian:
+    frequency: 62
+  coupang:
+    frequency: 50
+  google:
+    frequency: 25
+  groww:
+    frequency: 75
+  zepto:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

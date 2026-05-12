@@ -1,0 +1,21 @@
+id: find-the-largest-area-of-square-inside-two-rectangles
+title: Find the Largest Area of Square Inside Two Rectangles
+url: https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  cisco:
+    frequency: 62
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

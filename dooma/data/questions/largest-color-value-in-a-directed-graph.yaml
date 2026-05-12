@@ -1,0 +1,19 @@
+id: largest-color-value-in-a-directed-graph
+title: Largest Color Value in a Directed Graph
+url: https://leetcode.com/problems/largest-color-value-in-a-directed-graph
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  juspay:
+    frequency: 50
+  linkedin:
+    frequency: 25
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

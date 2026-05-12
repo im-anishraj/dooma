@@ -1,0 +1,19 @@
+id: smallest-subtree-with-all-the-deepest-nodes
+title: Smallest Subtree with all the Deepest Nodes
+url: https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

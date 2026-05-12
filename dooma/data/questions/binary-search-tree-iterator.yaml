@@ -1,0 +1,29 @@
+id: binary-search-tree-iterator
+title: Binary Search Tree Iterator
+url: https://leetcode.com/problems/binary-search-tree-iterator
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 25
+  linkedin:
+    frequency: 50
+  meta:
+    frequency: 62
+  microsoft:
+    frequency: 37
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

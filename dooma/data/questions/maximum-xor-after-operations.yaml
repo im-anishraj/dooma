@@ -1,0 +1,15 @@
+id: maximum-xor-after-operations
+title: Maximum XOR After Operations
+url: https://leetcode.com/problems/maximum-xor-after-operations
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  american-express:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []
