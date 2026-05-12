@@ -1,0 +1,17 @@
+id: find-the-number-of-good-pairs-i
+title: Find the Number of Good Pairs I
+url: https://leetcode.com/problems/find-the-number-of-good-pairs-i
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  airbus:
+    frequency: 100
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

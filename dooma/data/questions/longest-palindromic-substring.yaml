@@ -1,0 +1,163 @@
+id: longest-palindromic-substring
+title: Longest Palindromic Substring
+url: https://leetcode.com/problems/longest-palindromic-substring
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 75
+  accolite:
+    frequency: 62
+  adobe:
+    frequency: 62
+  amazon:
+    frequency: 75
+  apple:
+    frequency: 62
+  arista-networks:
+    frequency: 62
+  athenahealth:
+    frequency: 62
+  autodesk:
+    frequency: 50
+  bending-spoons:
+    frequency: 100
+  bitgo:
+    frequency: 75
+  blackrock:
+    frequency: 37
+  bloomberg:
+    frequency: 75
+  bytedance:
+    frequency: 50
+  cisco:
+    frequency: 100
+  citadel:
+    frequency: 50
+  cognizant:
+    frequency: 75
+  commvault:
+    frequency: 75
+  deloitte:
+    frequency: 87
+  doordash:
+    frequency: 25
+  dp-world:
+    frequency: 87
+  earnin:
+    frequency: 100
+  ebay:
+    frequency: 75
+  epam-systems:
+    frequency: 87
+  epic-systems:
+    frequency: 50
+  fractal-analytics:
+    frequency: 75
+  goldman-sachs:
+    frequency: 37
+  google:
+    frequency: 75
+  grab:
+    frequency: 62
+  hashedin:
+    frequency: 75
+  hcl:
+    frequency: 62
+  hsbc:
+    frequency: 100
+  huawei:
+    frequency: 75
+  ibm:
+    frequency: 75
+  info-edge:
+    frequency: 62
+  infosys:
+    frequency: 75
+  jpmorgan:
+    frequency: 62
+  linkedin:
+    frequency: 25
+  makemytrip:
+    frequency: 62
+  maq-software:
+    frequency: 75
+  mastercard:
+    frequency: 75
+  meta:
+    frequency: 62
+  microsoft:
+    frequency: 75
+  morgan-stanley:
+    frequency: 50
+  nielsen:
+    frequency: 100
+  opentext:
+    frequency: 62
+  oracle:
+    frequency: 75
+  palantir-technologies:
+    frequency: 37
+  paytm:
+    frequency: 62
+  persistent-systems:
+    frequency: 62
+  phonepe:
+    frequency: 87
+  pure-storage:
+    frequency: 62
+  salesforce:
+    frequency: 50
+  samsung:
+    frequency: 50
+  sap:
+    frequency: 62
+  servicenow:
+    frequency: 50
+  shopee:
+    frequency: 62
+  siemens:
+    frequency: 62
+  softwire:
+    frequency: 62
+  swiggy:
+    frequency: 50
+  tcs:
+    frequency: 75
+  tesla:
+    frequency: 50
+  thoughtworks:
+    frequency: 62
+  tiktok:
+    frequency: 75
+  tinkoff:
+    frequency: 87
+  turing:
+    frequency: 62
+  uber:
+    frequency: 25
+  uipath:
+    frequency: 62
+  visa:
+    frequency: 62
+  walmart-labs:
+    frequency: 75
+  wix:
+    frequency: 87
+  yandex:
+    frequency: 62
+  zemoso:
+    frequency: 100
+  zepto:
+    frequency: 75
+  zoho:
+    frequency: 87
+  zopsmart:
+    frequency: 50
+  zs-associates:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

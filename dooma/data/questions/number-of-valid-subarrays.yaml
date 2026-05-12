@@ -1,0 +1,15 @@
+id: number-of-valid-subarrays
+title: Number of Valid Subarrays
+url: https://leetcode.com/problems/number-of-valid-subarrays
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  hulu:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

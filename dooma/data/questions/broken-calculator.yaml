@@ -1,0 +1,23 @@
+id: broken-calculator
+title: Broken Calculator
+url: https://leetcode.com/problems/broken-calculator
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  millennium:
+    frequency: 75
+  nutanix:
+    frequency: 100
+  zopsmart:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

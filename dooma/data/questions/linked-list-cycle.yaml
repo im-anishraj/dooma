@@ -1,0 +1,61 @@
+id: linked-list-cycle
+title: Linked List Cycle
+url: https://leetcode.com/problems/linked-list-cycle
+difficulty: easy
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 50
+  autodesk:
+    frequency: 50
+  bloomberg:
+    frequency: 50
+  cisco:
+    frequency: 62
+  de-shaw:
+    frequency: 37
+  goldman-sachs:
+    frequency: 37
+  google:
+    frequency: 50
+  huawei:
+    frequency: 62
+  ibm:
+    frequency: 37
+  infosys:
+    frequency: 62
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 50
+  nvidia:
+    frequency: 37
+  oracle:
+    frequency: 37
+  palo-alto-networks:
+    frequency: 50
+  qualcomm:
+    frequency: 62
+  samsung:
+    frequency: 50
+  sap:
+    frequency: 50
+  tcs:
+    frequency: 37
+  uber:
+    frequency: 25
+  walmart-labs:
+    frequency: 37
+  yahoo:
+    frequency: 87
+  yandex:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

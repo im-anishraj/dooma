@@ -1,0 +1,25 @@
+id: transpose-matrix
+title: Transpose Matrix
+url: https://leetcode.com/problems/transpose-matrix
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 37
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 25
+  verkada:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

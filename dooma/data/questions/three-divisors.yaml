@@ -1,0 +1,15 @@
+id: three-divisors
+title: Three Divisors
+url: https://leetcode.com/problems/three-divisors
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

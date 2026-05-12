@@ -1,0 +1,13 @@
+id: count-the-number-of-good-partitions
+title: Count the Number of Good Partitions
+url: https://leetcode.com/problems/count-the-number-of-good-partitions
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

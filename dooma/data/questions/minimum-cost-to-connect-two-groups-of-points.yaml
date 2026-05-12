@@ -1,0 +1,13 @@
+id: minimum-cost-to-connect-two-groups-of-points
+title: Minimum Cost to Connect Two Groups of Points
+url: https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

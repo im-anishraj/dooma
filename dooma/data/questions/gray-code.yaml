@@ -1,0 +1,21 @@
+id: gray-code
+title: Gray Code
+url: https://leetcode.com/problems/gray-code
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 12
+  ibm:
+    frequency: 37
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

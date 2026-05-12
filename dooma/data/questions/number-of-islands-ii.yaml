@@ -1,0 +1,25 @@
+id: number-of-islands-ii
+title: Number of Islands II
+url: https://leetcode.com/problems/number-of-islands-ii
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  aurora:
+    frequency: 62
+  google:
+    frequency: 37
+  meta:
+    frequency: 12
+  tiktok:
+    frequency: 37
+  uber:
+    frequency: 87
+  walmart-labs:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

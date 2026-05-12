@@ -1,0 +1,17 @@
+id: special-positions-in-a-binary-matrix
+title: Special Positions in a Binary Matrix
+url: https://leetcode.com/problems/special-positions-in-a-binary-matrix
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  etsy:
+    frequency: 100
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

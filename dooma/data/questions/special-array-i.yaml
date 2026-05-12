@@ -1,0 +1,23 @@
+id: special-array-i
+title: Special Array I
+url: https://leetcode.com/problems/special-array-i
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  national-payments-coorperation-india:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

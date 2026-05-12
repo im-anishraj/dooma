@@ -1,0 +1,15 @@
+id: intervals-between-identical-elements
+title: Intervals Between Identical Elements
+url: https://leetcode.com/problems/intervals-between-identical-elements
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  tusimple:
+    frequency: 100
+  wayve:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

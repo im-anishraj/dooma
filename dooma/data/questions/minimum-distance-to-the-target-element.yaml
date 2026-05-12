@@ -1,0 +1,15 @@
+id: minimum-distance-to-the-target-element
+title: Minimum Distance to the Target Element
+url: https://leetcode.com/problems/minimum-distance-to-the-target-element
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  honeywell:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

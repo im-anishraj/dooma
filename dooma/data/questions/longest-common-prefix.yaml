@@ -1,0 +1,125 @@
+id: longest-common-prefix
+title: Longest Common Prefix
+url: https://leetcode.com/problems/longest-common-prefix
+difficulty: easy
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 62
+  adobe:
+    frequency: 75
+  alten:
+    frequency: 100
+  amazon:
+    frequency: 75
+  american-express:
+    frequency: 62
+  apple:
+    frequency: 75
+  barclays:
+    frequency: 62
+  bloomberg:
+    frequency: 75
+  capgemini:
+    frequency: 62
+  caterpillar:
+    frequency: 100
+  cme-group:
+    frequency: 100
+  deloitte:
+    frequency: 62
+  deutsche-bank:
+    frequency: 62
+  disney:
+    frequency: 75
+  epam-systems:
+    frequency: 87
+  ericsson:
+    frequency: 87
+  fidelity:
+    frequency: 62
+  fractal-analytics:
+    frequency: 62
+  google:
+    frequency: 75
+  hashedin:
+    frequency: 62
+  hsbc:
+    frequency: 87
+  ibm:
+    frequency: 50
+  infosys:
+    frequency: 62
+  jane-street:
+    frequency: 62
+  maersk:
+    frequency: 100
+  meta:
+    frequency: 75
+  microsoft:
+    frequency: 75
+  nokia:
+    frequency: 75
+  nvidia:
+    frequency: 50
+  opentext:
+    frequency: 62
+  oracle:
+    frequency: 50
+  oyo:
+    frequency: 87
+  palo-alto-networks:
+    frequency: 50
+  persistent-systems:
+    frequency: 75
+  publicis-sapient:
+    frequency: 75
+  pubmatic:
+    frequency: 100
+  pwc:
+    frequency: 75
+  quora:
+    frequency: 62
+  revolut:
+    frequency: 100
+  roblox:
+    frequency: 50
+  samsung:
+    frequency: 62
+  sap:
+    frequency: 75
+  target:
+    frequency: 87
+  tcs:
+    frequency: 62
+  tiktok:
+    frequency: 50
+  turing:
+    frequency: 75
+  uber:
+    frequency: 37
+  virtusa:
+    frequency: 62
+  visa:
+    frequency: 62
+  walmart-labs:
+    frequency: 50
+  wells-fargo:
+    frequency: 62
+  wipro:
+    frequency: 87
+  yahoo:
+    frequency: 62
+  yelp:
+    frequency: 100
+  zoho:
+    frequency: 75
+  zopsmart:
+    frequency: 50
+  zscaler:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

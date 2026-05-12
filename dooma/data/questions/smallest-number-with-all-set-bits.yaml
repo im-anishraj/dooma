@@ -1,0 +1,17 @@
+id: smallest-number-with-all-set-bits
+title: Smallest Number With All Set Bits
+url: https://leetcode.com/problems/smallest-number-with-all-set-bits
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

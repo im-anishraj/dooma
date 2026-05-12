@@ -1,0 +1,15 @@
+id: reverse-degree-of-a-string
+title: Reverse Degree of a String
+url: https://leetcode.com/problems/reverse-degree-of-a-string
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  capgemini:
+    frequency: 87
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

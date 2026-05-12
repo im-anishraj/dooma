@@ -1,0 +1,15 @@
+id: smallest-palindromic-rearrangement-i
+title: Smallest Palindromic Rearrangement I
+url: https://leetcode.com/problems/smallest-palindromic-rearrangement-i
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

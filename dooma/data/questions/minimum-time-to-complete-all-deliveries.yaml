@@ -1,0 +1,15 @@
+id: minimum-time-to-complete-all-deliveries
+title: Minimum Time to Complete All Deliveries
+url: https://leetcode.com/problems/minimum-time-to-complete-all-deliveries
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 50
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

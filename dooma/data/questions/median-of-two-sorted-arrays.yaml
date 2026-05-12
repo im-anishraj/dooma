@@ -1,0 +1,105 @@
+id: median-of-two-sorted-arrays
+title: Median of Two Sorted Arrays
+url: https://leetcode.com/problems/median-of-two-sorted-arrays
+difficulty: hard
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 62
+  adobe:
+    frequency: 87
+  amazon:
+    frequency: 75
+  apple:
+    frequency: 62
+  arcesium:
+    frequency: 62
+  autodesk:
+    frequency: 62
+  bloomberg:
+    frequency: 75
+  capgemini:
+    frequency: 62
+  cognizant:
+    frequency: 62
+  de-shaw:
+    frequency: 37
+  dropbox:
+    frequency: 100
+  flipkart:
+    frequency: 50
+  ge-healthcare:
+    frequency: 62
+  goldman-sachs:
+    frequency: 75
+  google:
+    frequency: 75
+  ibm:
+    frequency: 37
+  infosys:
+    frequency: 37
+  linkedin:
+    frequency: 25
+  meta:
+    frequency: 62
+  microsoft:
+    frequency: 75
+  nvidia:
+    frequency: 37
+  okta:
+    frequency: 62
+  oracle:
+    frequency: 50
+  palo-alto-networks:
+    frequency: 62
+  paypal:
+    frequency: 37
+  pornhub:
+    frequency: 87
+  pwc:
+    frequency: 75
+  qualcomm:
+    frequency: 50
+  rippling:
+    frequency: 100
+  salesforce:
+    frequency: 37
+  samsung:
+    frequency: 50
+  servicenow:
+    frequency: 62
+  snapchat:
+    frequency: 50
+  swiggy:
+    frequency: 50
+  tcs:
+    frequency: 50
+  tiktok:
+    frequency: 37
+  turing:
+    frequency: 50
+  uber:
+    frequency: 25
+  udemy:
+    frequency: 87
+  visa:
+    frequency: 37
+  walmart-labs:
+    frequency: 75
+  wix:
+    frequency: 87
+  yahoo:
+    frequency: 87
+  yandex:
+    frequency: 50
+  zenefits:
+    frequency: 100
+  zeta:
+    frequency: 62
+  zoho:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

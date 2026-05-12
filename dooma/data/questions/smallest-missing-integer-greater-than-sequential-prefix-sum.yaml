@@ -1,0 +1,17 @@
+id: smallest-missing-integer-greater-than-sequential-prefix-sum
+title: Smallest Missing Integer Greater Than Sequential Prefix Sum
+url: https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

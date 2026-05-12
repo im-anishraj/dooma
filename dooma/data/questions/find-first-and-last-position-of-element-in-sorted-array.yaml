@@ -1,0 +1,73 @@
+id: find-first-and-last-position-of-element-in-sorted-array
+title: Find First and Last Position of Element in Sorted Array
+url: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 50
+  airtel:
+    frequency: 62
+  amazon:
+    frequency: 62
+  apple:
+    frequency: 62
+  applied-intuition:
+    frequency: 75
+  atlassian:
+    frequency: 37
+  attentive:
+    frequency: 62
+  bloomberg:
+    frequency: 62
+  capgemini:
+    frequency: 62
+  citadel:
+    frequency: 50
+  de-shaw:
+    frequency: 37
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 50
+  infosys:
+    frequency: 37
+  instacart:
+    frequency: 100
+  linkedin:
+    frequency: 75
+  meta:
+    frequency: 75
+  microsoft:
+    frequency: 50
+  netapp:
+    frequency: 87
+  oracle:
+    frequency: 50
+  paypal:
+    frequency: 50
+  pinterest:
+    frequency: 37
+  servicenow:
+    frequency: 50
+  splunk:
+    frequency: 100
+  tcs:
+    frequency: 37
+  tekion:
+    frequency: 62
+  tiktok:
+    frequency: 50
+  tinkoff:
+    frequency: 87
+  turing:
+    frequency: 50
+  uber:
+    frequency: 37
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

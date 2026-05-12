@@ -1,0 +1,13 @@
+id: add-two-polynomials-represented-as-linked-lists
+title: Add Two Polynomials Represented as Linked Lists
+url: https://leetcode.com/problems/add-two-polynomials-represented-as-linked-lists
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

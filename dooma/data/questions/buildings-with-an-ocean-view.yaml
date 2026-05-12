@@ -1,0 +1,23 @@
+id: buildings-with-an-ocean-view
+title: Buildings With an Ocean View
+url: https://leetcode.com/problems/buildings-with-an-ocean-view
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  coupang:
+    frequency: 50
+  google:
+    frequency: 12
+  meta:
+    frequency: 87
+  microsoft:
+    frequency: 12
+  tiktok:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

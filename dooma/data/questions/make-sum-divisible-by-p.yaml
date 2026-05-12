@@ -1,0 +1,25 @@
+id: make-sum-divisible-by-p
+title: Make Sum Divisible by P
+url: https://leetcode.com/problems/make-sum-divisible-by-p
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  phonepe:
+    frequency: 62
+  samsung:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

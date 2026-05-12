@@ -1,0 +1,25 @@
+id: permutation-sequence
+title: Permutation Sequence
+url: https://leetcode.com/problems/permutation-sequence
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 37
+  jump-trading:
+    frequency: 87
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  twitter:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

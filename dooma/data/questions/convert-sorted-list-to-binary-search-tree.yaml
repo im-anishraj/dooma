@@ -1,0 +1,29 @@
+id: convert-sorted-list-to-binary-search-tree
+title: Convert Sorted List to Binary Search Tree
+url: https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  lyft:
+    frequency: 75
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 25
+  tcs:
+    frequency: 25
+  zenefits:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

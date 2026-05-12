@@ -1,0 +1,25 @@
+id: largest-divisible-subset
+title: Largest Divisible Subset
+url: https://leetcode.com/problems/largest-divisible-subset
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 37
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 25
+  oracle:
+    frequency: 25
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

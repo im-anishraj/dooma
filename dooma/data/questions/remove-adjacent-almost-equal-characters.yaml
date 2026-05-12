@@ -1,0 +1,13 @@
+id: remove-adjacent-almost-equal-characters
+title: Remove Adjacent Almost-Equal Characters
+url: https://leetcode.com/problems/remove-adjacent-almost-equal-characters
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  salesforce:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

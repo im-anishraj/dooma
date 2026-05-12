@@ -1,0 +1,19 @@
+id: count-partitions-with-max-min-difference-at-most-k
+title: Count Partitions With Max-Min Difference at Most K
+url: https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

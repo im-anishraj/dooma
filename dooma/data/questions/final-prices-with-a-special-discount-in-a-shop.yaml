@@ -1,0 +1,25 @@
+id: final-prices-with-a-special-discount-in-a-shop
+title: Final Prices With a Special Discount in a Shop
+url: https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  dream11:
+    frequency: 100
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 37
+  uber:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: count-the-number-of-incremovable-subarrays-i
+title: Count the Number of Incremovable Subarrays I
+url: https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-i
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  apple:
+    frequency: 50
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

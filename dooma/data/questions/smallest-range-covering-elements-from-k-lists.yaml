@@ -1,0 +1,33 @@
+id: smallest-range-covering-elements-from-k-lists
+title: Smallest Range Covering Elements from K Lists
+url: https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 25
+  flipkart:
+    frequency: 37
+  google:
+    frequency: 25
+  linkedin:
+    frequency: 37
+  lyft:
+    frequency: 75
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  phonepe:
+    frequency: 100
+  schrodinger:
+    frequency: 100
+  winzo:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: find-maximum-area-of-a-triangle
+title: Find Maximum Area of a Triangle
+url: https://leetcode.com/problems/find-maximum-area-of-a-triangle
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  docusign:
+    frequency: 87
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

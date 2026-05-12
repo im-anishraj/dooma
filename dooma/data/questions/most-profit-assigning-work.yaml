@@ -1,0 +1,25 @@
+id: most-profit-assigning-work
+title: Most Profit Assigning Work
+url: https://leetcode.com/problems/most-profit-assigning-work
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  doordash:
+    frequency: 75
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  netease:
+    frequency: 100
+  tiktok:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

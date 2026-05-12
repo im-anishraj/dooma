@@ -1,0 +1,19 @@
+id: maximum-candies-you-can-get-from-boxes
+title: Maximum Candies You Can Get from Boxes
+url: https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  airbnb:
+    frequency: 75
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  lyft:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

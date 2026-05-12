@@ -1,0 +1,73 @@
+id: edit-distance
+title: Edit Distance
+url: https://leetcode.com/problems/edit-distance
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 25
+  arcesium:
+    frequency: 62
+  arista-networks:
+    frequency: 62
+  bloomberg:
+    frequency: 50
+  cisco:
+    frequency: 62
+  deloitte:
+    frequency: 50
+  epam-systems:
+    frequency: 50
+  flipkart:
+    frequency: 62
+  google:
+    frequency: 50
+  hashedin:
+    frequency: 62
+  infosys:
+    frequency: 50
+  linkedin:
+    frequency: 50
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 50
+  nielsen:
+    frequency: 75
+  oracle:
+    frequency: 25
+  qualcomm:
+    frequency: 50
+  rubrik:
+    frequency: 37
+  samsung:
+    frequency: 50
+  servicenow:
+    frequency: 50
+  snapchat:
+    frequency: 37
+  swiggy:
+    frequency: 62
+  tcs:
+    frequency: 25
+  tiktok:
+    frequency: 62
+  visa:
+    frequency: 37
+  walmart-labs:
+    frequency: 37
+  yahoo:
+    frequency: 50
+  zoho:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,19 @@
+id: kill-process
+title: Kill Process
+url: https://leetcode.com/problems/kill-process
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 37
+  microsoft:
+    frequency: 12
+  oracle:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

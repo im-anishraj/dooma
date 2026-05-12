@@ -1,0 +1,67 @@
+id: reverse-nodes-in-k-group
+title: Reverse Nodes in k-Group
+url: https://leetcode.com/problems/reverse-nodes-in-k-group
+difficulty: hard
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 25
+  arista-networks:
+    frequency: 87
+  autodesk:
+    frequency: 50
+  bloomberg:
+    frequency: 50
+  buyhatke:
+    frequency: 100
+  cadence:
+    frequency: 100
+  cisco:
+    frequency: 37
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 50
+  infosys:
+    frequency: 50
+  josh-technology:
+    frequency: 62
+  mathworks:
+    frequency: 62
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 62
+  pornhub:
+    frequency: 87
+  qualcomm:
+    frequency: 62
+  salesforce:
+    frequency: 50
+  sigmoid:
+    frequency: 75
+  snowflake:
+    frequency: 50
+  tesla:
+    frequency: 50
+  tiktok:
+    frequency: 50
+  uber:
+    frequency: 25
+  visa:
+    frequency: 37
+  walmart-labs:
+    frequency: 62
+  zeta:
+    frequency: 62
+  zopsmart:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

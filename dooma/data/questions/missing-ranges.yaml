@@ -1,0 +1,17 @@
+id: missing-ranges
+title: Missing Ranges
+url: https://leetcode.com/problems/missing-ranges
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  apple:
+    frequency: 25
+  google:
+    frequency: 37
+  meta:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

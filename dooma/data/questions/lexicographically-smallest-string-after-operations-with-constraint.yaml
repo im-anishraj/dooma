@@ -1,0 +1,13 @@
+id: lexicographically-smallest-string-after-operations-with-constraint
+title: Lexicographically Smallest String After Operations With Constraint
+url: https://leetcode.com/problems/lexicographically-smallest-string-after-operations-with-constraint
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  servicenow:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

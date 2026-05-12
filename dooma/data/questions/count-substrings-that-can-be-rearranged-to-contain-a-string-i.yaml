@@ -1,0 +1,13 @@
+id: count-substrings-that-can-be-rearranged-to-contain-a-string-i
+title: Count Substrings That Can Be Rearranged to Contain a String I
+url: https://leetcode.com/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-i
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

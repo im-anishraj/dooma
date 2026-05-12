@@ -1,0 +1,91 @@
+id: generate-parentheses
+title: Generate Parentheses
+url: https://leetcode.com/problems/generate-parentheses
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  adobe:
+    frequency: 50
+  amazon:
+    frequency: 62
+  apple:
+    frequency: 50
+  avito:
+    frequency: 87
+  blackbuck:
+    frequency: 100
+  bloomberg:
+    frequency: 62
+  c3-ai:
+    frequency: 75
+  de-shaw:
+    frequency: 37
+  disney:
+    frequency: 75
+  ebay:
+    frequency: 50
+  epam-systems:
+    frequency: 50
+  expedia:
+    frequency: 50
+  flipkart:
+    frequency: 50
+  goldman-sachs:
+    frequency: 37
+  google:
+    frequency: 62
+  grammarly:
+    frequency: 75
+  huawei:
+    frequency: 75
+  ibm:
+    frequency: 37
+  infosys:
+    frequency: 62
+  intuit:
+    frequency: 50
+  makemytrip:
+    frequency: 62
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 62
+  morgan-stanley:
+    frequency: 50
+  myntra:
+    frequency: 62
+  nvidia:
+    frequency: 50
+  oracle:
+    frequency: 62
+  phonepe:
+    frequency: 50
+  qualcomm:
+    frequency: 50
+  samsung:
+    frequency: 50
+  servicenow:
+    frequency: 75
+  tcs:
+    frequency: 37
+  texas-instruments:
+    frequency: 100
+  tiktok:
+    frequency: 62
+  uber:
+    frequency: 50
+  walmart-labs:
+    frequency: 87
+  yandex:
+    frequency: 50
+  zenefits:
+    frequency: 100
+  zoho:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

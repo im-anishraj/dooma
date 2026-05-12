@@ -1,0 +1,29 @@
+id: web-crawler-multithreaded
+title: Web Crawler Multithreaded
+url: https://leetcode.com/problems/web-crawler-multithreaded
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  anthropic:
+    frequency: 100
+  apple:
+    frequency: 25
+  dropbox:
+    frequency: 100
+  google:
+    frequency: 12
+  meta:
+    frequency: 25
+  mongodb:
+    frequency: 75
+  openai:
+    frequency: 50
+  rubrik:
+    frequency: 50
+  snowflake:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

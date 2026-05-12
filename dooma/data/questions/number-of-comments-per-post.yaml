@@ -1,0 +1,13 @@
+id: number-of-comments-per-post
+title: Number of Comments per Post
+url: https://leetcode.com/problems/number-of-comments-per-post
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  meta:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

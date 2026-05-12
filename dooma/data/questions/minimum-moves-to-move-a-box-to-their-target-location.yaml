@@ -1,0 +1,13 @@
+id: minimum-moves-to-move-a-box-to-their-target-location
+title: Minimum Moves to Move a Box to Their Target Location
+url: https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

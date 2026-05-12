@@ -1,0 +1,13 @@
+id: number-of-ways-to-stay-in-the-same-place-after-some-steps
+title: Number of Ways to Stay in the Same Place After Some Steps
+url: https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

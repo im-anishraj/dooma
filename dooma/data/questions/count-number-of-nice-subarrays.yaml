@@ -1,0 +1,29 @@
+id: count-number-of-nice-subarrays
+title: Count Number of Nice Subarrays
+url: https://leetcode.com/problems/count-number-of-nice-subarrays
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  deliveroo:
+    frequency: 62
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 37
+  oracle:
+    frequency: 25
+  roblox:
+    frequency: 75
+  tiktok:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

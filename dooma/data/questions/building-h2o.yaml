@@ -1,0 +1,19 @@
+id: building-h2o
+title: Building H2O
+url: https://leetcode.com/problems/building-h2o
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  linkedin:
+    frequency: 50
+  tesla:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

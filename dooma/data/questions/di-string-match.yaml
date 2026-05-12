@@ -1,0 +1,17 @@
+id: di-string-match
+title: DI String Match
+url: https://leetcode.com/problems/di-string-match
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,19 @@
+id: beautiful-arrangement
+title: Beautiful Arrangement
+url: https://leetcode.com/problems/beautiful-arrangement
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  hashedin:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

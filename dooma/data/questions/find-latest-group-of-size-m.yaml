@@ -1,0 +1,13 @@
+id: find-latest-group-of-size-m
+title: Find Latest Group of Size M
+url: https://leetcode.com/problems/find-latest-group-of-size-m
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: substring-with-largest-variance
+title: Substring With Largest Variance
+url: https://leetcode.com/problems/substring-with-largest-variance
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

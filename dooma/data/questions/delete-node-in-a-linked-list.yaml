@@ -1,0 +1,29 @@
+id: delete-node-in-a-linked-list
+title: Delete Node in a Linked List
+url: https://leetcode.com/problems/delete-node-in-a-linked-list
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 75
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 50
+  bloomberg:
+    frequency: 50
+  google:
+    frequency: 37
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 50
+  nvidia:
+    frequency: 37
+  oracle:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

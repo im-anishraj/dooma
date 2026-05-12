@@ -1,0 +1,15 @@
+id: count-number-of-homogenous-substrings
+title: Count Number of Homogenous Substrings
+url: https://leetcode.com/problems/count-number-of-homogenous-substrings
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  virtu:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

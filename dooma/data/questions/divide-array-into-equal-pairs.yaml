@@ -1,0 +1,21 @@
+id: divide-array-into-equal-pairs
+title: Divide Array Into Equal Pairs
+url: https://leetcode.com/problems/divide-array-into-equal-pairs
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

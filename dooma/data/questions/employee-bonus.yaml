@@ -1,0 +1,25 @@
+id: employee-bonus
+title: Employee Bonus
+url: https://leetcode.com/problems/employee-bonus
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 37
+  google:
+    frequency: 37
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 37
+  netsuite:
+    frequency: 100
+  tcs:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: number-of-ways-to-build-house-of-cards
+title: Number of Ways to Build House of Cards
+url: https://leetcode.com/problems/number-of-ways-to-build-house-of-cards
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  airbnb:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

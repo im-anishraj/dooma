@@ -1,0 +1,13 @@
+id: clone-n-ary-tree
+title: Clone N-ary Tree
+url: https://leetcode.com/problems/clone-n-ary-tree
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

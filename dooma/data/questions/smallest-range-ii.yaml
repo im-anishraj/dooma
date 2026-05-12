@@ -1,0 +1,17 @@
+id: smallest-range-ii
+title: Smallest Range II
+url: https://leetcode.com/problems/smallest-range-ii
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 75
+  amazon:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

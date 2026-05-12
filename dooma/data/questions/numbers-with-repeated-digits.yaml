@@ -1,0 +1,19 @@
+id: numbers-with-repeated-digits
+title: Numbers With Repeated Digits
+url: https://leetcode.com/problems/numbers-with-repeated-digits
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 25
+  jpmorgan:
+    frequency: 50
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

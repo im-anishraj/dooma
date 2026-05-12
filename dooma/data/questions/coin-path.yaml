@@ -1,0 +1,13 @@
+id: coin-path
+title: Coin Path
+url: https://leetcode.com/problems/coin-path
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

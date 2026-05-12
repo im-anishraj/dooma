@@ -1,0 +1,13 @@
+id: count-the-number-of-experiments
+title: Count the Number of Experiments
+url: https://leetcode.com/problems/count-the-number-of-experiments
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  strava:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

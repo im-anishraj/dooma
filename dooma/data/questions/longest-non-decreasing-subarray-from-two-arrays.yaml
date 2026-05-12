@@ -1,0 +1,23 @@
+id: longest-non-decreasing-subarray-from-two-arrays
+title: Longest Non-decreasing Subarray From Two Arrays
+url: https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  citadel:
+    frequency: 50
+  google:
+    frequency: 12
+  meesho:
+    frequency: 50
+  polar:
+    frequency: 100
+  squarepoint-capital:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,21 @@
+id: check-if-it-is-a-good-array
+title: Check If It Is a Good Array
+url: https://leetcode.com/problems/check-if-it-is-a-good-array
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  dropbox:
+    frequency: 100
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  nokia:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

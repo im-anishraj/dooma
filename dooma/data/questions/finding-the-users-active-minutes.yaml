@@ -1,0 +1,15 @@
+id: finding-the-users-active-minutes
+title: Finding the Users Active Minutes
+url: https://leetcode.com/problems/finding-the-users-active-minutes
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  twitter:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

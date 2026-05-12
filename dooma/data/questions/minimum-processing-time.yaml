@@ -1,0 +1,15 @@
+id: minimum-processing-time
+title: Minimum Processing Time
+url: https://leetcode.com/problems/minimum-processing-time
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 50
+  nutanix:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

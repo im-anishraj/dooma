@@ -1,0 +1,17 @@
+id: minimum-jumps-to-reach-home
+title: Minimum Jumps to Reach Home
+url: https://leetcode.com/problems/minimum-jumps-to-reach-home
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  accolite:
+    frequency: 50
+  amazon:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: count-stepping-numbers-in-range
+title: Count Stepping Numbers in Range
+url: https://leetcode.com/problems/count-stepping-numbers-in-range
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

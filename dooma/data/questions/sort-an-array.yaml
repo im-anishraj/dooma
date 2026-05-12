@@ -1,0 +1,35 @@
+id: sort-an-array
+title: Sort an Array
+url: https://leetcode.com/problems/sort-an-array
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 50
+  google:
+    frequency: 37
+  hive:
+    frequency: 87
+  infosys:
+    frequency: 37
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 37
+  oracle:
+    frequency: 37
+  tcs:
+    frequency: 37
+  walmart-labs:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

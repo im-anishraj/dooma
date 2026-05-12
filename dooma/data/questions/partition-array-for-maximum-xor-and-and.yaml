@@ -1,0 +1,13 @@
+id: partition-array-for-maximum-xor-and-and
+title: Partition Array for Maximum XOR and AND
+url: https://leetcode.com/problems/partition-array-for-maximum-xor-and-and
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

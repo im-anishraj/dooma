@@ -1,0 +1,13 @@
+id: maximum-alternating-subarray-sum
+title: Maximum Alternating Subarray Sum
+url: https://leetcode.com/problems/maximum-alternating-subarray-sum
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,19 @@
+id: diameter-of-n-ary-tree
+title: Diameter of N-Ary Tree
+url: https://leetcode.com/problems/diameter-of-n-ary-tree
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  doordash:
+    frequency: 25
+  goldman-sachs:
+    frequency: 25
+  meta:
+    frequency: 25
+  salesforce:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

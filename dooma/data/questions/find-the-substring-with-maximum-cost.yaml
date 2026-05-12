@@ -1,0 +1,15 @@
+id: find-the-substring-with-maximum-cost
+title: Find the Substring With Maximum Cost
+url: https://leetcode.com/problems/find-the-substring-with-maximum-cost
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  josh-technology:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

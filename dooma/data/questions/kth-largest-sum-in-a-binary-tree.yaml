@@ -1,0 +1,19 @@
+id: kth-largest-sum-in-a-binary-tree
+title: Kth Largest Sum in a Binary Tree
+url: https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

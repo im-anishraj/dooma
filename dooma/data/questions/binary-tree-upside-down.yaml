@@ -1,0 +1,15 @@
+id: binary-tree-upside-down
+title: Binary Tree Upside Down
+url: https://leetcode.com/problems/binary-tree-upside-down
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  linkedin:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

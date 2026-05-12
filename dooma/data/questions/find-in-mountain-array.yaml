@@ -1,0 +1,23 @@
+id: find-in-mountain-array
+title: Find in Mountain Array
+url: https://leetcode.com/problems/find-in-mountain-array
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 37
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  oracle:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

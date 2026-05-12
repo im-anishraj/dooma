@@ -1,0 +1,51 @@
+id: longest-repeating-character-replacement
+title: Longest Repeating Character Replacement
+url: https://leetcode.com/problems/longest-repeating-character-replacement
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 62
+  bytedance:
+    frequency: 50
+  cred:
+    frequency: 100
+  docusign:
+    frequency: 62
+  flipkart:
+    frequency: 37
+  goldman-sachs:
+    frequency: 37
+  google:
+    frequency: 50
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 50
+  pocket-gems:
+    frequency: 100
+  servicenow:
+    frequency: 75
+  tiktok:
+    frequency: 37
+  uber:
+    frequency: 37
+  uipath:
+    frequency: 62
+  yahoo:
+    frequency: 50
+  yandex:
+    frequency: 37
+  zepto:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

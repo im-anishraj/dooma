@@ -1,0 +1,17 @@
+id: check-if-it-is-a-straight-line
+title: Check If It Is a Straight Line
+url: https://leetcode.com/problems/check-if-it-is-a-straight-line
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  datadog:
+    frequency: 50
+  palantir-technologies:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

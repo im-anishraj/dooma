@@ -1,0 +1,15 @@
+id: number-of-different-subsequences-gcds
+title: Number of Different Subsequences GCDs
+url: https://leetcode.com/problems/number-of-different-subsequences-gcds
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  akuna-capital:
+    frequency: 100
+  infosys:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

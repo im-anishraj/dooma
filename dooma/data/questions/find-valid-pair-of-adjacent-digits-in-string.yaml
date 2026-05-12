@@ -1,0 +1,17 @@
+id: find-valid-pair-of-adjacent-digits-in-string
+title: Find Valid Pair of Adjacent Digits in String
+url: https://leetcode.com/problems/find-valid-pair-of-adjacent-digits-in-string
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  oracle:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,27 @@
+id: number-of-black-blocks
+title: Number of Black Blocks
+url: https://leetcode.com/problems/number-of-black-blocks
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  capital-one:
+    frequency: 75
+  roblox:
+    frequency: 62
+  sig:
+    frequency: 75
+  square:
+    frequency: 100
+  stripe:
+    frequency: 50
+  twitter:
+    frequency: 100
+  uber:
+    frequency: 50
+  visa:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

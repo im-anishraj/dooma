@@ -1,0 +1,27 @@
+id: palindrome-permutation
+title: Palindrome Permutation
+url: https://leetcode.com/problems/palindrome-permutation
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 37
+  docusign:
+    frequency: 62
+  google:
+    frequency: 25
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 12
+  nordstrom:
+    frequency: 87
+  uber:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

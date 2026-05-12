@@ -1,0 +1,25 @@
+id: two-city-scheduling
+title: Two City Scheduling
+url: https://leetcode.com/problems/two-city-scheduling
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 62
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  oracle:
+    frequency: 25
+  swiggy:
+    frequency: 50
+  syfe:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

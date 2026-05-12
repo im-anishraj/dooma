@@ -1,0 +1,17 @@
+id: minimum-moves-to-convert-string
+title: Minimum Moves to Convert String
+url: https://leetcode.com/problems/minimum-moves-to-convert-string
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  jeavio:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

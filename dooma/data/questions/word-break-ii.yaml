@@ -1,0 +1,39 @@
+id: word-break-ii
+title: Word Break II
+url: https://leetcode.com/problems/word-break-ii
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 50
+  bloomberg:
+    frequency: 62
+  dropbox:
+    frequency: 100
+  google:
+    frequency: 37
+  grammarly:
+    frequency: 62
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 25
+  mongodb:
+    frequency: 62
+  moveworks:
+    frequency: 87
+  oracle:
+    frequency: 50
+  snapchat:
+    frequency: 87
+  tiktok:
+    frequency: 62
+  twitter:
+    frequency: 100
+  uber:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

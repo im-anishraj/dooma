@@ -1,0 +1,47 @@
+id: evaluate-reverse-polish-notation
+title: Evaluate Reverse Polish Notation
+url: https://leetcode.com/problems/evaluate-reverse-polish-notation
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 50
+  anduril:
+    frequency: 50
+  apolloio:
+    frequency: 100
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 37
+  canonical:
+    frequency: 75
+  citadel:
+    frequency: 75
+  citi:
+    frequency: 87
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 37
+  grammarly:
+    frequency: 62
+  infosys:
+    frequency: 37
+  linkedin:
+    frequency: 50
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 37
+  oracle:
+    frequency: 25
+  tesla:
+    frequency: 50
+  yandex:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

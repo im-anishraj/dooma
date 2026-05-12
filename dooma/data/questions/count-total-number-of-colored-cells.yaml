@@ -1,0 +1,21 @@
+id: count-total-number-of-colored-cells
+title: Count Total Number of Colored Cells
+url: https://leetcode.com/problems/count-total-number-of-colored-cells
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,35 @@
+id: count-vowel-substrings-of-a-string
+title: Count Vowel Substrings of a String
+url: https://leetcode.com/problems/count-vowel-substrings-of-a-string
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  commvault:
+    frequency: 100
+  expedia:
+    frequency: 62
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  noon:
+    frequency: 100
+  oracle:
+    frequency: 37
+  paypal:
+    frequency: 62
+  salesforce:
+    frequency: 25
+  snowflake:
+    frequency: 75
+  wells-fargo:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

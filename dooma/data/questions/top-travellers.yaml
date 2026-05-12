@@ -1,0 +1,15 @@
+id: top-travellers
+title: Top Travellers
+url: https://leetcode.com/problems/top-travellers
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  point72:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,43 @@
+id: maximum-depth-of-binary-tree
+title: Maximum Depth of Binary Tree
+url: https://leetcode.com/problems/maximum-depth-of-binary-tree
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 50
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 50
+  arista-networks:
+    frequency: 75
+  avito:
+    frequency: 62
+  bloomberg:
+    frequency: 50
+  google:
+    frequency: 37
+  infosys:
+    frequency: 50
+  linkedin:
+    frequency: 62
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 50
+  oracle:
+    frequency: 37
+  qualcomm:
+    frequency: 50
+  spotify:
+    frequency: 50
+  uber:
+    frequency: 62
+  yahoo:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

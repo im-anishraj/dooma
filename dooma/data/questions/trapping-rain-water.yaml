@@ -1,0 +1,167 @@
+id: trapping-rain-water
+title: Trapping Rain Water
+url: https://leetcode.com/problems/trapping-rain-water
+difficulty: hard
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  adobe:
+    frequency: 75
+  airbnb:
+    frequency: 75
+  amazon:
+    frequency: 87
+  american-express:
+    frequency: 50
+  apple:
+    frequency: 75
+  arcesium:
+    frequency: 62
+  bitgo:
+    frequency: 62
+  bloomberg:
+    frequency: 75
+  buyhatke:
+    frequency: 100
+  bytedance:
+    frequency: 62
+  c3-ai:
+    frequency: 100
+  capgemini:
+    frequency: 50
+  cisco:
+    frequency: 50
+  citadel:
+    frequency: 50
+  coveo:
+    frequency: 100
+  credit-karma:
+    frequency: 100
+  crowdstrike:
+    frequency: 62
+  de-shaw:
+    frequency: 62
+  epam-systems:
+    frequency: 62
+  expedia:
+    frequency: 62
+  flipkart:
+    frequency: 87
+  goldman-sachs:
+    frequency: 100
+  google:
+    frequency: 75
+  grammarly:
+    frequency: 50
+  hashedin:
+    frequency: 62
+  hive:
+    frequency: 87
+  huawei:
+    frequency: 62
+  ibm:
+    frequency: 37
+  infosys:
+    frequency: 62
+  inmobi:
+    frequency: 62
+  intel:
+    frequency: 87
+  jpmorgan:
+    frequency: 37
+  makemytrip:
+    frequency: 62
+  medianet:
+    frequency: 75
+  meta:
+    frequency: 62
+  microsoft:
+    frequency: 75
+  moloco:
+    frequency: 75
+  myntra:
+    frequency: 62
+  navi:
+    frequency: 62
+  nextdoor:
+    frequency: 62
+  nutanix:
+    frequency: 50
+  nvidia:
+    frequency: 62
+  openai:
+    frequency: 50
+  oracle:
+    frequency: 62
+  paypal:
+    frequency: 37
+  paytm:
+    frequency: 75
+  phonepe:
+    frequency: 75
+  publicis-sapient:
+    frequency: 100
+  qualcomm:
+    frequency: 50
+  redbus:
+    frequency: 100
+  roblox:
+    frequency: 50
+  salesforce:
+    frequency: 50
+  samsung:
+    frequency: 87
+  sap:
+    frequency: 62
+  servicenow:
+    frequency: 87
+  sigmoid:
+    frequency: 75
+  snowflake:
+    frequency: 87
+  splunk:
+    frequency: 87
+  sprinklr:
+    frequency: 50
+  squarepoint-capital:
+    frequency: 62
+  swiggy:
+    frequency: 50
+  tcs:
+    frequency: 50
+  tekion:
+    frequency: 87
+  tesla:
+    frequency: 87
+  thousandeyes:
+    frequency: 100
+  tiktok:
+    frequency: 87
+  twitter:
+    frequency: 100
+  uber:
+    frequency: 37
+  urban-company:
+    frequency: 100
+  visa:
+    frequency: 75
+  walmart-labs:
+    frequency: 87
+  wix:
+    frequency: 87
+  yandex:
+    frequency: 62
+  zenefits:
+    frequency: 100
+  zeta:
+    frequency: 75
+  zoho:
+    frequency: 75
+  zopsmart:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

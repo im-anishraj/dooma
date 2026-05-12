@@ -1,0 +1,23 @@
+id: equal-row-and-column-pairs
+title: Equal Row and Column Pairs
+url: https://leetcode.com/problems/equal-row-and-column-pairs
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  de-shaw:
+    frequency: 75
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

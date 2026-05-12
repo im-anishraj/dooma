@@ -1,0 +1,15 @@
+id: time-taken-to-cross-the-door
+title: Time Taken to Cross the Door
+url: https://leetcode.com/problems/time-taken-to-cross-the-door
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  google:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

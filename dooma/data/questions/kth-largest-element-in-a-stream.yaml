@@ -1,0 +1,33 @@
+id: kth-largest-element-in-a-stream
+title: Kth Largest Element in a Stream
+url: https://leetcode.com/problems/kth-largest-element-in-a-stream
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 75
+  amazon:
+    frequency: 50
+  arista-networks:
+    frequency: 62
+  bloomberg:
+    frequency: 12
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 37
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 25
+  salesforce:
+    frequency: 25
+  tinder:
+    frequency: 100
+  wells-fargo:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

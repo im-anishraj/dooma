@@ -1,0 +1,13 @@
+id: median-employee-salary
+title: Median Employee Salary
+url: https://leetcode.com/problems/median-employee-salary
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

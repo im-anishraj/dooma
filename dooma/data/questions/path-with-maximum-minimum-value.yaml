@@ -1,0 +1,17 @@
+id: path-with-maximum-minimum-value
+title: Path With Maximum Minimum Value
+url: https://leetcode.com/problems/path-with-maximum-minimum-value
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  geico:
+    frequency: 62
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

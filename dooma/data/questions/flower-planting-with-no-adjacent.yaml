@@ -1,0 +1,15 @@
+id: flower-planting-with-no-adjacent
+title: Flower Planting With No Adjacent
+url: https://leetcode.com/problems/flower-planting-with-no-adjacent
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  vimeo:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

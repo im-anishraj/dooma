@@ -1,0 +1,13 @@
+id: longest-non-decreasing-subarray-after-replacing-at-most-one-element
+title: Longest Non-Decreasing Subarray After Replacing at Most One Element
+url: https://leetcode.com/problems/longest-non-decreasing-subarray-after-replacing-at-most-one-element
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

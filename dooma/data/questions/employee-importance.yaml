@@ -1,0 +1,21 @@
+id: employee-importance
+title: Employee Importance
+url: https://leetcode.com/problems/employee-importance
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+  microsoft:
+    frequency: 12
+  robinhood:
+    frequency: 62
+  uber:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

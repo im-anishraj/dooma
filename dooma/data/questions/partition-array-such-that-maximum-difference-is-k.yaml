@@ -1,0 +1,15 @@
+id: partition-array-such-that-maximum-difference-is-k
+title: Partition Array Such That Maximum Difference Is K
+url: https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: number-of-calls-between-two-persons
+title: Number of Calls Between Two Persons
+url: https://leetcode.com/problems/number-of-calls-between-two-persons
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

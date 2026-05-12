@@ -1,0 +1,25 @@
+id: reverse-string-ii
+title: Reverse String II
+url: https://leetcode.com/problems/reverse-string-ii
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 37
+  google:
+    frequency: 37
+  infosys:
+    frequency: 37
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

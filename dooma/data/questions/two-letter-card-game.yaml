@@ -1,0 +1,15 @@
+id: two-letter-card-game
+title: Two-Letter Card Game
+url: https://leetcode.com/problems/two-letter-card-game
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

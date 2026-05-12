@@ -1,0 +1,21 @@
+id: find-building-where-alice-and-bob-can-meet
+title: Find Building Where Alice and Bob Can Meet
+url: https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  infosys:
+    frequency: 75
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

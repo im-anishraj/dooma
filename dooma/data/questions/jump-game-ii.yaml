@@ -1,0 +1,67 @@
+id: jump-game-ii
+title: Jump Game II
+url: https://leetcode.com/problems/jump-game-ii
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 50
+  amazon:
+    frequency: 62
+  apple:
+    frequency: 25
+  atlassian:
+    frequency: 37
+  bloomberg:
+    frequency: 50
+  doordash:
+    frequency: 25
+  ebay:
+    frequency: 50
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 50
+  groupon:
+    frequency: 62
+  hashedin:
+    frequency: 62
+  ibm:
+    frequency: 37
+  makemytrip:
+    frequency: 62
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 50
+  mitsogo:
+    frequency: 62
+  nutanix:
+    frequency: 50
+  oracle:
+    frequency: 37
+  phonepe:
+    frequency: 75
+  samsung:
+    frequency: 50
+  servicenow:
+    frequency: 62
+  snowflake:
+    frequency: 37
+  tcs:
+    frequency: 37
+  tiktok:
+    frequency: 50
+  tomtom:
+    frequency: 62
+  zepto:
+    frequency: 75
+  zoho:
+    frequency: 62
+  zulily:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

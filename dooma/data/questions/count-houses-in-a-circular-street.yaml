@@ -1,0 +1,13 @@
+id: count-houses-in-a-circular-street
+title: Count Houses in a Circular Street
+url: https://leetcode.com/problems/count-houses-in-a-circular-street
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

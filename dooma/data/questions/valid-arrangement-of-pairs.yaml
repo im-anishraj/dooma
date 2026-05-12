@@ -1,0 +1,19 @@
+id: valid-arrangement-of-pairs
+title: Valid Arrangement of Pairs
+url: https://leetcode.com/problems/valid-arrangement-of-pairs
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  goldman-sachs:
+    frequency: 50
+  meta:
+    frequency: 12
+  snapchat:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

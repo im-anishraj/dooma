@@ -1,0 +1,17 @@
+id: minimum-number-of-visited-cells-in-a-grid
+title: Minimum Number of Visited Cells in a Grid
+url: https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  de-shaw:
+    frequency: 37
+  huawei:
+    frequency: 100
+  worldquant:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

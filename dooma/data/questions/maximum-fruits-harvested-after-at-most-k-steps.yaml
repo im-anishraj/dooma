@@ -1,0 +1,21 @@
+id: maximum-fruits-harvested-after-at-most-k-steps
+title: Maximum Fruits Harvested After at Most K Steps
+url: https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  kla:
+    frequency: 87
+  microsoft:
+    frequency: 12
+  mishipay:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

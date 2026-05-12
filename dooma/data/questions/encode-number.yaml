@@ -1,0 +1,13 @@
+id: encode-number
+title: Encode Number
+url: https://leetcode.com/problems/encode-number
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  quora:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

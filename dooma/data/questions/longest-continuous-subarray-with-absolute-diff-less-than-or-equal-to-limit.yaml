@@ -1,0 +1,39 @@
+id: longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit
+title: Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit
+url: https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 12
+  capital-one:
+    frequency: 75
+  ebay:
+    frequency: 50
+  google:
+    frequency: 37
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  moloco:
+    frequency: 75
+  nvidia:
+    frequency: 37
+  phonepe:
+    frequency: 75
+  salesforce:
+    frequency: 37
+  uber:
+    frequency: 87
+  visa:
+    frequency: 50
+  yandex:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

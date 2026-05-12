@@ -1,0 +1,13 @@
+id: check-if-there-is-a-path-with-equal-number-of-0s-and-1s
+title: Check if There is a Path With Equal Number of 0's And 1's
+url: https://leetcode.com/problems/check-if-there-is-a-path-with-equal-number-of-0s-and-1s
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

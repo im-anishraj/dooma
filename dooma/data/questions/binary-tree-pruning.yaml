@@ -1,0 +1,19 @@
+id: binary-tree-pruning
+title: Binary Tree Pruning
+url: https://leetcode.com/problems/binary-tree-pruning
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  hulu:
+    frequency: 100
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,53 @@
+id: remove-k-digits
+title: Remove K Digits
+url: https://leetcode.com/problems/remove-k-digits
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 50
+  bloomberg:
+    frequency: 50
+  bytedance:
+    frequency: 50
+  coupang:
+    frequency: 75
+  google:
+    frequency: 50
+  huawei:
+    frequency: 62
+  josh-technology:
+    frequency: 62
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 37
+  oracle:
+    frequency: 37
+  paypal:
+    frequency: 37
+  phonepe:
+    frequency: 87
+  samsung:
+    frequency: 50
+  snapchat:
+    frequency: 87
+  snowflake:
+    frequency: 50
+  tiktok:
+    frequency: 37
+  walmart-labs:
+    frequency: 50
+  zeta:
+    frequency: 62
+  zopsmart:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,23 @@
+id: smallest-missing-non-negative-integer-after-operations
+title: Smallest Missing Non-negative Integer After Operations
+url: https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  atlassian:
+    frequency: 62
+  citadel:
+    frequency: 62
+  ibm:
+    frequency: 37
+  mercari:
+    frequency: 100
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

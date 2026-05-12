@@ -1,0 +1,17 @@
+id: friends-of-appropriate-ages
+title: Friends Of Appropriate Ages
+url: https://leetcode.com/problems/friends-of-appropriate-ages
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

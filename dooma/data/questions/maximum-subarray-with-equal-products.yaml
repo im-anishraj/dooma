@@ -1,0 +1,13 @@
+id: maximum-subarray-with-equal-products
+title: Maximum Subarray With Equal Products
+url: https://leetcode.com/problems/maximum-subarray-with-equal-products
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

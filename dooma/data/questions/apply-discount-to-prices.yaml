@@ -1,0 +1,13 @@
+id: apply-discount-to-prices
+title: Apply Discount to Prices
+url: https://leetcode.com/problems/apply-discount-to-prices
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

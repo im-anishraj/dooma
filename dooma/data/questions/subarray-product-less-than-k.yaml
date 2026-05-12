@@ -1,0 +1,53 @@
+id: subarray-product-less-than-k
+title: Subarray Product Less Than K
+url: https://leetcode.com/problems/subarray-product-less-than-k
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 50
+  agoda:
+    frequency: 50
+  airbnb:
+    frequency: 50
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 62
+  bloomberg:
+    frequency: 37
+  flexport:
+    frequency: 62
+  google:
+    frequency: 25
+  ibm:
+    frequency: 50
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 12
+  nvidia:
+    frequency: 37
+  oracle:
+    frequency: 37
+  salesforce:
+    frequency: 75
+  samsung:
+    frequency: 62
+  squarepoint-capital:
+    frequency: 75
+  tcs:
+    frequency: 25
+  tekion:
+    frequency: 62
+  wise:
+    frequency: 75
+  workday:
+    frequency: 75
+  yatra:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

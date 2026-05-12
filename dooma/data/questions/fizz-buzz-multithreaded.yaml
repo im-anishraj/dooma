@@ -1,0 +1,15 @@
+id: fizz-buzz-multithreaded
+title: Fizz Buzz Multithreaded
+url: https://leetcode.com/problems/fizz-buzz-multithreaded
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  gartner:
+    frequency: 87
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

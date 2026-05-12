@@ -1,0 +1,13 @@
+id: minimum-operations-to-equalize-binary-string
+title: Minimum Operations to Equalize Binary String
+url: https://leetcode.com/problems/minimum-operations-to-equalize-binary-string
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,31 @@
+id: magnetic-force-between-two-balls
+title: Magnetic Force Between Two Balls
+url: https://leetcode.com/problems/magnetic-force-between-two-balls
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  apple:
+    frequency: 25
+  flipkart:
+    frequency: 37
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  roblox:
+    frequency: 75
+  salesforce:
+    frequency: 50
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

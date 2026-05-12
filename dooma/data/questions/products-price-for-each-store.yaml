@@ -1,0 +1,15 @@
+id: products-price-for-each-store
+title: Product's Price for Each Store
+url: https://leetcode.com/problems/products-price-for-each-store
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  mcafee:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

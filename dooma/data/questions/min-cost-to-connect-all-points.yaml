@@ -1,0 +1,31 @@
+id: min-cost-to-connect-all-points
+title: Min Cost to Connect All Points
+url: https://leetcode.com/problems/min-cost-to-connect-all-points
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  directi:
+    frequency: 100
+  flipkart:
+    frequency: 37
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  nutanix:
+    frequency: 50
+  paypay:
+    frequency: 62
+  tiktok:
+    frequency: 37
+  uber:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

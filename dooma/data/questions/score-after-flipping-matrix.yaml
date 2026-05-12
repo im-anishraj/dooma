@@ -1,0 +1,19 @@
+id: score-after-flipping-matrix
+title: Score After Flipping Matrix
+url: https://leetcode.com/problems/score-after-flipping-matrix
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  iit-bombay:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

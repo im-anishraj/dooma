@@ -1,0 +1,13 @@
+id: largest-palindrome-product
+title: Largest Palindrome Product
+url: https://leetcode.com/problems/largest-palindrome-product
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  yahoo:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

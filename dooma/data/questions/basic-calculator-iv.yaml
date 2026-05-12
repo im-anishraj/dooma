@@ -1,0 +1,17 @@
+id: basic-calculator-iv
+title: Basic Calculator IV
+url: https://leetcode.com/problems/basic-calculator-iv
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  intuit:
+    frequency: 75
+  roblox:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

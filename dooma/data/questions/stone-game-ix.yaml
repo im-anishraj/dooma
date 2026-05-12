@@ -1,0 +1,15 @@
+id: stone-game-ix
+title: Stone Game IX
+url: https://leetcode.com/problems/stone-game-ix
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  samsung:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,17 @@
+id: minimum-time-to-type-word-using-special-typewriter
+title: Minimum Time to Type Word Using Special Typewriter
+url: https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  ibm:
+    frequency: 37
+  jpmorgan:
+    frequency: 62
+  thomson-reuters:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: maximum-of-minimum-values-in-all-subarrays
+title: Maximum of Minimum Values in All Subarrays
+url: https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

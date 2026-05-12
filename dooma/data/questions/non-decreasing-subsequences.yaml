@@ -1,0 +1,17 @@
+id: non-decreasing-subsequences
+title: Non-decreasing Subsequences
+url: https://leetcode.com/problems/non-decreasing-subsequences
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  yahoo:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

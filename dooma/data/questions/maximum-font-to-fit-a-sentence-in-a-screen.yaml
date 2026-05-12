@@ -1,0 +1,13 @@
+id: maximum-font-to-fit-a-sentence-in-a-screen
+title: Maximum Font to Fit a Sentence in a Screen
+url: https://leetcode.com/problems/maximum-font-to-fit-a-sentence-in-a-screen
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

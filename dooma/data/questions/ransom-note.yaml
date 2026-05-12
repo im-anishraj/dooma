@@ -1,0 +1,35 @@
+id: ransom-note
+title: Ransom Note
+url: https://leetcode.com/problems/ransom-note
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 62
+  bloomberg:
+    frequency: 37
+  criteo:
+    frequency: 75
+  disney:
+    frequency: 100
+  google:
+    frequency: 37
+  karat:
+    frequency: 75
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 50
+  spotify:
+    frequency: 62
+  tripadvisor:
+    frequency: 75
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

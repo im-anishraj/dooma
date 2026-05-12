@@ -1,0 +1,13 @@
+id: check-if-bitwise-or-has-trailing-zeros
+title: Check if Bitwise OR Has Trailing Zeros
+url: https://leetcode.com/problems/check-if-bitwise-or-has-trailing-zeros
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  meituan:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

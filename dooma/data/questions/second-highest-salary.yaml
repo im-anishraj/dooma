@@ -1,0 +1,49 @@
+id: second-highest-salary
+title: Second Highest Salary
+url: https://leetcode.com/problems/second-highest-salary
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 50
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 25
+  barclays:
+    frequency: 62
+  bloomberg:
+    frequency: 50
+  capgemini:
+    frequency: 50
+  cognizant:
+    frequency: 75
+  deloitte:
+    frequency: 87
+  google:
+    frequency: 37
+  hcl:
+    frequency: 62
+  infosys:
+    frequency: 75
+  maq-software:
+    frequency: 62
+  meesho:
+    frequency: 50
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 37
+  oracle:
+    frequency: 37
+  tcs:
+    frequency: 62
+  wipro:
+    frequency: 62
+  zs-associates:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

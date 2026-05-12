@@ -1,0 +1,49 @@
+id: fizz-buzz
+title: Fizz Buzz
+url: https://leetcode.com/problems/fizz-buzz
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  agoda:
+    frequency: 50
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 37
+  bloomberg:
+    frequency: 37
+  cisco:
+    frequency: 75
+  citadel:
+    frequency: 62
+  cognizant:
+    frequency: 50
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 37
+  ibm:
+    frequency: 100
+  jpmorgan:
+    frequency: 50
+  mastercard:
+    frequency: 87
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 50
+  nvidia:
+    frequency: 75
+  oracle:
+    frequency: 25
+  paypal:
+    frequency: 37
+  pure-storage:
+    frequency: 50
+  tcs:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

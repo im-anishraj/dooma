@@ -1,0 +1,17 @@
+id: reorder-data-in-log-files
+title: Reorder Data in Log Files
+url: https://leetcode.com/problems/reorder-data-in-log-files
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

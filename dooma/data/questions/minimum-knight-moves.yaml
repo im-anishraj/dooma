@@ -1,0 +1,35 @@
+id: minimum-knight-moves
+title: Minimum Knight Moves
+url: https://leetcode.com/problems/minimum-knight-moves
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  apple:
+    frequency: 25
+  citadel:
+    frequency: 62
+  databricks:
+    frequency: 37
+  google:
+    frequency: 25
+  linkedin:
+    frequency: 37
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 25
+  nvidia:
+    frequency: 37
+  oracle:
+    frequency: 25
+  verily:
+    frequency: 87
+  waymo:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

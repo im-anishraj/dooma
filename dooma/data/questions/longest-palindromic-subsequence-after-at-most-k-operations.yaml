@@ -1,0 +1,13 @@
+id: longest-palindromic-subsequence-after-at-most-k-operations
+title: Longest Palindromic Subsequence After at Most K Operations
+url: https://leetcode.com/problems/longest-palindromic-subsequence-after-at-most-k-operations
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

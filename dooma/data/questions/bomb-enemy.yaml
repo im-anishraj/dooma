@@ -1,0 +1,15 @@
+id: bomb-enemy
+title: Bomb Enemy
+url: https://leetcode.com/problems/bomb-enemy
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

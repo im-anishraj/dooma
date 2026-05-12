@@ -1,0 +1,17 @@
+id: find-the-student-that-will-replace-the-chalk
+title: Find the Student that Will Replace the Chalk
+url: https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  6sense:
+    frequency: 87
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

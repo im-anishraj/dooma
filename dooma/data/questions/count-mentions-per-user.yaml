@@ -1,0 +1,19 @@
+id: count-mentions-per-user
+title: Count Mentions Per User
+url: https://leetcode.com/problems/count-mentions-per-user
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bcg:
+    frequency: 100
+  bloomberg:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  visa:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

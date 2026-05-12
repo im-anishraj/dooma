@@ -1,0 +1,15 @@
+id: most-visited-sector-in-a-circular-track
+title: Most Visited Sector in a Circular Track
+url: https://leetcode.com/problems/most-visited-sector-in-a-circular-track
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  expedia:
+    frequency: 100
+  syfe:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

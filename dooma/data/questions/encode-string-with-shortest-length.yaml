@@ -1,0 +1,13 @@
+id: encode-string-with-shortest-length
+title: Encode String with Shortest Length
+url: https://leetcode.com/problems/encode-string-with-shortest-length
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

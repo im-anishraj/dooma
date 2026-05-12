@@ -1,0 +1,15 @@
+id: decompress-run-length-encoded-list
+title: Decompress Run-Length Encoded List
+url: https://leetcode.com/problems/decompress-run-length-encoded-list
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

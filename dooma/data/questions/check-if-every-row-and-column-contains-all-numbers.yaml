@@ -1,0 +1,19 @@
+id: check-if-every-row-and-column-contains-all-numbers
+title: Check if Every Row and Column Contains All Numbers
+url: https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  indeed:
+    frequency: 75
+  instacart:
+    frequency: 100
+  karat:
+    frequency: 100
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

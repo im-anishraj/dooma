@@ -1,0 +1,19 @@
+id: maximum-value-at-a-given-index-in-a-bounded-array
+title: Maximum Value at a Given Index in a Bounded Array
+url: https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  ibm:
+    frequency: 37
+  microsoft:
+    frequency: 25
+  tiktok:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

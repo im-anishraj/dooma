@@ -1,0 +1,45 @@
+id: bus-routes
+title: Bus Routes
+url: https://leetcode.com/problems/bus-routes
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bitgo:
+    frequency: 75
+  bloomberg:
+    frequency: 25
+  deltax:
+    frequency: 87
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 37
+  info-edge:
+    frequency: 75
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  oracle:
+    frequency: 25
+  phonepe:
+    frequency: 75
+  pinterest:
+    frequency: 87
+  salesforce:
+    frequency: 25
+  snapchat:
+    frequency: 87
+  tiktok:
+    frequency: 62
+  uber:
+    frequency: 100
+  zomato:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

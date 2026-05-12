@@ -1,0 +1,13 @@
+id: minimum-sum-of-mountain-triplets-i
+title: Minimum Sum of Mountain Triplets I
+url: https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

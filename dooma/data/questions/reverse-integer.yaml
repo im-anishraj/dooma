@@ -1,0 +1,63 @@
+id: reverse-integer
+title: Reverse Integer
+url: https://leetcode.com/problems/reverse-integer
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 75
+  adobe:
+    frequency: 62
+  amazon:
+    frequency: 62
+  apple:
+    frequency: 75
+  bloomberg:
+    frequency: 75
+  capgemini:
+    frequency: 50
+  cognizant:
+    frequency: 62
+  deloitte:
+    frequency: 50
+  epam-systems:
+    frequency: 62
+  google:
+    frequency: 62
+  ibm:
+    frequency: 37
+  infosys:
+    frequency: 50
+  intel:
+    frequency: 62
+  linkedin:
+    frequency: 25
+  lti:
+    frequency: 87
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 62
+  nvidia:
+    frequency: 37
+  oracle:
+    frequency: 37
+  qualcomm:
+    frequency: 50
+  tcs:
+    frequency: 50
+  tech-mahindra:
+    frequency: 100
+  uber:
+    frequency: 37
+  walmart-labs:
+    frequency: 37
+  wipro:
+    frequency: 75
+  yandex:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

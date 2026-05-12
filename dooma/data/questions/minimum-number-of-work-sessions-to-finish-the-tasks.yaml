@@ -1,0 +1,15 @@
+id: minimum-number-of-work-sessions-to-finish-the-tasks
+title: Minimum Number of Work Sessions to Finish the Tasks
+url: https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  swiggy:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

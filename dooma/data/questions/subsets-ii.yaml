@@ -1,0 +1,29 @@
+id: subsets-ii
+title: Subsets II
+url: https://leetcode.com/problems/subsets-ii
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 50
+  google:
+    frequency: 37
+  infosys:
+    frequency: 37
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 37
+  tcs:
+    frequency: 37
+  walmart-labs:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

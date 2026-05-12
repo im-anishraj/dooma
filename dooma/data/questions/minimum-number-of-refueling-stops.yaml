@@ -1,0 +1,27 @@
+id: minimum-number-of-refueling-stops
+title: Minimum Number of Refueling Stops
+url: https://leetcode.com/problems/minimum-number-of-refueling-stops
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  de-shaw:
+    frequency: 62
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 37
+  waymo:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,19 @@
+id: reshape-the-matrix
+title: Reshape the Matrix
+url: https://leetcode.com/problems/reshape-the-matrix
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  mathworks:
+    frequency: 100
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,29 @@
+id: sparse-matrix-multiplication
+title: Sparse Matrix Multiplication
+url: https://leetcode.com/problems/sparse-matrix-multiplication
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 37
+  google:
+    frequency: 12
+  linkedin:
+    frequency: 50
+  meta:
+    frequency: 37
+  nuro:
+    frequency: 62
+  oracle:
+    frequency: 25
+  pinterest:
+    frequency: 62
+  tiktok:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

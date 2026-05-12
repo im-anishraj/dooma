@@ -1,0 +1,17 @@
+id: sales-analysis-iii
+title: Sales Analysis III
+url: https://leetcode.com/problems/sales-analysis-iii
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,51 @@
+id: accounts-merge
+title: Accounts Merge
+url: https://leetcode.com/problems/accounts-merge
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  airbnb:
+    frequency: 50
+  amazon:
+    frequency: 37
+  anduril:
+    frequency: 50
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  bytedance:
+    frequency: 50
+  ebay:
+    frequency: 50
+  google:
+    frequency: 37
+  grab:
+    frequency: 62
+  linkedin:
+    frequency: 50
+  meta:
+    frequency: 62
+  microsoft:
+    frequency: 37
+  palantir-technologies:
+    frequency: 50
+  phonepe:
+    frequency: 50
+  pinterest:
+    frequency: 37
+  rippling:
+    frequency: 50
+  roblox:
+    frequency: 37
+  snapchat:
+    frequency: 37
+  tiktok:
+    frequency: 25
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: get-watched-videos-by-your-friends
+title: Get Watched Videos by Your Friends
+url: https://leetcode.com/problems/get-watched-videos-by-your-friends
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  guidewire:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

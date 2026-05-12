@@ -1,0 +1,15 @@
+id: maximum-depth-of-n-ary-tree
+title: Maximum Depth of N-ary Tree
+url: https://leetcode.com/problems/maximum-depth-of-n-ary-tree
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  datadog:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

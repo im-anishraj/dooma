@@ -1,0 +1,17 @@
+id: number-of-ways-to-divide-a-long-corridor
+title: Number of Ways to Divide a Long Corridor
+url: https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  zomato:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

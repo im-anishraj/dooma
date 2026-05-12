@@ -1,0 +1,21 @@
+id: delete-nodes-and-return-forest
+title: Delete Nodes And Return Forest
+url: https://leetcode.com/problems/delete-nodes-and-return-forest
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 50
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 12
+  pinterest:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

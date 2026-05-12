@@ -1,0 +1,17 @@
+id: append-characters-to-string-to-make-subsequence
+title: Append Characters to String to Make Subsequence
+url: https://leetcode.com/problems/append-characters-to-string-to-make-subsequence
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

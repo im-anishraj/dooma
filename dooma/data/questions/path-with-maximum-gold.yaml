@@ -1,0 +1,25 @@
+id: path-with-maximum-gold
+title: Path with Maximum Gold
+url: https://leetcode.com/problems/path-with-maximum-gold
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  geico:
+    frequency: 62
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  salesforce:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

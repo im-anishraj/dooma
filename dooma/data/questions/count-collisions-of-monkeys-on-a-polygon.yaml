@@ -1,0 +1,17 @@
+id: count-collisions-of-monkeys-on-a-polygon
+title: Count Collisions of Monkeys on a Polygon
+url: https://leetcode.com/problems/count-collisions-of-monkeys-on-a-polygon
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  goldman-sachs:
+    frequency: 50
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

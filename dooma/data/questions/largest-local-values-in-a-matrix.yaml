@@ -1,0 +1,21 @@
+id: largest-local-values-in-a-matrix
+title: Largest Local Values in a Matrix
+url: https://leetcode.com/problems/largest-local-values-in-a-matrix
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  openai:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,29 @@
+id: critical-connections-in-a-network
+title: Critical Connections in a Network
+url: https://leetcode.com/problems/critical-connections-in-a-network
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  akuna-capital:
+    frequency: 62
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 25
+  citadel:
+    frequency: 50
+  flipkart:
+    frequency: 50
+  google:
+    frequency: 25
+  kla-tencor:
+    frequency: 75
+  microsoft:
+    frequency: 25
+  servicenow:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

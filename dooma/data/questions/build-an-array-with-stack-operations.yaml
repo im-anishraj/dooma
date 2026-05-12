@@ -1,0 +1,15 @@
+id: build-an-array-with-stack-operations
+title: Build an Array With Stack Operations
+url: https://leetcode.com/problems/build-an-array-with-stack-operations
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

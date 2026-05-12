@@ -1,0 +1,21 @@
+id: verify-preorder-sequence-in-binary-search-tree
+title: Verify Preorder Sequence in Binary Search Tree
+url: https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  expedia:
+    frequency: 50
+  nvidia:
+    frequency: 37
+  salesforce:
+    frequency: 37
+  tiktok:
+    frequency: 25
+  zenefits:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,23 @@
+id: minimum-equal-sum-of-two-arrays-after-replacing-zeros
+title: Minimum Equal Sum of Two Arrays After Replacing Zeros
+url: https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  citadel:
+    frequency: 75
+  google:
+    frequency: 12
+  mathworks:
+    frequency: 62
+  salesforce:
+    frequency: 25
+  squarepoint-capital:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

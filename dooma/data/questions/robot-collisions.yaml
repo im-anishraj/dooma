@@ -1,0 +1,19 @@
+id: robot-collisions
+title: Robot Collisions
+url: https://leetcode.com/problems/robot-collisions
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  flipkart:
+    frequency: 37
+  google:
+    frequency: 12
+  meesho:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

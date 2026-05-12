@@ -1,0 +1,17 @@
+id: count-number-of-texts
+title: Count Number of Texts
+url: https://leetcode.com/problems/count-number-of-texts
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  goldman-sachs:
+    frequency: 50
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

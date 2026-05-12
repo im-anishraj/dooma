@@ -1,0 +1,37 @@
+id: triangle
+title: Triangle
+url: https://leetcode.com/problems/triangle
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  agoda:
+    frequency: 50
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 50
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 37
+  hashedin:
+    frequency: 62
+  infosys:
+    frequency: 37
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 37
+  oracle:
+    frequency: 37
+  upstart:
+    frequency: 62
+  walmart-labs:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

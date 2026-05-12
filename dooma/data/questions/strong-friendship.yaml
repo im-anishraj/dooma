@@ -1,0 +1,15 @@
+id: strong-friendship
+title: Strong Friendship
+url: https://leetcode.com/problems/strong-friendship
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  meta:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

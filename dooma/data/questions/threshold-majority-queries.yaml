@@ -1,0 +1,19 @@
+id: threshold-majority-queries
+title: Threshold Majority Queries
+url: https://leetcode.com/problems/threshold-majority-queries
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 62
+  amazon:
+    frequency: 25
+  google:
+    frequency: 12
+  meta:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

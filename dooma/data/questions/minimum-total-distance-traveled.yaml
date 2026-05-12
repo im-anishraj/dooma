@@ -1,0 +1,19 @@
+id: minimum-total-distance-traveled
+title: Minimum Total Distance Traveled
+url: https://leetcode.com/problems/minimum-total-distance-traveled
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  infosys:
+    frequency: 75
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

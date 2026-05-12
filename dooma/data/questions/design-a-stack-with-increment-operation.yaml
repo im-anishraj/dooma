@@ -1,0 +1,25 @@
+id: design-a-stack-with-increment-operation
+title: Design a Stack With Increment Operation
+url: https://leetcode.com/problems/design-a-stack-with-increment-operation
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  cloudflare:
+    frequency: 87
+  ebay:
+    frequency: 50
+  google:
+    frequency: 37
+  imc:
+    frequency: 75
+  microsoft:
+    frequency: 25
+  moloco:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

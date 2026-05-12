@@ -1,0 +1,17 @@
+id: parallel-courses-ii
+title: Parallel Courses II
+url: https://leetcode.com/problems/parallel-courses-ii
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  snowflake:
+    frequency: 37
+  tiktok:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

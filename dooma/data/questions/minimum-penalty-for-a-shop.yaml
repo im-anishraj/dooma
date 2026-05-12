@@ -1,0 +1,23 @@
+id: minimum-penalty-for-a-shop
+title: Minimum Penalty for a Shop
+url: https://leetcode.com/problems/minimum-penalty-for-a-shop
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  stripe:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

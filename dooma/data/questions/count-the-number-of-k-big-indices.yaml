@@ -1,0 +1,13 @@
+id: count-the-number-of-k-big-indices
+title: Count the Number of K-Big Indices
+url: https://leetcode.com/problems/count-the-number-of-k-big-indices
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

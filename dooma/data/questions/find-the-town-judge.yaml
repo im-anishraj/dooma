@@ -1,0 +1,25 @@
+id: find-the-town-judge
+title: Find the Town Judge
+url: https://leetcode.com/problems/find-the-town-judge
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  arista-networks:
+    frequency: 100
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  turing:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

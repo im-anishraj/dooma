@@ -1,0 +1,15 @@
+id: number-of-lines-to-write-string
+title: Number of Lines To Write String
+url: https://leetcode.com/problems/number-of-lines-to-write-string
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  nvidia:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,39 @@
+id: number-of-distinct-islands
+title: Number of Distinct Islands
+url: https://leetcode.com/problems/number-of-distinct-islands
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  anduril:
+    frequency: 50
+  aurora:
+    frequency: 62
+  bloomberg:
+    frequency: 12
+  coupang:
+    frequency: 62
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  oracle:
+    frequency: 50
+  servicenow:
+    frequency: 50
+  snapchat:
+    frequency: 87
+  splunk:
+    frequency: 100
+  tiktok:
+    frequency: 87
+  walmart-labs:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

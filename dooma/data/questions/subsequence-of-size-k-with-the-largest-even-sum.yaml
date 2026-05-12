@@ -1,0 +1,17 @@
+id: subsequence-of-size-k-with-the-largest-even-sum
+title: Subsequence of Size K With the Largest Even Sum
+url: https://leetcode.com/problems/subsequence-of-size-k-with-the-largest-even-sum
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  drw:
+    frequency: 100
+  microsoft:
+    frequency: 25
+  retailmenot:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

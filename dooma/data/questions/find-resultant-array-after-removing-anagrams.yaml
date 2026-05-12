@@ -1,0 +1,27 @@
+id: find-resultant-array-after-removing-anagrams
+title: Find Resultant Array After Removing Anagrams
+url: https://leetcode.com/problems/find-resultant-array-after-removing-anagrams
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  ibm:
+    frequency: 37
+  jpmorgan:
+    frequency: 62
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  nextjump:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

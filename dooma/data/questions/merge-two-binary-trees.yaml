@@ -1,0 +1,27 @@
+id: merge-two-binary-trees
+title: Merge Two Binary Trees
+url: https://leetcode.com/problems/merge-two-binary-trees
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  josh-technology:
+    frequency: 62
+  linkedin:
+    frequency: 37
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 12
+  mongodb:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,19 @@
+id: sort-the-jumbled-numbers
+title: Sort the Jumbled Numbers
+url: https://leetcode.com/problems/sort-the-jumbled-numbers
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  goldman-sachs:
+    frequency: 50
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: the-most-frequently-ordered-products-for-each-customer
+title: The Most Frequently Ordered Products for Each Customer
+url: https://leetcode.com/problems/the-most-frequently-ordered-products-for-each-customer
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

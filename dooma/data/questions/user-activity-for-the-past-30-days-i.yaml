@@ -1,0 +1,23 @@
+id: user-activity-for-the-past-30-days-i
+title: User Activity for the Past 30 Days I
+url: https://leetcode.com/problems/user-activity-for-the-past-30-days-i
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 25
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 25
+  zoom:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

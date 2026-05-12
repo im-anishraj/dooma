@@ -1,0 +1,23 @@
+id: count-salary-categories
+title: Count Salary Categories
+url: https://leetcode.com/problems/count-salary-categories
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  epam-systems:
+    frequency: 50
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  pornhub:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

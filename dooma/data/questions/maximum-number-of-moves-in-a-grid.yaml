@@ -1,0 +1,17 @@
+id: maximum-number-of-moves-in-a-grid
+title: Maximum Number of Moves in a Grid
+url: https://leetcode.com/problems/maximum-number-of-moves-in-a-grid
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

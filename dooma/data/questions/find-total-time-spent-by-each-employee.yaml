@@ -1,0 +1,15 @@
+id: find-total-time-spent-by-each-employee
+title: Find Total Time Spent by Each Employee
+url: https://leetcode.com/problems/find-total-time-spent-by-each-employee
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

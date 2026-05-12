@@ -1,0 +1,17 @@
+id: describe-the-painting
+title: Describe the Painting
+url: https://leetcode.com/problems/describe-the-painting
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+  spinny:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

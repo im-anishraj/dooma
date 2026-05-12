@@ -1,0 +1,25 @@
+id: successful-pairs-of-spells-and-potions
+title: Successful Pairs of Spells and Potions
+url: https://leetcode.com/problems/successful-pairs-of-spells-and-potions
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  goldman-sachs:
+    frequency: 50
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  paypay:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: check-if-word-can-be-placed-in-crossword
+title: Check if Word Can Be Placed In Crossword
+url: https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

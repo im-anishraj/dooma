@@ -1,0 +1,19 @@
+id: deepest-leaves-sum
+title: Deepest Leaves Sum
+url: https://leetcode.com/problems/deepest-leaves-sum
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+  myntra:
+    frequency: 75
+  tiktok:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,17 @@
+id: minimum-sum-of-squared-difference
+title: Minimum Sum of Squared Difference
+url: https://leetcode.com/problems/minimum-sum-of-squared-difference
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  microsoft:
+    frequency: 25
+  uber:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

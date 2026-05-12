@@ -1,0 +1,15 @@
+id: longest-subsequence-with-decreasing-adjacent-difference
+title: Longest Subsequence With Decreasing Adjacent Difference
+url: https://leetcode.com/problems/longest-subsequence-with-decreasing-adjacent-difference
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  juspay:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

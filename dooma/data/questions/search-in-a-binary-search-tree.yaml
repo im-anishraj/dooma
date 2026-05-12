@@ -1,0 +1,27 @@
+id: search-in-a-binary-search-tree
+title: Search in a Binary Search Tree
+url: https://leetcode.com/problems/search-in-a-binary-search-tree
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 25
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  oracle:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

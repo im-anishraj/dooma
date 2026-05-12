@@ -1,0 +1,19 @@
+id: swap-sex-of-employees
+title: Swap Sex of Employees
+url: https://leetcode.com/problems/swap-sex-of-employees
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

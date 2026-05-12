@@ -1,0 +1,23 @@
+id: set-intersection-size-at-least-two
+title: Set Intersection Size At Least Two
+url: https://leetcode.com/problems/set-intersection-size-at-least-two
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  dp-world:
+    frequency: 100
+  drawbridge:
+    frequency: 100
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

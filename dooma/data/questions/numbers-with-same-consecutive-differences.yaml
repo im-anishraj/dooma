@@ -1,0 +1,19 @@
+id: numbers-with-same-consecutive-differences
+title: Numbers With Same Consecutive Differences
+url: https://leetcode.com/problems/numbers-with-same-consecutive-differences
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  flipkart:
+    frequency: 75
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

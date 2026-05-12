@@ -1,0 +1,13 @@
+id: fixed-point
+title: Fixed Point
+url: https://leetcode.com/problems/fixed-point
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  uber:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

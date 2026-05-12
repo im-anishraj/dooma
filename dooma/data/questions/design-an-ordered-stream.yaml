@@ -1,0 +1,19 @@
+id: design-an-ordered-stream
+title: Design an Ordered Stream
+url: https://leetcode.com/problems/design-an-ordered-stream
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 62
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  yandex:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

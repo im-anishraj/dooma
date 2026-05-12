@@ -1,0 +1,15 @@
+id: expressive-words
+title: Expressive Words
+url: https://leetcode.com/problems/expressive-words
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  cisco:
+    frequency: 37
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

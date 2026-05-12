@@ -1,0 +1,21 @@
+id: maximum-score-words-formed-by-letters
+title: Maximum Score Words Formed by Letters
+url: https://leetcode.com/problems/maximum-score-words-formed-by-letters
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  infosys:
+    frequency: 37
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

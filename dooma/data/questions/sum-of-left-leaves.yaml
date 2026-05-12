@@ -1,0 +1,25 @@
+id: sum-of-left-leaves
+title: Sum of Left Leaves
+url: https://leetcode.com/problems/sum-of-left-leaves
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  grammarly:
+    frequency: 62
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 12
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

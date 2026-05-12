@@ -1,0 +1,15 @@
+id: maximize-score-of-numbers-in-ranges
+title: Maximize Score of Numbers in Ranges
+url: https://leetcode.com/problems/maximize-score-of-numbers-in-ranges
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  de-shaw:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

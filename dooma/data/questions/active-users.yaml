@@ -1,0 +1,15 @@
+id: active-users
+title: Active Users
+url: https://leetcode.com/problems/active-users
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  ciena:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

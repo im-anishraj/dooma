@@ -1,0 +1,13 @@
+id: evaluate-boolean-expression
+title: Evaluate Boolean Expression
+url: https://leetcode.com/problems/evaluate-boolean-expression
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  point72:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

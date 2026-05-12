@@ -1,0 +1,19 @@
+id: maximal-score-after-applying-k-operations
+title: Maximal Score After Applying K Operations
+url: https://leetcode.com/problems/maximal-score-after-applying-k-operations
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  mckinsey:
+    frequency: 100
+  tiktok:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

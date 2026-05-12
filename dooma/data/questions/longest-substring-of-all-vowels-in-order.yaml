@@ -1,0 +1,23 @@
+id: longest-substring-of-all-vowels-in-order
+title: Longest Substring Of All Vowels in Order
+url: https://leetcode.com/problems/longest-substring-of-all-vowels-in-order
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  oracle:
+    frequency: 37
+  paypal:
+    frequency: 37
+  salesforce:
+    frequency: 25
+  thomson-reuters:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

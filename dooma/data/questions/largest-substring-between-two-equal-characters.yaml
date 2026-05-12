@@ -1,0 +1,15 @@
+id: largest-substring-between-two-equal-characters
+title: Largest Substring Between Two Equal Characters
+url: https://leetcode.com/problems/largest-substring-between-two-equal-characters
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  microsoft:
+    frequency: 12
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

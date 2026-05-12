@@ -1,0 +1,19 @@
+id: replace-elements-with-greatest-element-on-right-side
+title: Replace Elements with Greatest Element on Right Side
+url: https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  zoho:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

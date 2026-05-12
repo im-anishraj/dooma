@@ -1,0 +1,21 @@
+id: minimum-replacements-to-sort-the-array
+title: Minimum Replacements to Sort the Array
+url: https://leetcode.com/problems/minimum-replacements-to-sort-the-array
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  expedia:
+    frequency: 100
+  google:
+    frequency: 12
+  moveworks:
+    frequency: 50
+  paypal:
+    frequency: 50
+  zscaler:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

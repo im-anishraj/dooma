@@ -1,0 +1,19 @@
+id: convert-bst-to-greater-tree
+title: Convert BST to Greater Tree
+url: https://leetcode.com/problems/convert-bst-to-greater-tree
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

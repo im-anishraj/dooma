@@ -1,0 +1,13 @@
+id: maximum-k-to-sort-a-permutation
+title: Maximum K to Sort a Permutation
+url: https://leetcode.com/problems/maximum-k-to-sort-a-permutation
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

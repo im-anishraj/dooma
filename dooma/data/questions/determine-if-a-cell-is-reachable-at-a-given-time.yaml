@@ -1,0 +1,15 @@
+id: determine-if-a-cell-is-reachable-at-a-given-time
+title: Determine if a Cell Is Reachable at a Given Time
+url: https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  github:
+    frequency: 100
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

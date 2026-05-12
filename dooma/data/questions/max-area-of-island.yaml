@@ -1,0 +1,51 @@
+id: max-area-of-island
+title: Max Area of Island
+url: https://leetcode.com/problems/max-area-of-island
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 37
+  anduril:
+    frequency: 50
+  bloomberg:
+    frequency: 25
+  doordash:
+    frequency: 50
+  goldman-sachs:
+    frequency: 37
+  google:
+    frequency: 37
+  grubhub:
+    frequency: 87
+  intuit:
+    frequency: 75
+  linkedin:
+    frequency: 37
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 37
+  oracle:
+    frequency: 37
+  roku:
+    frequency: 87
+  schlumberger:
+    frequency: 100
+  snowflake:
+    frequency: 62
+  tesla:
+    frequency: 50
+  tiktok:
+    frequency: 62
+  uber:
+    frequency: 25
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: maximum-average-subtree
+title: Maximum Average Subtree
+url: https://leetcode.com/problems/maximum-average-subtree
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

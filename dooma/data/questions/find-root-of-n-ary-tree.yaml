@@ -1,0 +1,17 @@
+id: find-root-of-n-ary-tree
+title: Find Root of N-Ary Tree
+url: https://leetcode.com/problems/find-root-of-n-ary-tree
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

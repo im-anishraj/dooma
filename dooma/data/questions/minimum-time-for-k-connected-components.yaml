@@ -1,0 +1,15 @@
+id: minimum-time-for-k-connected-components
+title: Minimum Time for K Connected Components
+url: https://leetcode.com/problems/minimum-time-for-k-connected-components
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  phonepe:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

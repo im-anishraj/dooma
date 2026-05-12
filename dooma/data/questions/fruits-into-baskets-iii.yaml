@@ -1,0 +1,19 @@
+id: fruits-into-baskets-iii
+title: Fruits Into Baskets III
+url: https://leetcode.com/problems/fruits-into-baskets-iii
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

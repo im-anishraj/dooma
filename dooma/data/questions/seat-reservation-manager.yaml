@@ -1,0 +1,19 @@
+id: seat-reservation-manager
+title: Seat Reservation Manager
+url: https://leetcode.com/problems/seat-reservation-manager
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  dropbox:
+    frequency: 100
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

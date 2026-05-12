@@ -1,0 +1,15 @@
+id: twisted-mirror-path-count
+title: Twisted Mirror Path Count
+url: https://leetcode.com/problems/twisted-mirror-path-count
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

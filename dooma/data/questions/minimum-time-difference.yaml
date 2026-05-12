@@ -1,0 +1,31 @@
+id: minimum-time-difference
+title: Minimum Time Difference
+url: https://leetcode.com/problems/minimum-time-difference
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  capital-one:
+    frequency: 50
+  google:
+    frequency: 37
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 25
+  palantir-technologies:
+    frequency: 75
+  tiktok:
+    frequency: 25
+  visa:
+    frequency: 62
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,107 @@
+id: sliding-window-maximum
+title: Sliding Window Maximum
+url: https://leetcode.com/problems/sliding-window-maximum
+difficulty: hard
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 50
+  agoda:
+    frequency: 62
+  amazon:
+    frequency: 62
+  apple:
+    frequency: 37
+  aurora:
+    frequency: 75
+  autodesk:
+    frequency: 62
+  blinkit:
+    frequency: 100
+  bloomberg:
+    frequency: 50
+  bookingcom:
+    frequency: 87
+  cisco:
+    frequency: 37
+  citadel:
+    frequency: 100
+  coupang:
+    frequency: 75
+  de-shaw:
+    frequency: 62
+  doordash:
+    frequency: 37
+  expedia:
+    frequency: 50
+  gameskraft:
+    frequency: 62
+  gojek:
+    frequency: 87
+  goldman-sachs:
+    frequency: 50
+  google:
+    frequency: 50
+  ibm:
+    frequency: 50
+  infosys:
+    frequency: 37
+  jpmorgan:
+    frequency: 75
+  juspay:
+    frequency: 50
+  line:
+    frequency: 100
+  makemytrip:
+    frequency: 62
+  medianet:
+    frequency: 50
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 50
+  mongodb:
+    frequency: 62
+  nutanix:
+    frequency: 87
+  nvidia:
+    frequency: 50
+  oracle:
+    frequency: 75
+  palo-alto-networks:
+    frequency: 50
+  phonepe:
+    frequency: 50
+  salesforce:
+    frequency: 37
+  servicenow:
+    frequency: 62
+  sprinklr:
+    frequency: 50
+  tcs:
+    frequency: 50
+  tiktok:
+    frequency: 50
+  uber:
+    frequency: 37
+  visa:
+    frequency: 37
+  wayfair:
+    frequency: 62
+  yahoo:
+    frequency: 50
+  yandex:
+    frequency: 25
+  zenefits:
+    frequency: 100
+  zepto:
+    frequency: 87
+  zeta:
+    frequency: 62
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

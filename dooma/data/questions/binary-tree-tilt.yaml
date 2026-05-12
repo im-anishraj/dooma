@@ -1,0 +1,17 @@
+id: binary-tree-tilt
+title: Binary Tree Tilt
+url: https://leetcode.com/problems/binary-tree-tilt
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  indeed:
+    frequency: 100
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

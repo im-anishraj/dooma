@@ -1,0 +1,15 @@
+id: sum-of-distances
+title: Sum of Distances
+url: https://leetcode.com/problems/sum-of-distances
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bny-mellon:
+    frequency: 100
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

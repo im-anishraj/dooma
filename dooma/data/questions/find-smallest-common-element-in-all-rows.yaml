@@ -1,0 +1,15 @@
+id: find-smallest-common-element-in-all-rows
+title: Find Smallest Common Element in All Rows
+url: https://leetcode.com/problems/find-smallest-common-element-in-all-rows
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

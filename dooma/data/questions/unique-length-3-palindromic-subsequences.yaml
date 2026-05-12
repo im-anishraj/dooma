@@ -1,0 +1,21 @@
+id: unique-length-3-palindromic-subsequences
+title: Unique Length-3 Palindromic Subsequences
+url: https://leetcode.com/problems/unique-length-3-palindromic-subsequences
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 37
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

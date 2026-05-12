@@ -1,0 +1,13 @@
+id: sum-of-values-at-indices-with-k-set-bits
+title: Sum of Values at Indices With K Set Bits
+url: https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

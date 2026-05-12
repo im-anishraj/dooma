@@ -1,0 +1,17 @@
+id: maximum-tastiness-of-candy-basket
+title: Maximum Tastiness of Candy Basket
+url: https://leetcode.com/problems/maximum-tastiness-of-candy-basket
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  phonepe:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

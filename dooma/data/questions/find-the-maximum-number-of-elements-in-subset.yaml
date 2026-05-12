@@ -1,0 +1,15 @@
+id: find-the-maximum-number-of-elements-in-subset
+title: Find the Maximum Number of Elements in Subset
+url: https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

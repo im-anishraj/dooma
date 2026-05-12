@@ -1,0 +1,13 @@
+id: select-k-disjoint-special-substrings
+title: Select K Disjoint Special Substrings
+url: https://leetcode.com/problems/select-k-disjoint-special-substrings
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: maximal-range-that-each-element-is-maximum-in-it
+title: Maximal Range That Each Element Is Maximum in It
+url: https://leetcode.com/problems/maximal-range-that-each-element-is-maximum-in-it
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

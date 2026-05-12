@@ -1,0 +1,13 @@
+id: shortest-subarray-with-or-at-least-k-i
+title: Shortest Subarray With OR at Least K I
+url: https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  mitsogo:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

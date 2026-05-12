@@ -1,0 +1,23 @@
+id: break-a-palindrome
+title: Break a Palindrome
+url: https://leetcode.com/problems/break-a-palindrome
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  dell:
+    frequency: 87
+  expedia:
+    frequency: 100
+  mathworks:
+    frequency: 50
+  nvidia:
+    frequency: 62
+  vmware:
+    frequency: 100
+  workday:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

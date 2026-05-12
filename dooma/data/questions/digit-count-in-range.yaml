@@ -1,0 +1,13 @@
+id: digit-count-in-range
+title: Digit Count in Range
+url: https://leetcode.com/problems/digit-count-in-range
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

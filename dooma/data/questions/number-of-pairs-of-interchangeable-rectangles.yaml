@@ -1,0 +1,13 @@
+id: number-of-pairs-of-interchangeable-rectangles
+title: Number of Pairs of Interchangeable Rectangles
+url: https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

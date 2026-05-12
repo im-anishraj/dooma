@@ -1,0 +1,15 @@
+id: lexicographically-smallest-string-after-applying-operations
+title: Lexicographically Smallest String After Applying Operations
+url: https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  jpmorgan:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

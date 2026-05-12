@@ -1,0 +1,59 @@
+id: implement-trie-prefix-tree
+title: Implement Trie (Prefix Tree)
+url: https://leetcode.com/problems/implement-trie-prefix-tree
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 50
+  arista-networks:
+    frequency: 62
+  bloomberg:
+    frequency: 50
+  citadel:
+    frequency: 50
+  docusign:
+    frequency: 87
+  doordash:
+    frequency: 50
+  general-motors:
+    frequency: 62
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 37
+  grammarly:
+    frequency: 50
+  instabase:
+    frequency: 100
+  lyft:
+    frequency: 37
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 50
+  mongodb:
+    frequency: 100
+  nvidia:
+    frequency: 37
+  oracle:
+    frequency: 50
+  roblox:
+    frequency: 62
+  snowflake:
+    frequency: 37
+  tiktok:
+    frequency: 25
+  twitter:
+    frequency: 100
+  uber:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,23 @@
+id: binary-subarrays-with-sum
+title: Binary Subarrays With Sum
+url: https://leetcode.com/problems/binary-subarrays-with-sum
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 37
+  google:
+    frequency: 37
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: find-permutation
+title: Find Permutation
+url: https://leetcode.com/problems/find-permutation
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: double-modular-exponentiation
+title: Double Modular Exponentiation
+url: https://leetcode.com/problems/double-modular-exponentiation
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  barclays:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,23 @@
+id: rectangle-area
+title: Rectangle Area
+url: https://leetcode.com/problems/rectangle-area
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  nvidia:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

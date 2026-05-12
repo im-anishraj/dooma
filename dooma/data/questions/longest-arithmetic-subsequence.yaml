@@ -1,0 +1,25 @@
+id: longest-arithmetic-subsequence
+title: Longest Arithmetic Subsequence
+url: https://leetcode.com/problems/longest-arithmetic-subsequence
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 37
+  snapdeal:
+    frequency: 100
+  turing:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

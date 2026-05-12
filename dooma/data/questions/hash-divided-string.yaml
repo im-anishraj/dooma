@@ -1,0 +1,13 @@
+id: hash-divided-string
+title: Hash Divided String
+url: https://leetcode.com/problems/hash-divided-string
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

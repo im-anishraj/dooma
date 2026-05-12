@@ -1,0 +1,25 @@
+id: rank-teams-by-votes
+title: Rank Teams by Votes
+url: https://leetcode.com/problems/rank-teams-by-votes
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  atlassian:
+    frequency: 100
+  bloomberg:
+    frequency: 12
+  coursera:
+    frequency: 87
+  google:
+    frequency: 25
+  microsoft:
+    frequency: 12
+  tekion:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

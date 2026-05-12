@@ -1,0 +1,15 @@
+id: find-the-grid-of-region-average
+title: Find the Grid of Region Average
+url: https://leetcode.com/problems/find-the-grid-of-region-average
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  apple:
+    frequency: 50
+  jio:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

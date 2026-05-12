@@ -1,0 +1,17 @@
+id: erect-the-fence
+title: Erect the Fence
+url: https://leetcode.com/problems/erect-the-fence
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+  meesho:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

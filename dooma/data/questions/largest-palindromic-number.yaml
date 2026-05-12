@@ -1,0 +1,15 @@
+id: largest-palindromic-number
+title: Largest Palindromic Number
+url: https://leetcode.com/problems/largest-palindromic-number
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  geico:
+    frequency: 100
+  microsoft:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

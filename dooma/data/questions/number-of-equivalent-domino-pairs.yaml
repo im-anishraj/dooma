@@ -1,0 +1,17 @@
+id: number-of-equivalent-domino-pairs
+title: Number of Equivalent Domino Pairs
+url: https://leetcode.com/problems/number-of-equivalent-domino-pairs
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

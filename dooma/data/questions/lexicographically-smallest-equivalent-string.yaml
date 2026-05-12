@@ -1,0 +1,21 @@
+id: lexicographically-smallest-equivalent-string
+title: Lexicographically Smallest Equivalent String
+url: https://leetcode.com/problems/lexicographically-smallest-equivalent-string
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  cloudera:
+    frequency: 62
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

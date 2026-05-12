@@ -1,0 +1,15 @@
+id: total-characters-in-string-after-transformations-i
+title: Total Characters in String After Transformations I
+url: https://leetcode.com/problems/total-characters-in-string-after-transformations-i
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

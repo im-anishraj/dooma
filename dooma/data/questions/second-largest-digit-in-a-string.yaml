@@ -1,0 +1,17 @@
+id: second-largest-digit-in-a-string
+title: Second Largest Digit in a String
+url: https://leetcode.com/problems/second-largest-digit-in-a-string
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  softwire:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

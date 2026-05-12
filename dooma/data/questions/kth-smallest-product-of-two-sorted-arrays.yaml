@@ -1,0 +1,21 @@
+id: kth-smallest-product-of-two-sorted-arrays
+title: Kth Smallest Product of Two Sorted Arrays
+url: https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 25
+  linkedin:
+    frequency: 62
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

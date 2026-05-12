@@ -1,0 +1,23 @@
+id: push-dominoes
+title: Push Dominoes
+url: https://leetcode.com/problems/push-dominoes
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  anduril:
+    frequency: 62
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

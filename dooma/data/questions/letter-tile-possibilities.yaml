@@ -1,0 +1,23 @@
+id: letter-tile-possibilities
+title: Letter Tile Possibilities
+url: https://leetcode.com/problems/letter-tile-possibilities
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  oracle:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

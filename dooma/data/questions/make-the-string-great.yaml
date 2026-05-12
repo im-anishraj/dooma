@@ -1,0 +1,23 @@
+id: make-the-string-great
+title: Make The String Great
+url: https://leetcode.com/problems/make-the-string-great
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  blackstone:
+    frequency: 87
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 37
+  meta:
+    frequency: 12
+  yahoo:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

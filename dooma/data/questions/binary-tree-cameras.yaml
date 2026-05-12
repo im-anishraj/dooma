@@ -1,0 +1,41 @@
+id: binary-tree-cameras
+title: Binary Tree Cameras
+url: https://leetcode.com/problems/binary-tree-cameras
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  6sense:
+    frequency: 87
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 12
+  de-shaw:
+    frequency: 100
+  dp-world:
+    frequency: 87
+  ebay:
+    frequency: 75
+  goldman-sachs:
+    frequency: 37
+  google:
+    frequency: 12
+  graviton:
+    frequency: 87
+  mathworks:
+    frequency: 87
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 25
+  oracle:
+    frequency: 37
+  zeta:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

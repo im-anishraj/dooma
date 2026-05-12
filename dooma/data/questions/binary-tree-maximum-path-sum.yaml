@@ -1,0 +1,61 @@
+id: binary-tree-maximum-path-sum
+title: Binary Tree Maximum Path Sum
+url: https://leetcode.com/problems/binary-tree-maximum-path-sum
+difficulty: hard
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 62
+  apple:
+    frequency: 37
+  arista-networks:
+    frequency: 62
+  baidu:
+    frequency: 100
+  bloomberg:
+    frequency: 37
+  citadel:
+    frequency: 50
+  datadog:
+    frequency: 50
+  doordash:
+    frequency: 87
+  flipkart:
+    frequency: 37
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 50
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 50
+  nutanix:
+    frequency: 62
+  nvidia:
+    frequency: 50
+  oracle:
+    frequency: 50
+  paypal:
+    frequency: 37
+  salesforce:
+    frequency: 62
+  snapchat:
+    frequency: 37
+  tcs:
+    frequency: 37
+  tiktok:
+    frequency: 62
+  uber:
+    frequency: 37
+  walmart-labs:
+    frequency: 37
+  wix:
+    frequency: 87
+  yandex:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,31 @@
+id: maximum-average-subarray-i
+title: Maximum Average Subarray I
+url: https://leetcode.com/problems/maximum-average-subarray-i
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 37
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 37
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 25
+  oppo:
+    frequency: 100
+  tcs:
+    frequency: 37
+  uber:
+    frequency: 25
+  yandex:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

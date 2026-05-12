@@ -1,0 +1,15 @@
+id: shortest-distance-to-target-string-in-a-circular-array
+title: Shortest Distance to Target String in a Circular Array
+url: https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 37
+  salesforce:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,21 @@
+id: longest-happy-prefix
+title: Longest Happy Prefix
+url: https://leetcode.com/problems/longest-happy-prefix
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

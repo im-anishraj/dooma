@@ -1,0 +1,25 @@
+id: 2-keys-keyboard
+title: 2 Keys Keyboard
+url: https://leetcode.com/problems/2-keys-keyboard
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 37
+  tiktok:
+    frequency: 37
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,23 @@
+id: investments-in-2016
+title: Investments in 2016
+url: https://leetcode.com/problems/investments-in-2016
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  twitter:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,35 @@
+id: power-of-two
+title: Power of Two
+url: https://leetcode.com/problems/power-of-two
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 37
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 50
+  infosys:
+    frequency: 37
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 25
+  nvidia:
+    frequency: 50
+  qualcomm:
+    frequency: 75
+  snapchat:
+    frequency: 50
+  tcs:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

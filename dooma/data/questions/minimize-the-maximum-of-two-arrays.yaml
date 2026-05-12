@@ -1,0 +1,15 @@
+id: minimize-the-maximum-of-two-arrays
+title: Minimize the Maximum of Two Arrays
+url: https://leetcode.com/problems/minimize-the-maximum-of-two-arrays
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  goldman-sachs:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

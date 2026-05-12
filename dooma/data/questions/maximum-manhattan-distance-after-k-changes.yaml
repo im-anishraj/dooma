@@ -1,0 +1,19 @@
+id: maximum-manhattan-distance-after-k-changes
+title: Maximum Manhattan Distance After K Changes
+url: https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

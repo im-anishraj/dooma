@@ -1,0 +1,15 @@
+id: find-all-lonely-numbers-in-the-array
+title: Find All Lonely Numbers in the Array
+url: https://leetcode.com/problems/find-all-lonely-numbers-in-the-array
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  apple:
+    frequency: 25
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

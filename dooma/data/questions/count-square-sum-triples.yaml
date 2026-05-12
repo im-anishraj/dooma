@@ -1,0 +1,21 @@
+id: count-square-sum-triples
+title: Count Square Sum Triples
+url: https://leetcode.com/problems/count-square-sum-triples
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  qualtrics:
+    frequency: 100
+  turing:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

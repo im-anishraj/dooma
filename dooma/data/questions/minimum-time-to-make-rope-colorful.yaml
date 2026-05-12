@@ -1,0 +1,17 @@
+id: minimum-time-to-make-rope-colorful
+title: Minimum Time to Make Rope Colorful
+url: https://leetcode.com/problems/minimum-time-to-make-rope-colorful
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  microsoft:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: largest-prime-from-consecutive-prime-sum
+title: Largest Prime from Consecutive Prime Sum
+url: https://leetcode.com/problems/largest-prime-from-consecutive-prime-sum
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

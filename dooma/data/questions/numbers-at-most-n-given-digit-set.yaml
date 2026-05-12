@@ -1,0 +1,17 @@
+id: numbers-at-most-n-given-digit-set
+title: Numbers At Most N Given Digit Set
+url: https://leetcode.com/problems/numbers-at-most-n-given-digit-set
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  microsoft:
+    frequency: 12
+  tiktok:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

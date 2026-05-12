@@ -1,0 +1,35 @@
+id: remove-duplicates-from-sorted-array-ii
+title: Remove Duplicates from Sorted Array II
+url: https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accolite:
+    frequency: 50
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 50
+  bloomberg:
+    frequency: 37
+  freshworks:
+    frequency: 75
+  google:
+    frequency: 37
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 37
+  nykaa:
+    frequency: 87
+  tcs:
+    frequency: 25
+  tiktok:
+    frequency: 37
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

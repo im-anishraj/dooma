@@ -1,0 +1,29 @@
+id: number-of-flowers-in-full-bloom
+title: Number of Flowers in Full Bloom
+url: https://leetcode.com/problems/number-of-flowers-in-full-bloom
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  capital-one:
+    frequency: 37
+  cohesity:
+    frequency: 87
+  databricks:
+    frequency: 37
+  google:
+    frequency: 25
+  oracle:
+    frequency: 37
+  phonepe:
+    frequency: 62
+  roblox:
+    frequency: 50
+  uber:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,45 @@
+id: find-the-index-of-the-first-occurrence-in-a-string
+title: Find the Index of the First Occurrence in a String
+url: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 62
+  bloomberg:
+    frequency: 62
+  capgemini:
+    frequency: 62
+  dell:
+    frequency: 62
+  expedia:
+    frequency: 50
+  google:
+    frequency: 50
+  ibm:
+    frequency: 37
+  infosys:
+    frequency: 37
+  linkedin:
+    frequency: 25
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 50
+  pocket-gems:
+    frequency: 100
+  qualcomm:
+    frequency: 50
+  tcs:
+    frequency: 62
+  zoho:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

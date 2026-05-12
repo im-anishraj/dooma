@@ -1,0 +1,35 @@
+id: robot-bounded-in-circle
+title: Robot Bounded In Circle
+url: https://leetcode.com/problems/robot-bounded-in-circle
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  airbnb:
+    frequency: 75
+  amazon:
+    frequency: 25
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  blue-origin:
+    frequency: 100
+  goldman-sachs:
+    frequency: 62
+  google:
+    frequency: 12
+  linkedin:
+    frequency: 25
+  microsoft:
+    frequency: 12
+  nvidia:
+    frequency: 37
+  tiktok:
+    frequency: 25
+  zscaler:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,17 @@
+id: find-all-groups-of-farmland
+title: Find All Groups of Farmland
+url: https://leetcode.com/problems/find-all-groups-of-farmland
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  citrix:
+    frequency: 100
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

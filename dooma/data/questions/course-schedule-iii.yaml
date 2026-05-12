@@ -1,0 +1,17 @@
+id: course-schedule-iii
+title: Course Schedule III
+url: https://leetcode.com/problems/course-schedule-iii
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  salesforce:
+    frequency: 25
+  works-applications:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

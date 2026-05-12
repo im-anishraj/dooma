@@ -1,0 +1,17 @@
+id: minimum-adjacent-swaps-for-k-consecutive-ones
+title: Minimum Adjacent Swaps for K Consecutive Ones
+url: https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  microsoft:
+    frequency: 37
+  turing:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

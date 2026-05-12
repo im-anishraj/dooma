@@ -1,0 +1,15 @@
+id: maximum-coins-from-k-consecutive-bags
+title: Maximum Coins From K Consecutive Bags
+url: https://leetcode.com/problems/maximum-coins-from-k-consecutive-bags
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

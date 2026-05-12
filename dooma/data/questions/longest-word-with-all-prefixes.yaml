@@ -1,0 +1,13 @@
+id: longest-word-with-all-prefixes
+title: Longest Word With All Prefixes
+url: https://leetcode.com/problems/longest-word-with-all-prefixes
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

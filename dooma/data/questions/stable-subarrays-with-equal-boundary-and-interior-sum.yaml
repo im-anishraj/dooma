@@ -1,0 +1,15 @@
+id: stable-subarrays-with-equal-boundary-and-interior-sum
+title: Stable Subarrays With Equal Boundary and Interior Sum
+url: https://leetcode.com/problems/stable-subarrays-with-equal-boundary-and-interior-sum
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

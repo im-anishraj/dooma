@@ -1,0 +1,17 @@
+id: vowels-game-in-a-string
+title: Vowels Game in a String
+url: https://leetcode.com/problems/vowels-game-in-a-string
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

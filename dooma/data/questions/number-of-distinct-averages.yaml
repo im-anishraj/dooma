@@ -1,0 +1,13 @@
+id: number-of-distinct-averages
+title: Number of Distinct Averages
+url: https://leetcode.com/problems/number-of-distinct-averages
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

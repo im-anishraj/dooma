@@ -1,0 +1,13 @@
+id: bold-words-in-string
+title: Bold Words in String
+url: https://leetcode.com/problems/bold-words-in-string
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

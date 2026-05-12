@@ -1,0 +1,13 @@
+id: minimize-manhattan-distances
+title: Minimize Manhattan Distances
+url: https://leetcode.com/problems/minimize-manhattan-distances
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

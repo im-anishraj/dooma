@@ -1,0 +1,17 @@
+id: sort-integers-by-the-number-of-1-bits
+title: Sort Integers by The Number of 1 Bits
+url: https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  mapbox:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

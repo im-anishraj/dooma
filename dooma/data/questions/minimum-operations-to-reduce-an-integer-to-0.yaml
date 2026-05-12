@@ -1,0 +1,25 @@
+id: minimum-operations-to-reduce-an-integer-to-0
+title: Minimum Operations to Reduce an Integer to 0
+url: https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  6sense:
+    frequency: 100
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 37
+  nvidia:
+    frequency: 75
+  salesforce:
+    frequency: 100
+  uber:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

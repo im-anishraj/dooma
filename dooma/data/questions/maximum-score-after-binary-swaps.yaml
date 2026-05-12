@@ -1,0 +1,13 @@
+id: maximum-score-after-binary-swaps
+title: Maximum Score After Binary Swaps
+url: https://leetcode.com/problems/maximum-score-after-binary-swaps
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

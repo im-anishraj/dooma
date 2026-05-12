@@ -1,0 +1,15 @@
+id: coordinate-with-maximum-network-quality
+title: Coordinate With Maximum Network Quality
+url: https://leetcode.com/problems/coordinate-with-maximum-network-quality
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  lyft:
+    frequency: 50
+  peak6:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

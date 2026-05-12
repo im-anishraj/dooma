@@ -1,0 +1,19 @@
+id: group-sold-products-by-the-date
+title: Group Sold Products By The Date
+url: https://leetcode.com/problems/group-sold-products-by-the-date
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

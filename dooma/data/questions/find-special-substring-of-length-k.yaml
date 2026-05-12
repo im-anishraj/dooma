@@ -1,0 +1,13 @@
+id: find-special-substring-of-length-k
+title: Find Special Substring of Length K
+url: https://leetcode.com/problems/find-special-substring-of-length-k
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

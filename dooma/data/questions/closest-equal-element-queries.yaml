@@ -1,0 +1,13 @@
+id: closest-equal-element-queries
+title: Closest Equal Element Queries
+url: https://leetcode.com/problems/closest-equal-element-queries
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  salesforce:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

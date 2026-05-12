@@ -1,0 +1,15 @@
+id: number-of-valid-move-combinations-on-chessboard
+title: Number of Valid Move Combinations On Chessboard
+url: https://leetcode.com/problems/number-of-valid-move-combinations-on-chessboard
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  paypal:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

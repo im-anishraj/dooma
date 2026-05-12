@@ -1,0 +1,15 @@
+id: minimum-operations-to-make-character-frequencies-equal
+title: Minimum Operations to Make Character Frequencies Equal
+url: https://leetcode.com/problems/minimum-operations-to-make-character-frequencies-equal
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  tiktok:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

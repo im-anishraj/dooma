@@ -1,0 +1,31 @@
+id: most-stones-removed-with-same-row-or-column
+title: Most Stones Removed with Same Row or Column
+url: https://leetcode.com/problems/most-stones-removed-with-same-row-or-column
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 25
+  medianet:
+    frequency: 75
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  phonepe:
+    frequency: 87
+  snowflake:
+    frequency: 50
+  tekion:
+    frequency: 75
+  tiktok:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

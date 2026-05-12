@@ -1,0 +1,15 @@
+id: path-sum-iv
+title: Path Sum IV
+url: https://leetcode.com/problems/path-sum-iv
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  alibaba:
+    frequency: 100
+  tiktok:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,23 @@
+id: kids-with-the-greatest-number-of-candies
+title: Kids With the Greatest Number of Candies
+url: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 37
+  infosys:
+    frequency: 37
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

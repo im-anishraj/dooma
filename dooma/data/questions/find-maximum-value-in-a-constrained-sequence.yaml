@@ -1,0 +1,15 @@
+id: find-maximum-value-in-a-constrained-sequence
+title: Find Maximum Value in a Constrained Sequence
+url: https://leetcode.com/problems/find-maximum-value-in-a-constrained-sequence
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  samsung:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

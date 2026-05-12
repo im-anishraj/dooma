@@ -1,0 +1,23 @@
+id: factorial-trailing-zeroes
+title: Factorial Trailing Zeroes
+url: https://leetcode.com/problems/factorial-trailing-zeroes
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 50
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  tcs:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

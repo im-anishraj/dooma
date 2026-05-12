@@ -1,0 +1,29 @@
+id: count-the-number-of-fair-pairs
+title: Count the Number of Fair Pairs
+url: https://leetcode.com/problems/count-the-number-of-fair-pairs
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 25
+  mcdonalds:
+    frequency: 100
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  qualcomm:
+    frequency: 62
+  salesforce:
+    frequency: 62
+  tcs:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

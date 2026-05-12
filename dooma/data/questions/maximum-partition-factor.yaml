@@ -1,0 +1,13 @@
+id: maximum-partition-factor
+title: Maximum Partition Factor
+url: https://leetcode.com/problems/maximum-partition-factor
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  gameskraft:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

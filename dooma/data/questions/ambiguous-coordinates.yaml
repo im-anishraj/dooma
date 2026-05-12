@@ -1,0 +1,13 @@
+id: ambiguous-coordinates
+title: Ambiguous Coordinates
+url: https://leetcode.com/problems/ambiguous-coordinates
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

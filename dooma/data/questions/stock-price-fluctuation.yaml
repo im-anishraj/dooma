@@ -1,0 +1,27 @@
+id: stock-price-fluctuation
+title: Stock Price Fluctuation
+url: https://leetcode.com/problems/stock-price-fluctuation
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  atlassian:
+    frequency: 100
+  google:
+    frequency: 25
+  linkedin:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  mongodb:
+    frequency: 75
+  ripple:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

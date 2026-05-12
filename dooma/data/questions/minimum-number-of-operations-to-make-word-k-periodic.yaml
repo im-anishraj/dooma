@@ -1,0 +1,15 @@
+id: minimum-number-of-operations-to-make-word-k-periodic
+title: Minimum Number of Operations to Make Word K-Periodic
+url: https://leetcode.com/problems/minimum-number-of-operations-to-make-word-k-periodic
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  turing:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

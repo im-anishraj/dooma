@@ -1,0 +1,21 @@
+id: count-hills-and-valleys-in-an-array
+title: Count Hills and Valleys in an Array
+url: https://leetcode.com/problems/count-hills-and-valleys-in-an-array
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

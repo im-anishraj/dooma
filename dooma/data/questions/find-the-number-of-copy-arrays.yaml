@@ -1,0 +1,15 @@
+id: find-the-number-of-copy-arrays
+title: Find the Number of Copy Arrays
+url: https://leetcode.com/problems/find-the-number-of-copy-arrays
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  traveloka:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

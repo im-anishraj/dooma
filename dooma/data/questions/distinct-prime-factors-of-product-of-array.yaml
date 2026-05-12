@@ -1,0 +1,15 @@
+id: distinct-prime-factors-of-product-of-array
+title: Distinct Prime Factors of Product of Array
+url: https://leetcode.com/problems/distinct-prime-factors-of-product-of-array
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

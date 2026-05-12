@@ -1,0 +1,83 @@
+id: min-stack
+title: Min Stack
+url: https://leetcode.com/problems/min-stack
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 62
+  apple:
+    frequency: 62
+  bloomberg:
+    frequency: 75
+  citadel:
+    frequency: 50
+  flipkart:
+    frequency: 37
+  google:
+    frequency: 50
+  ibm:
+    frequency: 37
+  imc:
+    frequency: 75
+  informatica:
+    frequency: 100
+  intel:
+    frequency: 62
+  intuit:
+    frequency: 62
+  linkedin:
+    frequency: 37
+  lucid:
+    frequency: 62
+  lyft:
+    frequency: 62
+  makemytrip:
+    frequency: 62
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 62
+  nike:
+    frequency: 87
+  nvidia:
+    frequency: 37
+  odoo:
+    frequency: 100
+  oracle:
+    frequency: 62
+  palo-alto-networks:
+    frequency: 75
+  paytm:
+    frequency: 100
+  salesforce:
+    frequency: 50
+  sigmoid:
+    frequency: 75
+  snapchat:
+    frequency: 87
+  snowflake:
+    frequency: 50
+  tcs:
+    frequency: 37
+  tinkoff:
+    frequency: 87
+  uber:
+    frequency: 50
+  veeva:
+    frequency: 100
+  vimeo:
+    frequency: 62
+  walmart-labs:
+    frequency: 50
+  yandex:
+    frequency: 62
+  zenefits:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

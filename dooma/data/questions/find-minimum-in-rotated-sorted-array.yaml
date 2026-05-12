@@ -1,0 +1,47 @@
+id: find-minimum-in-rotated-sorted-array
+title: Find Minimum in Rotated Sorted Array
+url: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 37
+  bloomberg:
+    frequency: 37
+  flipkart:
+    frequency: 37
+  goldman-sachs:
+    frequency: 62
+  google:
+    frequency: 37
+  ibm:
+    frequency: 37
+  infosys:
+    frequency: 37
+  linkedin:
+    frequency: 25
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 50
+  oracle:
+    frequency: 37
+  tcs:
+    frequency: 25
+  tiktok:
+    frequency: 50
+  uber:
+    frequency: 37
+  walmart-labs:
+    frequency: 50
+  yandex:
+    frequency: 37
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

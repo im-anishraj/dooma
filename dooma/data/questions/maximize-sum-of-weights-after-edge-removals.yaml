@@ -1,0 +1,13 @@
+id: maximize-sum-of-weights-after-edge-removals
+title: Maximize Sum of Weights after Edge Removals
+url: https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  gameskraft:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

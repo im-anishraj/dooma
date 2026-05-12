@@ -1,0 +1,3 @@
+id: monotonic-stack
+name: Monotonic Stack
+description: Stack maintaining sorted order

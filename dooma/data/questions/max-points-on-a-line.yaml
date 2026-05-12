@@ -1,0 +1,43 @@
+id: max-points-on-a-line
+title: Max Points on a Line
+url: https://leetcode.com/problems/max-points-on-a-line
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  apple:
+    frequency: 62
+  bloomberg:
+    frequency: 12
+  cisco:
+    frequency: 50
+  citadel:
+    frequency: 50
+  google:
+    frequency: 25
+  linkedin:
+    frequency: 50
+  meesho:
+    frequency: 50
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 25
+  nvidia:
+    frequency: 50
+  sprinklr:
+    frequency: 50
+  twitter:
+    frequency: 100
+  waymo:
+    frequency: 100
+  zoho:
+    frequency: 37
+  zoox:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

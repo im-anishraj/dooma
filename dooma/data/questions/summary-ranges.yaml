@@ -1,0 +1,31 @@
+id: summary-ranges
+title: Summary Ranges
+url: https://leetcode.com/problems/summary-ranges
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 37
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 12
+  netflix:
+    frequency: 75
+  vk:
+    frequency: 75
+  yandex:
+    frequency: 87
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

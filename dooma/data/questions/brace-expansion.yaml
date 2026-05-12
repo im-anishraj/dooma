@@ -1,0 +1,21 @@
+id: brace-expansion
+title: Brace Expansion
+url: https://leetcode.com/problems/brace-expansion
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  apple:
+    frequency: 25
+  doordash:
+    frequency: 37
+  google:
+    frequency: 25
+  niantic:
+    frequency: 100
+  stripe:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

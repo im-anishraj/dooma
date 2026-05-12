@@ -1,0 +1,13 @@
+id: maximum-sum-score-of-array
+title: Maximum Sum Score of Array
+url: https://leetcode.com/problems/maximum-sum-score-of-array
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

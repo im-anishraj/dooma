@@ -1,0 +1,19 @@
+id: determine-whether-matrix-can-be-obtained-by-rotation
+title: Determine Whether Matrix Can Be Obtained By Rotation
+url: https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

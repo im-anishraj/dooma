@@ -1,0 +1,13 @@
+id: maximum-coin-collection
+title: Maximum Coin Collection
+url: https://leetcode.com/problems/maximum-coin-collection
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  uber:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

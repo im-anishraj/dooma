@@ -1,0 +1,39 @@
+id: next-greater-element-iii
+title: Next Greater Element III
+url: https://leetcode.com/problems/next-greater-element-iii
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 37
+  doordash:
+    frequency: 62
+  google:
+    frequency: 12
+  infosys:
+    frequency: 37
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 25
+  mitsogo:
+    frequency: 62
+  morgan-stanley:
+    frequency: 50
+  oracle:
+    frequency: 25
+  tiktok:
+    frequency: 37
+  walmart-labs:
+    frequency: 50
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

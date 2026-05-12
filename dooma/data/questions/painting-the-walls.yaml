@@ -1,0 +1,23 @@
+id: painting-the-walls
+title: Painting the Walls
+url: https://leetcode.com/problems/painting-the-walls
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  de-shaw:
+    frequency: 62
+  google:
+    frequency: 12
+  meesho:
+    frequency: 75
+  meta:
+    frequency: 12
+  snowflake:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

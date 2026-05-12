@@ -1,0 +1,15 @@
+id: unique-word-abbreviation
+title: Unique Word Abbreviation
+url: https://leetcode.com/problems/unique-word-abbreviation
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

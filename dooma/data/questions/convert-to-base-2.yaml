@@ -1,0 +1,15 @@
+id: convert-to-base-2
+title: Convert to Base -2
+url: https://leetcode.com/problems/convert-to-base-2
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  airbnb:
+    frequency: 75
+  boeing:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

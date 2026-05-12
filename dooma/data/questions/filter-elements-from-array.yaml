@@ -1,0 +1,17 @@
+id: filter-elements-from-array
+title: Filter Elements from Array
+url: https://leetcode.com/problems/filter-elements-from-array
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

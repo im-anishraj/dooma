@@ -1,0 +1,17 @@
+id: count-the-number-of-computer-unlocking-permutations
+title: Count the Number of Computer Unlocking Permutations
+url: https://leetcode.com/problems/count-the-number-of-computer-unlocking-permutations
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

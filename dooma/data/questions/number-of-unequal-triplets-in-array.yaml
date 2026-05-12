@@ -1,0 +1,13 @@
+id: number-of-unequal-triplets-in-array
+title: Number of Unequal Triplets in Array
+url: https://leetcode.com/problems/number-of-unequal-triplets-in-array
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  paytm:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

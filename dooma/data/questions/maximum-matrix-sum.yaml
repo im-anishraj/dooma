@@ -1,0 +1,23 @@
+id: maximum-matrix-sum
+title: Maximum Matrix Sum
+url: https://leetcode.com/problems/maximum-matrix-sum
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  honeywell:
+    frequency: 75
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

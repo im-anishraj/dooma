@@ -1,0 +1,13 @@
+id: smallest-index-with-equal-value
+title: Smallest Index With Equal Value
+url: https://leetcode.com/problems/smallest-index-with-equal-value
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

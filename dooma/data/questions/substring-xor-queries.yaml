@@ -1,0 +1,13 @@
+id: substring-xor-queries
+title: Substring XOR Queries
+url: https://leetcode.com/problems/substring-xor-queries
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  trilogy:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

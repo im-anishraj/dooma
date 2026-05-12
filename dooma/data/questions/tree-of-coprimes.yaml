@@ -1,0 +1,13 @@
+id: tree-of-coprimes
+title: Tree of Coprimes
+url: https://leetcode.com/problems/tree-of-coprimes
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

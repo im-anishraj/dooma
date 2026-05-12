@@ -1,0 +1,53 @@
+id: longest-common-subsequence
+title: Longest Common Subsequence
+url: https://leetcode.com/problems/longest-common-subsequence
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  accolite:
+    frequency: 50
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 37
+  bytedance:
+    frequency: 50
+  cisco:
+    frequency: 37
+  doordash:
+    frequency: 50
+  google:
+    frequency: 37
+  meta:
+    frequency: 25
+  micro1:
+    frequency: 100
+  microsoft:
+    frequency: 37
+  morgan-stanley:
+    frequency: 50
+  optum:
+    frequency: 75
+  oracle:
+    frequency: 37
+  salesforce:
+    frequency: 62
+  servicenow:
+    frequency: 50
+  tcs:
+    frequency: 25
+  tiktok:
+    frequency: 37
+  walmart-labs:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

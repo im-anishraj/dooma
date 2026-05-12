@@ -1,0 +1,59 @@
+id: basic-calculator
+title: Basic Calculator
+url: https://leetcode.com/problems/basic-calculator
+difficulty: hard
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 37
+  boeing:
+    frequency: 100
+  bytedance:
+    frequency: 50
+  canva:
+    frequency: 100
+  coupang:
+    frequency: 50
+  doordash:
+    frequency: 50
+  ericsson:
+    frequency: 87
+  google:
+    frequency: 50
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 50
+  oracle:
+    frequency: 37
+  palo-alto-networks:
+    frequency: 50
+  ripple:
+    frequency: 75
+  rokt:
+    frequency: 100
+  salesforce:
+    frequency: 25
+  snapchat:
+    frequency: 50
+  snowflake:
+    frequency: 75
+  squarepoint-capital:
+    frequency: 75
+  tesla:
+    frequency: 50
+  tiktok:
+    frequency: 50
+  uber:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,21 @@
+id: smallest-subarrays-with-maximum-bitwise-or
+title: Smallest Subarrays With Maximum Bitwise OR
+url: https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

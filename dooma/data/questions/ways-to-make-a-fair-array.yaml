@@ -1,0 +1,23 @@
+id: ways-to-make-a-fair-array
+title: Ways to Make a Fair Array
+url: https://leetcode.com/problems/ways-to-make-a-fair-array
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  doordash:
+    frequency: 37
+  dunzo:
+    frequency: 100
+  flatiron-health:
+    frequency: 100
+  microsoft:
+    frequency: 12
+  phonepe:
+    frequency: 62
+  twilio:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

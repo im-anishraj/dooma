@@ -1,0 +1,33 @@
+id: candy-crush
+title: Candy Crush
+url: https://leetcode.com/problems/candy-crush
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 25
+  braze:
+    frequency: 100
+  capital-one:
+    frequency: 87
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  pinterest:
+    frequency: 37
+  roblox:
+    frequency: 100
+  rubrik:
+    frequency: 62
+  tiktok:
+    frequency: 25
+  uber:
+    frequency: 37
+  visa:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

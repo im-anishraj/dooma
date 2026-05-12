@@ -1,0 +1,77 @@
+id: daily-temperatures
+title: Daily Temperatures
+url: https://leetcode.com/problems/daily-temperatures
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  agoda:
+    frequency: 87
+  airwallex:
+    frequency: 100
+  amazon:
+    frequency: 62
+  anduril:
+    frequency: 62
+  bloomberg:
+    frequency: 50
+  browserstack:
+    frequency: 100
+  flipkart:
+    frequency: 37
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 50
+  grab:
+    frequency: 75
+  hashedin:
+    frequency: 62
+  intuit:
+    frequency: 62
+  josh-technology:
+    frequency: 62
+  jpmorgan:
+    frequency: 37
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 50
+  morgan-stanley:
+    frequency: 62
+  netflix:
+    frequency: 62
+  nvidia:
+    frequency: 37
+  okta:
+    frequency: 62
+  oracle:
+    frequency: 37
+  palantir-technologies:
+    frequency: 37
+  salesforce:
+    frequency: 37
+  servicenow:
+    frequency: 50
+  swiggy:
+    frequency: 62
+  tekion:
+    frequency: 62
+  tiktok:
+    frequency: 62
+  verizon:
+    frequency: 75
+  visa:
+    frequency: 37
+  walmart-labs:
+    frequency: 62
+  yandex:
+    frequency: 37
+  zoho:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

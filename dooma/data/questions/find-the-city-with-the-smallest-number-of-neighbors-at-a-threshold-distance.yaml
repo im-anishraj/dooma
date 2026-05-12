@@ -1,0 +1,23 @@
+id: find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance
+title: Find the City With the Smallest Number of Neighbors at a Threshold Distance
+url: https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  uber:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

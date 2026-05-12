@@ -1,0 +1,13 @@
+id: maximize-subarray-gcd-score
+title: Maximize Subarray GCD Score
+url: https://leetcode.com/problems/maximize-subarray-gcd-score
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

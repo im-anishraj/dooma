@@ -1,0 +1,13 @@
+id: minimum-number-of-lines-to-cover-points
+title: Minimum Number of Lines to Cover Points
+url: https://leetcode.com/problems/minimum-number-of-lines-to-cover-points
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  morgan-stanley:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

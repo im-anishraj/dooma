@@ -1,0 +1,19 @@
+id: distribute-candies
+title: Distribute Candies
+url: https://leetcode.com/problems/distribute-candies
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  liveramp:
+    frequency: 100
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

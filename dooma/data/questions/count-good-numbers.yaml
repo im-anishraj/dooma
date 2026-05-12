@@ -1,0 +1,23 @@
+id: count-good-numbers
+title: Count Good Numbers
+url: https://leetcode.com/problems/count-good-numbers
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 37
+  google:
+    frequency: 37
+  infosys:
+    frequency: 37
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

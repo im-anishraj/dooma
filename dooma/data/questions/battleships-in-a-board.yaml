@@ -1,0 +1,27 @@
+id: battleships-in-a-board
+title: Battleships in a Board
+url: https://leetcode.com/problems/battleships-in-a-board
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  hsbc:
+    frequency: 100
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 37
+  microstrategy:
+    frequency: 62
+  tinkoff:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

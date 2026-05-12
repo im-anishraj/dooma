@@ -1,0 +1,13 @@
+id: maximize-number-of-subsequences-in-a-string
+title: Maximize Number of Subsequences in a String
+url: https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

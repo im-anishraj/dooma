@@ -1,0 +1,91 @@
+id: text-justification
+title: Text Justification
+url: https://leetcode.com/problems/text-justification
+difficulty: hard
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  airbnb:
+    frequency: 100
+  amazon:
+    frequency: 37
+  anyscale:
+    frequency: 100
+  apple:
+    frequency: 37
+  atlassian:
+    frequency: 62
+  bcg:
+    frequency: 87
+  bloomberg:
+    frequency: 25
+  bytedance:
+    frequency: 50
+  capital-one:
+    frequency: 87
+  coinbase:
+    frequency: 50
+  coursera:
+    frequency: 100
+  cyntexa:
+    frequency: 100
+  databricks:
+    frequency: 62
+  de-shaw:
+    frequency: 37
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 50
+  karat:
+    frequency: 100
+  lime:
+    frequency: 100
+  linkedin:
+    frequency: 50
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 37
+  mongodb:
+    frequency: 87
+  moveworks:
+    frequency: 100
+  notion:
+    frequency: 100
+  oracle:
+    frequency: 37
+  paypal:
+    frequency: 37
+  pinterest:
+    frequency: 37
+  quora:
+    frequency: 62
+  robinhood:
+    frequency: 75
+  roblox:
+    frequency: 87
+  samsara:
+    frequency: 62
+  sentry:
+    frequency: 100
+  sig:
+    frequency: 100
+  tiktok:
+    frequency: 75
+  uber:
+    frequency: 75
+  visa:
+    frequency: 100
+  waymo:
+    frequency: 62
+  weride:
+    frequency: 62
+  yandex:
+    frequency: 25
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

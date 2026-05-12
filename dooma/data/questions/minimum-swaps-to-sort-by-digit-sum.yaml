@@ -1,0 +1,13 @@
+id: minimum-swaps-to-sort-by-digit-sum
+title: Minimum Swaps to Sort by Digit Sum
+url: https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,23 @@
+id: minimum-deletions-to-make-character-frequencies-unique
+title: Minimum Deletions to Make Character Frequencies Unique
+url: https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  american-express:
+    frequency: 100
+  google:
+    frequency: 12
+  intuit:
+    frequency: 37
+  microsoft:
+    frequency: 37
+  smartnews:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

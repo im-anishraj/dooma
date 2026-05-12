@@ -1,0 +1,13 @@
+id: find-kth-largest-xor-coordinate-value
+title: Find Kth Largest XOR Coordinate Value
+url: https://leetcode.com/problems/find-kth-largest-xor-coordinate-value
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

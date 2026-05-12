@@ -1,0 +1,13 @@
+id: closest-room
+title: Closest Room
+url: https://leetcode.com/problems/closest-room
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

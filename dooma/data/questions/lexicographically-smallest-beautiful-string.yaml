@@ -1,0 +1,15 @@
+id: lexicographically-smallest-beautiful-string
+title: Lexicographically Smallest Beautiful String
+url: https://leetcode.com/problems/lexicographically-smallest-beautiful-string
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

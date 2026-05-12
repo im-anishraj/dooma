@@ -1,0 +1,13 @@
+id: make-string-anti-palindrome
+title: Make String Anti-palindrome
+url: https://leetcode.com/problems/make-string-anti-palindrome
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  intuit:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

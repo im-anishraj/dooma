@@ -1,0 +1,15 @@
+id: find-the-divisibility-array-of-a-string
+title: Find the Divisibility Array of a String
+url: https://leetcode.com/problems/find-the-divisibility-array-of-a-string
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

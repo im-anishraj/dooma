@@ -1,0 +1,13 @@
+id: count-complete-substrings
+title: Count Complete Substrings
+url: https://leetcode.com/problems/count-complete-substrings
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  meesho:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

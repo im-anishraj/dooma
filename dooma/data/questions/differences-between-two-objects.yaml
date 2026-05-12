@@ -1,0 +1,15 @@
+id: differences-between-two-objects
+title: Differences Between Two Objects
+url: https://leetcode.com/problems/differences-between-two-objects
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  couchbase:
+    frequency: 100
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

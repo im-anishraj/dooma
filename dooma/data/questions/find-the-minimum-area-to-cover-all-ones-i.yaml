@@ -1,0 +1,21 @@
+id: find-the-minimum-area-to-cover-all-ones-i
+title: Find the Minimum Area to Cover All Ones I
+url: https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  salesforce:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

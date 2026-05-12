@@ -1,0 +1,17 @@
+id: maximum-sum-of-subsequence-with-non-adjacent-elements
+title: Maximum Sum of Subsequence With Non-adjacent Elements
+url: https://leetcode.com/problems/maximum-sum-of-subsequence-with-non-adjacent-elements
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  infosys:
+    frequency: 75
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

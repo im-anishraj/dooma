@@ -1,0 +1,45 @@
+id: making-a-large-island
+title: Making A Large Island
+url: https://leetcode.com/problems/making-a-large-island
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  airbnb:
+    frequency: 37
+  amazon:
+    frequency: 37
+  anduril:
+    frequency: 75
+  bloomberg:
+    frequency: 25
+  doordash:
+    frequency: 62
+  google:
+    frequency: 37
+  linkedin:
+    frequency: 25
+  medianet:
+    frequency: 50
+  meta:
+    frequency: 75
+  microsoft:
+    frequency: 37
+  moloco:
+    frequency: 75
+  oracle:
+    frequency: 25
+  snapchat:
+    frequency: 87
+  snowflake:
+    frequency: 37
+  tiktok:
+    frequency: 75
+  uber:
+    frequency: 62
+  uipath:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

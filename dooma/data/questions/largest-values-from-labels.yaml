@@ -1,0 +1,15 @@
+id: largest-values-from-labels
+title: Largest Values From Labels
+url: https://leetcode.com/problems/largest-values-from-labels
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

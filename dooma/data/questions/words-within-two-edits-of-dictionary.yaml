@@ -1,0 +1,15 @@
+id: words-within-two-edits-of-dictionary
+title: Words Within Two Edits of Dictionary
+url: https://leetcode.com/problems/words-within-two-edits-of-dictionary
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  meta:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

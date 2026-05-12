@@ -1,0 +1,21 @@
+id: satisfiability-of-equality-equations
+title: Satisfiability of Equality Equations
+url: https://leetcode.com/problems/satisfiability-of-equality-equations
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  clevertap:
+    frequency: 75
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  sumologic:
+    frequency: 100
+  uipath:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

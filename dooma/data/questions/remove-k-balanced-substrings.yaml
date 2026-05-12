@@ -1,0 +1,15 @@
+id: remove-k-balanced-substrings
+title: Remove K-Balanced Substrings
+url: https://leetcode.com/problems/remove-k-balanced-substrings
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  deloitte:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: binary-tree-nodes
+title: Binary Tree Nodes
+url: https://leetcode.com/problems/binary-tree-nodes
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

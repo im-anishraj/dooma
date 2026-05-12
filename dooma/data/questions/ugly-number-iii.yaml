@@ -1,0 +1,17 @@
+id: ugly-number-iii
+title: Ugly Number III
+url: https://leetcode.com/problems/ugly-number-iii
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  american-express:
+    frequency: 100
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

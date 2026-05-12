@@ -1,0 +1,19 @@
+id: stream-of-characters
+title: Stream of Characters
+url: https://leetcode.com/problems/stream-of-characters
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+  jane-street:
+    frequency: 62
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

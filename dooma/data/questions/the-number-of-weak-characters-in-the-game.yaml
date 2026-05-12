@@ -1,0 +1,15 @@
+id: the-number-of-weak-characters-in-the-game
+title: The Number of Weak Characters in the Game
+url: https://leetcode.com/problems/the-number-of-weak-characters-in-the-game
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  pinterest:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

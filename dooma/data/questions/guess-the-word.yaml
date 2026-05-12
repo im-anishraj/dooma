@@ -1,0 +1,29 @@
+id: guess-the-word
+title: Guess the Word
+url: https://leetcode.com/problems/guess-the-word
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  dropbox:
+    frequency: 75
+  google:
+    frequency: 50
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  verily:
+    frequency: 87
+  verkada:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,19 @@
+id: tree-node
+title: Tree Node
+url: https://leetcode.com/problems/tree-node
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  twitter:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

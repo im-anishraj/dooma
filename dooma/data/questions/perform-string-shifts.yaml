@@ -1,0 +1,13 @@
+id: perform-string-shifts
+title: Perform String Shifts
+url: https://leetcode.com/problems/perform-string-shifts
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  goldman-sachs:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,17 @@
+id: sum-of-root-to-leaf-binary-numbers
+title: Sum of Root To Leaf Binary Numbers
+url: https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  lime:
+    frequency: 87
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

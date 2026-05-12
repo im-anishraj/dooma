@@ -1,0 +1,19 @@
+id: find-the-power-of-k-size-subarrays-i
+title: Find the Power of K-Size Subarrays I
+url: https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,19 @@
+id: remove-max-number-of-edges-to-keep-graph-fully-traversable
+title: Remove Max Number of Edges to Keep Graph Fully Traversable
+url: https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  de-shaw:
+    frequency: 37
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  uber:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: arithmetic-subarrays
+title: Arithmetic Subarrays
+url: https://leetcode.com/problems/arithmetic-subarrays
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: minimize-string-length
+title: Minimize String Length
+url: https://leetcode.com/problems/minimize-string-length
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

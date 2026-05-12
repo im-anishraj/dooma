@@ -1,0 +1,19 @@
+id: maximum-number-of-words-you-can-type
+title: Maximum Number of Words You Can Type
+url: https://leetcode.com/problems/maximum-number-of-words-you-can-type
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  quora:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

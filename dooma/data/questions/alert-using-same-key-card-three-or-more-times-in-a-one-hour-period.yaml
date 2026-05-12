@@ -1,0 +1,19 @@
+id: alert-using-same-key-card-three-or-more-times-in-a-one-hour-period
+title: Alert Using Same Key-Card Three or More Times in a One Hour Period
+url: https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  ibm:
+    frequency: 37
+  karat:
+    frequency: 87
+  snowflake:
+    frequency: 37
+  wayfair:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

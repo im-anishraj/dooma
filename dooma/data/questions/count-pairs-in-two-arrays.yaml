@@ -1,0 +1,15 @@
+id: count-pairs-in-two-arrays
+title: Count Pairs in Two Arrays
+url: https://leetcode.com/problems/count-pairs-in-two-arrays
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  shopee:
+    frequency: 100
+  teradata:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

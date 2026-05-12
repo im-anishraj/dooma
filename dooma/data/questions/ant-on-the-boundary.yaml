@@ -1,0 +1,17 @@
+id: ant-on-the-boundary
+title: Ant on the Boundary
+url: https://leetcode.com/problems/ant-on-the-boundary
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 75
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

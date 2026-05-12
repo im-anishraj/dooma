@@ -1,0 +1,15 @@
+id: sum-of-good-numbers
+title: Sum of Good Numbers
+url: https://leetcode.com/problems/sum-of-good-numbers
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bcg:
+    frequency: 100
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

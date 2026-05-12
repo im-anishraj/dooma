@@ -1,0 +1,27 @@
+id: graph-valid-tree
+title: Graph Valid Tree
+url: https://leetcode.com/problems/graph-valid-tree
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 37
+  linkedin:
+    frequency: 50
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 25
+  snowflake:
+    frequency: 50
+  tiktok:
+    frequency: 25
+  zenefits:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,23 @@
+id: find-leaves-of-binary-tree
+title: Find Leaves of Binary Tree
+url: https://leetcode.com/problems/find-leaves-of-binary-tree
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  flipkart:
+    frequency: 37
+  google:
+    frequency: 25
+  linkedin:
+    frequency: 75
+  oracle:
+    frequency: 37
+  salesforce:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

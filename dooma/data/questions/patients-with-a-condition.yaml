@@ -1,0 +1,19 @@
+id: patients-with-a-condition
+title: Patients With a Condition
+url: https://leetcode.com/problems/patients-with-a-condition
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

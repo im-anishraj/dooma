@@ -1,0 +1,15 @@
+id: maximum-spending-after-buying-items
+title: Maximum Spending After Buying Items
+url: https://leetcode.com/problems/maximum-spending-after-buying-items
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  tiktok:
+    frequency: 25
+  zomato:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

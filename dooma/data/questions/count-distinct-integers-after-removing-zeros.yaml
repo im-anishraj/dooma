@@ -1,0 +1,13 @@
+id: count-distinct-integers-after-removing-zeros
+title: Count Distinct Integers After Removing Zeros
+url: https://leetcode.com/problems/count-distinct-integers-after-removing-zeros
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

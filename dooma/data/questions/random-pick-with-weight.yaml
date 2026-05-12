@@ -1,0 +1,63 @@
+id: random-pick-with-weight
+title: Random Pick with Weight
+url: https://leetcode.com/problems/random-pick-with-weight
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  6sense:
+    frequency: 87
+  adobe:
+    frequency: 50
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 50
+  bloomberg:
+    frequency: 12
+  coinbase:
+    frequency: 75
+  coupang:
+    frequency: 50
+  criteo:
+    frequency: 87
+  google:
+    frequency: 50
+  liftoff:
+    frequency: 87
+  linkedin:
+    frequency: 62
+  meta:
+    frequency: 87
+  microsoft:
+    frequency: 25
+  nuro:
+    frequency: 75
+  paypal:
+    frequency: 50
+  revolut:
+    frequency: 75
+  roblox:
+    frequency: 37
+  rubrik:
+    frequency: 62
+  shopee:
+    frequency: 62
+  snapchat:
+    frequency: 37
+  snowflake:
+    frequency: 50
+  sony:
+    frequency: 62
+  tiktok:
+    frequency: 50
+  twitter:
+    frequency: 50
+  two-sigma:
+    frequency: 100
+  uber:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

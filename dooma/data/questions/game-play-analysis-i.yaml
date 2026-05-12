@@ -1,0 +1,23 @@
+id: game-play-analysis-i
+title: Game Play Analysis I
+url: https://leetcode.com/problems/game-play-analysis-i
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  gsn-games:
+    frequency: 100
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

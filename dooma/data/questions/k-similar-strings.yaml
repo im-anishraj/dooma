@@ -1,0 +1,15 @@
+id: k-similar-strings
+title: K-Similar Strings
+url: https://leetcode.com/problems/k-similar-strings
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  doordash:
+    frequency: 25
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: find-students-who-improved
+title: Find Students Who Improved
+url: https://leetcode.com/problems/find-students-who-improved
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

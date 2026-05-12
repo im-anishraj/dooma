@@ -1,0 +1,15 @@
+id: add-edges-to-make-degrees-of-all-nodes-even
+title: Add Edges to Make Degrees of All Nodes Even
+url: https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  hrt:
+    frequency: 100
+  uber:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

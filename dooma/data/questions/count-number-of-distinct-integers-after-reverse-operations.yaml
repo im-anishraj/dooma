@@ -1,0 +1,13 @@
+id: count-number-of-distinct-integers-after-reverse-operations
+title: Count Number of Distinct Integers After Reverse Operations
+url: https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

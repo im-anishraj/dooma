@@ -1,0 +1,19 @@
+id: separate-squares-i
+title: Separate Squares I
+url: https://leetcode.com/problems/separate-squares-i
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 50
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

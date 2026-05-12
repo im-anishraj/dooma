@@ -1,0 +1,13 @@
+id: smallest-rectangle-enclosing-black-pixels
+title: Smallest Rectangle Enclosing Black Pixels
+url: https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

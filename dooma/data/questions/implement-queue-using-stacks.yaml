@@ -1,0 +1,33 @@
+id: implement-queue-using-stacks
+title: Implement Queue using Stacks
+url: https://leetcode.com/problems/implement-queue-using-stacks
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 50
+  bloomberg:
+    frequency: 37
+  google:
+    frequency: 37
+  infosys:
+    frequency: 37
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 50
+  qualcomm:
+    frequency: 62
+  sap:
+    frequency: 50
+  tiktok:
+    frequency: 25
+  yandex:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

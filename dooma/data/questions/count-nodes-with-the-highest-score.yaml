@@ -1,0 +1,17 @@
+id: count-nodes-with-the-highest-score
+title: Count Nodes With the Highest Score
+url: https://leetcode.com/problems/count-nodes-with-the-highest-score
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  doordash:
+    frequency: 62
+  visa:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

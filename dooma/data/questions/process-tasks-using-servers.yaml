@@ -1,0 +1,21 @@
+id: process-tasks-using-servers
+title: Process Tasks Using Servers
+url: https://leetcode.com/problems/process-tasks-using-servers
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  linkedin:
+    frequency: 25
+  tiktok:
+    frequency: 25
+  twitter:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

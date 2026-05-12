@@ -1,0 +1,23 @@
+id: find-minimum-time-to-finish-all-jobs
+title: Find Minimum Time to Finish All Jobs
+url: https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  google:
+    frequency: 12
+  lyft:
+    frequency: 37
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  pinterest:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

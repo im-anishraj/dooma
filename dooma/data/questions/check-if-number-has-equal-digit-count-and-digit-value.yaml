@@ -1,0 +1,17 @@
+id: check-if-number-has-equal-digit-count-and-digit-value
+title: Check if Number Has Equal Digit Count and Digit Value
+url: https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  jpmorgan:
+    frequency: 75
+  pornhub:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

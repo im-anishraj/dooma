@@ -1,0 +1,21 @@
+id: design-log-storage-system
+title: Design Log Storage System
+url: https://leetcode.com/problems/design-log-storage-system
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  apple:
+    frequency: 25
+  google:
+    frequency: 12
+  snapchat:
+    frequency: 87
+  snowflake:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

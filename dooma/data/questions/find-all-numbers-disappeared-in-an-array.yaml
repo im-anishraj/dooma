@@ -1,0 +1,29 @@
+id: find-all-numbers-disappeared-in-an-array
+title: Find All Numbers Disappeared in an Array
+url: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 50
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 25
+  oracle:
+    frequency: 25
+  tinkoff:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

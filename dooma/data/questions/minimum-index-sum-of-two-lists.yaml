@@ -1,0 +1,19 @@
+id: minimum-index-sum-of-two-lists
+title: Minimum Index Sum of Two Lists
+url: https://leetcode.com/problems/minimum-index-sum-of-two-lists
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  yelp:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

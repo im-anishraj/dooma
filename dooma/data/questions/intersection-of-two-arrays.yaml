@@ -1,0 +1,51 @@
+id: intersection-of-two-arrays
+title: Intersection of Two Arrays
+url: https://leetcode.com/problems/intersection-of-two-arrays
+difficulty: easy
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 50
+  adobe:
+    frequency: 50
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 37
+  bloomberg:
+    frequency: 50
+  capgemini:
+    frequency: 50
+  criteo:
+    frequency: 100
+  google:
+    frequency: 50
+  infosys:
+    frequency: 37
+  jpmorgan:
+    frequency: 50
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 50
+  mongodb:
+    frequency: 100
+  nvidia:
+    frequency: 37
+  tcs:
+    frequency: 37
+  two-sigma:
+    frequency: 87
+  wix:
+    frequency: 87
+  yahoo:
+    frequency: 50
+  yandex:
+    frequency: 37
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: change-null-values-in-a-table-to-the-previous-value
+title: Change Null Values in a Table to the Previous Value
+url: https://leetcode.com/problems/change-null-values-in-a-table-to-the-previous-value
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  deloitte:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

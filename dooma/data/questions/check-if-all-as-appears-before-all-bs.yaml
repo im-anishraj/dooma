@@ -1,0 +1,15 @@
+id: check-if-all-as-appears-before-all-bs
+title: Check if All A's Appears Before All B's
+url: https://leetcode.com/problems/check-if-all-as-appears-before-all-bs
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: palindrome-removal
+title: Palindrome Removal
+url: https://leetcode.com/problems/palindrome-removal
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

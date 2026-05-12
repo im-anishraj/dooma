@@ -1,0 +1,35 @@
+id: all-nodes-distance-k-in-binary-tree
+title: All Nodes Distance K in Binary Tree
+url: https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 50
+  bloomberg:
+    frequency: 25
+  flipkart:
+    frequency: 37
+  google:
+    frequency: 25
+  meta:
+    frequency: 62
+  microsoft:
+    frequency: 50
+  nutanix:
+    frequency: 50
+  okta:
+    frequency: 87
+  oracle:
+    frequency: 37
+  salesforce:
+    frequency: 50
+  tiktok:
+    frequency: 37
+  wix:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

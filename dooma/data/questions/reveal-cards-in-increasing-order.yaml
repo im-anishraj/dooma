@@ -1,0 +1,19 @@
+id: reveal-cards-in-increasing-order
+title: Reveal Cards In Increasing Order
+url: https://leetcode.com/problems/reveal-cards-in-increasing-order
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 25
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

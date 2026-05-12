@@ -1,0 +1,13 @@
+id: mean-of-array-after-removing-some-elements
+title: Mean of Array After Removing Some Elements
+url: https://leetcode.com/problems/mean-of-array-after-removing-some-elements
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

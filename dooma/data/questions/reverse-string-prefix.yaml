@@ -1,0 +1,13 @@
+id: reverse-string-prefix
+title: Reverse String Prefix
+url: https://leetcode.com/problems/reverse-string-prefix
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

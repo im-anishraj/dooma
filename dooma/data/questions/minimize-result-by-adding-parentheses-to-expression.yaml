@@ -1,0 +1,13 @@
+id: minimize-result-by-adding-parentheses-to-expression
+title: Minimize Result by Adding Parentheses to Expression
+url: https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  pinterest:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

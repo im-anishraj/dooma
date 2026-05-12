@@ -1,0 +1,15 @@
+id: maximum-total-from-optimal-activation-order
+title: Maximum Total from Optimal Activation Order
+url: https://leetcode.com/problems/maximum-total-from-optimal-activation-order
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

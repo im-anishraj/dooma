@@ -1,0 +1,19 @@
+id: all-ancestors-of-a-node-in-a-directed-acyclic-graph
+title: All Ancestors of a Node in a Directed Acyclic Graph
+url: https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  oracle:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

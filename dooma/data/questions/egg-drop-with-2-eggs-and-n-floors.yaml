@@ -1,0 +1,21 @@
+id: egg-drop-with-2-eggs-and-n-floors
+title: Egg Drop With 2 Eggs and N Floors
+url: https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  citadel:
+    frequency: 50
+  disney:
+    frequency: 75
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

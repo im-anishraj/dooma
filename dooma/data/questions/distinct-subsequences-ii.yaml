@@ -1,0 +1,15 @@
+id: distinct-subsequences-ii
+title: Distinct Subsequences II
+url: https://leetcode.com/problems/distinct-subsequences-ii
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

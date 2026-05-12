@@ -1,0 +1,15 @@
+id: replace-the-substring-for-balanced-string
+title: Replace the Substring for Balanced String
+url: https://leetcode.com/problems/replace-the-substring-for-balanced-string
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  accolite:
+    frequency: 100
+  amazon:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

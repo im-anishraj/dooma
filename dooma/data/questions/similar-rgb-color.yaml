@@ -1,0 +1,13 @@
+id: similar-rgb-color
+title: Similar RGB Color
+url: https://leetcode.com/problems/similar-rgb-color
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

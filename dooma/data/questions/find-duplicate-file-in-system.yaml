@@ -1,0 +1,27 @@
+id: find-duplicate-file-in-system
+title: Find Duplicate File in System
+url: https://leetcode.com/problems/find-duplicate-file-in-system
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  anthropic:
+    frequency: 75
+  applied-intuition:
+    frequency: 75
+  dropbox:
+    frequency: 100
+  google:
+    frequency: 12
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 12
+  turing:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

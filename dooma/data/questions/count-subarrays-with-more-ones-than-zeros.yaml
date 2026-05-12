@@ -1,0 +1,13 @@
+id: count-subarrays-with-more-ones-than-zeros
+title: Count Subarrays With More Ones Than Zeros
+url: https://leetcode.com/problems/count-subarrays-with-more-ones-than-zeros
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

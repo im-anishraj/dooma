@@ -1,0 +1,13 @@
+id: count-triplets-with-even-xor-set-bits-ii
+title: Count Triplets with Even XOR Set Bits II
+url: https://leetcode.com/problems/count-triplets-with-even-xor-set-bits-ii
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

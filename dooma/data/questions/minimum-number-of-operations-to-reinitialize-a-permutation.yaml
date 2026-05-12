@@ -1,0 +1,13 @@
+id: minimum-number-of-operations-to-reinitialize-a-permutation
+title: Minimum Number of Operations to Reinitialize a Permutation
+url: https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

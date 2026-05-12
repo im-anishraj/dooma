@@ -1,0 +1,13 @@
+id: maximum-and-sum-of-array
+title: Maximum AND Sum of Array
+url: https://leetcode.com/problems/maximum-and-sum-of-array
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

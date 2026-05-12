@@ -1,0 +1,17 @@
+id: find-minimum-cost-to-remove-array-elements
+title: Find Minimum Cost to Remove Array Elements
+url: https://leetcode.com/problems/find-minimum-cost-to-remove-array-elements
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  de-shaw:
+    frequency: 87
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

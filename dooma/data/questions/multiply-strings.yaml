@@ -1,0 +1,45 @@
+id: multiply-strings
+title: Multiply Strings
+url: https://leetcode.com/problems/multiply-strings
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 37
+  bytedance:
+    frequency: 62
+  epam-systems:
+    frequency: 62
+  google:
+    frequency: 37
+  makemytrip:
+    frequency: 62
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 50
+  nielsen:
+    frequency: 87
+  oracle:
+    frequency: 25
+  palo-alto-networks:
+    frequency: 50
+  pinterest:
+    frequency: 50
+  roku:
+    frequency: 75
+  tiktok:
+    frequency: 37
+  twitter:
+    frequency: 100
+  two-sigma:
+    frequency: 75
+  zoho:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

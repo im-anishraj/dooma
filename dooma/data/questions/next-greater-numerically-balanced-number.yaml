@@ -1,0 +1,21 @@
+id: next-greater-numerically-balanced-number
+title: Next Greater Numerically Balanced Number
+url: https://leetcode.com/problems/next-greater-numerically-balanced-number
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  sprinklr:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

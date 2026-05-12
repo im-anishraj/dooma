@@ -1,0 +1,21 @@
+id: find-if-array-can-be-sorted
+title: Find if Array Can Be Sorted
+url: https://leetcode.com/problems/find-if-array-can-be-sorted
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  edelweiss:
+    frequency: 100
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

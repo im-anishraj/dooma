@@ -1,0 +1,15 @@
+id: minimizing-array-after-replacing-pairs-with-their-product
+title: Minimizing Array After Replacing Pairs With Their Product
+url: https://leetcode.com/problems/minimizing-array-after-replacing-pairs-with-their-product
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 75
+  wells-fargo:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

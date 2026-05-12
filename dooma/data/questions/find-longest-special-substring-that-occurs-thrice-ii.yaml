@@ -1,0 +1,15 @@
+id: find-longest-special-substring-that-occurs-thrice-ii
+title: Find Longest Special Substring That Occurs Thrice II
+url: https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-ii
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  rubrik:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

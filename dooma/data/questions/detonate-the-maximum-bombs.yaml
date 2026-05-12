@@ -1,0 +1,21 @@
+id: detonate-the-maximum-bombs
+title: Detonate the Maximum Bombs
+url: https://leetcode.com/problems/detonate-the-maximum-bombs
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  chime:
+    frequency: 100
+  google:
+    frequency: 37
+  microsoft:
+    frequency: 12
+  uber:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

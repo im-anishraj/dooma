@@ -1,0 +1,19 @@
+id: longest-nice-substring
+title: Longest Nice Substring
+url: https://leetcode.com/problems/longest-nice-substring
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,31 @@
+id: minimum-edge-reversals-so-every-node-is-reachable
+title: Minimum Edge Reversals So Every Node Is Reachable
+url: https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  cashfree:
+    frequency: 62
+  google:
+    frequency: 12
+  mathworks:
+    frequency: 75
+  meesho:
+    frequency: 75
+  microsoft:
+    frequency: 50
+  oracle:
+    frequency: 25
+  paypal:
+    frequency: 37
+  phonepe:
+    frequency: 62
+  uber:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

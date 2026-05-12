@@ -1,0 +1,15 @@
+id: minimum-number-of-flips-to-make-the-binary-string-alternating
+title: Minimum Number of Flips to Make the Binary String Alternating
+url: https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  ibm:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,21 @@
+id: maximum-employees-to-be-invited-to-a-meeting
+title: Maximum Employees to Be Invited to a Meeting
+url: https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+  microsoft:
+    frequency: 37
+  nutanix:
+    frequency: 50
+  oracle:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

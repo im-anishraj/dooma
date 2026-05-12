@@ -1,0 +1,25 @@
+id: valid-perfect-square
+title: Valid Perfect Square
+url: https://leetcode.com/problems/valid-perfect-square
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 25
+  linkedin:
+    frequency: 50
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 37
+  sap:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: maximize-cyclic-partition-score
+title: Maximize Cyclic Partition Score
+url: https://leetcode.com/problems/maximize-cyclic-partition-score
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

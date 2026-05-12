@@ -1,0 +1,23 @@
+id: last-person-to-fit-in-the-bus
+title: Last Person to Fit in the Bus
+url: https://leetcode.com/problems/last-person-to-fit-in-the-bus
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  wayfair:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

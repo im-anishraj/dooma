@@ -1,0 +1,19 @@
+id: integer-replacement
+title: Integer Replacement
+url: https://leetcode.com/problems/integer-replacement
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  baidu:
+    frequency: 100
+  google:
+    frequency: 25
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

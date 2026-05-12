@@ -1,0 +1,31 @@
+id: binary-tree-vertical-order-traversal
+title: Binary Tree Vertical Order Traversal
+url: https://leetcode.com/problems/binary-tree-vertical-order-traversal
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 62
+  doordash:
+    frequency: 37
+  google:
+    frequency: 37
+  meta:
+    frequency: 100
+  microsoft:
+    frequency: 25
+  oracle:
+    frequency: 25
+  snapchat:
+    frequency: 87
+  tiktok:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

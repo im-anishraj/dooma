@@ -1,0 +1,13 @@
+id: tournament-winners
+title: Tournament Winners
+url: https://leetcode.com/problems/tournament-winners
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  wayfair:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

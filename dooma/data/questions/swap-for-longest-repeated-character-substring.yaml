@@ -1,0 +1,17 @@
+id: swap-for-longest-repeated-character-substring
+title: Swap For Longest Repeated Character Substring
+url: https://leetcode.com/problems/swap-for-longest-repeated-character-substring
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  nutanix:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

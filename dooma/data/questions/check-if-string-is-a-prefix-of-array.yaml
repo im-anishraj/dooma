@@ -1,0 +1,13 @@
+id: check-if-string-is-a-prefix-of-array
+title: Check If String Is a Prefix of Array
+url: https://leetcode.com/problems/check-if-string-is-a-prefix-of-array
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  uber:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

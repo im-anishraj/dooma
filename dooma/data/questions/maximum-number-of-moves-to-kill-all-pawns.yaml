@@ -1,0 +1,13 @@
+id: maximum-number-of-moves-to-kill-all-pawns
+title: Maximum Number of Moves to Kill All Pawns
+url: https://leetcode.com/problems/maximum-number-of-moves-to-kill-all-pawns
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

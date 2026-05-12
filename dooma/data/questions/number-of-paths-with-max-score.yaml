@@ -1,0 +1,15 @@
+id: number-of-paths-with-max-score
+title: Number of Paths with Max Score
+url: https://leetcode.com/problems/number-of-paths-with-max-score
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  samsung:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

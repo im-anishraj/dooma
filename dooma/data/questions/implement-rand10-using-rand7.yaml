@@ -1,0 +1,25 @@
+id: implement-rand10-using-rand7
+title: Implement Rand10() Using Rand7()
+url: https://leetcode.com/problems/implement-rand10-using-rand7
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  de-shaw:
+    frequency: 50
+  google:
+    frequency: 12
+  linkedin:
+    frequency: 37
+  microsoft:
+    frequency: 12
+  tencent:
+    frequency: 62
+  yandex:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

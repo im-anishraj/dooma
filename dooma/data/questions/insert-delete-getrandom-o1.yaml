@@ -1,0 +1,95 @@
+id: insert-delete-getrandom-o1
+title: Insert Delete GetRandom O(1)
+url: https://leetcode.com/problems/insert-delete-getrandom-o1
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  affirm:
+    frequency: 100
+  agoda:
+    frequency: 50
+  amazon:
+    frequency: 62
+  apple:
+    frequency: 50
+  axon:
+    frequency: 87
+  bloomberg:
+    frequency: 87
+  bytedance:
+    frequency: 50
+  cisco:
+    frequency: 37
+  citadel:
+    frequency: 75
+  coupang:
+    frequency: 50
+  de-shaw:
+    frequency: 50
+  docusign:
+    frequency: 75
+  doordash:
+    frequency: 37
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 50
+  grammarly:
+    frequency: 87
+  intuit:
+    frequency: 37
+  ixigo:
+    frequency: 100
+  ixl:
+    frequency: 75
+  linkedin:
+    frequency: 75
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 50
+  nvidia:
+    frequency: 50
+  okta:
+    frequency: 75
+  oracle:
+    frequency: 50
+  palo-alto-networks:
+    frequency: 62
+  peloton:
+    frequency: 100
+  pocket-gems:
+    frequency: 100
+  pure-storage:
+    frequency: 62
+  quora:
+    frequency: 75
+  rippling:
+    frequency: 50
+  roblox:
+    frequency: 37
+  rubrik:
+    frequency: 50
+  snapchat:
+    frequency: 50
+  snowflake:
+    frequency: 62
+  sofi:
+    frequency: 87
+  tiktok:
+    frequency: 62
+  twitter:
+    frequency: 100
+  uber:
+    frequency: 75
+  yandex:
+    frequency: 75
+  yelp:
+    frequency: 100
+  zeta:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

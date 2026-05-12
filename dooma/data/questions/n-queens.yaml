@@ -1,0 +1,43 @@
+id: n-queens
+title: N-Queens
+url: https://leetcode.com/problems/n-queens
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 62
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 50
+  goldman-sachs:
+    frequency: 37
+  google:
+    frequency: 62
+  huawei:
+    frequency: 62
+  ibm:
+    frequency: 37
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 50
+  oracle:
+    frequency: 50
+  salesforce:
+    frequency: 25
+  snowflake:
+    frequency: 37
+  tcs:
+    frequency: 50
+  tiktok:
+    frequency: 75
+  zoho:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

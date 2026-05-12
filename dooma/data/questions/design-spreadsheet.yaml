@@ -1,0 +1,23 @@
+id: design-spreadsheet
+title: Design Spreadsheet
+url: https://leetcode.com/problems/design-spreadsheet
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  openai:
+    frequency: 50
+  rippling:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

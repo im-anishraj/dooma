@@ -1,0 +1,29 @@
+id: sort-list
+title: Sort List
+url: https://leetcode.com/problems/sort-list
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 50
+  bloomberg:
+    frequency: 37
+  bytedance:
+    frequency: 50
+  google:
+    frequency: 37
+  lyft:
+    frequency: 50
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 37
+  oracle:
+    frequency: 37
+  tiktok:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

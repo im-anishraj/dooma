@@ -1,0 +1,13 @@
+id: find-weighted-median-node-in-tree
+title: Find Weighted Median Node in Tree
+url: https://leetcode.com/problems/find-weighted-median-node-in-tree
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

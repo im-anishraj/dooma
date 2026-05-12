@@ -1,0 +1,21 @@
+id: customers-who-bought-all-products
+title: Customers Who Bought All Products
+url: https://leetcode.com/problems/customers-who-bought-all-products
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

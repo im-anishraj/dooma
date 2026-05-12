@@ -1,0 +1,23 @@
+id: percentage-of-users-attended-a-contest
+title: Percentage of Users Attended a Contest
+url: https://leetcode.com/problems/percentage-of-users-attended-a-contest
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  fortinet:
+    frequency: 87
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

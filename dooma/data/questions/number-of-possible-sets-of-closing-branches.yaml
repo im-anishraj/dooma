@@ -1,0 +1,17 @@
+id: number-of-possible-sets-of-closing-branches
+title: Number of Possible Sets of Closing Branches
+url: https://leetcode.com/problems/number-of-possible-sets-of-closing-branches
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  atlassian:
+    frequency: 62
+  meesho:
+    frequency: 100
+  ta-digital:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

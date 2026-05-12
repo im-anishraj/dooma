@@ -1,0 +1,25 @@
+id: minimum-bit-flips-to-convert-number
+title: Minimum Bit Flips to Convert Number
+url: https://leetcode.com/problems/minimum-bit-flips-to-convert-number
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  ibm:
+    frequency: 37
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  persistent-systems:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,17 @@
+id: chunk-array
+title: Chunk Array
+url: https://leetcode.com/problems/chunk-array
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  capgemini:
+    frequency: 50
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

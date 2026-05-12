@@ -1,0 +1,13 @@
+id: count-k-reducible-numbers-less-than-n
+title: Count K-Reducible Numbers Less Than N
+url: https://leetcode.com/problems/count-k-reducible-numbers-less-than-n
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  schneider-electric:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

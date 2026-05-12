@@ -1,0 +1,19 @@
+id: find-minimum-time-to-reach-last-room-i
+title: Find Minimum Time to Reach Last Room I
+url: https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  uber:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

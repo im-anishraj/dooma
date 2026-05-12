@@ -1,0 +1,55 @@
+id: design-circular-queue
+title: Design Circular Queue
+url: https://leetcode.com/problems/design-circular-queue
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  airbnb:
+    frequency: 37
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 62
+  applied-intuition:
+    frequency: 50
+  bloomberg:
+    frequency: 12
+  citadel:
+    frequency: 62
+  cloudflare:
+    frequency: 100
+  coinbase:
+    frequency: 50
+  datadog:
+    frequency: 87
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 25
+  intuit:
+    frequency: 37
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 25
+  optiver:
+    frequency: 100
+  oracle:
+    frequency: 37
+  qualcomm:
+    frequency: 50
+  rubrik:
+    frequency: 37
+  snowflake:
+    frequency: 37
+  splunk:
+    frequency: 87
+  tesla:
+    frequency: 87
+  zoox:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

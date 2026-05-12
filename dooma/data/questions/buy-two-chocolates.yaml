@@ -1,0 +1,15 @@
+id: buy-two-chocolates
+title: Buy Two Chocolates
+url: https://leetcode.com/problems/buy-two-chocolates
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

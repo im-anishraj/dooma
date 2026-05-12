@@ -1,0 +1,19 @@
+id: minimum-obstacle-removal-to-reach-corner
+title: Minimum Obstacle Removal to Reach Corner
+url: https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  tiktok:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

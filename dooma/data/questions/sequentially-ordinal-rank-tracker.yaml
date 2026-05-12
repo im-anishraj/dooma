@@ -1,0 +1,13 @@
+id: sequentially-ordinal-rank-tracker
+title: Sequentially Ordinal Rank Tracker
+url: https://leetcode.com/problems/sequentially-ordinal-rank-tracker
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

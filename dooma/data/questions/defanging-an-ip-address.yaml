@@ -1,0 +1,25 @@
+id: defanging-an-ip-address
+title: Defanging an IP Address
+url: https://leetcode.com/problems/defanging-an-ip-address
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 25
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 12
+  robinhood:
+    frequency: 62
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

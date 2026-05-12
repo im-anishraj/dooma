@@ -1,0 +1,15 @@
+id: search-in-a-sorted-array-of-unknown-size
+title: Search in a Sorted Array of Unknown Size
+url: https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

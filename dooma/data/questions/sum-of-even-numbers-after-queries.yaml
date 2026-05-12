@@ -1,0 +1,13 @@
+id: sum-of-even-numbers-after-queries
+title: Sum of Even Numbers After Queries
+url: https://leetcode.com/problems/sum-of-even-numbers-after-queries
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  indeed:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

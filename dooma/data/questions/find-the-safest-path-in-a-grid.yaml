@@ -1,0 +1,17 @@
+id: find-the-safest-path-in-a-grid
+title: Find the Safest Path in a Grid
+url: https://leetcode.com/problems/find-the-safest-path-in-a-grid
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 37
+  imc:
+    frequency: 75
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

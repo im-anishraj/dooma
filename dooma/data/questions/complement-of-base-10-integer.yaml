@@ -1,0 +1,19 @@
+id: complement-of-base-10-integer
+title: Complement of Base 10 Integer
+url: https://leetcode.com/problems/complement-of-base-10-integer
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  cloudera:
+    frequency: 100
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,25 @@
+id: maximum-palindromes-after-operations
+title: Maximum Palindromes After Operations
+url: https://leetcode.com/problems/maximum-palindromes-after-operations
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  expedia:
+    frequency: 75
+  grammarly:
+    frequency: 50
+  mathworks:
+    frequency: 100
+  microsoft:
+    frequency: 12
+  salesforce:
+    frequency: 25
+  squarepoint-capital:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

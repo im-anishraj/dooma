@@ -1,0 +1,23 @@
+id: count-the-hidden-sequences
+title: Count the Hidden Sequences
+url: https://leetcode.com/problems/count-the-hidden-sequences
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  tiktok:
+    frequency: 62
+  zomato:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

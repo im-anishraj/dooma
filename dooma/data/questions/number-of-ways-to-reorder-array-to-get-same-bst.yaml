@@ -1,0 +1,15 @@
+id: number-of-ways-to-reorder-array-to-get-same-bst
+title: Number of Ways to Reorder Array to Get Same BST
+url: https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  de-shaw:
+    frequency: 37
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

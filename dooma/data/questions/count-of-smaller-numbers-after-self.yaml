@@ -1,0 +1,21 @@
+id: count-of-smaller-numbers-after-self
+title: Count of Smaller Numbers After Self
+url: https://leetcode.com/problems/count-of-smaller-numbers-after-self
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 37
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,19 @@
+id: design-task-manager
+title: Design Task Manager
+url: https://leetcode.com/problems/design-task-manager
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

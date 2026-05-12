@@ -1,0 +1,15 @@
+id: count-the-number-of-special-characters-i
+title: Count the Number of Special Characters I
+url: https://leetcode.com/problems/count-the-number-of-special-characters-i
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

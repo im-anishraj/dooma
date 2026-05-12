@@ -1,0 +1,41 @@
+id: permutation-in-string
+title: Permutation in String
+url: https://leetcode.com/problems/permutation-in-string
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 50
+  bloomberg:
+    frequency: 37
+  cisco:
+    frequency: 37
+  databricks:
+    frequency: 50
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 37
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 50
+  oracle:
+    frequency: 37
+  tcs:
+    frequency: 25
+  tiktok:
+    frequency: 37
+  walmart-labs:
+    frequency: 50
+  yandex:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,19 @@
+id: average-of-levels-in-binary-tree
+title: Average of Levels in Binary Tree
+url: https://leetcode.com/problems/average-of-levels-in-binary-tree
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

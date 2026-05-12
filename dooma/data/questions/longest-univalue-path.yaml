@@ -1,0 +1,25 @@
+id: longest-univalue-path
+title: Longest Univalue Path
+url: https://leetcode.com/problems/longest-univalue-path
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  snowflake:
+    frequency: 50
+  sprinklr:
+    frequency: 50
+  zepto:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

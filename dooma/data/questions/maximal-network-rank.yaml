@@ -1,0 +1,13 @@
+id: maximal-network-rank
+title: Maximal Network Rank
+url: https://leetcode.com/problems/maximal-network-rank
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  microsoft:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

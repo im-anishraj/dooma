@@ -1,0 +1,17 @@
+id: paint-fence
+title: Paint Fence
+url: https://leetcode.com/problems/paint-fence
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  snowflake:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

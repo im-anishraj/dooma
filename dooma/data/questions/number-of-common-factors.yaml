@@ -1,0 +1,17 @@
+id: number-of-common-factors
+title: Number of Common Factors
+url: https://leetcode.com/problems/number-of-common-factors
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

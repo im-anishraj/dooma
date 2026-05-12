@@ -1,0 +1,13 @@
+id: split-two-strings-to-make-palindrome
+title: Split Two Strings to Make Palindrome
+url: https://leetcode.com/problems/split-two-strings-to-make-palindrome
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,17 @@
+id: the-latest-time-to-catch-a-bus
+title: The Latest Time to Catch a Bus
+url: https://leetcode.com/problems/the-latest-time-to-catch-a-bus
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 37
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

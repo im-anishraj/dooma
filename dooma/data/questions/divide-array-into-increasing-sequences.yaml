@@ -1,0 +1,13 @@
+id: divide-array-into-increasing-sequences
+title: Divide Array Into Increasing Sequences
+url: https://leetcode.com/problems/divide-array-into-increasing-sequences
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,17 @@
+id: reducing-dishes
+title: Reducing Dishes
+url: https://leetcode.com/problems/reducing-dishes
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

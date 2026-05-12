@@ -1,0 +1,13 @@
+id: users-with-two-purchases-within-seven-days
+title: Users With Two Purchases Within Seven Days
+url: https://leetcode.com/problems/users-with-two-purchases-within-seven-days
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

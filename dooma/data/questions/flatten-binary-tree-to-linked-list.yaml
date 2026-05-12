@@ -1,0 +1,27 @@
+id: flatten-binary-tree-to-linked-list
+title: Flatten Binary Tree to Linked List
+url: https://leetcode.com/problems/flatten-binary-tree-to-linked-list
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  anduril:
+    frequency: 50
+  bloomberg:
+    frequency: 37
+  google:
+    frequency: 37
+  josh-technology:
+    frequency: 62
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 50
+  oracle:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

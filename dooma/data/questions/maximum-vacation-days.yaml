@@ -1,0 +1,17 @@
+id: maximum-vacation-days
+title: Maximum Vacation Days
+url: https://leetcode.com/problems/maximum-vacation-days
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  datadog:
+    frequency: 75
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

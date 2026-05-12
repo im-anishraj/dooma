@@ -1,0 +1,39 @@
+id: find-all-duplicates-in-an-array
+title: Find All Duplicates in an Array
+url: https://leetcode.com/problems/find-all-duplicates-in-an-array
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  clevertap:
+    frequency: 87
+  google:
+    frequency: 37
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 37
+  oracle:
+    frequency: 25
+  pocket-gems:
+    frequency: 100
+  tcs:
+    frequency: 25
+  tiktok:
+    frequency: 37
+  walmart-labs:
+    frequency: 37
+  yahoo:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

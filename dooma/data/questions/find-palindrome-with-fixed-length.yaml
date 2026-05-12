@@ -1,0 +1,13 @@
+id: find-palindrome-with-fixed-length
+title: Find Palindrome With Fixed Length
+url: https://leetcode.com/problems/find-palindrome-with-fixed-length
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  vmware:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

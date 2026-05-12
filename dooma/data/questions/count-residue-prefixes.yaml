@@ -1,0 +1,15 @@
+id: count-residue-prefixes
+title: Count Residue Prefixes
+url: https://leetcode.com/problems/count-residue-prefixes
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

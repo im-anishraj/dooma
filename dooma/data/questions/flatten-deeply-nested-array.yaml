@@ -1,0 +1,27 @@
+id: flatten-deeply-nested-array
+title: Flatten Deeply Nested Array
+url: https://leetcode.com/problems/flatten-deeply-nested-array
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  apple:
+    frequency: 25
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  otterai:
+    frequency: 75
+  paypal:
+    frequency: 37
+  rivian:
+    frequency: 75
+  tiktok:
+    frequency: 25
+  walmart-labs:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

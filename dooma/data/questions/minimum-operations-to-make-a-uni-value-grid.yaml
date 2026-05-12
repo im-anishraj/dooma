@@ -1,0 +1,19 @@
+id: minimum-operations-to-make-a-uni-value-grid
+title: Minimum Operations to Make a Uni-Value Grid
+url: https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  epam-systems:
+    frequency: 100
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

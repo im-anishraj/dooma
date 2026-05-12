@@ -1,0 +1,13 @@
+id: sort-features-by-popularity
+title: Sort Features by Popularity
+url: https://leetcode.com/problems/sort-features-by-popularity
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

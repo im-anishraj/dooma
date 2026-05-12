@@ -1,0 +1,17 @@
+id: word-abbreviation
+title: Word Abbreviation
+url: https://leetcode.com/problems/word-abbreviation
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  applied-intuition:
+    frequency: 50
+  google:
+    frequency: 25
+  snapchat:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,43 @@
+id: valid-palindrome-ii
+title: Valid Palindrome II
+url: https://leetcode.com/problems/valid-palindrome-ii
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 37
+  attentive:
+    frequency: 75
+  bloomberg:
+    frequency: 25
+  ebay:
+    frequency: 50
+  fortinet:
+    frequency: 87
+  google:
+    frequency: 37
+  ibm:
+    frequency: 37
+  meta:
+    frequency: 100
+  microsoft:
+    frequency: 37
+  roku:
+    frequency: 75
+  tiktok:
+    frequency: 37
+  uber:
+    frequency: 25
+  visa:
+    frequency: 37
+  whatnot:
+    frequency: 100
+  yandex:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

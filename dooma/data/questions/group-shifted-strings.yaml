@@ -1,0 +1,19 @@
+id: group-shifted-strings
+title: Group Shifted Strings
+url: https://leetcode.com/problems/group-shifted-strings
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 37
+  meta:
+    frequency: 62
+  uber:
+    frequency: 50
+  wix:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

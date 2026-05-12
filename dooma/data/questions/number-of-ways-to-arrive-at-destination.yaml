@@ -1,0 +1,21 @@
+id: number-of-ways-to-arrive-at-destination
+title: Number of Ways to Arrive at Destination
+url: https://leetcode.com/problems/number-of-ways-to-arrive-at-destination
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

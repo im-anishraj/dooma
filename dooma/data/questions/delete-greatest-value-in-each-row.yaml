@@ -1,0 +1,15 @@
+id: delete-greatest-value-in-each-row
+title: Delete Greatest Value in Each Row
+url: https://leetcode.com/problems/delete-greatest-value-in-each-row
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

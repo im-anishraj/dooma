@@ -1,0 +1,27 @@
+id: minimum-cost-to-cut-a-stick
+title: Minimum Cost to Cut a Stick
+url: https://leetcode.com/problems/minimum-cost-to-cut-a-stick
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  cyware:
+    frequency: 100
+  google:
+    frequency: 25
+  line:
+    frequency: 87
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  oracle:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

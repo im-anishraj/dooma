@@ -1,0 +1,23 @@
+id: reverse-nodes-in-even-length-groups
+title: Reverse Nodes in Even Length Groups
+url: https://leetcode.com/problems/reverse-nodes-in-even-length-groups
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  josh-technology:
+    frequency: 87
+  meta:
+    frequency: 12
+  nutanix:
+    frequency: 50
+  zopsmart:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

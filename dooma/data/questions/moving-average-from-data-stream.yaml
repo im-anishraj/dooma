@@ -1,0 +1,29 @@
+id: moving-average-from-data-stream
+title: Moving Average from Data Stream
+url: https://leetcode.com/problems/moving-average-from-data-stream
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  citadel:
+    frequency: 62
+  google:
+    frequency: 37
+  meta:
+    frequency: 75
+  microsoft:
+    frequency: 12
+  nuro:
+    frequency: 62
+  spotify:
+    frequency: 100
+  tesla:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

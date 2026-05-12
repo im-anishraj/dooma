@@ -1,0 +1,13 @@
+id: minimum-jumps-to-reach-end-via-prime-teleportation
+title: Minimum Jumps to Reach End via Prime Teleportation
+url: https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

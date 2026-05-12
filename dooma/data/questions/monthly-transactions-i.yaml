@@ -1,0 +1,25 @@
+id: monthly-transactions-i
+title: Monthly Transactions I
+url: https://leetcode.com/problems/monthly-transactions-i
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 50
+  google:
+    frequency: 37
+  meesho:
+    frequency: 50
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 37
+  wish:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

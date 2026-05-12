@@ -1,0 +1,17 @@
+id: maximum-score-after-splitting-a-string
+title: Maximum Score After Splitting a String
+url: https://leetcode.com/problems/maximum-score-after-splitting-a-string
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 37
+  meta:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

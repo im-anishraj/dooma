@@ -1,0 +1,13 @@
+id: largest-unique-number
+title: Largest Unique Number
+url: https://leetcode.com/problems/largest-unique-number
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

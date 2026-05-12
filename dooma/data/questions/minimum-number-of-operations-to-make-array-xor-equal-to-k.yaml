@@ -1,0 +1,21 @@
+id: minimum-number-of-operations-to-make-array-xor-equal-to-k
+title: Minimum Number of Operations to Make Array XOR Equal to K
+url: https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  american-express:
+    frequency: 100
+  auriga:
+    frequency: 100
+  bloomberg:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

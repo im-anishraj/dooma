@@ -1,0 +1,17 @@
+id: rank-transform-of-a-matrix
+title: Rank Transform of a Matrix
+url: https://leetcode.com/problems/rank-transform-of-a-matrix
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  citadel:
+    frequency: 50
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

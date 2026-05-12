@@ -1,0 +1,23 @@
+id: the-number-of-employees-which-report-to-each-employee
+title: The Number of Employees Which Report to Each Employee
+url: https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  zs-associates:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

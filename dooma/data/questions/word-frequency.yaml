@@ -1,0 +1,19 @@
+id: word-frequency
+title: Word Frequency
+url: https://leetcode.com/problems/word-frequency
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

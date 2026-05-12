@@ -1,0 +1,23 @@
+id: as-far-from-land-as-possible
+title: As Far from Land as Possible
+url: https://leetcode.com/problems/as-far-from-land-as-possible
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  hive:
+    frequency: 87
+  microsoft:
+    frequency: 12
+  uipath:
+    frequency: 100
+  wix:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

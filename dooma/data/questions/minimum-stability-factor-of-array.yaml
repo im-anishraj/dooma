@@ -1,0 +1,13 @@
+id: minimum-stability-factor-of-array
+title: Minimum Stability Factor of Array
+url: https://leetcode.com/problems/minimum-stability-factor-of-array
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

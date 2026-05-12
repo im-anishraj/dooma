@@ -1,0 +1,15 @@
+id: evaluate-the-bracket-pairs-of-a-string
+title: Evaluate the Bracket Pairs of a String
+url: https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  remitly:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

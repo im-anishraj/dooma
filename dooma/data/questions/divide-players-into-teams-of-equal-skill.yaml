@@ -1,0 +1,25 @@
+id: divide-players-into-teams-of-equal-skill
+title: Divide Players Into Teams of Equal Skill
+url: https://leetcode.com/problems/divide-players-into-teams-of-equal-skill
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  expedia:
+    frequency: 100
+  jpmorgan:
+    frequency: 87
+  microsoft:
+    frequency: 12
+  paypal:
+    frequency: 37
+  visa:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

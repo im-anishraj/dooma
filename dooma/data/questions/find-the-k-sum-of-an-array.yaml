@@ -1,0 +1,17 @@
+id: find-the-k-sum-of-an-array
+title: Find the K-Sum of an Array
+url: https://leetcode.com/problems/find-the-k-sum-of-an-array
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  google:
+    frequency: 12
+  hubspot:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

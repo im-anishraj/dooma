@@ -1,0 +1,25 @@
+id: count-number-of-maximum-bitwise-or-subsets
+title: Count Number of Maximum Bitwise-OR Subsets
+url: https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  bny-mellon:
+    frequency: 62
+  citadel:
+    frequency: 50
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

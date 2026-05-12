@@ -1,0 +1,33 @@
+id: possible-bipartition
+title: Possible Bipartition
+url: https://leetcode.com/problems/possible-bipartition
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  linkedin:
+    frequency: 50
+  meesho:
+    frequency: 62
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 37
+  pinterest:
+    frequency: 37
+  samsung:
+    frequency: 75
+  snapchat:
+    frequency: 37
+  tiktok:
+    frequency: 50
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

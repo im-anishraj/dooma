@@ -1,0 +1,43 @@
+id: game-of-life
+title: Game of Life
+url: https://leetcode.com/problems/game-of-life
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  acorns:
+    frequency: 100
+  amazon:
+    frequency: 25
+  anduril:
+    frequency: 62
+  applied-intuition:
+    frequency: 50
+  bitgo:
+    frequency: 62
+  bloomberg:
+    frequency: 12
+  dropbox:
+    frequency: 100
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 25
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 37
+  riot-games:
+    frequency: 62
+  salesforce:
+    frequency: 25
+  snapchat:
+    frequency: 87
+  two-sigma:
+    frequency: 87
+  warnermedia:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: frequency-tracker
+title: Frequency Tracker
+url: https://leetcode.com/problems/frequency-tracker
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

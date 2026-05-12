@@ -1,0 +1,15 @@
+id: count-good-meals
+title: Count Good Meals
+url: https://leetcode.com/problems/count-good-meals
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  robinhood:
+    frequency: 87
+  swiggy:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

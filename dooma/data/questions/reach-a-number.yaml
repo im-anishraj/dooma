@@ -1,0 +1,27 @@
+id: reach-a-number
+title: Reach a Number
+url: https://leetcode.com/problems/reach-a-number
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  ibm:
+    frequency: 62
+  inmobi:
+    frequency: 100
+  meesho:
+    frequency: 75
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

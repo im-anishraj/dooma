@@ -1,0 +1,29 @@
+id: delete-duplicate-emails
+title: Delete Duplicate Emails
+url: https://leetcode.com/problems/delete-duplicate-emails
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  dell:
+    frequency: 62
+  google:
+    frequency: 25
+  infosys:
+    frequency: 37
+  maq-software:
+    frequency: 62
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  tcs:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

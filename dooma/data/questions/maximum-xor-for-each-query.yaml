@@ -1,0 +1,17 @@
+id: maximum-xor-for-each-query
+title: Maximum XOR for Each Query
+url: https://leetcode.com/problems/maximum-xor-for-each-query
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  uber:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: destroying-asteroids
+title: Destroying Asteroids
+url: https://leetcode.com/problems/destroying-asteroids
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

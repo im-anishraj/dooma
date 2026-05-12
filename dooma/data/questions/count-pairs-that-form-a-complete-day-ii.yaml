@@ -1,0 +1,15 @@
+id: count-pairs-that-form-a-complete-day-ii
+title: Count Pairs That Form a Complete Day II
+url: https://leetcode.com/problems/count-pairs-that-form-a-complete-day-ii
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

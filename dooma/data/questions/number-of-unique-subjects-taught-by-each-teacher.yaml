@@ -1,0 +1,19 @@
+id: number-of-unique-subjects-taught-by-each-teacher
+title: Number of Unique Subjects Taught by Each Teacher
+url: https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  capgemini:
+    frequency: 87
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

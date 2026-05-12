@@ -1,0 +1,25 @@
+id: reverse-words-in-a-string-iii
+title: Reverse Words in a String III
+url: https://leetcode.com/problems/reverse-words-in-a-string-iii
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  zappos:
+    frequency: 100
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

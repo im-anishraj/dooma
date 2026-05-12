@@ -1,0 +1,17 @@
+id: minimum-length-of-string-after-deleting-similar-ends
+title: Minimum Length of String After Deleting Similar Ends
+url: https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  goldman-sachs:
+    frequency: 50
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

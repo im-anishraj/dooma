@@ -1,0 +1,33 @@
+id: find-all-possible-recipes-from-given-supplies
+title: Find All Possible Recipes from Given Supplies
+url: https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  docusign:
+    frequency: 62
+  google:
+    frequency: 37
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  phonepe:
+    frequency: 50
+  tiktok:
+    frequency: 37
+  uber:
+    frequency: 37
+  verily:
+    frequency: 87
+  zeta:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

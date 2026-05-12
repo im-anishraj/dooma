@@ -1,0 +1,15 @@
+id: find-all-good-strings
+title: Find All Good Strings
+url: https://leetcode.com/problems/find-all-good-strings
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  dunzo:
+    frequency: 100
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

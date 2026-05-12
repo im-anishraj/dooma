@@ -1,0 +1,15 @@
+id: count-ways-to-group-overlapping-ranges
+title: Count Ways to Group Overlapping Ranges
+url: https://leetcode.com/problems/count-ways-to-group-overlapping-ranges
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  ibm:
+    frequency: 87
+  oracle:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: minimum-rounds-to-complete-all-tasks
+title: Minimum Rounds to Complete All Tasks
+url: https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  anduril:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: print-in-order
+title: Print in Order
+url: https://leetcode.com/problems/print-in-order
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  microsoft:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,21 @@
+id: largest-positive-integer-that-exists-with-its-negative
+title: Largest Positive Integer That Exists With Its Negative
+url: https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  coupang:
+    frequency: 50
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

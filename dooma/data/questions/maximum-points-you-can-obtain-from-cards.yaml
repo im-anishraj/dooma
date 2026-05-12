@@ -1,0 +1,33 @@
+id: maximum-points-you-can-obtain-from-cards
+title: Maximum Points You Can Obtain from Cards
+url: https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 25
+  de-shaw:
+    frequency: 37
+  expedia:
+    frequency: 50
+  factwise:
+    frequency: 100
+  flipkart:
+    frequency: 100
+  google:
+    frequency: 37
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 37
+  tiktok:
+    frequency: 50
+  uber:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

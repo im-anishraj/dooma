@@ -1,0 +1,13 @@
+id: longest-common-suffix-queries
+title: Longest Common Suffix Queries
+url: https://leetcode.com/problems/longest-common-suffix-queries
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

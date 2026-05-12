@@ -1,0 +1,13 @@
+id: count-the-repetitions
+title: Count The Repetitions
+url: https://leetcode.com/problems/count-the-repetitions
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: check-if-string-is-transformable-with-substring-sort-operations
+title: Check If String Is Transformable With Substring Sort Operations
+url: https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

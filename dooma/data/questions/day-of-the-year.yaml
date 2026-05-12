@@ -1,0 +1,17 @@
+id: day-of-the-year
+title: Day of the Year
+url: https://leetcode.com/problems/day-of-the-year
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  zscaler:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

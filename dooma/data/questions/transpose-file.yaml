@@ -1,0 +1,15 @@
+id: transpose-file
+title: Transpose File
+url: https://leetcode.com/problems/transpose-file
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

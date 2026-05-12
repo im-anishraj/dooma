@@ -1,0 +1,25 @@
+id: remove-sub-folders-from-the-filesystem
+title: Remove Sub-Folders from the Filesystem
+url: https://leetcode.com/problems/remove-sub-folders-from-the-filesystem
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  google:
+    frequency: 37
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 25
+  nuro:
+    frequency: 62
+  snowflake:
+    frequency: 62
+  verkada:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

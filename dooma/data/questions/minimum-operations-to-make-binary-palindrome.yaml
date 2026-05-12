@@ -1,0 +1,13 @@
+id: minimum-operations-to-make-binary-palindrome
+title: Minimum Operations to Make Binary Palindrome
+url: https://leetcode.com/problems/minimum-operations-to-make-binary-palindrome
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  teradata:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

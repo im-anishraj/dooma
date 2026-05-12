@@ -1,0 +1,17 @@
+id: display-the-first-three-rows
+title: Display the First Three Rows
+url: https://leetcode.com/problems/display-the-first-three-rows
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

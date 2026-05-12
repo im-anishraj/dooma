@@ -1,0 +1,17 @@
+id: pyramid-transition-matrix
+title: Pyramid Transition Matrix
+url: https://leetcode.com/problems/pyramid-transition-matrix
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  airbnb:
+    frequency: 75
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

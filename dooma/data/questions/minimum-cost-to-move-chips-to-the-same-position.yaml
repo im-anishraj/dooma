@@ -1,0 +1,19 @@
+id: minimum-cost-to-move-chips-to-the-same-position
+title: Minimum Cost to Move Chips to The Same Position
+url: https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  morgan-stanley:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

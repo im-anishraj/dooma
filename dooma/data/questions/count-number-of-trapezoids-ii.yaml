@@ -1,0 +1,15 @@
+id: count-number-of-trapezoids-ii
+title: Count Number of Trapezoids II
+url: https://leetcode.com/problems/count-number-of-trapezoids-ii
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 50
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

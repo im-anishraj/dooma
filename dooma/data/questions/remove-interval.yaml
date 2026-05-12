@@ -1,0 +1,13 @@
+id: remove-interval
+title: Remove Interval
+url: https://leetcode.com/problems/remove-interval
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

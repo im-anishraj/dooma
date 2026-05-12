@@ -1,0 +1,39 @@
+id: last-stone-weight
+title: Last Stone Weight
+url: https://leetcode.com/problems/last-stone-weight
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  flipkart:
+    frequency: 37
+  google:
+    frequency: 25
+  ibm:
+    frequency: 37
+  jpmorgan:
+    frequency: 37
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  nvidia:
+    frequency: 87
+  oracle:
+    frequency: 37
+  paypal:
+    frequency: 62
+  rippling:
+    frequency: 50
+  salesforce:
+    frequency: 25
+  visa:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

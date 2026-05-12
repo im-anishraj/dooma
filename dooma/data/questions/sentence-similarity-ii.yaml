@@ -1,0 +1,19 @@
+id: sentence-similarity-ii
+title: Sentence Similarity II
+url: https://leetcode.com/problems/sentence-similarity-ii
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  apple:
+    frequency: 25
+  google:
+    frequency: 25
+  rippling:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

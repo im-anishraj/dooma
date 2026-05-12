@@ -1,0 +1,13 @@
+id: vowels-of-all-substrings
+title: Vowels of All Substrings
+url: https://leetcode.com/problems/vowels-of-all-substrings
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  servicenow:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

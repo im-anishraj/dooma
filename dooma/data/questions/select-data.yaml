@@ -1,0 +1,15 @@
+id: select-data
+title: Select Data
+url: https://leetcode.com/problems/select-data
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

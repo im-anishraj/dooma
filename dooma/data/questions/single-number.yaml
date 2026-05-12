@@ -1,0 +1,41 @@
+id: single-number
+title: Single Number
+url: https://leetcode.com/problems/single-number
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  adobe:
+    frequency: 37
+  airbnb:
+    frequency: 75
+  amazon:
+    frequency: 62
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 62
+  cisco:
+    frequency: 37
+  cognizant:
+    frequency: 50
+  google:
+    frequency: 62
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 50
+  palantir-technologies:
+    frequency: 62
+  qualcomm:
+    frequency: 50
+  tcs:
+    frequency: 62
+  yandex:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: minimum-subsequence-in-non-increasing-order
+title: Minimum Subsequence in Non-Increasing Order
+url: https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  mercari:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

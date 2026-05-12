@@ -1,0 +1,17 @@
+id: maximum-number-of-balloons
+title: Maximum Number of Balloons
+url: https://leetcode.com/problems/maximum-number-of-balloons
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  wayfair:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

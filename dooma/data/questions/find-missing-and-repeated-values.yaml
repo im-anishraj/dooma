@@ -1,0 +1,23 @@
+id: find-missing-and-repeated-values
+title: Find Missing and Repeated Values
+url: https://leetcode.com/problems/find-missing-and-repeated-values
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 50
+  google:
+    frequency: 37
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 25
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

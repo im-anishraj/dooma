@@ -1,0 +1,17 @@
+id: univalued-binary-tree
+title: Univalued Binary Tree
+url: https://leetcode.com/problems/univalued-binary-tree
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  box:
+    frequency: 62
+  google:
+    frequency: 12
+  twilio:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

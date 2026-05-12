@@ -1,0 +1,21 @@
+id: race-car
+title: Race Car
+url: https://leetcode.com/problems/race-car
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  anduril:
+    frequency: 62
+  google:
+    frequency: 37
+  meta:
+    frequency: 12
+  turing:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

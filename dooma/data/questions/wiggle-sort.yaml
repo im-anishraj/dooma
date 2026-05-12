@@ -1,0 +1,19 @@
+id: wiggle-sort
+title: Wiggle Sort
+url: https://leetcode.com/problems/wiggle-sort
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+  myntra:
+    frequency: 62
+  tiktok:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

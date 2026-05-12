@@ -1,0 +1,15 @@
+id: largest-sum-of-averages
+title: Largest Sum of Averages
+url: https://leetcode.com/problems/largest-sum-of-averages
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

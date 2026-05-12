@@ -1,0 +1,15 @@
+id: maximum-good-people-based-on-statements
+title: Maximum Good People Based on Statements
+url: https://leetcode.com/problems/maximum-good-people-based-on-statements
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  oracle:
+    frequency: 37
+  tusimple:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

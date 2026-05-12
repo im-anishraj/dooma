@@ -1,0 +1,33 @@
+id: longest-mountain-in-array
+title: Longest Mountain in Array
+url: https://leetcode.com/problems/longest-mountain-in-array
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  databricks:
+    frequency: 37
+  faire:
+    frequency: 75
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 25
+  ibm:
+    frequency: 75
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  oracle:
+    frequency: 50
+  sofi:
+    frequency: 87
+  tiktok:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

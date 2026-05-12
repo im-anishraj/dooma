@@ -1,0 +1,15 @@
+id: frog-position-after-t-seconds
+title: Frog Position After T Seconds
+url: https://leetcode.com/problems/frog-position-after-t-seconds
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  inmobi:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

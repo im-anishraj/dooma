@@ -1,0 +1,93 @@
+id: valid-anagram
+title: Valid Anagram
+url: https://leetcode.com/problems/valid-anagram
+difficulty: easy
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 50
+  affirm:
+    frequency: 62
+  amadeus:
+    frequency: 87
+  amazon:
+    frequency: 62
+  american-express:
+    frequency: 62
+  apple:
+    frequency: 62
+  atlassian:
+    frequency: 37
+  bloomberg:
+    frequency: 75
+  capgemini:
+    frequency: 62
+  cognizant:
+    frequency: 62
+  deloitte:
+    frequency: 50
+  dialpad:
+    frequency: 87
+  epam-systems:
+    frequency: 75
+  google:
+    frequency: 50
+  ibm:
+    frequency: 50
+  infosys:
+    frequency: 62
+  kla:
+    frequency: 62
+  kpit:
+    frequency: 100
+  lg-electronics:
+    frequency: 100
+  mastercard:
+    frequency: 75
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 62
+  nagarro:
+    frequency: 62
+  nokia:
+    frequency: 100
+  nvidia:
+    frequency: 50
+  oracle:
+    frequency: 62
+  ozon:
+    frequency: 75
+  paypal:
+    frequency: 37
+  persistent-systems:
+    frequency: 62
+  siemens:
+    frequency: 62
+  tcs:
+    frequency: 62
+  tesla:
+    frequency: 62
+  tiktok:
+    frequency: 25
+  uber:
+    frequency: 62
+  visa:
+    frequency: 37
+  wipro:
+    frequency: 75
+  yahoo:
+    frequency: 50
+  yandex:
+    frequency: 37
+  yelp:
+    frequency: 100
+  zoho:
+    frequency: 37
+  zopsmart:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: two-sum-less-than-k
+title: Two Sum Less Than K
+url: https://leetcode.com/problems/two-sum-less-than-k
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

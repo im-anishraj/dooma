@@ -1,0 +1,23 @@
+id: count-nice-pairs-in-an-array
+title: Count Nice Pairs in an Array
+url: https://leetcode.com/problems/count-nice-pairs-in-an-array
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  capital-one:
+    frequency: 37
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  roblox:
+    frequency: 37
+  square:
+    frequency: 100
+  uber:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

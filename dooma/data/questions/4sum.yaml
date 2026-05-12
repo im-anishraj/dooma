@@ -1,0 +1,49 @@
+id: 4sum
+title: 4Sum
+url: https://leetcode.com/problems/4sum
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  amazon:
+    frequency: 62
+  apple:
+    frequency: 37
+  bloomberg:
+    frequency: 62
+  cloudflare:
+    frequency: 75
+  de-shaw:
+    frequency: 50
+  doordash:
+    frequency: 37
+  google:
+    frequency: 50
+  infosys:
+    frequency: 62
+  linkedin:
+    frequency: 25
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 50
+  nvidia:
+    frequency: 62
+  oyo:
+    frequency: 87
+  rubrik:
+    frequency: 37
+  servicenow:
+    frequency: 50
+  tcs:
+    frequency: 50
+  yandex:
+    frequency: 37
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

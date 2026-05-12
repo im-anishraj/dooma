@@ -1,0 +1,13 @@
+id: random-flip-matrix
+title: Random Flip Matrix
+url: https://leetcode.com/problems/random-flip-matrix
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

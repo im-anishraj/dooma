@@ -1,0 +1,17 @@
+id: maximum-total-importance-of-roads
+title: Maximum Total Importance of Roads
+url: https://leetcode.com/problems/maximum-total-importance-of-roads
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  hrt:
+    frequency: 100
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

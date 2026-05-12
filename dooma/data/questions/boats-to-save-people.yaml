@@ -1,0 +1,39 @@
+id: boats-to-save-people
+title: Boats to Save People
+url: https://leetcode.com/problems/boats-to-save-people
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 25
+  atlassian:
+    frequency: 37
+  bloomberg:
+    frequency: 25
+  flipkart:
+    frequency: 37
+  google:
+    frequency: 25
+  ibm:
+    frequency: 50
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  sigmoid:
+    frequency: 75
+  snowflake:
+    frequency: 37
+  uipath:
+    frequency: 62
+  walmart-labs:
+    frequency: 37
+  yandex:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

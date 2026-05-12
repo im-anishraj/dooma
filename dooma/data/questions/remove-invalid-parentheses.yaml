@@ -1,0 +1,33 @@
+id: remove-invalid-parentheses
+title: Remove Invalid Parentheses
+url: https://leetcode.com/problems/remove-invalid-parentheses
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 12
+  deliveroo:
+    frequency: 62
+  google:
+    frequency: 12
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 25
+  millennium:
+    frequency: 75
+  oracle:
+    frequency: 25
+  rubrik:
+    frequency: 50
+  snowflake:
+    frequency: 37
+  tiktok:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

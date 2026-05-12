@@ -1,0 +1,15 @@
+id: masking-personal-information
+title: Masking Personal Information
+url: https://leetcode.com/problems/masking-personal-information
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  salesforce:
+    frequency: 25
+  twitter:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

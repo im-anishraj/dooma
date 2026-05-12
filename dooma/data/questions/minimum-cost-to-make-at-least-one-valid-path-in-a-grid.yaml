@@ -1,0 +1,27 @@
+id: minimum-cost-to-make-at-least-one-valid-path-in-a-grid
+title: Minimum Cost to Make at Least One Valid Path in a Grid
+url: https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  cleartrip:
+    frequency: 100
+  de-shaw:
+    frequency: 37
+  docusign:
+    frequency: 62
+  google:
+    frequency: 37
+  meta:
+    frequency: 12
+  tcs:
+    frequency: 25
+  uber:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

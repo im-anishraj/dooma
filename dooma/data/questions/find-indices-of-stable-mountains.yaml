@@ -1,0 +1,13 @@
+id: find-indices-of-stable-mountains
+title: Find Indices of Stable Mountains
+url: https://leetcode.com/problems/find-indices-of-stable-mountains
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

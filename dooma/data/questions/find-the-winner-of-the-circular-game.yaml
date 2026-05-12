@@ -1,0 +1,35 @@
+id: find-the-winner-of-the-circular-game
+title: Find the Winner of the Circular Game
+url: https://leetcode.com/problems/find-the-winner-of-the-circular-game
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 50
+  amazon:
+    frequency: 12
+  arista-networks:
+    frequency: 62
+  bloomberg:
+    frequency: 50
+  goldman-sachs:
+    frequency: 62
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  oracle:
+    frequency: 37
+  sofi:
+    frequency: 62
+  walmart-labs:
+    frequency: 37
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

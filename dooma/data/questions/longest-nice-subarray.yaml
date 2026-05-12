@@ -1,0 +1,23 @@
+id: longest-nice-subarray
+title: Longest Nice Subarray
+url: https://leetcode.com/problems/longest-nice-subarray
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  paytm:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

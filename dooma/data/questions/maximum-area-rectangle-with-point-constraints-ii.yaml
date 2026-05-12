@@ -1,0 +1,15 @@
+id: maximum-area-rectangle-with-point-constraints-ii
+title: Maximum Area Rectangle With Point Constraints II
+url: https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-ii
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  ukg:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

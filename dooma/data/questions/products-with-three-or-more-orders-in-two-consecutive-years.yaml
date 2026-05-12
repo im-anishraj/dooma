@@ -1,0 +1,13 @@
+id: products-with-three-or-more-orders-in-two-consecutive-years
+title: Products With Three or More Orders in Two Consecutive Years
+url: https://leetcode.com/problems/products-with-three-or-more-orders-in-two-consecutive-years
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

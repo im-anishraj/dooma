@@ -1,0 +1,17 @@
+id: maximize-amount-after-two-days-of-conversions
+title: Maximize Amount After Two Days of Conversions
+url: https://leetcode.com/problems/maximize-amount-after-two-days-of-conversions
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  rippling:
+    frequency: 62
+  uber:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

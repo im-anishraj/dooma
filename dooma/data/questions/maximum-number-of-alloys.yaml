@@ -1,0 +1,15 @@
+id: maximum-number-of-alloys
+title: Maximum Number of Alloys
+url: https://leetcode.com/problems/maximum-number-of-alloys
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  mathworks:
+    frequency: 100
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: minimum-right-shifts-to-sort-the-array
+title: Minimum Right Shifts to Sort the Array
+url: https://leetcode.com/problems/minimum-right-shifts-to-sort-the-array
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 75
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

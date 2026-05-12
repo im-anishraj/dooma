@@ -1,0 +1,15 @@
+id: number-of-subarrays-with-lcm-equal-to-k
+title: Number of Subarrays With LCM Equal to K
+url: https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  unity:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

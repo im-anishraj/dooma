@@ -1,0 +1,15 @@
+id: minimum-sum-of-four-digit-number-after-splitting-digits
+title: Minimum Sum of Four Digit Number After Splitting Digits
+url: https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

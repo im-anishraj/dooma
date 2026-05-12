@@ -1,0 +1,15 @@
+id: split-bst
+title: Split BST
+url: https://leetcode.com/problems/split-bst
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  coupang:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

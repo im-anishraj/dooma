@@ -1,0 +1,17 @@
+id: design-bounded-blocking-queue
+title: Design Bounded Blocking Queue
+url: https://leetcode.com/problems/design-bounded-blocking-queue
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  linkedin:
+    frequency: 62
+  microsoft:
+    frequency: 12
+  rubrik:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

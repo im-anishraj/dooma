@@ -1,0 +1,13 @@
+id: all-the-pairs-with-the-maximum-number-of-common-followers
+title: All the Pairs With the Maximum Number of Common Followers
+url: https://leetcode.com/problems/all-the-pairs-with-the-maximum-number-of-common-followers
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  lime:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

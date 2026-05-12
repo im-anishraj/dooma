@@ -1,0 +1,15 @@
+id: find-valid-matrix-given-row-and-column-sums
+title: Find Valid Matrix Given Row and Column Sums
+url: https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  squarepoint-capital:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

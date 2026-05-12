@@ -1,0 +1,13 @@
+id: path-in-zigzag-labelled-binary-tree
+title: Path In Zigzag Labelled Binary Tree
+url: https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

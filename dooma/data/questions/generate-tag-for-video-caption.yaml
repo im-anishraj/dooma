@@ -1,0 +1,13 @@
+id: generate-tag-for-video-caption
+title: Generate Tag for Video Caption
+url: https://leetcode.com/problems/generate-tag-for-video-caption
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

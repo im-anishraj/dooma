@@ -1,0 +1,55 @@
+id: majority-element
+title: Majority Element
+url: https://leetcode.com/problems/majority-element
+difficulty: easy
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 75
+  adobe:
+    frequency: 75
+  amazon:
+    frequency: 62
+  apple:
+    frequency: 37
+  autodesk:
+    frequency: 50
+  bloomberg:
+    frequency: 75
+  cvent:
+    frequency: 100
+  de-shaw:
+    frequency: 62
+  deloitte:
+    frequency: 50
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 62
+  ibm:
+    frequency: 37
+  meta:
+    frequency: 62
+  microsoft:
+    frequency: 75
+  netflix:
+    frequency: 50
+  oracle:
+    frequency: 50
+  qualcomm:
+    frequency: 62
+  tcs:
+    frequency: 75
+  uber:
+    frequency: 25
+  yandex:
+    frequency: 25
+  zenefits:
+    frequency: 100
+  zoho:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

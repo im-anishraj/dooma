@@ -1,0 +1,25 @@
+id: big-countries
+title: Big Countries
+url: https://leetcode.com/problems/big-countries
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 37
+  google:
+    frequency: 37
+  ibm:
+    frequency: 37
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 37
+  tcs:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

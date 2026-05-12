@@ -1,0 +1,13 @@
+id: destroy-sequential-targets
+title: Destroy Sequential Targets
+url: https://leetcode.com/problems/destroy-sequential-targets
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  intuit:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

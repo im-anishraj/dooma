@@ -1,0 +1,21 @@
+id: subdomain-visit-count
+title: Subdomain Visit Count
+url: https://leetcode.com/problems/subdomain-visit-count
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  peloton:
+    frequency: 75
+  roblox:
+    frequency: 75
+  wix:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

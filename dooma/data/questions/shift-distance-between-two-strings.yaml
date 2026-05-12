@@ -1,0 +1,13 @@
+id: shift-distance-between-two-strings
+title: Shift Distance Between Two Strings
+url: https://leetcode.com/problems/shift-distance-between-two-strings
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

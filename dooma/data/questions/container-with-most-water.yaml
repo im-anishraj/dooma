@@ -1,0 +1,127 @@
+id: container-with-most-water
+title: Container With Most Water
+url: https://leetcode.com/problems/container-with-most-water
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 62
+  accolite:
+    frequency: 62
+  adobe:
+    frequency: 50
+  airtel:
+    frequency: 62
+  amazon:
+    frequency: 75
+  apple:
+    frequency: 50
+  bloomberg:
+    frequency: 75
+  c3-ai:
+    frequency: 87
+  capgemini:
+    frequency: 50
+  capital-one:
+    frequency: 50
+  coupang:
+    frequency: 50
+  coveo:
+    frequency: 100
+  deloitte:
+    frequency: 62
+  expedia:
+    frequency: 50
+  flipkart:
+    frequency: 87
+  freshworks:
+    frequency: 75
+  goldman-sachs:
+    frequency: 62
+  google:
+    frequency: 62
+  groww:
+    frequency: 62
+  hashedin:
+    frequency: 62
+  huawei:
+    frequency: 62
+  ibm:
+    frequency: 37
+  infosys:
+    frequency: 50
+  intel:
+    frequency: 62
+  jpmorgan:
+    frequency: 37
+  mastercard:
+    frequency: 75
+  meta:
+    frequency: 62
+  microsoft:
+    frequency: 75
+  millennium:
+    frequency: 75
+  myntra:
+    frequency: 75
+  nuro:
+    frequency: 62
+  nvidia:
+    frequency: 62
+  okta:
+    frequency: 62
+  oracle:
+    frequency: 62
+  paypal:
+    frequency: 50
+  paytm:
+    frequency: 75
+  pubmatic:
+    frequency: 100
+  qualcomm:
+    frequency: 50
+  razorpay:
+    frequency: 62
+  salesforce:
+    frequency: 50
+  sap:
+    frequency: 87
+  servicenow:
+    frequency: 75
+  snowflake:
+    frequency: 37
+  tableau:
+    frequency: 100
+  tcs:
+    frequency: 50
+  tekion:
+    frequency: 62
+  tesla:
+    frequency: 62
+  tiktok:
+    frequency: 50
+  uber:
+    frequency: 37
+  uipath:
+    frequency: 62
+  visa:
+    frequency: 37
+  walmart-labs:
+    frequency: 62
+  wix:
+    frequency: 87
+  workday:
+    frequency: 75
+  yahoo:
+    frequency: 50
+  yandex:
+    frequency: 62
+  zoho:
+    frequency: 75
+  zopsmart:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

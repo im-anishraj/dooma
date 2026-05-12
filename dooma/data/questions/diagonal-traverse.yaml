@@ -1,0 +1,35 @@
+id: diagonal-traverse
+title: Diagonal Traverse
+url: https://leetcode.com/problems/diagonal-traverse
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 37
+  cisco:
+    frequency: 62
+  google:
+    frequency: 37
+  liftoff:
+    frequency: 100
+  meta:
+    frequency: 62
+  microsoft:
+    frequency: 37
+  nike:
+    frequency: 87
+  oracle:
+    frequency: 37
+  tiktok:
+    frequency: 37
+  walmart-labs:
+    frequency: 62
+  zoho:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

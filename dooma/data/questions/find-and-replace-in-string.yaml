@@ -1,0 +1,15 @@
+id: find-and-replace-in-string
+title: Find And Replace in String
+url: https://leetcode.com/problems/find-and-replace-in-string
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

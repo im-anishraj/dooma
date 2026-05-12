@@ -1,0 +1,31 @@
+id: balanced-binary-tree
+title: Balanced Binary Tree
+url: https://leetcode.com/problems/balanced-binary-tree
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 50
+  capgemini:
+    frequency: 50
+  google:
+    frequency: 37
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 37
+  viasat:
+    frequency: 100
+  visa:
+    frequency: 50
+  yandex:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

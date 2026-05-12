@@ -1,0 +1,53 @@
+id: house-robber-ii
+title: House Robber II
+url: https://leetcode.com/problems/house-robber-ii
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 37
+  bloomberg:
+    frequency: 37
+  bytedance:
+    frequency: 50
+  databricks:
+    frequency: 87
+  datadog:
+    frequency: 50
+  de-shaw:
+    frequency: 37
+  docusign:
+    frequency: 62
+  google:
+    frequency: 37
+  infosys:
+    frequency: 37
+  linkedin:
+    frequency: 25
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 50
+  nordstrom:
+    frequency: 87
+  salesforce:
+    frequency: 25
+  servicenow:
+    frequency: 50
+  thoughtspot:
+    frequency: 75
+  tiktok:
+    frequency: 37
+  uber:
+    frequency: 25
+  visa:
+    frequency: 37
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

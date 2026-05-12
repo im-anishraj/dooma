@@ -1,0 +1,17 @@
+id: shortest-string-that-contains-three-strings
+title: Shortest String That Contains Three Strings
+url: https://leetcode.com/problems/shortest-string-that-contains-three-strings
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  de-shaw:
+    frequency: 75
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

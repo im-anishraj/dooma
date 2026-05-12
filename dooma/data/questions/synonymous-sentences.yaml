@@ -1,0 +1,17 @@
+id: synonymous-sentences
+title: Synonymous Sentences
+url: https://leetcode.com/problems/synonymous-sentences
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  cruise-automation:
+    frequency: 100
+  moveworks:
+    frequency: 87
+  rippling:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

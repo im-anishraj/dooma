@@ -1,0 +1,13 @@
+id: minimum-number-of-operations-to-make-string-sorted
+title: Minimum Number of Operations to Make String Sorted
+url: https://leetcode.com/problems/minimum-number-of-operations-to-make-string-sorted
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  samsung:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

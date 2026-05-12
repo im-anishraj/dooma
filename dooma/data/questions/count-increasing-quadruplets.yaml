@@ -1,0 +1,15 @@
+id: count-increasing-quadruplets
+title: Count Increasing Quadruplets
+url: https://leetcode.com/problems/count-increasing-quadruplets
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  deutsche-bank:
+    frequency: 62
+  sap:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

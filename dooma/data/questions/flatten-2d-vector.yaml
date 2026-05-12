@@ -1,0 +1,19 @@
+id: flatten-2d-vector
+title: Flatten 2D Vector
+url: https://leetcode.com/problems/flatten-2d-vector
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  airbnb:
+    frequency: 87
+  google:
+    frequency: 25
+  twitter:
+    frequency: 100
+  zenefits:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

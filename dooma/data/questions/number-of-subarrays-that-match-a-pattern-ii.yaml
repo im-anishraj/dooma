@@ -1,0 +1,15 @@
+id: number-of-subarrays-that-match-a-pattern-ii
+title: Number of Subarrays That Match a Pattern II
+url: https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  autodesk:
+    frequency: 100
+  thoughtworks:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

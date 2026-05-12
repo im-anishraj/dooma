@@ -1,0 +1,17 @@
+id: maximum-number-of-accepted-invitations
+title: Maximum Number of Accepted Invitations
+url: https://leetcode.com/problems/maximum-number-of-accepted-invitations
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 37
+  google:
+    frequency: 12
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

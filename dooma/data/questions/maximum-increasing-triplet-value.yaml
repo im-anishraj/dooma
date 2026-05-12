@@ -1,0 +1,13 @@
+id: maximum-increasing-triplet-value
+title: Maximum Increasing Triplet Value
+url: https://leetcode.com/problems/maximum-increasing-triplet-value
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  uber:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,23 @@
+id: longest-subarray-with-maximum-bitwise-and
+title: Longest Subarray With Maximum Bitwise AND
+url: https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  fourkites:
+    frequency: 100
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

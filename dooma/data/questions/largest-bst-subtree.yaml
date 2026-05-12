@@ -1,0 +1,17 @@
+id: largest-bst-subtree
+title: Largest BST Subtree
+url: https://leetcode.com/problems/largest-bst-subtree
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 25
+  tiktok:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

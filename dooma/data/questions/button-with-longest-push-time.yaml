@@ -1,0 +1,15 @@
+id: button-with-longest-push-time
+title: Button with Longest Push Time
+url: https://leetcode.com/problems/button-with-longest-push-time
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  jpmorgan:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

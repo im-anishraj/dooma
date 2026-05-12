@@ -1,0 +1,19 @@
+id: find-players-with-zero-or-one-losses
+title: Find Players With Zero or One Losses
+url: https://leetcode.com/problems/find-players-with-zero-or-one-losses
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  indeed:
+    frequency: 100
+  karat:
+    frequency: 50
+  palantir-technologies:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

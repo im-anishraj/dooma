@@ -1,0 +1,23 @@
+id: flatten-a-multilevel-doubly-linked-list
+title: Flatten a Multilevel Doubly Linked List
+url: https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 75
+  google:
+    frequency: 12
+  linkedin:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

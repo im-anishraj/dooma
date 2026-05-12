@@ -1,0 +1,41 @@
+id: intersection-of-two-linked-lists
+title: Intersection of Two Linked Lists
+url: https://leetcode.com/problems/intersection-of-two-linked-lists
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  airbnb:
+    frequency: 75
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 50
+  bytedance:
+    frequency: 50
+  goldman-sachs:
+    frequency: 37
+  google:
+    frequency: 37
+  linkedin:
+    frequency: 50
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 50
+  samsung:
+    frequency: 62
+  tesla:
+    frequency: 50
+  tiktok:
+    frequency: 37
+  wells-fargo:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,35 @@
+id: surrounded-regions
+title: Surrounded Regions
+url: https://leetcode.com/problems/surrounded-regions
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 50
+  bloomberg:
+    frequency: 37
+  flipkart:
+    frequency: 37
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 37
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 25
+  moloco:
+    frequency: 75
+  nutanix:
+    frequency: 50
+  oracle:
+    frequency: 37
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,21 @@
+id: product-price-at-a-given-date
+title: Product Price at a Given Date
+url: https://leetcode.com/problems/product-price-at-a-given-date
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 37
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,19 @@
+id: maximum-number-of-operations-to-move-ones-to-the-end
+title: Maximum Number of Operations to Move Ones to the End
+url: https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

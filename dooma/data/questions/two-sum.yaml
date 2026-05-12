@@ -1,0 +1,269 @@
+id: two-sum
+title: Two Sum
+url: https://leetcode.com/problems/two-sum
+difficulty: easy
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 100
+  accolite:
+    frequency: 75
+  adobe:
+    frequency: 100
+  agoda:
+    frequency: 50
+  airbnb:
+    frequency: 75
+  airbus:
+    frequency: 75
+  akamai:
+    frequency: 75
+  altimetrik:
+    frequency: 62
+  amadeus:
+    frequency: 87
+  amazon:
+    frequency: 100
+  amd:
+    frequency: 100
+  american-express:
+    frequency: 87
+  anduril:
+    frequency: 50
+  apple:
+    frequency: 87
+  atlassian:
+    frequency: 37
+  autodesk:
+    frequency: 50
+  blackrock:
+    frequency: 37
+  bloomberg:
+    frequency: 100
+  bytedance:
+    frequency: 62
+  cadence:
+    frequency: 100
+  capgemini:
+    frequency: 100
+  careem:
+    frequency: 100
+  cisco:
+    frequency: 37
+  citadel:
+    frequency: 50
+  citi:
+    frequency: 100
+  cognizant:
+    frequency: 87
+  comcast:
+    frequency: 100
+  criteo:
+    frequency: 87
+  de-shaw:
+    frequency: 37
+  delhivery:
+    frequency: 100
+  dell:
+    frequency: 62
+  deloitte:
+    frequency: 100
+  deutsche-bank:
+    frequency: 62
+  devrev:
+    frequency: 100
+  doordash:
+    frequency: 50
+  dropbox:
+    frequency: 100
+  earnin:
+    frequency: 100
+  ebay:
+    frequency: 75
+  epam-systems:
+    frequency: 100
+  epic-systems:
+    frequency: 62
+  expedia:
+    frequency: 50
+  ey:
+    frequency: 100
+  flipkart:
+    frequency: 62
+  ford:
+    frequency: 100
+  fpt:
+    frequency: 62
+  fractal-analytics:
+    frequency: 62
+  freshworks:
+    frequency: 87
+  garmin:
+    frequency: 87
+  globallogic:
+    frequency: 100
+  globant:
+    frequency: 100
+  goldman-sachs:
+    frequency: 50
+  google:
+    frequency: 100
+  grab:
+    frequency: 87
+  hashedin:
+    frequency: 62
+  hcl:
+    frequency: 100
+  honeywell:
+    frequency: 62
+  huawei:
+    frequency: 87
+  hubspot:
+    frequency: 75
+  ibm:
+    frequency: 87
+  infosys:
+    frequency: 100
+  intel:
+    frequency: 100
+  intuit:
+    frequency: 75
+  jane-street:
+    frequency: 62
+  jio:
+    frequency: 62
+  jpmorgan:
+    frequency: 87
+  junglee-games:
+    frequency: 100
+  juspay:
+    frequency: 50
+  karat:
+    frequency: 50
+  kla:
+    frequency: 75
+  kpit:
+    frequency: 100
+  linkedin:
+    frequency: 50
+  lowe:
+    frequency: 62
+  mastercard:
+    frequency: 100
+  meesho:
+    frequency: 75
+  meta:
+    frequency: 87
+  microsoft:
+    frequency: 100
+  morgan-stanley:
+    frequency: 87
+  naver:
+    frequency: 100
+  netapp:
+    frequency: 100
+  nielsen:
+    frequency: 75
+  nutanix:
+    frequency: 62
+  nvidia:
+    frequency: 75
+  optum:
+    frequency: 62
+  oracle:
+    frequency: 87
+  ozon:
+    frequency: 87
+  palo-alto-networks:
+    frequency: 50
+  paypal:
+    frequency: 75
+  paytm:
+    frequency: 62
+  persistent-systems:
+    frequency: 75
+  phonepe:
+    frequency: 50
+  pwc:
+    frequency: 100
+  qualcomm:
+    frequency: 75
+  quantiphi:
+    frequency: 100
+  rally-health:
+    frequency: 100
+  roblox:
+    frequency: 62
+  salesforce:
+    frequency: 50
+  samsung:
+    frequency: 75
+  sap:
+    frequency: 100
+  servicenow:
+    frequency: 62
+  siemens:
+    frequency: 75
+  snowflake:
+    frequency: 75
+  splunk:
+    frequency: 87
+  spotify:
+    frequency: 75
+  swiggy:
+    frequency: 50
+  synopsys:
+    frequency: 100
+  tcs:
+    frequency: 87
+  tech-mahindra:
+    frequency: 100
+  tekion:
+    frequency: 75
+  tesla:
+    frequency: 62
+  thoughtworks:
+    frequency: 62
+  tiger-analytics:
+    frequency: 75
+  tiktok:
+    frequency: 75
+  tinkoff:
+    frequency: 100
+  toast:
+    frequency: 75
+  turing:
+    frequency: 62
+  uber:
+    frequency: 62
+  ukg:
+    frequency: 75
+  virtusa:
+    frequency: 75
+  visa:
+    frequency: 100
+  vk:
+    frequency: 87
+  walmart-labs:
+    frequency: 87
+  warnermedia:
+    frequency: 62
+  western-digital:
+    frequency: 100
+  wipro:
+    frequency: 100
+  yahoo:
+    frequency: 100
+  yandex:
+    frequency: 75
+  yelp:
+    frequency: 100
+  zoho:
+    frequency: 87
+  zomato:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

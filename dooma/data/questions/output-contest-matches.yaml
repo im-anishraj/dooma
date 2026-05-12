@@ -1,0 +1,13 @@
+id: output-contest-matches
+title: Output Contest Matches
+url: https://leetcode.com/problems/output-contest-matches
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

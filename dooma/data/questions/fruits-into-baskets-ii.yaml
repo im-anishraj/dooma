@@ -1,0 +1,21 @@
+id: fruits-into-baskets-ii
+title: Fruits Into Baskets II
+url: https://leetcode.com/problems/fruits-into-baskets-ii
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 25
+  udemy:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

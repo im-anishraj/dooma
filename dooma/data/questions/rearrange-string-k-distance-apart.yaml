@@ -1,0 +1,19 @@
+id: rearrange-string-k-distance-apart
+title: Rearrange String k Distance Apart
+url: https://leetcode.com/problems/rearrange-string-k-distance-apart
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+  tiktok:
+    frequency: 50
+  zomato:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

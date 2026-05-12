@@ -1,0 +1,15 @@
+id: minimum-cost-to-set-cooking-time
+title: Minimum Cost to Set Cooking Time
+url: https://leetcode.com/problems/minimum-cost-to-set-cooking-time
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  ge-digital:
+    frequency: 75
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

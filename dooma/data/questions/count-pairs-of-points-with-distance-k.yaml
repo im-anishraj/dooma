@@ -1,0 +1,13 @@
+id: count-pairs-of-points-with-distance-k
+title: Count Pairs of Points With Distance k
+url: https://leetcode.com/problems/count-pairs-of-points-with-distance-k
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

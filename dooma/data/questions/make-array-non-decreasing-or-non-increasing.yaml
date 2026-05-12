@@ -1,0 +1,19 @@
+id: make-array-non-decreasing-or-non-increasing
+title: Make Array Non-decreasing or Non-increasing
+url: https://leetcode.com/problems/make-array-non-decreasing-or-non-increasing
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  oracle:
+    frequency: 37
+  tiktok:
+    frequency: 37
+  vmware:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

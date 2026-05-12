@@ -1,0 +1,19 @@
+id: html-entity-parser
+title: HTML Entity Parser
+url: https://leetcode.com/problems/html-entity-parser
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  oracle:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

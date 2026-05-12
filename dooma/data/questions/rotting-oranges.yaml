@@ -1,0 +1,117 @@
+id: rotting-oranges
+title: Rotting Oranges
+url: https://leetcode.com/problems/rotting-oranges
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 50
+  amazon:
+    frequency: 75
+  anduril:
+    frequency: 50
+  apple:
+    frequency: 37
+  bloomberg:
+    frequency: 50
+  bytedance:
+    frequency: 50
+  c3-ai:
+    frequency: 100
+  commvault:
+    frequency: 62
+  databricks:
+    frequency: 37
+  de-shaw:
+    frequency: 50
+  docusign:
+    frequency: 75
+  doordash:
+    frequency: 25
+  dp-world:
+    frequency: 87
+  dream11:
+    frequency: 62
+  ebay:
+    frequency: 62
+  expedia:
+    frequency: 50
+  flipkart:
+    frequency: 75
+  goldman-sachs:
+    frequency: 37
+  google:
+    frequency: 50
+  ibm:
+    frequency: 37
+  informatica:
+    frequency: 100
+  infosys:
+    frequency: 50
+  intuit:
+    frequency: 75
+  lyft:
+    frequency: 100
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 50
+  myntra:
+    frequency: 75
+  nvidia:
+    frequency: 50
+  openai:
+    frequency: 50
+  oracle:
+    frequency: 62
+  paypal:
+    frequency: 37
+  phonepe:
+    frequency: 75
+  rakuten:
+    frequency: 87
+  roblox:
+    frequency: 37
+  salesforce:
+    frequency: 37
+  samsung:
+    frequency: 75
+  servicenow:
+    frequency: 62
+  snowflake:
+    frequency: 50
+  tcs:
+    frequency: 25
+  tekion:
+    frequency: 75
+  tesla:
+    frequency: 50
+  tiktok:
+    frequency: 50
+  twitter:
+    frequency: 50
+  uber:
+    frequency: 50
+  visa:
+    frequency: 37
+  vmware:
+    frequency: 62
+  walmart-labs:
+    frequency: 62
+  wix:
+    frequency: 87
+  yandex:
+    frequency: 25
+  zepto:
+    frequency: 75
+  ziprecruiter:
+    frequency: 87
+  zoho:
+    frequency: 62
+  zoox:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: prime-in-diagonal
+title: Prime In Diagonal
+url: https://leetcode.com/problems/prime-in-diagonal
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

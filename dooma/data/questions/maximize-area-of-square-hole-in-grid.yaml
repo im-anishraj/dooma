@@ -1,0 +1,19 @@
+id: maximize-area-of-square-hole-in-grid
+title: Maximize Area of Square Hole in Grid
+url: https://leetcode.com/problems/maximize-area-of-square-hole-in-grid
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  swiggy:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,23 @@
+id: replace-words
+title: Replace Words
+url: https://leetcode.com/problems/replace-words
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  tiktok:
+    frequency: 37
+  uber:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

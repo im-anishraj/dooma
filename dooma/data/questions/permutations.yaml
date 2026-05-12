@@ -1,0 +1,63 @@
+id: permutations
+title: Permutations
+url: https://leetcode.com/problems/permutations
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  agoda:
+    frequency: 50
+  amazon:
+    frequency: 50
+  american-express:
+    frequency: 50
+  apple:
+    frequency: 50
+  arista-networks:
+    frequency: 62
+  bloomberg:
+    frequency: 50
+  bookingcom:
+    frequency: 75
+  cisco:
+    frequency: 37
+  citadel:
+    frequency: 50
+  epic-systems:
+    frequency: 50
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 50
+  jpmorgan:
+    frequency: 37
+  linkedin:
+    frequency: 62
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 50
+  microstrategy:
+    frequency: 62
+  oracle:
+    frequency: 37
+  qualcomm:
+    frequency: 50
+  samsung:
+    frequency: 50
+  servicenow:
+    frequency: 50
+  tiktok:
+    frequency: 62
+  uber:
+    frequency: 37
+  zoho:
+    frequency: 37
+  zomato:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

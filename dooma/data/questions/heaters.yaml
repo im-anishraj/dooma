@@ -1,0 +1,35 @@
+id: heaters
+title: Heaters
+url: https://leetcode.com/problems/heaters
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 25
+  anduril:
+    frequency: 75
+  bloomberg:
+    frequency: 25
+  de-shaw:
+    frequency: 50
+  google:
+    frequency: 25
+  ibm:
+    frequency: 37
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  phonepe:
+    frequency: 50
+  tiktok:
+    frequency: 37
+  zeta:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

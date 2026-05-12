@@ -1,0 +1,21 @@
+id: sum-of-absolute-differences-in-a-sorted-array
+title: Sum of Absolute Differences in a Sorted Array
+url: https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  ibm:
+    frequency: 50
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

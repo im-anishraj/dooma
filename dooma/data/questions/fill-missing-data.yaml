@@ -1,0 +1,15 @@
+id: fill-missing-data
+title: Fill Missing Data
+url: https://leetcode.com/problems/fill-missing-data
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  acko:
+    frequency: 100
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

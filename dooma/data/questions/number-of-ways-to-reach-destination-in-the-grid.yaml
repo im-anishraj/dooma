@@ -1,0 +1,13 @@
+id: number-of-ways-to-reach-destination-in-the-grid
+title: Number of Ways to Reach Destination in the Grid
+url: https://leetcode.com/problems/number-of-ways-to-reach-destination-in-the-grid
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  uber:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: maximum-linear-stock-score
+title: Maximum Linear Stock Score
+url: https://leetcode.com/problems/maximum-linear-stock-score
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

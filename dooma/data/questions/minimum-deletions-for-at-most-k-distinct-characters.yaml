@@ -1,0 +1,15 @@
+id: minimum-deletions-for-at-most-k-distinct-characters
+title: Minimum Deletions for At Most K Distinct Characters
+url: https://leetcode.com/problems/minimum-deletions-for-at-most-k-distinct-characters
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  meta:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

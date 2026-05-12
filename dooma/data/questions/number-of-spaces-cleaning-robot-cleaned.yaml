@@ -1,0 +1,15 @@
+id: number-of-spaces-cleaning-robot-cleaned
+title: Number of Spaces Cleaning Robot Cleaned
+url: https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  geico:
+    frequency: 75
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: sort-integers-by-the-power-value
+title: Sort Integers by The Power Value
+url: https://leetcode.com/problems/sort-integers-by-the-power-value
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 62
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

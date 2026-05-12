@@ -1,0 +1,13 @@
+id: merge-similar-items
+title: Merge Similar Items
+url: https://leetcode.com/problems/merge-similar-items
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

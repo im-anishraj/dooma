@@ -1,0 +1,23 @@
+id: number-of-adjacent-elements-with-the-same-color
+title: Number of Adjacent Elements With the Same Color
+url: https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  capital-one:
+    frequency: 75
+  roblox:
+    frequency: 62
+  tiktok:
+    frequency: 25
+  uber:
+    frequency: 37
+  visa:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

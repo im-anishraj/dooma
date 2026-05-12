@@ -1,0 +1,13 @@
+id: count-the-number-of-k-free-subsets
+title: Count the Number of K-Free Subsets
+url: https://leetcode.com/problems/count-the-number-of-k-free-subsets
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

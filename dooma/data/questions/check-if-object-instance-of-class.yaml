@@ -1,0 +1,15 @@
+id: check-if-object-instance-of-class
+title: Check if Object Instance of Class
+url: https://leetcode.com/problems/check-if-object-instance-of-class
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

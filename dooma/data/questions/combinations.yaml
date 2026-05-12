@@ -1,0 +1,25 @@
+id: combinations
+title: Combinations
+url: https://leetcode.com/problems/combinations
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 25
+  infosys:
+    frequency: 37
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 25
+  tiktok:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

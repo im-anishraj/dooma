@@ -1,0 +1,45 @@
+id: two-sum-ii-input-array-is-sorted
+title: Two Sum II - Input Array Is Sorted
+url: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 50
+  bloomberg:
+    frequency: 50
+  epam-systems:
+    frequency: 62
+  google:
+    frequency: 50
+  infosys:
+    frequency: 50
+  jpmorgan:
+    frequency: 37
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 50
+  oracle:
+    frequency: 37
+  tcs:
+    frequency: 25
+  tiktok:
+    frequency: 37
+  visa:
+    frequency: 37
+  yandex:
+    frequency: 37
+  zoho:
+    frequency: 37
+  zomato:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

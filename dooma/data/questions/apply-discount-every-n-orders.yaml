@@ -1,0 +1,13 @@
+id: apply-discount-every-n-orders
+title: Apply Discount Every n Orders
+url: https://leetcode.com/problems/apply-discount-every-n-orders
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  meta:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

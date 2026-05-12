@@ -1,0 +1,31 @@
+id: excel-sheet-column-number
+title: Excel Sheet Column Number
+url: https://leetcode.com/problems/excel-sheet-column-number
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  docusign:
+    frequency: 62
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 50
+  razorpay:
+    frequency: 62
+  uber:
+    frequency: 50
+  zoho:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

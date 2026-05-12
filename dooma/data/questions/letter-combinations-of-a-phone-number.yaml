@@ -1,0 +1,91 @@
+id: letter-combinations-of-a-phone-number
+title: Letter Combinations of a Phone Number
+url: https://leetcode.com/problems/letter-combinations-of-a-phone-number
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 75
+  adobe:
+    frequency: 50
+  amazon:
+    frequency: 62
+  apple:
+    frequency: 50
+  bloomberg:
+    frequency: 50
+  capital-one:
+    frequency: 37
+  chime:
+    frequency: 75
+  cisco:
+    frequency: 37
+  citadel:
+    frequency: 50
+  de-shaw:
+    frequency: 75
+  dropbox:
+    frequency: 100
+  epic-systems:
+    frequency: 87
+  expedia:
+    frequency: 50
+  flexport:
+    frequency: 75
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 50
+  ibm:
+    frequency: 62
+  jpmorgan:
+    frequency: 37
+  linkedin:
+    frequency: 75
+  lyft:
+    frequency: 37
+  meta:
+    frequency: 62
+  microsoft:
+    frequency: 62
+  oracle:
+    frequency: 50
+  phonepe:
+    frequency: 50
+  pinterest:
+    frequency: 37
+  salesforce:
+    frequency: 25
+  servicenow:
+    frequency: 62
+  snapchat:
+    frequency: 37
+  societe-generale:
+    frequency: 62
+  swiggy:
+    frequency: 50
+  tcs:
+    frequency: 37
+  tesla:
+    frequency: 75
+  tiktok:
+    frequency: 25
+  trexquant:
+    frequency: 87
+  twilio:
+    frequency: 62
+  uber:
+    frequency: 62
+  visa:
+    frequency: 37
+  yandex:
+    frequency: 37
+  zoho:
+    frequency: 50
+  zopsmart:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

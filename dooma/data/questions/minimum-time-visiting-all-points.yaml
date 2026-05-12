@@ -1,0 +1,23 @@
+id: minimum-time-visiting-all-points
+title: Minimum Time Visiting All Points
+url: https://leetcode.com/problems/minimum-time-visiting-all-points
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  medianet:
+    frequency: 87
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

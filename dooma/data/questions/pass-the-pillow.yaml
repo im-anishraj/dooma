@@ -1,0 +1,17 @@
+id: pass-the-pillow
+title: Pass the Pillow
+url: https://leetcode.com/problems/pass-the-pillow
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  mathworks:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

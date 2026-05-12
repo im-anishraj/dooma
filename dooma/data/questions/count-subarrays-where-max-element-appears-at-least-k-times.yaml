@@ -1,0 +1,23 @@
+id: count-subarrays-where-max-element-appears-at-least-k-times
+title: Count Subarrays Where Max Element Appears at Least K Times
+url: https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 75
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

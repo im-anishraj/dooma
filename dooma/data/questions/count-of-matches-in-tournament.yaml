@@ -1,0 +1,19 @@
+id: count-of-matches-in-tournament
+title: Count of Matches in Tournament
+url: https://leetcode.com/problems/count-of-matches-in-tournament
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

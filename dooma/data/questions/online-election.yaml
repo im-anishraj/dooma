@@ -1,0 +1,19 @@
+id: online-election
+title: Online Election
+url: https://leetcode.com/problems/online-election
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  atlassian:
+    frequency: 37
+  bloomberg:
+    frequency: 12
+  cars24:
+    frequency: 100
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

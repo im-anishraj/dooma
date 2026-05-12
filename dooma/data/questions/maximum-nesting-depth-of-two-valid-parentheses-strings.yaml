@@ -1,0 +1,15 @@
+id: maximum-nesting-depth-of-two-valid-parentheses-strings
+title: Maximum Nesting Depth of Two Valid Parentheses Strings
+url: https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomreach:
+    frequency: 100
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,23 @@
+id: shortest-path-to-get-all-keys
+title: Shortest Path to Get All Keys
+url: https://leetcode.com/problems/shortest-path-to-get-all-keys
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  airbnb:
+    frequency: 62
+  google:
+    frequency: 25
+  phonepe:
+    frequency: 50
+  roku:
+    frequency: 100
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

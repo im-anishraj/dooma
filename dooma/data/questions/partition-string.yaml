@@ -1,0 +1,13 @@
+id: partition-string
+title: Partition String
+url: https://leetcode.com/problems/partition-string
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

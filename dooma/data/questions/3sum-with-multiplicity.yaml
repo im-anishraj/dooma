@@ -1,0 +1,19 @@
+id: 3sum-with-multiplicity
+title: 3Sum With Multiplicity
+url: https://leetcode.com/problems/3sum-with-multiplicity
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  quora:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

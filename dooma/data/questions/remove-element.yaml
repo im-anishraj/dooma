@@ -1,0 +1,31 @@
+id: remove-element
+title: Remove Element
+url: https://leetcode.com/problems/remove-element
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 50
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 62
+  google:
+    frequency: 62
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 62
+  tcs:
+    frequency: 37
+  uber:
+    frequency: 25
+  yandex:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

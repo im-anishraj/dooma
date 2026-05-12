@@ -1,0 +1,13 @@
+id: find-the-subtasks-that-did-not-execute
+title: Find the Subtasks That Did Not Execute
+url: https://leetcode.com/problems/find-the-subtasks-that-did-not-execute
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

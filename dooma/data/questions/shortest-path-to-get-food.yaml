@@ -1,0 +1,17 @@
+id: shortest-path-to-get-food
+title: Shortest Path to Get Food
+url: https://leetcode.com/problems/shortest-path-to-get-food
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 37
+  doordash:
+    frequency: 37
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

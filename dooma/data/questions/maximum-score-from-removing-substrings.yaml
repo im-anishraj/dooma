@@ -1,0 +1,25 @@
+id: maximum-score-from-removing-substrings
+title: Maximum Score From Removing Substrings
+url: https://leetcode.com/problems/maximum-score-from-removing-substrings
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 25
+  juspay:
+    frequency: 50
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  swiggy:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

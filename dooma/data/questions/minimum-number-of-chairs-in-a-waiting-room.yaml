@@ -1,0 +1,17 @@
+id: minimum-number-of-chairs-in-a-waiting-room
+title: Minimum Number of Chairs in a Waiting Room
+url: https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  expedia:
+    frequency: 75
+  goldman-sachs:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

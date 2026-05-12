@@ -1,0 +1,23 @@
+id: partition-array-into-three-parts-with-equal-sum
+title: Partition Array Into Three Parts With Equal Sum
+url: https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  turing:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

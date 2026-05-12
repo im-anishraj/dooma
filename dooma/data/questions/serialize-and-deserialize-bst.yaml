@@ -1,0 +1,19 @@
+id: serialize-and-deserialize-bst
+title: Serialize and Deserialize BST
+url: https://leetcode.com/problems/serialize-and-deserialize-bst
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  shopee:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

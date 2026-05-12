@@ -1,0 +1,15 @@
+id: license-key-formatting
+title: License Key Formatting
+url: https://leetcode.com/problems/license-key-formatting
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

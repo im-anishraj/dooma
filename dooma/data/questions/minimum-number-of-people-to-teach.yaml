@@ -1,0 +1,19 @@
+id: minimum-number-of-people-to-teach
+title: Minimum Number of People to Teach
+url: https://leetcode.com/problems/minimum-number-of-people-to-teach
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  duolingo:
+    frequency: 87
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

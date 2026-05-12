@@ -1,0 +1,23 @@
+id: check-if-a-parentheses-string-can-be-valid
+title: Check if a Parentheses String Can Be Valid
+url: https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  moloco:
+    frequency: 75
+  servicenow:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

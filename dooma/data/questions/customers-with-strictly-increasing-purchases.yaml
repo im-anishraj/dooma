@@ -1,0 +1,13 @@
+id: customers-with-strictly-increasing-purchases
+title: Customers With Strictly Increasing Purchases
+url: https://leetcode.com/problems/customers-with-strictly-increasing-purchases
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

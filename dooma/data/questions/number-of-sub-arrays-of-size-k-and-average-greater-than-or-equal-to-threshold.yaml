@@ -1,0 +1,17 @@
+id: number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold
+title: Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold
+url: https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  goldman-sachs:
+    frequency: 25
+  linkedin:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

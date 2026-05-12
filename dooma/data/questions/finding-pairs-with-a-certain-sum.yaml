@@ -1,0 +1,25 @@
+id: finding-pairs-with-a-certain-sum
+title: Finding Pairs With a Certain Sum
+url: https://leetcode.com/problems/finding-pairs-with-a-certain-sum
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  databricks:
+    frequency: 37
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  quora:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

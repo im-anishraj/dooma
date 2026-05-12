@@ -1,0 +1,23 @@
+id: find-closest-number-to-zero
+title: Find Closest Number to Zero
+url: https://leetcode.com/problems/find-closest-number-to-zero
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  tiger-analytics:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

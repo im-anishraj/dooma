@@ -1,0 +1,15 @@
+id: minimum-cost-good-caption
+title: Minimum Cost Good Caption
+url: https://leetcode.com/problems/minimum-cost-good-caption
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  fractal-analytics:
+    frequency: 100
+  tiktok:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

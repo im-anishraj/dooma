@@ -1,0 +1,13 @@
+id: find-the-n-th-value-after-k-seconds
+title: Find the N-th Value After K Seconds
+url: https://leetcode.com/problems/find-the-n-th-value-after-k-seconds
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  walmart-labs:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

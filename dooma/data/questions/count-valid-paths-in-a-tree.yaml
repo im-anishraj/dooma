@@ -1,0 +1,13 @@
+id: count-valid-paths-in-a-tree
+title: Count Valid Paths in a Tree
+url: https://leetcode.com/problems/count-valid-paths-in-a-tree
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  gameskraft:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

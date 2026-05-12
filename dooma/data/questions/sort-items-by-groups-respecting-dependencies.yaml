@@ -1,0 +1,21 @@
+id: sort-items-by-groups-respecting-dependencies
+title: Sort Items by Groups Respecting Dependencies
+url: https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  citadel:
+    frequency: 50
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

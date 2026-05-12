@@ -1,0 +1,13 @@
+id: flip-game
+title: Flip Game
+url: https://leetcode.com/problems/flip-game
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

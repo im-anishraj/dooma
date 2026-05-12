@@ -1,0 +1,13 @@
+id: maximum-price-to-fill-a-bag
+title: Maximum Price to Fill a Bag
+url: https://leetcode.com/problems/maximum-price-to-fill-a-bag
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

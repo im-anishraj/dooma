@@ -1,0 +1,13 @@
+id: find-maximum-removals-from-source-string
+title: Find Maximum Removals From Source String
+url: https://leetcode.com/problems/find-maximum-removals-from-source-string
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

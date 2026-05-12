@@ -1,0 +1,27 @@
+id: add-two-numbers-ii
+title: Add Two Numbers II
+url: https://leetcode.com/problems/add-two-numbers-ii
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 50
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 37
+  oracle:
+    frequency: 37
+  tiktok:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,47 @@
+id: clone-graph
+title: Clone Graph
+url: https://leetcode.com/problems/clone-graph
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  bytedance:
+    frequency: 50
+  crowdstrike:
+    frequency: 62
+  didi:
+    frequency: 100
+  ebay:
+    frequency: 50
+  flexport:
+    frequency: 100
+  google:
+    frequency: 37
+  grammarly:
+    frequency: 50
+  meta:
+    frequency: 75
+  microsoft:
+    frequency: 25
+  nutanix:
+    frequency: 50
+  nvidia:
+    frequency: 37
+  oracle:
+    frequency: 37
+  pocket-gems:
+    frequency: 100
+  uber:
+    frequency: 50
+  wix:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

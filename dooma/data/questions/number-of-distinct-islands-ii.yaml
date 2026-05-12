@@ -1,0 +1,17 @@
+id: number-of-distinct-islands-ii
+title: Number of Distinct Islands II
+url: https://leetcode.com/problems/number-of-distinct-islands-ii
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

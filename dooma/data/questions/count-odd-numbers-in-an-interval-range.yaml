@@ -1,0 +1,19 @@
+id: count-odd-numbers-in-an-interval-range
+title: Count Odd Numbers in an Interval Range
+url: https://leetcode.com/problems/count-odd-numbers-in-an-interval-range
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,23 @@
+id: pascals-triangle-ii
+title: Pascal's Triangle II
+url: https://leetcode.com/problems/pascals-triangle-ii
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

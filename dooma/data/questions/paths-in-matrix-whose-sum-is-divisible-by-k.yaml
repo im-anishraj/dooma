@@ -1,0 +1,19 @@
+id: paths-in-matrix-whose-sum-is-divisible-by-k
+title: Paths in Matrix Whose Sum Is Divisible by K
+url: https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  apple:
+    frequency: 25
+  google:
+    frequency: 25
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

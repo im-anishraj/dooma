@@ -1,0 +1,13 @@
+id: find-books-with-no-available-copies
+title: Find Books with No Available Copies
+url: https://leetcode.com/problems/find-books-with-no-available-copies
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

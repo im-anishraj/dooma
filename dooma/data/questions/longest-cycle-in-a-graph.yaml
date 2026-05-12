@@ -1,0 +1,19 @@
+id: longest-cycle-in-a-graph
+title: Longest Cycle in a Graph
+url: https://leetcode.com/problems/longest-cycle-in-a-graph
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  juspay:
+    frequency: 87
+  phonepe:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

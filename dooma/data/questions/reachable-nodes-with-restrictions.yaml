@@ -1,0 +1,13 @@
+id: reachable-nodes-with-restrictions
+title: Reachable Nodes With Restrictions
+url: https://leetcode.com/problems/reachable-nodes-with-restrictions
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  makemytrip:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

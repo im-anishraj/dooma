@@ -1,0 +1,37 @@
+id: reaching-points
+title: Reaching Points
+url: https://leetcode.com/problems/reaching-points
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  blackstone:
+    frequency: 100
+  cloudflare:
+    frequency: 87
+  coursera:
+    frequency: 100
+  goldman-sachs:
+    frequency: 50
+  google:
+    frequency: 25
+  jpmorgan:
+    frequency: 50
+  kla:
+    frequency: 87
+  kla-tencor:
+    frequency: 100
+  microsoft:
+    frequency: 12
+  paypal:
+    frequency: 50
+  snapchat:
+    frequency: 50
+  wayfair:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

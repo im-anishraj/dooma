@@ -1,0 +1,23 @@
+id: bitwise-and-of-numbers-range
+title: Bitwise AND of Numbers Range
+url: https://leetcode.com/problems/bitwise-and-of-numbers-range
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

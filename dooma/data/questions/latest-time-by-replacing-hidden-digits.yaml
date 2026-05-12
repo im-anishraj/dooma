@@ -1,0 +1,13 @@
+id: latest-time-by-replacing-hidden-digits
+title: Latest Time by Replacing Hidden Digits
+url: https://leetcode.com/problems/latest-time-by-replacing-hidden-digits
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

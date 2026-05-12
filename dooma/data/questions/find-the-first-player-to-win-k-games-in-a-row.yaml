@@ -1,0 +1,15 @@
+id: find-the-first-player-to-win-k-games-in-a-row
+title: Find The First Player to win K Games in a Row
+url: https://leetcode.com/problems/find-the-first-player-to-win-k-games-in-a-row
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  ibm:
+    frequency: 75
+  jpmorgan:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,27 @@
+id: maximum-swap
+title: Maximum Swap
+url: https://leetcode.com/problems/maximum-swap
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 37
+  google:
+    frequency: 37
+  meta:
+    frequency: 75
+  microsoft:
+    frequency: 25
+  snapchat:
+    frequency: 37
+  tcs:
+    frequency: 25
+  tiktok:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

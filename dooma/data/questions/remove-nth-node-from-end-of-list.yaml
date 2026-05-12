@@ -1,0 +1,49 @@
+id: remove-nth-node-from-end-of-list
+title: Remove Nth Node From End of List
+url: https://leetcode.com/problems/remove-nth-node-from-end-of-list
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 50
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 50
+  bloomberg:
+    frequency: 50
+  broadcom:
+    frequency: 100
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 50
+  josh-technology:
+    frequency: 62
+  meta:
+    frequency: 62
+  microsoft:
+    frequency: 50
+  morgan-stanley:
+    frequency: 50
+  oracle:
+    frequency: 25
+  qualcomm:
+    frequency: 75
+  symantec:
+    frequency: 100
+  tcs:
+    frequency: 37
+  tiktok:
+    frequency: 37
+  tinkoff:
+    frequency: 75
+  walmart-labs:
+    frequency: 50
+  yandex:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

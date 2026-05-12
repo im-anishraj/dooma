@@ -1,0 +1,21 @@
+id: count-equal-and-divisible-pairs-in-an-array
+title: Count Equal and Divisible Pairs in an Array
+url: https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  zeta-suite:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

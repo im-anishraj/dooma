@@ -1,0 +1,21 @@
+id: make-lexicographically-smallest-array-by-swapping-elements
+title: Make Lexicographically Smallest Array by Swapping Elements
+url: https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  atlassian:
+    frequency: 62
+  google:
+    frequency: 12
+  ibm:
+    frequency: 37
+  phonepe:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

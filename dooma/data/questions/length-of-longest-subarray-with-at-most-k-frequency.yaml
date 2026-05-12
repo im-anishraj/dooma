@@ -1,0 +1,27 @@
+id: length-of-longest-subarray-with-at-most-k-frequency
+title: Length of Longest Subarray With at Most K Frequency
+url: https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  apple:
+    frequency: 25
+  citadel:
+    frequency: 75
+  google:
+    frequency: 12
+  makemytrip:
+    frequency: 100
+  meta:
+    frequency: 12
+  tiktok:
+    frequency: 25
+  uber:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

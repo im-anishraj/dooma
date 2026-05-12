@@ -1,0 +1,29 @@
+id: palindrome-partitioning
+title: Palindrome Partitioning
+url: https://leetcode.com/problems/palindrome-partitioning
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 62
+  coupang:
+    frequency: 62
+  google:
+    frequency: 50
+  infosys:
+    frequency: 37
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

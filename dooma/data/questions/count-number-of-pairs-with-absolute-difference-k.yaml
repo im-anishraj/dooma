@@ -1,0 +1,25 @@
+id: count-number-of-pairs-with-absolute-difference-k
+title: Count Number of Pairs With Absolute Difference K
+url: https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  expedia:
+    frequency: 50
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  tcs:
+    frequency: 37
+  yandex:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

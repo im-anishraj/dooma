@@ -1,0 +1,31 @@
+id: network-delay-time
+title: Network Delay Time
+url: https://leetcode.com/problems/network-delay-time
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  akuna-capital:
+    frequency: 100
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 37
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  netflix:
+    frequency: 75
+  salesforce:
+    frequency: 37
+  tiktok:
+    frequency: 25
+  yahoo:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

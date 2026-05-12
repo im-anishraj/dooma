@@ -1,0 +1,17 @@
+id: largest-time-for-given-digits
+title: Largest Time for Given Digits
+url: https://leetcode.com/problems/largest-time-for-given-digits
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  liveramp:
+    frequency: 100
+  microsoft:
+    frequency: 25
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,27 @@
+id: students-and-examinations
+title: Students and Examinations
+url: https://leetcode.com/problems/students-and-examinations
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 37
+  cognizant:
+    frequency: 50
+  google:
+    frequency: 37
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 25
+  roblox:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

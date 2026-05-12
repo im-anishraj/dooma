@@ -1,0 +1,39 @@
+id: search-insert-position
+title: Search Insert Position
+url: https://leetcode.com/problems/search-insert-position
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 37
+  bloomberg:
+    frequency: 62
+  cognizant:
+    frequency: 50
+  google:
+    frequency: 50
+  ibm:
+    frequency: 37
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 50
+  tcs:
+    frequency: 37
+  yahoo:
+    frequency: 50
+  yandex:
+    frequency: 25
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

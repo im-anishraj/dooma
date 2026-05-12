@@ -1,0 +1,17 @@
+id: shortest-path-in-a-hidden-grid
+title: Shortest Path in a Hidden Grid
+url: https://leetcode.com/problems/shortest-path-in-a-hidden-grid
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,31 @@
+id: check-if-array-is-sorted-and-rotated
+title: Check if Array Is Sorted and Rotated
+url: https://leetcode.com/problems/check-if-array-is-sorted-and-rotated
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 50
+  bloomberg:
+    frequency: 50
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 37
+  ibm:
+    frequency: 37
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 37
+  soundhound:
+    frequency: 100
+  tcs:
+    frequency: 62
+  visa:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,27 @@
+id: spiral-matrix-iii
+title: Spiral Matrix III
+url: https://leetcode.com/problems/spiral-matrix-iii
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  dataminr:
+    frequency: 100
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

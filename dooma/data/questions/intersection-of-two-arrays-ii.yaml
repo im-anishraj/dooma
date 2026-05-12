@@ -1,0 +1,29 @@
+id: intersection-of-two-arrays-ii
+title: Intersection of Two Arrays II
+url: https://leetcode.com/problems/intersection-of-two-arrays-ii
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 37
+  criteo:
+    frequency: 75
+  google:
+    frequency: 37
+  ibm:
+    frequency: 37
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 25
+  tcs:
+    frequency: 25
+  yandex:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

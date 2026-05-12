@@ -1,0 +1,17 @@
+id: increasing-decreasing-string
+title: Increasing Decreasing String
+url: https://leetcode.com/problems/increasing-decreasing-string
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  akuna-capital:
+    frequency: 100
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,17 @@
+id: apple-redistribution-into-boxes
+title: Apple Redistribution into Boxes
+url: https://leetcode.com/problems/apple-redistribution-into-boxes
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  apple:
+    frequency: 37
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

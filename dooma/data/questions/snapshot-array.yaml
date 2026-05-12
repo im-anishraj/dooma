@@ -1,0 +1,47 @@
+id: snapshot-array
+title: Snapshot Array
+url: https://leetcode.com/problems/snapshot-array
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  apple:
+    frequency: 62
+  coupang:
+    frequency: 62
+  databricks:
+    frequency: 62
+  deepmind:
+    frequency: 100
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 37
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  mongodb:
+    frequency: 75
+  nutanix:
+    frequency: 50
+  nvidia:
+    frequency: 37
+  rubrik:
+    frequency: 50
+  snapchat:
+    frequency: 37
+  snowflake:
+    frequency: 50
+  stackadapt:
+    frequency: 100
+  tiktok:
+    frequency: 62
+  verkada:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

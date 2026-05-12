@@ -1,0 +1,19 @@
+id: minimum-substring-partition-of-equal-character-frequency
+title: Minimum Substring Partition of Equal Character Frequency
+url: https://leetcode.com/problems/minimum-substring-partition-of-equal-character-frequency
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  mitsogo:
+    frequency: 100
+  morgan-stanley:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

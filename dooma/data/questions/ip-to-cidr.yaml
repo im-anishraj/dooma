@@ -1,0 +1,19 @@
+id: ip-to-cidr
+title: IP to CIDR
+url: https://leetcode.com/problems/ip-to-cidr
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  airbnb:
+    frequency: 75
+  databricks:
+    frequency: 100
+  google:
+    frequency: 12
+  openai:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

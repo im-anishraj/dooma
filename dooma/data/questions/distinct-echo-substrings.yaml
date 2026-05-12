@@ -1,0 +1,13 @@
+id: distinct-echo-substrings
+title: Distinct Echo Substrings
+url: https://leetcode.com/problems/distinct-echo-substrings
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

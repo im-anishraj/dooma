@@ -1,0 +1,13 @@
+id: widest-pair-of-indices-with-equal-range-sum
+title: Widest Pair of Indices With Equal Range Sum
+url: https://leetcode.com/problems/widest-pair-of-indices-with-equal-range-sum
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

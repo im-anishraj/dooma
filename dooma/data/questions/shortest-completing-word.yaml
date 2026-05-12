@@ -1,0 +1,13 @@
+id: shortest-completing-word
+title: Shortest Completing Word
+url: https://leetcode.com/problems/shortest-completing-word
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

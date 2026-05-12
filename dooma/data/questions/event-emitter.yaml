@@ -1,0 +1,19 @@
+id: event-emitter
+title: Event Emitter
+url: https://leetcode.com/problems/event-emitter
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  meta:
+    frequency: 12
+  tiktok:
+    frequency: 37
+  tinkoff:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

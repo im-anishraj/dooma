@@ -1,0 +1,21 @@
+id: string-matching-in-an-array
+title: String Matching in an Array
+url: https://leetcode.com/problems/string-matching-in-an-array
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

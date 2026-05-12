@@ -1,0 +1,37 @@
+id: add-binary
+title: Add Binary
+url: https://leetcode.com/problems/add-binary
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 37
+  bloomberg:
+    frequency: 50
+  deloitte:
+    frequency: 62
+  google:
+    frequency: 50
+  ibm:
+    frequency: 37
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 50
+  snapchat:
+    frequency: 37
+  tcs:
+    frequency: 50
+  visa:
+    frequency: 50
+  walmart-labs:
+    frequency: 62
+  wipro:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

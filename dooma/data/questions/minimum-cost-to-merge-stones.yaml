@@ -1,0 +1,19 @@
+id: minimum-cost-to-merge-stones
+title: Minimum Cost to Merge Stones
+url: https://leetcode.com/problems/minimum-cost-to-merge-stones
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  de-shaw:
+    frequency: 50
+  google:
+    frequency: 25
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

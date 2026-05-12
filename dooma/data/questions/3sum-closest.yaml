@@ -1,0 +1,33 @@
+id: 3sum-closest
+title: 3Sum Closest
+url: https://leetcode.com/problems/3sum-closest
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 50
+  bloomberg:
+    frequency: 50
+  dream11:
+    frequency: 62
+  ebay:
+    frequency: 50
+  flipkart:
+    frequency: 37
+  google:
+    frequency: 50
+  harness:
+    frequency: 100
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 37
+  tcs:
+    frequency: 37
+  zoho:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,41 @@
+id: design-in-memory-file-system
+title: Design In-Memory File System
+url: https://leetcode.com/problems/design-in-memory-file-system
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  baidu:
+    frequency: 100
+  coinbase:
+    frequency: 87
+  coupang:
+    frequency: 87
+  doordash:
+    frequency: 62
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  netskope:
+    frequency: 100
+  observeai:
+    frequency: 62
+  oracle:
+    frequency: 50
+  shopify:
+    frequency: 62
+  snowflake:
+    frequency: 100
+  tiktok:
+    frequency: 62
+  uber:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []
