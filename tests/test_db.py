@@ -19,6 +19,19 @@ def test_set_and_get_status(conn):
     assert db.get_status("two-sum", conn=conn) == "solved"
 
 
+@pytest.mark.parametrize("status", sorted(db.VALID_STATUSES))
+def test_set_status_accepts_valid_statuses(conn, status):
+    db.set_status("two-sum", status, conn=conn)
+    assert db.get_status("two-sum", conn=conn) == status
+
+
+def test_set_status_rejects_invalid_status(conn):
+    with pytest.raises(ValueError, match="Invalid status 'done'"):
+        db.set_status("two-sum", "done", conn=conn)
+
+    assert db.get_status("two-sum", conn=conn) == "unsolved"
+
+
 def test_get_status_default(conn):
     assert db.get_status("nonexistent", conn=conn) == "unsolved"
 

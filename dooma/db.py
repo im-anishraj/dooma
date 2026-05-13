@@ -13,6 +13,7 @@ from pathlib import Path
 
 _DB_PATH = Path.home() / ".dooma" / "state.db"
 _conn: sqlite3.Connection | None = None
+VALID_STATUSES = frozenset({"unsolved", "attempted", "solved", "skipped"})
 
 _SCHEMA = """
 CREATE TABLE IF NOT EXISTS question_status (
@@ -98,6 +99,10 @@ def get_status(question_id: str, *, conn: sqlite3.Connection | None = None) -> s
 
 def set_status(question_id: str, status: str, *, conn: sqlite3.Connection | None = None) -> None:
     """Set the status for a question."""
+    if status not in VALID_STATUSES:
+        valid = ", ".join(sorted(VALID_STATUSES))
+        raise ValueError(f"Invalid status '{status}'. Expected one of: {valid}.")
+
     c = conn or get_connection()
     c.execute(
         "INSERT INTO question_status (question_id, status, updated_at) VALUES (?, ?, ?) "

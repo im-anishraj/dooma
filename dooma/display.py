@@ -172,9 +172,14 @@ def _render_image_logo() -> Text:
     return text
 
 
+def _console_width() -> int:
+    """Return the configured console width, including explicit Rich test widths."""
+    return getattr(console, "_width", None) or console.size.width
+
+
 def render_logo() -> Text:
     """Return the Dooma terminal wordmark."""
-    if console.color_system is None or console.size.width < _IMAGE_LOGO_WIDTH + 4:
+    if console.color_system is None or _console_width() < _IMAGE_LOGO_WIDTH + 4:
         return _render_compact_logo()
     return _render_image_logo()
 
