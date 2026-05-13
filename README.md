@@ -1,7 +1,7 @@
 # Dooma
 
 <p align="center">
-  <strong>The offline terminal atlas for DSA interview preparation.</strong>
+  <strong>Offline-first terminal DSA interview prep with company-wise practice, fast search, mock interviews, sheets, and local progress.</strong>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
   <a href="https://pepy.tech/project/dooma"><img alt="Downloads" src="https://img.shields.io/pepy/dt/dooma?style=for-the-badge"></a>
 </p>
 
-Dooma brings company-wise LeetCode-style preparation into your terminal: searchable, bookmarkable, trackable, and available without accounts or network access after install.
+Dooma brings company-wise LeetCode-style preparation into your terminal: 3,310 searchable questions, 17,931 interview mappings, curated sheets, mock sessions, bookmarks, notes, and local progress tracking without accounts or network access after install.
 
 ## Why Dooma
 
