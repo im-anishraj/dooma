@@ -26,6 +26,8 @@ def fuzzy_search(query: str, index: Index, *, limit: int = 20) -> list[Question]
     """
     if not query or not query.strip():
         return []
+    if limit < 1:
+        return []
 
     query = query.strip().lower()
 

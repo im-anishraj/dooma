@@ -5,8 +5,8 @@ from __future__ import annotations
 import typer
 
 from dooma import db, display
-from dooma.loader import load_index
 from dooma.display import console
+from dooma.loader import load_index
 
 app = typer.Typer(help="View your progress dashboard.")
 

@@ -2,14 +2,12 @@
 
 from __future__ import annotations
 
-import webbrowser
-
 import typer
 from rich.prompt import Prompt
 
 from dooma import db, display
-from dooma.loader import load_index
 from dooma.display import console
+from dooma.loader import load_index
 
 app = typer.Typer(help="Browse patterns or companies.")
 
@@ -24,8 +22,11 @@ def browse(
         return
     if target == "companies":
         _browse_companies()
-    else:
+    elif target == "patterns":
         _browse_patterns()
+    else:
+        console.print("[red]Invalid browse target. Use 'patterns' or 'companies'.[/red]")
+        raise typer.Exit(1)
 
 
 def _browse_patterns():
@@ -116,7 +117,7 @@ def _show_company_questions(name: str, questions):
             questions, title=f"Company: {name}", statuses=statuses, page=page, page_size=page_size,
         )
         console.print(table)
-        console.print(f"\n[dim]n/p: pages • # to select • o: open URL • m: status • b: bookmark • q: back[/dim]")
+        console.print("\n[dim]n/p: pages • # to select • q: back[/dim]")
 
         choice = Prompt.ask("Action", default="q")
         if choice in ("q", "Q"):
@@ -128,5 +129,6 @@ def _show_company_questions(name: str, questions):
         elif choice.isdigit():
             idx = int(choice) - 1
             if 0 <= idx < len(questions):
-                q = questions[idx]
-                webbrowser.open(q.url)
+                from dooma.commands.practice import _question_actions
+
+                _question_actions(questions[idx], statuses)

@@ -10,14 +10,18 @@ import typer
 from rich.prompt import Prompt
 
 from dooma import db, display
-from dooma.loader import load_index
 from dooma.display import console
+from dooma.loader import load_index
 
 app = typer.Typer(help="Timed mock interview session.")
 
 
 def run_mock(count: int = 5, difficulty: str = ""):
     """Core mock logic — callable from menu or CLI."""
+    if count < 1:
+        console.print("[red]Mock interview count must be at least 1.[/red]")
+        return
+
     index = load_index()
     pool = list(index.questions.values())
 
@@ -60,7 +64,7 @@ def run_mock(count: int = 5, difficulty: str = ""):
 
 @app.callback(invoke_without_command=True)
 def mock(
-    count: int = typer.Option(5, help="Number of questions"),
+    count: int = typer.Option(5, min=1, help="Number of questions"),
     difficulty: str = typer.Option("", help="Filter by difficulty"),
 ):
     """Start a random timed mock interview session."""

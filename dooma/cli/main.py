@@ -9,17 +9,16 @@ from rich.prompt import Prompt
 from rich.table import Table
 
 from dooma import __version__, db, display
+from dooma.commands.browse import app as browse_app
+from dooma.commands.dashboard import app as dashboard_app
+from dooma.commands.mock import app as mock_app
+from dooma.commands.practice import app as practice_app
+from dooma.commands.search import app as search_app
+from dooma.commands.sheet import app as sheet_app
 from dooma.config import is_onboarded, save_config
 from dooma.display import console, render_logo, show_onboarding
 from dooma.loader import load_index
 from dooma.search import fuzzy_search
-
-from dooma.commands.practice import app as practice_app
-from dooma.commands.browse import app as browse_app
-from dooma.commands.search import app as search_app
-from dooma.commands.sheet import app as sheet_app
-from dooma.commands.mock import app as mock_app
-from dooma.commands.dashboard import app as dashboard_app
 
 app = typer.Typer(
     name="dooma",

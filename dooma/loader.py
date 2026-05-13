@@ -10,7 +10,7 @@ from __future__ import annotations
 
 from pathlib import Path
 
-import yaml
+import yaml  # type: ignore[import-untyped]
 
 from dooma.models import Company, Index, Pattern, Question, Sheet
 
@@ -46,6 +46,7 @@ def load_index(*, data_dir: Path | None = None, force: bool = False) -> Index:
 
     base = data_dir or _DATA_DIR
     idx = Index()
+    by_company_pairs: dict[str, list[tuple[Question, float]]] = {}
 
     # --- Patterns -----------------------------------------------------------
     patterns_dir = base / "patterns"
@@ -106,7 +107,9 @@ def load_index(*, data_dir: Path | None = None, force: bool = False) -> Index:
 
             # by_company — sorted by frequency desc (done after all loaded)
             for comp, meta in q.companies.items():
-                idx.by_company.setdefault(comp, []).append((q, meta.get("frequency", 0)))
+                by_company_pairs.setdefault(comp, []).append(
+                    (q, meta.get("frequency", 0))
+                )
 
             # by_sheet
             for sh in q.sheets:
@@ -114,8 +117,7 @@ def load_index(*, data_dir: Path | None = None, force: bool = False) -> Index:
 
     # Also populate by_company from the companies map in each question
     # Sort by_company lists by frequency descending
-    for comp in list(idx.by_company.keys()):
-        pairs = idx.by_company[comp]
+    for comp, pairs in by_company_pairs.items():
         pairs.sort(key=lambda pair: pair[1], reverse=True)
         idx.by_company[comp] = [q for q, _ in pairs]
 

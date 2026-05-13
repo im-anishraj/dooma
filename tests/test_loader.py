@@ -1,6 +1,7 @@
 """Tests for dooma.loader — YAML index builder."""
 
 import pytest
+
 from dooma.loader import load_index
 
 
