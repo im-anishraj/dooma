@@ -85,7 +85,7 @@ The home screen gives you the main workflows:
 4  sheet        Curated roadmaps
 5  mock         Timed mock interview
 6  dashboard    Your progress stats
-7  help         Command guide & workflows
+7  guide        Commands, workflows, and support
 8  quit         Exit Dooma
 ```
 
@@ -165,7 +165,7 @@ Inside practice, company, sheet, and random-question flows:
 | Command | Purpose |
 | --- | --- |
 | `dooma` | Open the interactive command hub |
-| `dooma help` / `dooma guide` | Show the built-in workflow guide |
+| `dooma guide` / `dooma help` | Show commands, workflows, and support links |
 | `dooma version` / `dooma --version` / `dooma -V` | Print the installed version |
 | `dooma doctor` | Check Python, dataset, config, and local database health |
 | `dooma search <query>` | Search questions by keyword |

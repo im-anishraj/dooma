@@ -26,6 +26,10 @@ from dooma.display import console, render_logo, show_onboarding
 from dooma.loader import load_index
 from dooma.search import fuzzy_search
 
+REPO_URL = "https://github.com/im-anishraj/dooma"
+CONTRIBUTING_URL = f"{REPO_URL}/blob/main/CONTRIBUTING.md"
+ISSUES_URL = f"{REPO_URL}/issues"
+
 app = typer.Typer(
     name="dooma",
     help="Dooma — your ultimate DSA interview preparation companion.",
@@ -56,7 +60,7 @@ def version():
 
 @app.command("guide")
 def guide():
-    """Show a practical guide to Dooma's commands and workflows."""
+    """Show a practical guide to Dooma's commands, workflows, and support links."""
     console.print(render_logo())
     console.print(
         Panel(
@@ -71,7 +75,8 @@ def guide():
     commands.add_column("Command", style="#F7CA18", no_wrap=True)
     commands.add_column("Use it for")
     commands.add_row("dooma", "Open the interactive command hub.")
-    commands.add_row("dooma help", "Open this guide.")
+    commands.add_row("dooma guide", "Open this guide.")
+    commands.add_row("dooma help", "Alias for dooma guide.")
     commands.add_row("dooma version", "Print the installed version.")
     commands.add_row("dooma search \"two sum\"", "Find questions by fuzzy title/topic search.")
     commands.add_row("dooma question two-sum", "Open a question detail screen.")
@@ -92,6 +97,14 @@ def guide():
     actions.add_row("q", "Go back.")
     console.print(actions)
 
+    support = Table(title="Support Dooma", show_header=True, header_style="bold #E74C3C")
+    support.add_column("Action", style="#F7CA18", no_wrap=True)
+    support.add_column("Link")
+    support.add_row("Star", REPO_URL)
+    support.add_row("Contribute", CONTRIBUTING_URL)
+    support.add_row("Issues", ISSUES_URL)
+    console.print(support)
+
     console.print(
         "\n[dim]Progress is stored locally in ~/.dooma/state.db. "
         "The bundled dataset works offline after installation.[/dim]"
@@ -100,7 +113,7 @@ def guide():
 
 @app.command("help")
 def help_cmd():
-    """Alias for the practical command guide."""
+    """Alias for dooma guide."""
     guide()
 
 
@@ -147,7 +160,12 @@ def doctor():
     console.print(table)
 
     if any(status != "OK" for _, _, status in checks):
+        console.print(f"[red]Something looks off. Please open an issue: {ISSUES_URL}[/red]")
         raise typer.Exit(1)
+
+    console.print(
+        f"[dim]All checks passed. Found a bug or dataset issue? {ISSUES_URL}[/dim]"
+    )
 
 
 @app.command("random")
@@ -354,7 +372,7 @@ def main(
                 ("4", "sheet", "Curated roadmaps"),
                 ("5", "mock", "Timed mock interview"),
                 ("6", "dashboard", "Your progress stats"),
-                ("7", "help", "Command guide & workflows"),
+                ("7", "guide", "Commands, workflows, and support"),
                 ("8", "quit", "Exit Dooma"),
             ]
             for key, cmd, desc in menu:
