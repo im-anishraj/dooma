@@ -123,6 +123,21 @@ def test_custom_data_dir_uses_yaml_fallback(tmp_path):
     assert idx.by_sheet["starter"][0].id == "sample-question"
 
 
+def test_source_hash_normalizes_line_endings(tmp_path):
+    """Generated index checks should be stable across Windows and Linux."""
+    questions_dir = tmp_path / "questions"
+    questions_dir.mkdir()
+    question_file = questions_dir / "sample-question.yaml"
+
+    question_file.write_bytes(b"id: sample-question\ntitle: Sample Question\n")
+    lf_hash = loader._compute_source_hash(tmp_path)
+
+    question_file.write_bytes(b"id: sample-question\r\ntitle: Sample Question\r\n")
+    crlf_hash = loader._compute_source_hash(tmp_path)
+
+    assert crlf_hash == lf_hash
+
+
 def test_prebuilt_index_is_current():
     """Fail fast when YAML data changes without rebuilding index.json."""
     index_path = loader._DATA_DIR / loader._PREBUILT_INDEX_FILENAME

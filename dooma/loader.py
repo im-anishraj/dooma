@@ -49,7 +49,8 @@ def _compute_source_hash(base: Path) -> str:
         relative = fp.relative_to(base).as_posix()
         digest.update(relative.encode("utf-8"))
         digest.update(b"\0")
-        digest.update(fp.read_bytes())
+        content = fp.read_text(encoding="utf-8")
+        digest.update(content.replace("\r\n", "\n").replace("\r", "\n").encode("utf-8"))
         digest.update(b"\0")
     return digest.hexdigest()
 
