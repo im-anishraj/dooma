@@ -28,6 +28,30 @@ _prefer_utf8_streams()
 
 console = Console()
 
+_IMAGE_LOGO_ROWS = (
+    "     OOOOOOOOOO    OOOOOOOOOO     RRRRRRRRR   RRRRR      RRRRR   YYYYYYYY",
+    "     OOOOOOOOOO    OOOOOOOOOO     RRRRRRRRR   RRRRR      RRRRR   YYYYYYYY",
+    "     OOOOOOOOOO    OOOOOOOOOOO    RRRRRRRRR   RRRRRR     RRRRRR  YYYYYYYYY",
+    "     OOO     OOO  OOO      OOO  RRR       RRR RRRRRRR   RRRRRRR YYY    YYYY",
+    "     OOO O   OOO  OOOO     OOO ORRR       RRR RRRRRRRR  RRRRRRR YYY    YYYYY",
+    "     OOO O   OOO  OOOO     OOO ORRR       RRR RRR  RRRRRR  RRRR YYYYYYYYYYYY",
+    "     OOO O   OOO  OOOO     OOO ORRR       RRR RRR  RRRRRR  RRRR YYYYYYYYYYYY",
+    "     OOO O   OOO  OOOO     OOO ORRR       RRR RRR RRRRRRR  RRRR YYYYYYYYYYYY",
+    "     OOO O   OOO  OOOO     OOO ORRR       RRR RRR RR RRR   RRRR YYY    YYYYY",
+    "     OOO O   OOO  OOOO     OOO ORRR       RRR RRR R  RRR   RRRR YYY    YYYYY",
+    "     OOOOOOOOOO   OOOOOOOOOOO  O  RRRRRRRRR   RRR R  R     RRRR YYY    YYYYY",
+    "     OOOOOOOOOO   OOOOOOOOOOOO O  RRRRRRRRR   RRR R        RRRR YYY    YYYYY",
+    "     OOOOOOOOOO    OOOOOOOOOOO    RRRRRRRRR   RRR R        RRRR YYY    YYYYY",
+    "                    O        O                    R        R  R Y       Y  Y",
+)
+_IMAGE_LOGO_WIDTH = max(len(row) for row in _IMAGE_LOGO_ROWS)
+_IMAGE_LOGO_PALETTE = {
+    "O": "#F39C12",
+    "R": "#E74C3C",
+    "Y": "#F7CA18",
+    " ": "#050505",
+}
+
 
 def difficulty_color(diff: str) -> str:
     """Return a Rich color string for a difficulty level."""
@@ -105,8 +129,8 @@ def render_dashboard(stats: dict) -> Panel:
     return Panel("\n".join(lines), border_style="#F39C12")
 
 
-def render_logo() -> Text:
-    """Return the Dooma terminal wordmark."""
+def _render_compact_logo() -> Text:
+    """Return the compact text wordmark for narrow or no-color terminals."""
     return Text.from_markup(
         "[#F39C12]██████╗ [/][#F39C12] ██████╗ [/][#E74C3C] ██████╗ [/][#E74C3C]███╗   ███╗[/][#F7CA18] █████╗ [/]\n"
         "[#F39C12]██╔══██╗[/][#F39C12]██╔═══██╗[/][#E74C3C]██╔═══██╗[/][#E74C3C]████╗ ████║[/][#F7CA18]██╔══██╗[/]\n"
@@ -116,6 +140,43 @@ def render_logo() -> Text:
         "[#F39C12]╚═════╝ [/][#F39C12] ╚═════╝ [/][#E74C3C] ╚═════╝ [/][#E74C3C]╚═╝     ╚═╝[/][#F7CA18]╚═╝  ╚═╝[/]\n"
         "[#F7CA18]terminal DSA forge[/] [dim]•[/] [#E74C3C]17,931 interview mappings[/] [dim]•[/] [#F39C12]offline first[/]"
     )
+
+
+def _append_logo_row(text: Text, row: str) -> None:
+    padded = row.ljust(_IMAGE_LOGO_WIDTH)
+    current = padded[0]
+    run = 0
+
+    for char in padded:
+        if char == current:
+            run += 1
+            continue
+        text.append(" " * run, style=f"on {_IMAGE_LOGO_PALETTE[current]}")
+        current = char
+        run = 1
+
+    text.append(" " * run, style=f"on {_IMAGE_LOGO_PALETTE[current]}")
+
+
+def _render_image_logo() -> Text:
+    """Return the terminal-safe logo derived from dooma.png."""
+    text = Text()
+    for row in _IMAGE_LOGO_ROWS:
+        _append_logo_row(text, row)
+        text.append("\n")
+    text.append("terminal DSA forge", style="#F7CA18")
+    text.append(" • ", style="dim")
+    text.append("17,931 interview mappings", style="#E74C3C")
+    text.append(" • ", style="dim")
+    text.append("offline first", style="#F39C12")
+    return text
+
+
+def render_logo() -> Text:
+    """Return the Dooma terminal wordmark."""
+    if console.color_system is None or console.size.width < _IMAGE_LOGO_WIDTH + 4:
+        return _render_compact_logo()
+    return _render_image_logo()
 
 
 def show_onboarding() -> dict:
