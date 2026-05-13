@@ -1,4 +1,4 @@
-name: Feature proposal
+name: "✨ Feature proposal"
 description: Propose a product or CLI improvement that fits Dooma's offline-first workflow.
 title: "Feature: "
 labels: ["enhancement", "feature", "needs triage"]

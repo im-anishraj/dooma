@@ -1,4 +1,4 @@
-name: Engineering task
+name: "🛠️ Engineering task"
 description: Propose scoped work for tests, CI, packaging, performance, refactors, or release safety.
 title: "Engineering: "
 labels: ["tooling", "needs triage"]

@@ -1,4 +1,4 @@
-name: Documentation improvement
+name: "📚 Documentation improvement"
 description: Improve README, contributor docs, release docs, examples, or troubleshooting guidance.
 title: "Docs: "
 labels: ["documentation", "area:docs", "needs triage"]

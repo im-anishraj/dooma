@@ -1,4 +1,4 @@
-name: Dataset improvement
+name: "🗂️ Dataset improvement"
 description: Improve question metadata, company mappings, sheets, patterns, or index validation.
 title: "Data: "
 labels: ["area:data", "needs triage"]
