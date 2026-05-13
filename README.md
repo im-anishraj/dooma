@@ -18,6 +18,68 @@ No more scrolling through clunky websites or losing track of which questions Ama
 - **Data Rich**: Instantly see Question Titles, Difficulty Ratings (color-coded), Frequency/Acceptance percentages, and direct LeetCode URLs.
 - **Zero Overhead**: No accounts, no internet required to browse the database, no tracking. Just pure preparation.
 
+
+## 🛠️ Tech Stack
+
+| Category | Technology |
+|----------|-------------|
+| Language | Python |
+| CLI Framework | Typer |
+| Terminal UI | Rich |
+| Data Handling | JSON Dataset Processing |
+
+---
+
+## ⚙️ Workflow / How It Works
+
+Dooma follows a lightweight interactive CLI workflow:
+
+1. The user launches the application using the `dooma` command.
+2. The local dataset containing company-question mappings is loaded.
+3. The CLI processes and filters interview question data dynamically.
+4. Rich renders an interactive terminal-based UI with formatted output and navigation support.
+5. Users can browse companies, interview questions, difficulty levels, and practice links directly from the terminal.
+
+---
+
+
+## 🧩 Basic Project Structure
+
+```text
+dooma/
+├── .github/             # GitHub workflows and issue templates
+├── dooma/               # Core application package
+│   ├── cli/             # CLI commands and navigation logic
+│   ├── dataset/         # Company-question datasets
+│   ├── db/              # Database/cache related utilities
+│   └── __init__.py
+├── scripts/             # Dataset build and utility scripts
+├── pyproject.toml       # Project configuration and dependencies
+├── README.md            # Project documentation
+└── RELEASES.md          # Release notes and changelog
+```
+
+---
+
+## 🔄 High-Level Workflow
+
+```text
+User Command
+     │
+     ▼
+Load Dataset
+     │
+     ▼
+Filter Companies / Questions
+     │
+     ▼
+Render Rich Terminal UI
+     │
+     ▼
+Interactive Navigation
+```
+
+
 ## 📦 Quickstart
 
 Dooma is incredibly easy to set up and use. 
