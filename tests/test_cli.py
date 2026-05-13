@@ -16,19 +16,19 @@ def _skip_home_setup(monkeypatch):
 def test_version_command():
     result = runner.invoke(app, ["version"])
     assert result.exit_code == 0
-    assert "2.0.1" in result.output
+    assert "2.0.2" in result.output
 
 
 def test_global_version_flag():
     result = runner.invoke(app, ["--version"])
     assert result.exit_code == 0
-    assert "2.0.1" in result.output
+    assert "2.0.2" in result.output
 
 
 def test_global_short_version_flag():
     result = runner.invoke(app, ["-V"])
     assert result.exit_code == 0
-    assert "2.0.1" in result.output
+    assert "2.0.2" in result.output
 
 
 def test_help():
