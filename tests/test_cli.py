@@ -16,19 +16,19 @@ def _skip_home_setup(monkeypatch):
 def test_version_command():
     result = runner.invoke(app, ["version"])
     assert result.exit_code == 0
-    assert "2.0.2" in result.output
+    assert "2.0.3" in result.output
 
 
 def test_global_version_flag():
     result = runner.invoke(app, ["--version"])
     assert result.exit_code == 0
-    assert "2.0.2" in result.output
+    assert "2.0.3" in result.output
 
 
 def test_global_short_version_flag():
     result = runner.invoke(app, ["-V"])
     assert result.exit_code == 0
-    assert "2.0.2" in result.output
+    assert "2.0.3" in result.output
 
 
 def test_help():
@@ -41,6 +41,7 @@ def test_help():
     assert "mock" in result.output
     assert "dashboard" in result.output
     assert "doctor" in result.output
+    assert "help" in result.output
     assert "guide" in result.output
     assert "random" in result.output
     assert "bookmarks" in result.output
@@ -52,6 +53,12 @@ def test_help():
 
 def test_guide_command():
     result = runner.invoke(app, ["guide"])
+    assert result.exit_code == 0
+    assert "Essential Commands" in result.output
+
+
+def test_help_alias_command():
+    result = runner.invoke(app, ["help"])
     assert result.exit_code == 0
     assert "Essential Commands" in result.output
 
@@ -168,3 +175,30 @@ def test_home_mock_choice_routes_to_core_runner(monkeypatch):
     assert result.exit_code == 0
     assert calls == [(5, "")]
     assert "OptionInfo" not in result.output
+
+
+def test_home_help_choice_shows_guide(monkeypatch):
+    _skip_home_setup(monkeypatch)
+
+    result = runner.invoke(app, input="7\n\n8\n")
+
+    assert result.exit_code == 0
+    assert "Essential Commands" in result.output
+
+
+def test_home_shell_style_help_choice_shows_guide(monkeypatch):
+    _skip_home_setup(monkeypatch)
+
+    result = runner.invoke(app, input="dooma help\n\n8\n")
+
+    assert result.exit_code == 0
+    assert "Essential Commands" in result.output
+
+
+def test_home_shell_style_version_choice_prints_version(monkeypatch):
+    _skip_home_setup(monkeypatch)
+
+    result = runner.invoke(app, input="dooma version\n\n8\n")
+
+    assert result.exit_code == 0
+    assert "dooma 2.0.3" in result.output

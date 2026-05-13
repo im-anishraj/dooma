@@ -94,8 +94,11 @@ Commands:
   4  sheet        Curated roadmaps
   5  mock         Timed mock interview
   6  dashboard    Your progress stats
-  q  quit         Exit Dooma
+  7  help         Command guide & workflows
+  8  quit         Exit Dooma
 ```
+
+Inside the menu, you can type the number, the command name, or shell-style input such as `dooma help` and `dooma version`.
 
 ## Command Examples
 
@@ -110,6 +113,7 @@ dooma version
 Open the built-in guide:
 
 ```bash
+dooma help
 dooma guide
 ```
 

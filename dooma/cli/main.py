@@ -71,6 +71,8 @@ def guide():
     commands.add_column("Command", style="#F7CA18", no_wrap=True)
     commands.add_column("Use it for")
     commands.add_row("dooma", "Open the interactive command hub.")
+    commands.add_row("dooma help", "Open this guide.")
+    commands.add_row("dooma version", "Print the installed version.")
     commands.add_row("dooma search \"two sum\"", "Find questions by fuzzy title/topic search.")
     commands.add_row("dooma question two-sum", "Open a question detail screen.")
     commands.add_row("dooma random --difficulty medium", "Pick a random filtered practice problem.")
@@ -94,6 +96,12 @@ def guide():
         "\n[dim]Progress is stored locally in ~/.dooma/state.db. "
         "The bundled dataset works offline after installation.[/dim]"
     )
+
+
+@app.command("help")
+def help_cmd():
+    """Alias for the practical command guide."""
+    guide()
 
 
 @app.command("doctor")
@@ -346,15 +354,18 @@ def main(
                 ("4", "sheet", "Curated roadmaps"),
                 ("5", "mock", "Timed mock interview"),
                 ("6", "dashboard", "Your progress stats"),
-                ("q", "quit", "Exit Dooma"),
+                ("7", "help", "Command guide & workflows"),
+                ("8", "quit", "Exit Dooma"),
             ]
             for key, cmd, desc in menu:
                 console.print(f"  [bold #F7CA18]{key}[/bold #F7CA18]  {cmd:<12} [dim]{desc}[/dim]")
 
-            choice = Prompt.ask("\nYour choice", default="q")
+            choice = Prompt.ask("\nYour choice", default="8")
             choice = choice.strip().lower()
+            if choice.startswith("dooma "):
+                choice = choice.removeprefix("dooma ").strip()
 
-            if choice in ("q", "0"):
+            if choice in ("q", "0", "8", "quit", "exit"):
                 console.print("[bold #F39C12]Goodbye! 🚀[/bold #F39C12]")
                 raise typer.Exit(0)
             elif choice in ("1", "practice"):
@@ -380,6 +391,12 @@ def main(
             elif choice in ("6", "dashboard"):
                 from dooma.commands.dashboard import dashboard as dash_cmd
                 dash_cmd()
+                Prompt.ask("\nPress Enter to continue")
+            elif choice in ("7", "help", "guide", "h", "?"):
+                guide()
+                Prompt.ask("\nPress Enter to continue")
+            elif choice in ("version", "--version", "-v"):
+                console.print(f"[bold #F39C12]dooma {__version__}[/bold #F39C12]")
                 Prompt.ask("\nPress Enter to continue")
     except KeyboardInterrupt:
         console.print("\n[bold #F39C12]Goodbye! 🚀[/bold #F39C12]")
