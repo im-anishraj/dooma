@@ -25,6 +25,11 @@ def load_config(config_path: Path | None = None) -> dict:
     return dict(_DEFAULTS)
 
 
+def get_config_path() -> Path:
+    """Return the default config path."""
+    return _CONFIG_PATH
+
+
 def save_config(config: dict, config_path: Path | None = None) -> None:
     """Persist config to disk."""
     path = config_path or _CONFIG_PATH
