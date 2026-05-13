@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img alt="Dooma terminal logo" src="dooma.png" width="711">
+</p>
+
+<p align="center">
   <a href="https://pypi.org/project/dooma/"><img alt="PyPI" src="https://img.shields.io/pypi/v/dooma?style=for-the-badge"></a>
   <a href="https://www.python.org/downloads/"><img alt="Python 3.9+" src="https://img.shields.io/badge/python-3.9%2B-blue?style=for-the-badge"></a>
   <a href="https://opensource.org/licenses/MIT"><img alt="MIT License" src="https://img.shields.io/badge/license-MIT-yellow?style=for-the-badge"></a>
