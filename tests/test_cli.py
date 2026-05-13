@@ -3,6 +3,7 @@
 from typer.testing import CliRunner
 
 import dooma.cli.main as cli_main
+from dooma import __version__
 from dooma.cli.main import app
 
 runner = CliRunner()
@@ -16,19 +17,19 @@ def _skip_home_setup(monkeypatch):
 def test_version_command():
     result = runner.invoke(app, ["version"])
     assert result.exit_code == 0
-    assert "2.0.5" in result.output
+    assert __version__ in result.output
 
 
 def test_global_version_flag():
     result = runner.invoke(app, ["--version"])
     assert result.exit_code == 0
-    assert "2.0.5" in result.output
+    assert __version__ in result.output
 
 
 def test_global_short_version_flag():
     result = runner.invoke(app, ["-V"])
     assert result.exit_code == 0
-    assert "2.0.5" in result.output
+    assert __version__ in result.output
 
 
 def test_help():
@@ -219,4 +220,4 @@ def test_home_shell_style_version_choice_prints_version(monkeypatch):
     result = runner.invoke(app, input="dooma version\n\n8\n")
 
     assert result.exit_code == 0
-    assert "dooma 2.0.5" in result.output
+    assert f"dooma {__version__}" in result.output
