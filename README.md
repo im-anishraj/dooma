@@ -1,52 +1,229 @@
 # Dooma
 
-![Dooma Logo](https://img.shields.io/badge/Dooma-DSA_Forge-blue?style=for-the-badge)
-[![PyPI version](https://badge.fury.io/py/dooma.svg)](https://badge.fury.io/py/dooma)
-[![Downloads](https://pepy.tech/badge/dooma)](https://pepy.tech/project/dooma)
-[![Python Version](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<p align="center">
+  <strong>The offline terminal atlas for DSA interview preparation.</strong>
+</p>
 
-**Dooma** is your terminal-first Data Structures and Algorithms (DSA) preparation companion. It serves as a lightweight, interactive explorer for **17,900+ company-question mappings** across **660+ top tech companies**.
+<p align="center">
+  <a href="https://pypi.org/project/dooma/"><img alt="PyPI" src="https://img.shields.io/pypi/v/dooma?style=for-the-badge"></a>
+  <a href="https://www.python.org/downloads/"><img alt="Python 3.9+" src="https://img.shields.io/badge/python-3.9%2B-blue?style=for-the-badge"></a>
+  <a href="https://opensource.org/licenses/MIT"><img alt="MIT License" src="https://img.shields.io/badge/license-MIT-yellow?style=for-the-badge"></a>
+  <a href="https://pepy.tech/project/dooma"><img alt="Downloads" src="https://img.shields.io/pepy/dt/dooma?style=for-the-badge"></a>
+</p>
 
-No more scrolling through clunky websites or losing track of which questions Amazon or Google actually ask. Dooma brings the entire dataset straight into your console with a beautiful, responsive UI.
+```text
+██████╗  ██████╗  ██████╗ ███╗   ███╗ █████╗
+██╔══██╗██╔═══██╗██╔═══██╗████╗ ████║██╔══██╗
+██║  ██║██║   ██║██║   ██║██╔████╔██║███████║
+██║  ██║██║   ██║██║   ██║██║╚██╔╝██║██╔══██║
+██████╔╝╚██████╔╝╚██████╔╝██║ ╚═╝ ██║██║  ██║
+╚═════╝  ╚═════╝  ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝
+terminal DSA forge • 17,931 interview mappings • offline first
+```
+
+Dooma brings company-wise LeetCode-style preparation into your terminal: searchable, bookmarkable, trackable, and available without accounts or network access after install.
+
+## Why Dooma
+
+Interview prep breaks down when the data is scattered, noisy, or trapped behind a browser tab you never meant to open for an hour. Dooma keeps the loop tight:
+
+- Find what a company asks.
+- Pick a pattern or roadmap.
+- Open the exact problem.
+- Mark progress, keep notes, and come back tomorrow.
+
+No dashboards to sign into. No hidden telemetry. No spreadsheet archaeology.
+
+## Dataset At A Glance
+
+| Metric | Count |
+| --- | ---: |
+| Unique questions | 3,310 |
+| Company-question mappings | 17,931 |
+| Companies | 662 |
+| DSA patterns | 25 |
+| Curated sheets | 3 |
+
+The active app dataset lives in `dooma/data/` as YAML files. The package also includes a legacy JSON snapshot under `dooma/dataset/`.
 
 ## Features
 
-- **Massive Database**: Access a curated, offline-first dataset of 17,931 question mappings across 662 companies.
-- **Interactive Terminal UI**: Built with `Rich` and `Typer`, Dooma offers a paginated command hub for practice, browsing, search, sheets, mock interviews, and progress.
-- **Company and Pattern Browser**: Browse company-specific and pattern-specific question lists, then open, bookmark, mark status, or add notes to questions.
-- **Data Rich**: Instantly see question titles, difficulty ratings, frequency tiers, status, and direct LeetCode URLs.
-- **Zero Overhead**: No accounts, no internet required to browse the database, no tracking. Just pure preparation.
+| Feature | What it gives you |
+| --- | --- |
+| Company browser | Paginated company lists sorted by available question volume. |
+| Pattern practice | Practice by DSA pattern such as binary search, graph, heap, or sliding window. |
+| Fuzzy search | Jump from rough text like `two sum` or `binary tree` to matching questions. |
+| Curated sheets | Work through Blind 75, NeetCode 150, and Striver SDE style roadmaps. |
+| Mock mode | Generate a timed random interview set with optional difficulty filtering. |
+| Local progress | Track solved, attempted, skipped, bookmarks, notes, and streaks in SQLite. |
+| Offline-first | Browse the bundled dataset without internet after installation. |
 
-## Quickstart
+## Install
 
-Dooma is incredibly easy to set up and use. 
+From PyPI:
 
-### Installation
-Clone the repository and install it locally using `pip`:
+```bash
+pip install dooma
+```
+
+From source:
+
 ```bash
 git clone https://github.com/im-anishraj/dooma.git
 cd dooma
 pip install -e .
 ```
 
-### Usage
-Once installed, simply run the tool from anywhere in your terminal:
+Dooma supports Python 3.9 and newer.
+
+## Quick Start
+
+Launch the interactive terminal app:
+
 ```bash
 dooma
 ```
-1. Complete the one-time onboarding prompts on first launch.
-2. Use the main menu to choose practice, browse, search, sheets, mock interview, or dashboard.
-3. Use `dooma browse companies` to browse company-specific lists, or `dooma search "two sum"` to jump straight to matching questions.
-4. Type `q` or `0` where shown to safely back out of menus.
+
+First launch asks a short onboarding flow, then opens the command hub:
+
+```text
+Commands:
+  1  practice     Pattern-first question browser
+  2  browse       Browse patterns & companies
+  3  search       Fuzzy search questions
+  4  sheet        Curated roadmaps
+  5  mock         Timed mock interview
+  6  dashboard    Your progress stats
+  q  quit         Exit Dooma
+```
+
+## Command Examples
+
+Search for a problem:
+
+```bash
+dooma search "two sum"
+dooma search --limit 5 "binary search"
+```
+
+Open a question detail screen:
+
+```bash
+dooma question two-sum
+```
+
+Browse company-wise questions:
+
+```bash
+dooma browse companies
+```
+
+Practice by filters:
+
+```bash
+dooma practice --company google
+dooma practice --difficulty medium
+dooma practice --pattern sliding-window
+```
+
+Work through a sheet:
+
+```bash
+dooma sheet blind-75
+dooma sheet neetcode-150
+dooma sheet striver-sde
+```
+
+Start a mock interview:
+
+```bash
+dooma mock --count 5
+dooma mock --count 3 --difficulty hard
+```
+
+View progress:
+
+```bash
+dooma dashboard
+```
+
+Reset onboarding/config:
+
+```bash
+dooma config --reset
+```
+
+## Question Actions
+
+Inside question detail views, Dooma supports:
+
+| Key | Action |
+| --- | --- |
+| `o` | Open the LeetCode URL in your browser. |
+| `m` | Cycle status: unsolved -> attempted -> solved -> skipped. |
+| `b` | Toggle bookmark. |
+| `n` | Add or edit a note. |
+| `q` | Go back. |
+
+Progress is stored locally in `~/.dooma/state.db`.
+
+## Project Layout
+
+```text
+dooma/
+  cli/              Typer app registration and home screen
+  commands/         Command implementations
+  data/             Active YAML dataset
+  dataset/          Legacy JSON snapshot
+  config.py         Local config and onboarding state
+  db.py             SQLite progress, notes, bookmarks, streaks
+  display.py        Rich rendering helpers and terminal wordmark
+  loader.py         YAML index builder
+  search.py         RapidFuzz search
+tests/              CLI, loader, search, and state tests
+```
+
+## Development
+
+Install development tools:
+
+```bash
+pip install -e ".[dev]"
+```
+
+Run the release checks:
+
+```bash
+ruff check .
+mypy dooma
+pytest
+```
+
+Build a wheel locally:
+
+```bash
+python -m pip wheel . --no-deps -w dist
+```
+
+## Data Contributions
+
+When updating data, keep references internally consistent:
+
+- Every question must have `id`, `title`, and `url`.
+- Difficulty should be `easy`, `medium`, `hard`, or empty when unknown.
+- Company, pattern, and sheet references should point to existing YAML IDs.
+- Keep generated caches, coverage files, and packaging artifacts out of git.
+
+## Philosophy
+
+Dooma is intentionally small: a fast terminal interface, a local dataset, and local progress tracking. The goal is not to replace LeetCode. The goal is to remove friction before you practice.
 
 ## Contributing
 
-We welcome contributions to make Dooma even better! Whether you want to update the dataset, add new features, or improve the UI, we'd love your help.
-Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to get started and the pull request process.
+Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md), follow the existing command/data structure, and keep pull requests focused.
 
-Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
+This project follows the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Dooma is released under the [MIT License](LICENSE).

@@ -5,8 +5,8 @@ from __future__ import annotations
 import webbrowser
 
 import typer
+from rich.align import Align
 from rich.prompt import Prompt
-from rich.table import Table
 
 from dooma import __version__, db, display
 from dooma.commands.browse import app as browse_app
@@ -117,11 +117,8 @@ def main(ctx: typer.Context):
             logo = render_logo()
             welcome = f"[bold #F39C12]Dooma v{__version__} — DSA Interview Prep[/bold #F39C12]"
 
-            grid = Table.grid(padding=(0, 2))
-            grid.add_column(justify="center", vertical="middle")
-            grid.add_column(justify="left", vertical="middle")
-            grid.add_row(logo, welcome)
-            console.print(grid)
+            console.print(Align.center(logo))
+            console.print(Align.center(welcome))
 
             console.print("\n[bold #E74C3C]Commands:[/bold #E74C3C]")
             menu = [
