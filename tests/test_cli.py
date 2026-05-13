@@ -55,12 +55,17 @@ def test_guide_command():
     result = runner.invoke(app, ["guide"])
     assert result.exit_code == 0
     assert "Essential Commands" in result.output
+    assert "Support Dooma" in result.output
+    assert "https://github.com/im-anishraj/dooma" in result.output
+    assert "CONTRIBUTING.md" in result.output
+    assert "issues" in result.output
 
 
 def test_help_alias_command():
     result = runner.invoke(app, ["help"])
     assert result.exit_code == 0
     assert "Essential Commands" in result.output
+    assert "Support Dooma" in result.output
 
 
 def test_companies_command():
@@ -98,6 +103,8 @@ def test_doctor_command():
     result = runner.invoke(app, ["doctor"])
     assert result.exit_code == 0
     assert "Dooma Doctor" in result.output
+    assert "All checks passed" in result.output
+    assert "https://github.com/im-anishraj/dooma/issues" in result.output
 
 
 def test_random_command(monkeypatch):
@@ -184,6 +191,7 @@ def test_home_help_choice_shows_guide(monkeypatch):
 
     assert result.exit_code == 0
     assert "Essential Commands" in result.output
+    assert "Support Dooma" in result.output
 
 
 def test_home_shell_style_help_choice_shows_guide(monkeypatch):
@@ -193,6 +201,16 @@ def test_home_shell_style_help_choice_shows_guide(monkeypatch):
 
     assert result.exit_code == 0
     assert "Essential Commands" in result.output
+
+
+def test_home_shell_style_guide_choice_shows_guide(monkeypatch):
+    _skip_home_setup(monkeypatch)
+
+    result = runner.invoke(app, input="dooma guide\n\n8\n")
+
+    assert result.exit_code == 0
+    assert "Essential Commands" in result.output
+    assert "Support Dooma" in result.output
 
 
 def test_home_shell_style_version_choice_prints_version(monkeypatch):
