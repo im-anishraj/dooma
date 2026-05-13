@@ -1,5 +1,7 @@
 """Tests for the Dooma CLI — using typer.testing.CliRunner."""
 
+import json
+
 from typer.testing import CliRunner
 
 import dooma.cli.main as cli_main
@@ -72,6 +74,19 @@ def test_companies_command():
     result = runner.invoke(app, ["companies", "--limit", "3"])
     assert result.exit_code == 0
     assert "Companies" in result.output
+
+
+def test_companies_json_command():
+    result = runner.invoke(app, ["companies", "--limit", "3", "--json"])
+    assert result.exit_code == 0
+
+    companies = json.loads(result.output)
+    assert len(companies) == 3
+    assert list(companies[0]) == ["id", "name", "question_count"]
+    assert isinstance(companies[0]["id"], str)
+    assert isinstance(companies[0]["name"], str)
+    assert isinstance(companies[0]["question_count"], int)
+    assert "Companies" not in result.output
 
 
 def test_patterns_command():

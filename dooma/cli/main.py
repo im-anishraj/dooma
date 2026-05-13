@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import json
 import platform
 import random as random_module
 import sys
@@ -225,7 +226,10 @@ def stats():
 
 
 @app.command("companies")
-def companies(limit: int = typer.Option(30, min=1, help="Number of companies to show")):
+def companies(
+    limit: int = typer.Option(30, min=1, help="Number of companies to show"),
+    json_output: bool = typer.Option(False, "--json", help="Output companies as JSON"),
+):
     """List companies with the most available questions."""
     index = load_index()
     company_data = [
@@ -233,7 +237,19 @@ def companies(limit: int = typer.Option(30, min=1, help="Number of companies to 
         for cid, company in index.companies.items()
     ]
     company_data.sort(key=lambda item: item[2], reverse=True)
-    console.print(display.render_company_list(company_data[:limit]))
+    company_data = company_data[:limit]
+    if json_output:
+        typer.echo(
+            json.dumps(
+                [
+                    {"id": cid, "name": name, "question_count": count}
+                    for cid, name, count in company_data
+                ],
+                separators=(",", ":"),
+            )
+        )
+        return
+    console.print(display.render_company_list(company_data))
 
 
 @app.command("patterns")
