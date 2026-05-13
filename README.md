@@ -99,6 +99,20 @@ Commands:
 
 ## Command Examples
 
+Check the installed version:
+
+```bash
+dooma --version
+dooma -V
+dooma version
+```
+
+Open the built-in guide:
+
+```bash
+dooma guide
+```
+
 Search for a problem:
 
 ```bash
@@ -116,6 +130,15 @@ Browse company-wise questions:
 
 ```bash
 dooma browse companies
+dooma companies
+dooma companies --limit 50
+```
+
+List patterns and sheets:
+
+```bash
+dooma patterns
+dooma sheets
 ```
 
 Practice by filters:
@@ -145,12 +168,20 @@ View progress:
 
 ```bash
 dooma dashboard
+dooma stats
+dooma bookmarks
 ```
 
 Reset onboarding/config:
 
 ```bash
 dooma config --reset
+```
+
+Check your installation:
+
+```bash
+dooma doctor
 ```
 
 ## Question Actions

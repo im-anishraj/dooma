@@ -2,11 +2,17 @@
 
 from __future__ import annotations
 
+import platform
+import random as random_module
+import sys
 import webbrowser
+from time import perf_counter
 
 import typer
 from rich.align import Align
+from rich.panel import Panel
 from rich.prompt import Prompt
+from rich.table import Table
 
 from dooma import __version__, db, display
 from dooma.commands.browse import app as browse_app
@@ -36,10 +42,210 @@ app.add_typer(mock_app, name="mock")
 app.add_typer(dashboard_app, name="dashboard")
 
 
+def _version_callback(value: bool) -> None:
+    if value:
+        console.print(f"dooma {__version__}")
+        raise typer.Exit(0)
+
+
 @app.command()
 def version():
     """Print version and exit."""
     console.print(f"dooma {__version__}")
+
+
+@app.command("guide")
+def guide():
+    """Show a practical guide to Dooma's commands and workflows."""
+    console.print(render_logo())
+    console.print(
+        Panel(
+            "[bold #F39C12]Dooma is an offline-first DSA interview prep CLI.[/bold #F39C12]\n"
+            "Search questions, browse companies and patterns, work through sheets, "
+            "run mock interviews, and track progress locally.",
+            border_style="#F39C12",
+        )
+    )
+
+    commands = Table(title="Essential Commands", show_header=True, header_style="bold #E74C3C")
+    commands.add_column("Command", style="#F7CA18", no_wrap=True)
+    commands.add_column("Use it for")
+    commands.add_row("dooma", "Open the interactive command hub.")
+    commands.add_row("dooma search \"two sum\"", "Find questions by fuzzy title/topic search.")
+    commands.add_row("dooma question two-sum", "Open a question detail screen.")
+    commands.add_row("dooma random --difficulty medium", "Pick a random filtered practice problem.")
+    commands.add_row("dooma browse companies", "Browse interactive company question lists.")
+    commands.add_row("dooma bookmarks", "Return to saved questions.")
+    commands.add_row("dooma dashboard", "View solved, attempted, skipped, notes, and streaks.")
+    commands.add_row("dooma doctor", "Check install, dataset, and local state health.")
+    console.print(commands)
+
+    actions = Table(title="Question Actions", show_header=True, header_style="bold #E74C3C")
+    actions.add_column("Key", style="#F7CA18", no_wrap=True)
+    actions.add_column("Action")
+    actions.add_row("o", "Open the LeetCode URL in your browser.")
+    actions.add_row("m", "Cycle status: unsolved -> attempted -> solved -> skipped.")
+    actions.add_row("b", "Bookmark or unbookmark the question.")
+    actions.add_row("n", "Add or edit a local note.")
+    actions.add_row("q", "Go back.")
+    console.print(actions)
+
+    console.print(
+        "\n[dim]Progress is stored locally in ~/.dooma/state.db. "
+        "The bundled dataset works offline after installation.[/dim]"
+    )
+
+
+@app.command("doctor")
+def doctor():
+    """Check installation, dataset, and local state health."""
+    checks: list[tuple[str, str, str]] = []
+
+    checks.append(("Python", platform.python_version(), "OK" if sys.version_info >= (3, 9) else "FAIL"))
+    checks.append(("Dooma version", __version__, "OK"))
+
+    start = perf_counter()
+    try:
+        index = load_index(force=True)
+        elapsed = perf_counter() - start
+        checks.append(
+            (
+                "Dataset",
+                f"{len(index.questions)} questions, {len(index.companies)} companies in {elapsed:.2f}s",
+                "OK",
+            )
+        )
+    except Exception as exc:  # pragma: no cover - defensive health check
+        checks.append(("Dataset", str(exc), "FAIL"))
+
+    try:
+        conn = db.get_connection()
+        conn.execute("SELECT 1").fetchone()
+        checks.append(("State database", str(db.get_db_path()), "OK"))
+    except Exception as exc:  # pragma: no cover - defensive health check
+        checks.append(("State database", str(exc), "FAIL"))
+
+    from dooma.config import get_config_path
+
+    checks.append(("Config path", str(get_config_path()), "OK"))
+
+    table = Table(title="Dooma Doctor", show_header=True, header_style="bold #E74C3C")
+    table.add_column("Check", style="#F7CA18")
+    table.add_column("Details")
+    table.add_column("Status", justify="center")
+    for name, detail, status in checks:
+        color = "green" if status == "OK" else "red"
+        table.add_row(name, detail, f"[{color}]{status}[/{color}]")
+    console.print(table)
+
+    if any(status != "OK" for _, _, status in checks):
+        raise typer.Exit(1)
+
+
+@app.command("random")
+def random_question(
+    company: str = typer.Option("", help="Filter by company slug"),
+    difficulty: str = typer.Option("", help="Filter by difficulty (easy/medium/hard)"),
+    pattern: str = typer.Option("", help="Filter by pattern slug"),
+):
+    """Pick a random question and open its action screen."""
+    index = load_index()
+    questions = list(index.questions.values())
+
+    if company:
+        questions = index.by_company.get(company, [])
+    if difficulty:
+        questions = [q for q in questions if q.difficulty == difficulty.lower()]
+    if pattern:
+        pattern_ids = {q.id for q in index.by_pattern.get(pattern, [])}
+        questions = [q for q in questions if q.id in pattern_ids]
+
+    if not questions:
+        console.print("[red]No questions match your filters.[/red]")
+        raise typer.Exit(1)
+
+    from dooma.commands.practice import _question_actions
+
+    q = random_module.choice(questions)
+    _question_actions(q, db.get_all_statuses())
+
+
+@app.command("bookmarks")
+def bookmarks():
+    """List bookmarked questions."""
+    index = load_index()
+    bookmark_ids = db.get_bookmarked_question_ids()
+    questions = [index.questions[qid] for qid in bookmark_ids if qid in index.questions]
+
+    if not questions:
+        console.print("[dim]No bookmarks yet. Open a question and press 'b' to save it.[/dim]")
+        return
+
+    table = display.render_question_table(
+        questions,
+        title="Bookmarked Questions",
+        statuses=db.get_all_statuses(),
+        page_size=max(15, len(questions)),
+    )
+    console.print(table)
+
+
+@app.command("stats")
+def stats():
+    """Alias for the progress dashboard."""
+    from dooma.commands.dashboard import dashboard as dashboard_cmd
+
+    dashboard_cmd()
+
+
+@app.command("companies")
+def companies(limit: int = typer.Option(30, min=1, help="Number of companies to show")):
+    """List companies with the most available questions."""
+    index = load_index()
+    company_data = [
+        (cid, company.name, len(index.by_company.get(cid, [])))
+        for cid, company in index.companies.items()
+    ]
+    company_data.sort(key=lambda item: item[2], reverse=True)
+    console.print(display.render_company_list(company_data[:limit]))
+
+
+@app.command("patterns")
+def patterns():
+    """List DSA patterns and question counts."""
+    index = load_index()
+    table = Table(title="Patterns", show_header=True, header_style="bold #E74C3C")
+    table.add_column("Pattern", style="#F7CA18")
+    table.add_column("Slug", style="dim")
+    table.add_column("Questions", justify="right")
+
+    for pattern_obj in sorted(index.patterns.values(), key=lambda p: p.name):
+        table.add_row(
+            pattern_obj.name,
+            pattern_obj.id,
+            str(len(index.by_pattern.get(pattern_obj.id, []))),
+        )
+    console.print(table)
+
+
+@app.command("sheets")
+def sheets():
+    """List curated sheets."""
+    index = load_index()
+    table = Table(title="Sheets", show_header=True, header_style="bold #E74C3C")
+    table.add_column("Sheet", style="#F7CA18")
+    table.add_column("Slug", style="dim")
+    table.add_column("Questions", justify="right")
+    table.add_column("Description")
+
+    for sheet_obj in sorted(index.sheets.values(), key=lambda s: s.name):
+        table.add_row(
+            sheet_obj.name,
+            sheet_obj.id,
+            str(len(index.by_sheet.get(sheet_obj.id, []))),
+            sheet_obj.description,
+        )
+    console.print(table)
 
 
 @app.command()
@@ -100,8 +306,20 @@ def config_cmd(
 
 
 @app.callback(invoke_without_command=True)
-def main(ctx: typer.Context):
+def main(
+    ctx: typer.Context,
+    version_flag: bool = typer.Option(
+        False,
+        "--version",
+        "-V",
+        callback=_version_callback,
+        is_eager=True,
+        help="Print version and exit.",
+    ),
+):
     """Dooma home — interactive DSA prep hub."""
+    del version_flag
+
     if ctx.invoked_subcommand is not None:
         return
 

@@ -72,6 +72,11 @@ def get_connection(db_path: Path | None = None) -> sqlite3.Connection:
     return conn
 
 
+def get_db_path() -> Path:
+    """Return the default state database path."""
+    return _DB_PATH
+
+
 def close():
     """Close the cached connection (if any)."""
     global _conn
@@ -136,6 +141,15 @@ def is_bookmarked(question_id: str, *, conn: sqlite3.Connection | None = None) -
     return c.execute(
         "SELECT 1 FROM bookmarks WHERE question_id = ?", (question_id,)
     ).fetchone() is not None
+
+
+def get_bookmarked_question_ids(*, conn: sqlite3.Connection | None = None) -> list[str]:
+    """Return bookmarked question IDs ordered by most recently bookmarked."""
+    c = conn or get_connection()
+    rows = c.execute(
+        "SELECT question_id FROM bookmarks ORDER BY created_at DESC"
+    ).fetchall()
+    return [row["question_id"] for row in rows]
 
 
 # ── Notes ───────────────────────────────────────────────────────────────────

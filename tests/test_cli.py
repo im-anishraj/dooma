@@ -19,6 +19,18 @@ def test_version_command():
     assert "2.0.1" in result.output
 
 
+def test_global_version_flag():
+    result = runner.invoke(app, ["--version"])
+    assert result.exit_code == 0
+    assert "2.0.1" in result.output
+
+
+def test_global_short_version_flag():
+    result = runner.invoke(app, ["-V"])
+    assert result.exit_code == 0
+    assert "2.0.1" in result.output
+
+
 def test_help():
     result = runner.invoke(app, ["--help"])
     assert result.exit_code == 0
@@ -28,6 +40,70 @@ def test_help():
     assert "sheet" in result.output
     assert "mock" in result.output
     assert "dashboard" in result.output
+    assert "doctor" in result.output
+    assert "guide" in result.output
+    assert "random" in result.output
+    assert "bookmarks" in result.output
+    assert "stats" in result.output
+    assert "companies" in result.output
+    assert "patterns" in result.output
+    assert "sheets" in result.output
+
+
+def test_guide_command():
+    result = runner.invoke(app, ["guide"])
+    assert result.exit_code == 0
+    assert "Essential Commands" in result.output
+
+
+def test_companies_command():
+    result = runner.invoke(app, ["companies", "--limit", "3"])
+    assert result.exit_code == 0
+    assert "Companies" in result.output
+
+
+def test_patterns_command():
+    result = runner.invoke(app, ["patterns"])
+    assert result.exit_code == 0
+    assert "Patterns" in result.output
+
+
+def test_sheets_command():
+    result = runner.invoke(app, ["sheets"])
+    assert result.exit_code == 0
+    assert "Sheets" in result.output
+
+
+def test_stats_command():
+    result = runner.invoke(app, ["stats"])
+    assert result.exit_code == 0
+    assert "Total questions in database" in result.output
+
+
+def test_bookmarks_empty(monkeypatch):
+    monkeypatch.setattr(cli_main.db, "get_bookmarked_question_ids", lambda: [])
+    result = runner.invoke(app, ["bookmarks"])
+    assert result.exit_code == 0
+    assert "No bookmarks yet" in result.output
+
+
+def test_doctor_command():
+    result = runner.invoke(app, ["doctor"])
+    assert result.exit_code == 0
+    assert "Dooma Doctor" in result.output
+
+
+def test_random_command(monkeypatch):
+    calls = []
+
+    def fake_question_actions(question, statuses):
+        calls.append((question.id, statuses))
+
+    monkeypatch.setattr("dooma.commands.practice._question_actions", fake_question_actions)
+
+    result = runner.invoke(app, ["random", "--difficulty", "easy"])
+    assert result.exit_code == 0
+    assert calls
 
 
 def test_search_command():
