@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "dooma"
-version = "2.0.3"
+version = "2.0.4"
 description = "A blazing-fast, interactive terminal explorer for 17,000+ company-wise DSA interview questions."
 readme = "README.md"
 requires-python = ">=3.9"
@@ -59,6 +59,7 @@ include = ["dooma*"]
 [tool.setuptools.package-data]
 dooma = [
     "dataset/*.json",
+    "data/index.json",
     "data/companies/*.yaml",
     "data/patterns/*.yaml",
     "data/questions/*.yaml",

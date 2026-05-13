@@ -1,14 +1,17 @@
-"""Loader — reads YAML data files and builds the in-memory Index.
+"""Loader — reads prebuilt or YAML data files and builds the in-memory Index.
 
 Public API
 ----------
 load_index() → Index
-    Returns a cached Index instance.  Safe to call multiple times.
+    Returns a cached Index instance. Safe to call multiple times.
 """
 
 from __future__ import annotations
 
+import hashlib
+import json
 from pathlib import Path
+from typing import Any
 
 import yaml  # type: ignore[import-untyped]
 
@@ -22,6 +25,8 @@ _PROJECT_DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 
 # Prefer packaged data for installed wheels, with a source-tree fallback.
 _DATA_DIR = _PACKAGE_DATA_DIR if _PACKAGE_DATA_DIR.exists() else _PROJECT_DATA_DIR
+_PREBUILT_INDEX_FILENAME = "index.json"
+_PREBUILT_SCHEMA_VERSION = 1
 
 
 def _load_yaml(path: Path) -> dict:
@@ -30,21 +35,27 @@ def _load_yaml(path: Path) -> dict:
         return yaml.safe_load(fh) or {}
 
 
-def load_index(*, data_dir: Path | None = None, force: bool = False) -> Index:
-    """Build (or return cached) in-memory index from data/ YAML files.
+def _iter_yaml_files(base: Path):
+    for directory in ("patterns", "companies", "sheets", "questions"):
+        data_path = base / directory
+        if data_path.is_dir():
+            yield from sorted(data_path.glob("*.yaml"))
 
-    Parameters
-    ----------
-    data_dir : Path, optional
-        Override the default data directory (useful for testing).
-    force : bool
-        Rebuild the index even if already cached.
-    """
-    global _cached_index
-    if _cached_index is not None and not force and data_dir is None:
-        return _cached_index
 
-    base = data_dir or _DATA_DIR
+def _compute_source_hash(base: Path) -> str:
+    """Return a deterministic hash for all YAML source files."""
+    digest = hashlib.sha256()
+    for fp in _iter_yaml_files(base):
+        relative = fp.relative_to(base).as_posix()
+        digest.update(relative.encode("utf-8"))
+        digest.update(b"\0")
+        digest.update(fp.read_bytes())
+        digest.update(b"\0")
+    return digest.hexdigest()
+
+
+def _build_index_from_yaml(base: Path) -> Index:
+    """Build an in-memory Index from the canonical YAML dataset."""
     idx = Index()
     by_company_pairs: dict[str, list[tuple[Question, float]]] = {}
 
@@ -129,6 +140,205 @@ def load_index(*, data_dir: Path | None = None, force: bool = False) -> Index:
             ]
         elif sheet_id not in idx.by_sheet:
             idx.by_sheet[sheet_id] = []
+
+    return idx
+
+
+def _question_to_record(question: Question) -> dict[str, Any]:
+    return {
+        "id": question.id,
+        "title": question.title,
+        "url": question.url,
+        "difficulty": question.difficulty,
+        "frequency_tier": question.frequency_tier,
+        "patterns": question.patterns,
+        "topics": question.topics,
+        "companies": question.companies,
+        "sheets": question.sheets,
+        "prerequisites": question.prerequisites,
+        "related": question.related,
+    }
+
+
+def _index_to_prebuilt_payload(index: Index, base: Path) -> dict[str, Any]:
+    def question_ids(questions: list[Question]) -> list[str]:
+        return [question.id for question in questions]
+
+    return {
+        "schema_version": _PREBUILT_SCHEMA_VERSION,
+        "source_hash": _compute_source_hash(base),
+        "counts": {
+            "questions": len(index.questions),
+            "company_question_mappings": sum(len(q.companies) for q in index.questions.values()),
+            "companies": len(index.companies),
+            "patterns": len(index.patterns),
+            "sheets": len(index.sheets),
+        },
+        "questions": {
+            qid: _question_to_record(question)
+            for qid, question in index.questions.items()
+        },
+        "patterns": {
+            pid: {
+                "id": pattern.id,
+                "name": pattern.name,
+                "description": pattern.description,
+            }
+            for pid, pattern in index.patterns.items()
+        },
+        "companies": {
+            cid: {
+                "id": company.id,
+                "name": company.name,
+                "description": company.description,
+            }
+            for cid, company in index.companies.items()
+        },
+        "sheets": {
+            sid: {
+                "id": sheet.id,
+                "name": sheet.name,
+                "description": sheet.description,
+                "questions": sheet.questions,
+            }
+            for sid, sheet in index.sheets.items()
+        },
+        "by_difficulty": {
+            difficulty: question_ids(questions)
+            for difficulty, questions in index.by_difficulty.items()
+        },
+        "by_pattern": {
+            pattern: question_ids(questions)
+            for pattern, questions in index.by_pattern.items()
+        },
+        "by_company": {
+            company: question_ids(questions)
+            for company, questions in index.by_company.items()
+        },
+        "by_sheet": {
+            sheet: question_ids(questions)
+            for sheet, questions in index.by_sheet.items()
+        },
+    }
+
+
+def build_prebuilt_index_payload(*, data_dir: Path | None = None) -> dict[str, Any]:
+    """Build the deterministic JSON payload used by the runtime fast path."""
+    base = data_dir or _DATA_DIR
+    index = _build_index_from_yaml(base)
+    return _index_to_prebuilt_payload(index, base)
+
+
+def serialize_prebuilt_index_payload(payload: dict[str, Any]) -> str:
+    """Serialize a prebuilt index payload deterministically and compactly."""
+    return json.dumps(
+        payload,
+        ensure_ascii=False,
+        sort_keys=True,
+        separators=(",", ":"),
+    ) + "\n"
+
+
+def _question_refs(question_ids: list[str], questions: dict[str, Question]) -> list[Question]:
+    return [questions[qid] for qid in question_ids if qid in questions]
+
+
+def _index_from_prebuilt_payload(payload: dict[str, Any]) -> Index:
+    if payload.get("schema_version") != _PREBUILT_SCHEMA_VERSION:
+        raise ValueError("Unsupported prebuilt index schema version")
+
+    idx = Index()
+    idx.questions = {
+        qid: Question(
+            id=record.get("id", qid),
+            title=record.get("title", ""),
+            url=record.get("url", ""),
+            difficulty=record.get("difficulty", ""),
+            frequency_tier=record.get("frequency_tier", "medium"),
+            patterns=record.get("patterns", []),
+            topics=record.get("topics", []),
+            companies=record.get("companies", {}),
+            sheets=record.get("sheets", []),
+            prerequisites=record.get("prerequisites", []),
+            related=record.get("related", []),
+        )
+        for qid, record in payload.get("questions", {}).items()
+    }
+    idx.patterns = {
+        pid: Pattern(
+            id=record.get("id", pid),
+            name=record.get("name", ""),
+            description=record.get("description", ""),
+        )
+        for pid, record in payload.get("patterns", {}).items()
+    }
+    idx.companies = {
+        cid: Company(
+            id=record.get("id", cid),
+            name=record.get("name", ""),
+            description=record.get("description", ""),
+        )
+        for cid, record in payload.get("companies", {}).items()
+    }
+    idx.sheets = {
+        sid: Sheet(
+            id=record.get("id", sid),
+            name=record.get("name", ""),
+            description=record.get("description", ""),
+            questions=record.get("questions", []),
+        )
+        for sid, record in payload.get("sheets", {}).items()
+    }
+    idx.by_difficulty = {
+        difficulty: _question_refs(question_ids, idx.questions)
+        for difficulty, question_ids in payload.get("by_difficulty", {}).items()
+    }
+    idx.by_pattern = {
+        pattern: _question_refs(question_ids, idx.questions)
+        for pattern, question_ids in payload.get("by_pattern", {}).items()
+    }
+    idx.by_company = {
+        company: _question_refs(question_ids, idx.questions)
+        for company, question_ids in payload.get("by_company", {}).items()
+    }
+    idx.by_sheet = {
+        sheet: _question_refs(question_ids, idx.questions)
+        for sheet, question_ids in payload.get("by_sheet", {}).items()
+    }
+    return idx
+
+
+def _load_index_from_prebuilt(path: Path) -> Index:
+    with open(path, "r", encoding="utf-8") as fh:
+        payload = json.load(fh)
+    return _index_from_prebuilt_payload(payload)
+
+
+def load_index(*, data_dir: Path | None = None, force: bool = False) -> Index:
+    """Build (or return cached) in-memory index from a prebuilt or YAML dataset.
+
+    Parameters
+    ----------
+    data_dir : Path, optional
+        Override the default data directory (useful for testing). Custom data
+        directories always load from YAML, not from the packaged prebuilt index.
+    force : bool
+        Rebuild the index even if already cached.
+    """
+    global _cached_index
+    if _cached_index is not None and not force and data_dir is None:
+        return _cached_index
+
+    base = data_dir or _DATA_DIR
+    prebuilt_path = base / _PREBUILT_INDEX_FILENAME
+
+    if data_dir is None and prebuilt_path.is_file():
+        try:
+            idx = _load_index_from_prebuilt(prebuilt_path)
+        except (OSError, ValueError, TypeError, KeyError, json.JSONDecodeError):
+            idx = _build_index_from_yaml(base)
+    else:
+        idx = _build_index_from_yaml(base)
 
     # Cache result
     if data_dir is None:
