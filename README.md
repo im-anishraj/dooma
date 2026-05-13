@@ -15,16 +15,6 @@
   <a href="https://pepy.tech/project/dooma"><img alt="Downloads" src="https://img.shields.io/pepy/dt/dooma?style=for-the-badge"></a>
 </p>
 
-```text
-██████╗  ██████╗  ██████╗ ███╗   ███╗ █████╗
-██╔══██╗██╔═══██╗██╔═══██╗████╗ ████║██╔══██╗
-██║  ██║██║   ██║██║   ██║██╔████╔██║███████║
-██║  ██║██║   ██║██║   ██║██║╚██╔╝██║██╔══██║
-██████╔╝╚██████╔╝╚██████╔╝██║ ╚═╝ ██║██║  ██║
-╚═════╝  ╚═════╝  ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝
-terminal DSA forge • 17,931 interview mappings • offline first
-```
-
 Dooma brings company-wise LeetCode-style preparation into your terminal: searchable, bookmarkable, trackable, and available without accounts or network access after install.
 
 ## Why Dooma
