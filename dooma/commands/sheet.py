@@ -2,15 +2,13 @@
 
 from __future__ import annotations
 
-import webbrowser
-
 import typer
 from rich.prompt import Prompt
 from rich.table import Table
 
 from dooma import db, display
-from dooma.loader import load_index
 from dooma.display import console
+from dooma.loader import load_index
 
 app = typer.Typer(help="Work through curated question sheets.")
 
@@ -61,7 +59,7 @@ def run_sheet(sheet_id: str = ""):
 
         solved = sum(1 for q in questions if statuses.get(q.id) == "solved")
         console.print(f"\n[bold #F39C12]Progress: {solved}/{len(questions)}[/bold #F39C12]")
-        console.print("[dim]n/p: pages • #: select • o: open • m: status • q: back[/dim]")
+        console.print("[dim]n/p: pages • # to select • q: back[/dim]")
 
         choice = Prompt.ask("Action", default="q")
         if choice in ("q", "Q"):
@@ -73,9 +71,9 @@ def run_sheet(sheet_id: str = ""):
         elif choice.isdigit():
             idx = int(choice) - 1
             if 0 <= idx < len(questions):
-                q = questions[idx]
-                if q.url:
-                    webbrowser.open(q.url)
+                from dooma.commands.practice import _question_actions
+
+                _question_actions(questions[idx], statuses)
 
 
 @app.callback(invoke_without_command=True)

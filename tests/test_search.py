@@ -1,6 +1,7 @@
 """Tests for dooma.search — fuzzy search."""
 
 import pytest
+
 from dooma.loader import load_index
 from dooma.search import fuzzy_search
 
@@ -46,3 +47,8 @@ def test_results_are_question_objects(index):
 def test_limit_parameter(index):
     results = fuzzy_search("sum", index, limit=5)
     assert len(results) <= 5
+
+
+def test_non_positive_limit_returns_no_results(index):
+    assert fuzzy_search("sum", index, limit=0) == []
+    assert fuzzy_search("sum", index, limit=-1) == []

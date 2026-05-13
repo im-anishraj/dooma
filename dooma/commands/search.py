@@ -6,9 +6,9 @@ import typer
 from rich.prompt import Prompt
 
 from dooma import db, display
+from dooma.display import console
 from dooma.loader import load_index
 from dooma.search import fuzzy_search
-from dooma.display import console
 
 app = typer.Typer(help="Search questions by keyword.")
 
@@ -16,7 +16,7 @@ app = typer.Typer(help="Search questions by keyword.")
 @app.callback(invoke_without_command=True)
 def search(
     query: str = typer.Argument("", help="Search query"),
-    limit: int = typer.Option(20, help="Max results"),
+    limit: int = typer.Option(20, min=1, help="Max results"),
 ):
     """Fuzzy search across question titles, patterns, and topics."""
     index = load_index()

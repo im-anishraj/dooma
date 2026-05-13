@@ -1,6 +1,7 @@
 """Tests for dooma.db — SQLite state layer."""
 
 import pytest
+
 from dooma import db
 
 

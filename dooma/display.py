@@ -2,12 +2,29 @@
 
 from __future__ import annotations
 
+import sys
+
 from rich.console import Console
 from rich.panel import Panel
 from rich.table import Table
 from rich.text import Text
 
 from dooma.models import Question
+
+
+def _prefer_utf8_streams() -> None:
+    """Avoid UnicodeEncodeError on Windows consoles using legacy code pages."""
+    for stream in (sys.stdout, sys.stderr):
+        encoding = getattr(stream, "encoding", None) or ""
+        reconfigure = getattr(stream, "reconfigure", None)
+        if reconfigure is not None and "utf" not in encoding.lower():
+            try:
+                reconfigure(encoding="utf-8", errors="replace")
+            except (OSError, ValueError):
+                pass
+
+
+_prefer_utf8_streams()
 
 console = Console()
 
@@ -77,7 +94,7 @@ def render_company_list(companies: list[tuple[str, str, int]]) -> Table:
 def render_dashboard(stats: dict) -> Panel:
     """Render the dashboard stats panel."""
     lines = [
-        f"[bold #F39C12]📊 Your Progress Dashboard[/bold #F39C12]\n",
+        "[bold #F39C12]📊 Your Progress Dashboard[/bold #F39C12]\n",
         f"  ✅ Solved:     [green]{stats.get('solved', 0)}[/green]",
         f"  🔄 Attempted:  [yellow]{stats.get('attempted', 0)}[/yellow]",
         f"  ⏭️  Skipped:    [dim]{stats.get('skipped', 0)}[/dim]",

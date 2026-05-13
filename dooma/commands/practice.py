@@ -8,8 +8,8 @@ import typer
 from rich.prompt import Prompt
 
 from dooma import db, display
-from dooma.loader import load_index
 from dooma.display import console
+from dooma.loader import load_index
 
 app = typer.Typer(help="Practice questions by pattern, company, or difficulty.")
 
