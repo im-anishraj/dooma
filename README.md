@@ -44,7 +44,7 @@ No dashboards to sign into. No hidden telemetry. No spreadsheet archaeology.
 | DSA patterns | 25 |
 | Curated sheets | 3 |
 
-The active app dataset lives in `dooma/data/` as YAML files. The package also includes a legacy JSON snapshot under `dooma/dataset/`.
+The active app dataset lives in `dooma/data/` as YAML files. Releases also ship a generated `dooma/data/index.json` runtime index so startup does not parse thousands of YAML files on every launch. The package includes a legacy JSON snapshot under `dooma/dataset/`.
 
 ## Features
 
@@ -208,13 +208,16 @@ Progress is stored locally in `~/.dooma/state.db`.
 dooma/
   cli/              Typer app registration and home screen
   commands/         Command implementations
-  data/             Active YAML dataset
+  data/             Active YAML dataset plus generated runtime index.json
   dataset/          Legacy JSON snapshot
   config.py         Local config and onboarding state
   db.py             SQLite progress, notes, bookmarks, streaks
   display.py        Rich rendering helpers and terminal wordmark
-  loader.py         YAML index builder
+  loader.py         Prebuilt index loader with YAML fallback
   search.py         RapidFuzz search
+scripts/
+  build_index.py    Rebuild dooma/data/index.json from YAML
+  benchmark_loader.py
 tests/              CLI, loader, search, and state tests
 ```
 
@@ -231,7 +234,15 @@ Run the release checks:
 ```bash
 ruff check .
 mypy dooma
-pytest
+python -m pytest
+```
+
+Rebuild and verify the packaged runtime index after changing dataset YAML:
+
+```bash
+python scripts/build_index.py
+python scripts/build_index.py --check
+python scripts/benchmark_loader.py
 ```
 
 Build a wheel locally:
