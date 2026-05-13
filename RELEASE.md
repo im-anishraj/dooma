@@ -31,4 +31,6 @@ A major release represents breaking, incompatible changes.
 1. Merge your approved PR into `main`.
 2. Update the `version` string in `pyproject.toml`.
 3. Create a GitHub Release with the tag matching the version (e.g., `v0.2.0`).
-4. GitHub Actions will automatically handle the PyPI publishing (via Trusted Publishing OIDC).
+4. GitHub Actions builds the package and publishes to PyPI with the `PYPI_API_TOKEN` repository secret.
+
+The project should eventually move back to PyPI Trusted Publishing once the PyPI publisher configuration matches the GitHub release workflow.
