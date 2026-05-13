@@ -1,42 +1,133 @@
-name: Bug Report
-description: Create a report to help us improve Dooma
-title: "[BUG] "
-labels: ["bug"]
+name: Bug report
+description: Report a reproducible Dooma problem with enough detail for a maintainer to act.
+title: "Bug: "
+labels: ["bug", "needs triage"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
+        Thanks for helping make Dooma more reliable.
+
+        Use this form for reproducible bugs in the CLI, dataset loader, local state, packaging, or terminal output. If you are asking how to use Dooma, please use the Help Desk discussion instead.
+
+        Before submitting, please run:
+
+        ```bash
+        dooma version
+        dooma doctor
+        ```
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Affected area
+      description: Pick the closest area. If several apply, choose the one where the failure starts.
+      options:
+        - CLI command or interactive menu
+        - Search, browse, practice, sheet, mock, or dashboard flow
+        - Dataset loading or index.json
+        - Local progress, bookmarks, notes, or config
+        - Install, packaging, PyPI, or release
+        - README, docs, or examples
+        - Terminal rendering or Windows/macOS/Linux display
+        - Other / not sure
+    validations:
+      required: true
+
   - type: textarea
-    id: what-happened
+    id: summary
     attributes:
       label: What happened?
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
-    validations:
-      required: true
-  - type: textarea
-    id: reproduce
-    attributes:
-      label: Steps to reproduce
-      description: How can we reproduce this?
+      description: Describe the failure clearly. Include what you expected and what actually happened.
       placeholder: |
-        1. Run 'dooma init'
-        2. Run 'dooma test active/two_sum/solution.py'
-        3. See error
+        I expected `dooma search "two sum"` to show matching questions, but it exited with...
     validations:
       required: true
-  - type: input
-    id: version
+
+  - type: textarea
+    id: reproduction
     attributes:
-      label: Dooma Version
-      description: What version of Dooma are you running? (Run `dooma --version`)
+      label: Exact reproduction steps
+      description: Write the smallest sequence of commands or interactions that reproduces the issue.
+      placeholder: |
+        1. Install with `pip install dooma`
+        2. Run `dooma doctor`
+        3. Run `dooma ...`
+        4. See ...
     validations:
       required: true
+
+  - type: input
+    id: dooma-version
+    attributes:
+      label: Dooma version
+      description: Paste the output of `dooma version`.
+      placeholder: "dooma 2.0.6"
+    validations:
+      required: true
+
+  - type: input
+    id: python-version
+    attributes:
+      label: Python version
+      description: Paste the output of `python --version`.
+      placeholder: "Python 3.13.9"
+    validations:
+      required: true
+
   - type: input
     id: os
     attributes:
-      label: OS / Environment
-      description: E.g., macOS 13, Windows 11, Ubuntu 22.04
+      label: Operating system and terminal
+      description: Include OS, terminal, and shell if relevant.
+      placeholder: "Windows 11, Windows Terminal, PowerShell"
     validations:
       required: true
+
+  - type: textarea
+    id: doctor
+    attributes:
+      label: "dooma doctor output"
+      description: Paste the full output if possible. Redact personal paths only if needed.
+      render: text
+      placeholder: |
+        Dooma Doctor
+        Python ...
+        Dataset ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Error output, traceback, or screenshot
+      description: Paste terminal output or drag in a screenshot. Do not include tokens or private credentials.
+      render: text
+    validations:
+      required: false
+
+  - type: dropdown
+    id: impact
+    attributes:
+      label: Impact
+      description: How badly does this affect real usage?
+      options:
+        - Blocks install or launch
+        - Crashes a major command
+        - Breaks a workflow but has a workaround
+        - Incorrect output or data mismatch
+        - Visual polish or confusing output
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Submission checklist
+      options:
+        - label: I searched existing issues and discussions first.
+          required: true
+        - label: I included exact commands or steps to reproduce.
+          required: true
+        - label: I did not include API tokens, private credentials, or personal account data.
+          required: true

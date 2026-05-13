@@ -1,0 +1,90 @@
+name: Dataset improvement
+description: Improve question metadata, company mappings, sheets, patterns, or index validation.
+title: "Data: "
+labels: ["area:data", "needs triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Dataset work is one of the highest-impact ways to improve Dooma.
+
+        Use this form for question YAML fixes, company mappings, pattern tags, sheet mappings, duplicate records, or validation gaps.
+
+  - type: dropdown
+    id: data-area
+    attributes:
+      label: Dataset area
+      options:
+        - Question metadata
+        - Company mapping
+        - Pattern tag
+        - Sheet mapping
+        - Duplicate or conflicting record
+        - Dataset validation rule
+        - Generated index.json
+        - Other / not sure
+    validations:
+      required: true
+
+  - type: textarea
+    id: current-state
+    attributes:
+      label: Current state
+      description: What is wrong, missing, or incomplete today?
+      placeholder: |
+        `dooma/data/questions/...yaml` currently has...
+    validations:
+      required: true
+
+  - type: textarea
+    id: desired-state
+    attributes:
+      label: Desired state
+      description: What should the dataset contain after the change?
+      placeholder: |
+        Add `two-pointers` to...
+        Map `...` into `neetcode-150`.
+    validations:
+      required: true
+
+  - type: textarea
+    id: affected-files
+    attributes:
+      label: Affected IDs or files
+      description: List known question IDs, company slugs, sheet IDs, pattern IDs, or file paths.
+      placeholder: |
+        - question: two-sum
+        - sheet: blind-75
+        - file: dooma/data/questions/two-sum.yaml
+    validations:
+      required: false
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Source or reasoning
+      description: Explain why this mapping/tag/fix is correct. Avoid copying paid or private content.
+      placeholder: |
+        This is a standard Two Pointers problem because...
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: validation
+    attributes:
+      label: Validation expectations
+      options:
+        - label: Rebuild `dooma/data/index.json` if YAML changes.
+          required: true
+        - label: Run `python scripts/build_index.py --check`.
+          required: true
+        - label: Add or update tests if this changes validation logic.
+          required: false
+
+  - type: checkboxes
+    id: contribution
+    attributes:
+      label: Contribution intent
+      options:
+        - label: I would like to work on this dataset change.
+        - label: I can help review the mapping/tagging accuracy.

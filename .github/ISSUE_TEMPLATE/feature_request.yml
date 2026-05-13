@@ -1,28 +1,88 @@
-name: Feature Request
-description: Suggest an idea for Dooma
-title: "[FEATURE] "
-labels: ["enhancement"]
+name: Feature proposal
+description: Propose a product or CLI improvement that fits Dooma's offline-first workflow.
+title: "Feature: "
+labels: ["enhancement", "feature", "needs triage"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to suggest a feature!
+        Great feature requests explain the user problem before jumping to the implementation.
+
+        Dooma should stay fast, local, terminal-native, and focused on interview preparation. Please frame the proposal around that product direction.
+
   - type: textarea
-    id: description
+    id: problem
     attributes:
-      label: Is your feature request related to a problem? Please describe.
-      description: A clear and concise description of what the problem is.
+      label: Problem
+      description: What user pain or workflow gap does this solve?
+      placeholder: |
+        When I am practicing company questions, I cannot easily...
     validations:
       required: true
+
   - type: textarea
     id: solution
     attributes:
-      label: Describe the solution you'd like
-      description: A clear and concise description of what you want to happen.
+      label: Proposed behavior
+      description: Describe the user-facing behavior. Include example commands or screens if useful.
+      placeholder: |
+        Add `dooma ...` so users can...
     validations:
       required: true
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Primary area
+      options:
+        - CLI command
+        - Interactive terminal UX
+        - Search, filtering, or sorting
+        - Progress, bookmarks, notes, or review flow
+        - Dataset or roadmap coverage
+        - Packaging, install, or release
+        - Documentation or contributor experience
+        - Other / not sure
+    validations:
+      required: true
+
   - type: textarea
     id: alternatives
     attributes:
-      label: Describe alternatives you've considered
-      description: A clear and concise description of any alternative solutions or features you've considered.
+      label: Alternatives considered
+      description: What simpler workaround or different design did you consider?
+      placeholder: |
+        Today this can partly be done by...
+    validations:
+      required: false
+
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance criteria
+      description: What must be true for this to be considered complete?
+      placeholder: |
+        - `dooma ...` supports ...
+        - Invalid input shows ...
+        - Tests cover ...
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: contribution
+    attributes:
+      label: Contribution intent
+      options:
+        - label: I would like to work on this.
+        - label: I can help test this.
+        - label: I can help write documentation for this.
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Submission checklist
+      options:
+        - label: I checked that this is not already covered by an open issue.
+          required: true
+        - label: This proposal keeps Dooma local/offline-first unless explicitly explained.
+          required: true
