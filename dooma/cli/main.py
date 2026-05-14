@@ -22,7 +22,7 @@ from dooma.commands.mock import app as mock_app
 from dooma.commands.practice import app as practice_app
 from dooma.commands.search import app as search_app
 from dooma.commands.sheet import app as sheet_app
-from dooma.config import is_onboarded, save_config
+from dooma.config import get_config_path, is_onboarded, save_config
 from dooma.display import console, render_logo, show_onboarding
 from dooma.loader import load_index
 from dooma.search import fuzzy_search
@@ -86,6 +86,7 @@ def guide():
     commands.add_row("dooma bookmarks", "Return to saved questions.")
     commands.add_row("dooma dashboard", "View solved, attempted, skipped, notes, and streaks.")
     commands.add_row("dooma doctor", "Check install, dataset, and local state health.")
+    commands.add_row("dooma paths", "Print local config and state database paths.")
     console.print(commands)
 
     actions = Table(title="Question Actions", show_header=True, header_style="bold #E74C3C")
@@ -146,8 +147,6 @@ def doctor():
         checks.append(("State database", str(db.get_db_path()), "OK"))
     except Exception as exc:  # pragma: no cover - defensive health check
         checks.append(("State database", str(exc), "FAIL"))
-
-    from dooma.config import get_config_path
 
     checks.append(("Config path", str(get_config_path()), "OK"))
 
@@ -329,6 +328,17 @@ def question(slug: str = typer.Argument(..., help="Question slug (e.g. two-sum)"
     elif action == "b":
         result = db.toggle_bookmark(q.id)
         console.print(f"[green]{'Bookmarked' if result else 'Unbookmarked'}[/green]")
+
+
+@app.command("paths")
+def paths():
+    """Print local config and state database file paths."""
+    table = Table(title="Local Data Paths", show_header=True, header_style="bold #E74C3C")
+    table.add_column("File", style="#F7CA18")
+    table.add_column("Path")
+    table.add_row("Config", str(get_config_path()))
+    table.add_row("State database", str(db.get_db_path()))
+    console.print(table)
 
 
 @app.command("config")

@@ -52,6 +52,7 @@ def test_help():
     assert "companies" in result.output
     assert "patterns" in result.output
     assert "sheets" in result.output
+    assert "paths" in result.output
 
 
 def test_guide_command():
@@ -149,6 +150,16 @@ def test_question_not_found():
 def test_config_show():
     result = runner.invoke(app, ["config"])
     assert result.exit_code == 0
+
+
+def test_paths_command():
+    result = runner.invoke(app, ["paths"])
+    assert result.exit_code == 0
+    assert "Local Data Paths" in result.output
+    assert "Config" in result.output
+    assert "config.json" in result.output
+    assert "State database" in result.output
+    assert "state.db" in result.output
 
 
 def test_home_practice_choice_routes_to_core_runner(monkeypatch):
