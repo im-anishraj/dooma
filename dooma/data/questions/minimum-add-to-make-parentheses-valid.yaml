@@ -1,0 +1,29 @@
+id: minimum-add-to-make-parentheses-valid
+title: Minimum Add to Make Parentheses Valid
+url: https://leetcode.com/problems/minimum-add-to-make-parentheses-valid
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 37
+  google:
+    frequency: 25
+  ibm:
+    frequency: 37
+  linkedin:
+    frequency: 25
+  meta:
+    frequency: 75
+  microsoft:
+    frequency: 12
+  siemens:
+    frequency: 62
+  tcs:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

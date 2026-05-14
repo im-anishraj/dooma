@@ -1,0 +1,25 @@
+id: shuffle-an-array
+title: Shuffle an Array
+url: https://leetcode.com/problems/shuffle-an-array
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  jpmorgan:
+    frequency: 50
+  linkedin:
+    frequency: 37
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  uber:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,19 @@
+id: widest-vertical-area-between-two-points-containing-no-points
+title: Widest Vertical Area Between Two Points Containing No Points
+url: https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  general-motors:
+    frequency: 50
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

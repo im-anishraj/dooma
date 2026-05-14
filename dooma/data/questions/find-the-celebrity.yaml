@@ -1,0 +1,39 @@
+id: find-the-celebrity
+title: Find the Celebrity
+url: https://leetcode.com/problems/find-the-celebrity
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  apple:
+    frequency: 37
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 12
+  hubspot:
+    frequency: 100
+  linkedin:
+    frequency: 75
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 37
+  nvidia:
+    frequency: 50
+  phonepe:
+    frequency: 50
+  pinterest:
+    frequency: 37
+  tiktok:
+    frequency: 25
+  toast:
+    frequency: 100
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

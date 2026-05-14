@@ -1,0 +1,13 @@
+id: count-submatrices-with-equal-frequency-of-x-and-y
+title: Count Submatrices With Equal Frequency of X and Y
+url: https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  microsoft:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

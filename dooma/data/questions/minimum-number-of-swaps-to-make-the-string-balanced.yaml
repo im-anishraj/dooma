@@ -1,0 +1,35 @@
+id: minimum-number-of-swaps-to-make-the-string-balanced
+title: Minimum Number of Swaps to Make the String Balanced
+url: https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  expedia:
+    frequency: 75
+  google:
+    frequency: 25
+  ibm:
+    frequency: 37
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  microstrategy:
+    frequency: 62
+  paypal:
+    frequency: 50
+  servicenow:
+    frequency: 62
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

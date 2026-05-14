@@ -1,0 +1,23 @@
+id: find-the-minimum-and-maximum-number-of-nodes-between-critical-points
+title: Find the Minimum and Maximum Number of Nodes Between Critical Points
+url: https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  info-edge:
+    frequency: 100
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: count-number-of-special-subsequences
+title: Count Number of Special Subsequences
+url: https://leetcode.com/problems/count-number-of-special-subsequences
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

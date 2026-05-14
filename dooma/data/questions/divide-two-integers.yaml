@@ -1,0 +1,31 @@
+id: divide-two-integers
+title: Divide Two Integers
+url: https://leetcode.com/problems/divide-two-integers
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 50
+  google:
+    frequency: 37
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 50
+  oracle:
+    frequency: 37
+  samsung:
+    frequency: 62
+  zepto:
+    frequency: 75
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

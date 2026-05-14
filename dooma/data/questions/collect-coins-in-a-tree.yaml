@@ -1,0 +1,35 @@
+id: collect-coins-in-a-tree
+title: Collect Coins in a Tree
+url: https://leetcode.com/problems/collect-coins-in-a-tree
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  cisco:
+    frequency: 100
+  google:
+    frequency: 12
+  graviton:
+    frequency: 87
+  lucid:
+    frequency: 100
+  meesho:
+    frequency: 50
+  meta:
+    frequency: 12
+  millennium:
+    frequency: 87
+  oracle:
+    frequency: 25
+  phonepe:
+    frequency: 75
+  salesforce:
+    frequency: 25
+  uber:
+    frequency: 37
+  uipath:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

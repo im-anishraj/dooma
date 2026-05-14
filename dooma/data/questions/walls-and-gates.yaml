@@ -1,0 +1,35 @@
+id: walls-and-gates
+title: Walls and Gates
+url: https://leetcode.com/problems/walls-and-gates
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  doordash:
+    frequency: 100
+  ebay:
+    frequency: 50
+  google:
+    frequency: 25
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 12
+  snowflake:
+    frequency: 37
+  spotify:
+    frequency: 50
+  tiktok:
+    frequency: 50
+  uber:
+    frequency: 50
+  visa:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

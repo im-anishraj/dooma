@@ -1,0 +1,73 @@
+id: lfu-cache
+title: LFU Cache
+url: https://leetcode.com/problems/lfu-cache
+difficulty: hard
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 37
+  bloomberg:
+    frequency: 12
+  citadel:
+    frequency: 75
+  coupang:
+    frequency: 100
+  devrev:
+    frequency: 100
+  doordash:
+    frequency: 37
+  gameskraft:
+    frequency: 62
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 37
+  kla:
+    frequency: 62
+  kla-tencor:
+    frequency: 87
+  linkedin:
+    frequency: 37
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 50
+  netskope:
+    frequency: 100
+  nutanix:
+    frequency: 50
+  olx:
+    frequency: 87
+  oracle:
+    frequency: 62
+  paypal:
+    frequency: 37
+  rippling:
+    frequency: 50
+  salesforce:
+    frequency: 75
+  servicenow:
+    frequency: 62
+  snapchat:
+    frequency: 50
+  tiktok:
+    frequency: 37
+  uber:
+    frequency: 37
+  verkada:
+    frequency: 62
+  visa:
+    frequency: 37
+  walmart-labs:
+    frequency: 62
+  wells-fargo:
+    frequency: 62
+  zomato:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

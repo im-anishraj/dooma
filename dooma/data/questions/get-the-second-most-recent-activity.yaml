@@ -1,0 +1,13 @@
+id: get-the-second-most-recent-activity
+title: Get the Second Most Recent Activity
+url: https://leetcode.com/problems/get-the-second-most-recent-activity
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

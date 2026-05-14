@@ -1,0 +1,23 @@
+id: design-skiplist
+title: Design Skiplist
+url: https://leetcode.com/problems/design-skiplist
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  ebay:
+    frequency: 87
+  google:
+    frequency: 25
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 25
+  pure-storage:
+    frequency: 87
+  twitter:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

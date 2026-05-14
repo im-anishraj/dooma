@@ -1,0 +1,55 @@
+id: search-suggestions-system
+title: Search Suggestions System
+url: https://leetcode.com/problems/search-suggestions-system
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 50
+  anduril:
+    frequency: 75
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  citadel:
+    frequency: 62
+  deliveroo:
+    frequency: 62
+  docusign:
+    frequency: 75
+  doordash:
+    frequency: 87
+  google:
+    frequency: 25
+  meesho:
+    frequency: 50
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  nuro:
+    frequency: 62
+  oracle:
+    frequency: 50
+  paypal:
+    frequency: 37
+  salesforce:
+    frequency: 62
+  snapchat:
+    frequency: 37
+  squarepoint-capital:
+    frequency: 100
+  tiktok:
+    frequency: 37
+  ubs:
+    frequency: 100
+  wix:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

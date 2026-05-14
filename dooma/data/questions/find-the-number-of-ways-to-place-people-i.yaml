@@ -1,0 +1,17 @@
+id: find-the-number-of-ways-to-place-people-i
+title: Find the Number of Ways to Place People I
+url: https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

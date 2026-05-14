@@ -1,0 +1,13 @@
+id: maximum-balanced-shipments
+title: Maximum Balanced Shipments
+url: https://leetcode.com/problems/maximum-balanced-shipments
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

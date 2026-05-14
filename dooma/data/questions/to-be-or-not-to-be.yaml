@@ -1,0 +1,29 @@
+id: to-be-or-not-to-be
+title: To Be Or Not To Be
+url: https://leetcode.com/problems/to-be-or-not-to-be
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  adp:
+    frequency: 87
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 25
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 25
+  netflix:
+    frequency: 50
+  tcs:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: maximum-possible-number-by-binary-concatenation
+title: Maximum Possible Number by Binary Concatenation
+url: https://leetcode.com/problems/maximum-possible-number-by-binary-concatenation
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: number-of-excellent-pairs
+title: Number of Excellent Pairs
+url: https://leetcode.com/problems/number-of-excellent-pairs
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  epifi:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

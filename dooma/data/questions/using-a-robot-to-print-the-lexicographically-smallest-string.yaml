@@ -1,0 +1,21 @@
+id: using-a-robot-to-print-the-lexicographically-smallest-string
+title: Using a Robot to Print the Lexicographically Smallest String
+url: https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  de-shaw:
+    frequency: 62
+  meta:
+    frequency: 12
+  salesforce:
+    frequency: 25
+  tower-research:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

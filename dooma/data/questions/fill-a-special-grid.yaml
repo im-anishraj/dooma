@@ -1,0 +1,13 @@
+id: fill-a-special-grid
+title: Fill a Special Grid
+url: https://leetcode.com/problems/fill-a-special-grid
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

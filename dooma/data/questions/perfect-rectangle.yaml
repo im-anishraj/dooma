@@ -1,0 +1,17 @@
+id: perfect-rectangle
+title: Perfect Rectangle
+url: https://leetcode.com/problems/perfect-rectangle
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

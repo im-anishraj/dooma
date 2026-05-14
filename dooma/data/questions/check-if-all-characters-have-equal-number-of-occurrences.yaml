@@ -1,0 +1,19 @@
+id: check-if-all-characters-have-equal-number-of-occurrences
+title: Check if All Characters Have Equal Number of Occurrences
+url: https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 25
+  bolt:
+    frequency: 100
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

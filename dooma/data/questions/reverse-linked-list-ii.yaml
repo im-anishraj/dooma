@@ -1,0 +1,47 @@
+id: reverse-linked-list-ii
+title: Reverse Linked List II
+url: https://leetcode.com/problems/reverse-linked-list-ii
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 50
+  arista-networks:
+    frequency: 87
+  bloomberg:
+    frequency: 37
+  bytedance:
+    frequency: 50
+  epam-systems:
+    frequency: 50
+  google:
+    frequency: 37
+  infosys:
+    frequency: 50
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 37
+  nutanix:
+    frequency: 62
+  nvidia:
+    frequency: 50
+  oracle:
+    frequency: 37
+  palo-alto-networks:
+    frequency: 50
+  revolut:
+    frequency: 87
+  tiktok:
+    frequency: 37
+  walmart-labs:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

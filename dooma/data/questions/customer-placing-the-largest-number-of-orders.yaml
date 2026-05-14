@@ -1,0 +1,19 @@
+id: customer-placing-the-largest-number-of-orders
+title: Customer Placing the Largest Number of Orders
+url: https://leetcode.com/problems/customer-placing-the-largest-number-of-orders
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  twitter:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

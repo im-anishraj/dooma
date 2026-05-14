@@ -1,0 +1,31 @@
+id: kth-missing-positive-number
+title: Kth Missing Positive Number
+url: https://leetcode.com/problems/kth-missing-positive-number
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 37
+  google:
+    frequency: 37
+  ibm:
+    frequency: 37
+  meta:
+    frequency: 62
+  microsoft:
+    frequency: 50
+  morgan-stanley:
+    frequency: 50
+  oracle:
+    frequency: 25
+  tiktok:
+    frequency: 50
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

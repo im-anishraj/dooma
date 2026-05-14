@@ -1,0 +1,15 @@
+id: collecting-chocolates
+title: Collecting Chocolates
+url: https://leetcode.com/problems/collecting-chocolates
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  deutsche-bank:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

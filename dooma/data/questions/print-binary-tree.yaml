@@ -1,0 +1,19 @@
+id: print-binary-tree
+title: Print Binary Tree
+url: https://leetcode.com/problems/print-binary-tree
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  poynt:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

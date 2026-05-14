@@ -1,0 +1,17 @@
+id: water-bottles-ii
+title: Water Bottles II
+url: https://leetcode.com/problems/water-bottles-ii
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,77 @@
+name: "📚 Documentation improvement"
+description: Improve README, contributor docs, release docs, examples, or troubleshooting guidance.
+title: "Docs: "
+labels: ["documentation", "area:docs", "needs triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Great docs make Dooma easier to trust, install, use, and contribute to.
+
+        Use this form for documentation gaps, confusing examples, missing workflows, outdated commands, screenshots, or contributor guidance.
+
+  - type: dropdown
+    id: docs-area
+    attributes:
+      label: Documentation area
+      options:
+        - README
+        - CONTRIBUTING
+        - RELEASE
+        - Dataset docs
+        - CLI command reference
+        - Troubleshooting
+        - Screenshots or terminal examples
+        - Other / not sure
+    validations:
+      required: true
+
+  - type: textarea
+    id: reader
+    attributes:
+      label: Who is the reader?
+      description: Describe the person this documentation should help.
+      placeholder: |
+        A new user installing Dooma from PyPI...
+        A first-time contributor adding pattern tags...
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is confusing, missing, or outdated?
+      placeholder: |
+        The README says..., but the CLI now...
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposed-docs
+    attributes:
+      label: Proposed documentation change
+      description: Describe the section, example, screenshot, or guide you want added or changed.
+    validations:
+      required: true
+
+  - type: textarea
+    id: verification
+    attributes:
+      label: Commands or facts to verify
+      description: List commands/examples that must be checked before merging.
+      placeholder: |
+        - `dooma guide`
+        - `dooma doctor`
+        - `python scripts/build_index.py --check`
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Documentation checklist
+      options:
+        - label: The change should be based on current repository behavior, not guesses.
+          required: true
+        - label: Examples should use real commands that can be verified locally.
+          required: true

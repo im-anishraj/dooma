@@ -1,0 +1,45 @@
+id: combination-sum-ii
+title: Combination Sum II
+url: https://leetcode.com/problems/combination-sum-ii
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 37
+  bytedance:
+    frequency: 50
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 37
+  infosys:
+    frequency: 37
+  linkedin:
+    frequency: 37
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 37
+  oracle:
+    frequency: 37
+  rakuten:
+    frequency: 100
+  snapchat:
+    frequency: 87
+  tesla:
+    frequency: 50
+  tiktok:
+    frequency: 50
+  walmart-labs:
+    frequency: 50
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

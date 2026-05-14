@@ -1,0 +1,19 @@
+id: lucky-numbers-in-a-matrix
+title: Lucky Numbers in a Matrix
+url: https://leetcode.com/problems/lucky-numbers-in-a-matrix
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  cisco:
+    frequency: 87
+  google:
+    frequency: 12
+  oracle:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: find-the-longest-balanced-substring-of-a-binary-string
+title: Find the Longest Balanced Substring of a Binary String
+url: https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  tinkoff:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

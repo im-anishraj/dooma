@@ -1,0 +1,19 @@
+id: longest-repeating-substring
+title: Longest Repeating Substring
+url: https://leetcode.com/problems/longest-repeating-substring
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  coupang:
+    frequency: 75
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,29 @@
+id: restore-the-array-from-adjacent-pairs
+title: Restore the Array From Adjacent Pairs
+url: https://leetcode.com/problems/restore-the-array-from-adjacent-pairs
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  capital-one:
+    frequency: 62
+  ebay:
+    frequency: 62
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  robinhood:
+    frequency: 100
+  roblox:
+    frequency: 37
+  sig:
+    frequency: 75
+  visa:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

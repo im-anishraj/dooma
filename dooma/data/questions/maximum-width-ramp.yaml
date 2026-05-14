@@ -1,0 +1,31 @@
+id: maximum-width-ramp
+title: Maximum Width Ramp
+url: https://leetcode.com/problems/maximum-width-ramp
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 50
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 37
+  de-shaw:
+    frequency: 37
+  google:
+    frequency: 37
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  tiktok:
+    frequency: 37
+  uber:
+    frequency: 25
+  zepto:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,19 @@
+id: k-inverse-pairs-array
+title: K Inverse Pairs Array
+url: https://leetcode.com/problems/k-inverse-pairs-array
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  works-applications:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

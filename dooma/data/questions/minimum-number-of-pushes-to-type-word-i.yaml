@@ -1,0 +1,19 @@
+id: minimum-number-of-pushes-to-type-word-i
+title: Minimum Number of Pushes to Type Word I
+url: https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  elitmus:
+    frequency: 100
+  google:
+    frequency: 12
+  snapchat:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

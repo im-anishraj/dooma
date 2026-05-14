@@ -1,0 +1,23 @@
+id: minimum-sideway-jumps
+title: Minimum Sideway Jumps
+url: https://leetcode.com/problems/minimum-sideway-jumps
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  oracle:
+    frequency: 25
+  ponyai:
+    frequency: 100
+  publicis-sapient:
+    frequency: 87
+  squarepoint-capital:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

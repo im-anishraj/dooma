@@ -1,0 +1,15 @@
+id: partitioning-into-minimum-number-of-deci-binary-numbers
+title: Partitioning Into Minimum Number Of Deci-Binary Numbers
+url: https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  nutanix:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

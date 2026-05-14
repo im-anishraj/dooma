@@ -1,0 +1,15 @@
+id: the-time-when-the-network-becomes-idle
+title: The Time When the Network Becomes Idle
+url: https://leetcode.com/problems/the-time-when-the-network-becomes-idle
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  atlassian:
+    frequency: 50
+  deutsche-bank:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,19 @@
+id: k-radius-subarray-averages
+title: K Radius Subarray Averages
+url: https://leetcode.com/problems/k-radius-subarray-averages
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  duolingo:
+    frequency: 87
+  meta:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

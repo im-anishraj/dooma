@@ -1,0 +1,71 @@
+id: reverse-words-in-a-string
+title: Reverse Words in a String
+url: https://leetcode.com/problems/reverse-words-in-a-string
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 62
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 75
+  barclays:
+    frequency: 62
+  bloomberg:
+    frequency: 50
+  cisco:
+    frequency: 37
+  citadel:
+    frequency: 50
+  epam-systems:
+    frequency: 50
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 50
+  hcl:
+    frequency: 62
+  ibm:
+    frequency: 37
+  infosys:
+    frequency: 50
+  intel:
+    frequency: 62
+  linkedin:
+    frequency: 37
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 62
+  morgan-stanley:
+    frequency: 50
+  nvidia:
+    frequency: 62
+  oracle:
+    frequency: 37
+  paytm:
+    frequency: 62
+  philips:
+    frequency: 100
+  snapchat:
+    frequency: 87
+  tcs:
+    frequency: 37
+  tiktok:
+    frequency: 37
+  visa:
+    frequency: 37
+  yelp:
+    frequency: 100
+  zoho:
+    frequency: 37
+  zopsmart:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

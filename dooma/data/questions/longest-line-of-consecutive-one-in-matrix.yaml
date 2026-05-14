@@ -1,0 +1,13 @@
+id: longest-line-of-consecutive-one-in-matrix
+title: Longest Line of Consecutive One in Matrix
+url: https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

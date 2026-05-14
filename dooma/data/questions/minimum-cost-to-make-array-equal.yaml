@@ -1,0 +1,23 @@
+id: minimum-cost-to-make-array-equal
+title: Minimum Cost to Make Array Equal
+url: https://leetcode.com/problems/minimum-cost-to-make-array-equal
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  cisco:
+    frequency: 62
+  google:
+    frequency: 12
+  hashedin:
+    frequency: 62
+  jpmorgan:
+    frequency: 50
+  microsoft:
+    frequency: 12
+  oracle:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

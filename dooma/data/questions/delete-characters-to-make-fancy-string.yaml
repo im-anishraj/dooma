@@ -1,0 +1,23 @@
+id: delete-characters-to-make-fancy-string
+title: Delete Characters to Make Fancy String
+url: https://leetcode.com/problems/delete-characters-to-make-fancy-string
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  wayfair:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

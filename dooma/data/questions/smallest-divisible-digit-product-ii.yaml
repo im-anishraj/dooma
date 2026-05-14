@@ -1,0 +1,17 @@
+id: smallest-divisible-digit-product-ii
+title: Smallest Divisible Digit Product II
+url: https://leetcode.com/problems/smallest-divisible-digit-product-ii
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 75
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: the-dining-philosophers
+title: The Dining Philosophers
+url: https://leetcode.com/problems/the-dining-philosophers
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

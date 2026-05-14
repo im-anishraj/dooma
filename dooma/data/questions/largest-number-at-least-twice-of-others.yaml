@@ -1,0 +1,17 @@
+id: largest-number-at-least-twice-of-others
+title: Largest Number At Least Twice of Others
+url: https://leetcode.com/problems/largest-number-at-least-twice-of-others
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

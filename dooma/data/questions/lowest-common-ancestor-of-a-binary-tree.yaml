@@ -1,0 +1,57 @@
+id: lowest-common-ancestor-of-a-binary-tree
+title: Lowest Common Ancestor of a Binary Tree
+url: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 62
+  airbnb:
+    frequency: 37
+  amazon:
+    frequency: 75
+  apple:
+    frequency: 62
+  atlassian:
+    frequency: 75
+  bitgo:
+    frequency: 62
+  bloomberg:
+    frequency: 50
+  cisco:
+    frequency: 37
+  flipkart:
+    frequency: 37
+  google:
+    frequency: 37
+  intuit:
+    frequency: 37
+  linkedin:
+    frequency: 62
+  lucid:
+    frequency: 62
+  meta:
+    frequency: 87
+  microsoft:
+    frequency: 62
+  mongodb:
+    frequency: 62
+  newsbreak:
+    frequency: 100
+  oracle:
+    frequency: 62
+  salesforce:
+    frequency: 25
+  sap:
+    frequency: 50
+  tiktok:
+    frequency: 62
+  wix:
+    frequency: 87
+  yandex:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: most-frequent-ids
+title: Most Frequent IDs
+url: https://leetcode.com/problems/most-frequent-ids
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

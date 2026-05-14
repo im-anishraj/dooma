@@ -1,0 +1,21 @@
+id: sum-of-distances-in-tree
+title: Sum of Distances in Tree
+url: https://leetcode.com/problems/sum-of-distances-in-tree
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 37
+  microsoft:
+    frequency: 12
+  phonepe:
+    frequency: 75
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

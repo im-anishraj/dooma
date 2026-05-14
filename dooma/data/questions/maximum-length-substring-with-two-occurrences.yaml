@@ -1,0 +1,17 @@
+id: maximum-length-substring-with-two-occurrences
+title: Maximum Length Substring With Two Occurrences
+url: https://leetcode.com/problems/maximum-length-substring-with-two-occurrences
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  walmart-labs:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

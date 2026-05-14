@@ -1,0 +1,29 @@
+id: reverse-pairs
+title: Reverse Pairs
+url: https://leetcode.com/problems/reverse-pairs
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 37
+  deloitte:
+    frequency: 50
+  google:
+    frequency: 50
+  intuit:
+    frequency: 50
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

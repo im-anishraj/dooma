@@ -1,0 +1,29 @@
+id: immediate-food-delivery-ii
+title: Immediate Food Delivery II
+url: https://leetcode.com/problems/immediate-food-delivery-ii
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  doordash:
+    frequency: 50
+  google:
+    frequency: 25
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 25
+  starbucks:
+    frequency: 100
+  swiggy:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

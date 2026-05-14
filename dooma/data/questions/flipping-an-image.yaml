@@ -1,0 +1,23 @@
+id: flipping-an-image
+title: Flipping an Image
+url: https://leetcode.com/problems/flipping-an-image
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 37
+  ibm:
+    frequency: 37
+  meta:
+    frequency: 12
+  tcs:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

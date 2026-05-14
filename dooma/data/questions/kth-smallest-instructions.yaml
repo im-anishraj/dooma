@@ -1,0 +1,13 @@
+id: kth-smallest-instructions
+title: Kth Smallest Instructions
+url: https://leetcode.com/problems/kth-smallest-instructions
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

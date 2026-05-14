@@ -1,0 +1,21 @@
+id: trim-a-binary-search-tree
+title: Trim a Binary Search Tree
+url: https://leetcode.com/problems/trim-a-binary-search-tree
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 37
+  flipkart:
+    frequency: 37
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

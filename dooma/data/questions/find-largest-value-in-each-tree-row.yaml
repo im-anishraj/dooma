@@ -1,0 +1,27 @@
+id: find-largest-value-in-each-tree-row
+title: Find Largest Value in Each Tree Row
+url: https://leetcode.com/problems/find-largest-value-in-each-tree-row
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 12
+  josh-technology:
+    frequency: 62
+  linkedin:
+    frequency: 50
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

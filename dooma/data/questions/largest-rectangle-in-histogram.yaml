@@ -1,0 +1,75 @@
+id: largest-rectangle-in-histogram
+title: Largest Rectangle in Histogram
+url: https://leetcode.com/problems/largest-rectangle-in-histogram
+difficulty: hard
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 62
+  apple:
+    frequency: 25
+  bitgo:
+    frequency: 62
+  bloomberg:
+    frequency: 50
+  capital-one:
+    frequency: 62
+  cisco:
+    frequency: 37
+  coupang:
+    frequency: 75
+  de-shaw:
+    frequency: 37
+  devrev:
+    frequency: 100
+  doordash:
+    frequency: 50
+  flipkart:
+    frequency: 62
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 62
+  infosys:
+    frequency: 37
+  josh-technology:
+    frequency: 62
+  linkedin:
+    frequency: 25
+  maq-software:
+    frequency: 62
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 50
+  myntra:
+    frequency: 75
+  oracle:
+    frequency: 25
+  roblox:
+    frequency: 50
+  tcs:
+    frequency: 37
+  thoughtspot:
+    frequency: 75
+  tiktok:
+    frequency: 37
+  uber:
+    frequency: 50
+  visa:
+    frequency: 75
+  walmart-labs:
+    frequency: 50
+  waymo:
+    frequency: 62
+  zepto:
+    frequency: 75
+  zoho:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,21 @@
+id: maximum-length-of-a-concatenated-string-with-unique-characters
+title: Maximum Length of a Concatenated String with Unique Characters
+url: https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  groww:
+    frequency: 62
+  honey:
+    frequency: 100
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

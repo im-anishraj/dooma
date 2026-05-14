@@ -1,0 +1,13 @@
+id: distinct-numbers-in-each-subarray
+title: Distinct Numbers in Each Subarray
+url: https://leetcode.com/problems/distinct-numbers-in-each-subarray
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

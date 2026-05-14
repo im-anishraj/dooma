@@ -1,0 +1,39 @@
+id: remove-duplicate-letters
+title: Remove Duplicate Letters
+url: https://leetcode.com/problems/remove-duplicate-letters
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 37
+  bytedance:
+    frequency: 87
+  de-shaw:
+    frequency: 37
+  expedia:
+    frequency: 87
+  factset:
+    frequency: 100
+  google:
+    frequency: 37
+  increff:
+    frequency: 100
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 37
+  oracle:
+    frequency: 25
+  paytm:
+    frequency: 62
+  tiktok:
+    frequency: 50
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

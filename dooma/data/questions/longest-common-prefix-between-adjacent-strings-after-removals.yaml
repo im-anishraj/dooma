@@ -1,0 +1,13 @@
+id: longest-common-prefix-between-adjacent-strings-after-removals
+title: Longest Common Prefix Between Adjacent Strings After Removals
+url: https://leetcode.com/problems/longest-common-prefix-between-adjacent-strings-after-removals
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

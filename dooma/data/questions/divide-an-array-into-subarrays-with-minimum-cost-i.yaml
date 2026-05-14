@@ -1,0 +1,23 @@
+id: divide-an-array-into-subarrays-with-minimum-cost-i
+title: Divide an Array Into Subarrays With Minimum Cost I
+url: https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  american-express:
+    frequency: 100
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

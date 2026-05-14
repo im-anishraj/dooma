@@ -1,0 +1,15 @@
+id: number-of-good-ways-to-split-a-string
+title: Number of Good Ways to Split a String
+url: https://leetcode.com/problems/number-of-good-ways-to-split-a-string
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

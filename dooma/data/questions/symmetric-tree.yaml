@@ -1,0 +1,35 @@
+id: symmetric-tree
+title: Symmetric Tree
+url: https://leetcode.com/problems/symmetric-tree
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 37
+  bloomberg:
+    frequency: 50
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 37
+  linkedin:
+    frequency: 62
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 50
+  syfe:
+    frequency: 87
+  tiktok:
+    frequency: 25
+  vk:
+    frequency: 62
+  yandex:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

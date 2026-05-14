@@ -1,0 +1,43 @@
+id: remove-all-adjacent-duplicates-in-string
+title: Remove All Adjacent Duplicates In String
+url: https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 50
+  audible:
+    frequency: 62
+  bloomberg:
+    frequency: 25
+  cisco:
+    frequency: 37
+  fynd:
+    frequency: 100
+  geico:
+    frequency: 62
+  google:
+    frequency: 25
+  grammarly:
+    frequency: 87
+  meta:
+    frequency: 62
+  microsoft:
+    frequency: 25
+  oracle:
+    frequency: 37
+  paytm:
+    frequency: 100
+  ripple:
+    frequency: 75
+  whatnot:
+    frequency: 87
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

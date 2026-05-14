@@ -1,0 +1,17 @@
+id: ways-to-split-array-into-three-subarrays
+title: Ways to Split Array Into Three Subarrays
+url: https://leetcode.com/problems/ways-to-split-array-into-three-subarrays
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  robinhood:
+    frequency: 100
+  tekion:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

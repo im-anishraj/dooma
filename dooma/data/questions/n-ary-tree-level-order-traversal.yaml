@@ -1,0 +1,17 @@
+id: n-ary-tree-level-order-traversal
+title: N-ary Tree Level Order Traversal
+url: https://leetcode.com/problems/n-ary-tree-level-order-traversal
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

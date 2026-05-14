@@ -1,0 +1,19 @@
+id: minimum-sensors-to-cover-grid
+title: Minimum Sensors to Cover Grid
+url: https://leetcode.com/problems/minimum-sensors-to-cover-grid
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  cisco:
+    frequency: 62
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

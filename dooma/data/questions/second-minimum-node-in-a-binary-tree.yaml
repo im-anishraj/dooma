@@ -1,0 +1,17 @@
+id: second-minimum-node-in-a-binary-tree
+title: Second Minimum Node In a Binary Tree
+url: https://leetcode.com/problems/second-minimum-node-in-a-binary-tree
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  linkedin:
+    frequency: 62
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

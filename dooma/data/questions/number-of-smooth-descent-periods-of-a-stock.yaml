@@ -1,0 +1,17 @@
+id: number-of-smooth-descent-periods-of-a-stock
+title: Number of Smooth Descent Periods of a Stock
+url: https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

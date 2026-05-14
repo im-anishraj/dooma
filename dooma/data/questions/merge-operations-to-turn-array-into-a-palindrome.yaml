@@ -1,0 +1,21 @@
+id: merge-operations-to-turn-array-into-a-palindrome
+title: Merge Operations to Turn Array Into a Palindrome
+url: https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accolite:
+    frequency: 87
+  adobe:
+    frequency: 75
+  amazon:
+    frequency: 25
+  oracle:
+    frequency: 25
+  tiktok:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

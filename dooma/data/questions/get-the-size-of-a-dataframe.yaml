@@ -1,0 +1,15 @@
+id: get-the-size-of-a-dataframe
+title: Get the Size of a DataFrame
+url: https://leetcode.com/problems/get-the-size-of-a-dataframe
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

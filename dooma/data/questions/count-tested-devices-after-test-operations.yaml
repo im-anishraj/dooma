@@ -1,0 +1,13 @@
+id: count-tested-devices-after-test-operations
+title: Count Tested Devices After Test Operations
+url: https://leetcode.com/problems/count-tested-devices-after-test-operations
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

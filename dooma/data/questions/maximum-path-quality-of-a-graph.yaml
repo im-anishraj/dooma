@@ -1,0 +1,21 @@
+id: maximum-path-quality-of-a-graph
+title: Maximum Path Quality of a Graph
+url: https://leetcode.com/problems/maximum-path-quality-of-a-graph
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  apple:
+    frequency: 37
+  doordash:
+    frequency: 37
+  google:
+    frequency: 12
+  salesforce:
+    frequency: 25
+  sap:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: maximum-number-of-non-overlapping-substrings
+title: Maximum Number of Non-Overlapping Substrings
+url: https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

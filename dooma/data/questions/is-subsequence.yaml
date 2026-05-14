@@ -1,0 +1,49 @@
+id: is-subsequence
+title: Is Subsequence
+url: https://leetcode.com/problems/is-subsequence
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 37
+  electronic-arts:
+    frequency: 100
+  fractal-analytics:
+    frequency: 87
+  google:
+    frequency: 37
+  infosys:
+    frequency: 37
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 37
+  nvidia:
+    frequency: 37
+  pinterest:
+    frequency: 75
+  qualcomm:
+    frequency: 50
+  tekion:
+    frequency: 62
+  tesla:
+    frequency: 50
+  tiktok:
+    frequency: 25
+  tinkoff:
+    frequency: 75
+  wix:
+    frequency: 87
+  yandex:
+    frequency: 62
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

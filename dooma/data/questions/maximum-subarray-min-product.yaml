@@ -1,0 +1,17 @@
+id: maximum-subarray-min-product
+title: Maximum Subarray Min-Product
+url: https://leetcode.com/problems/maximum-subarray-min-product
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  uber:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

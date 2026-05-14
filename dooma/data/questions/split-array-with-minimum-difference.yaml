@@ -1,0 +1,13 @@
+id: split-array-with-minimum-difference
+title: Split Array With Minimum Difference
+url: https://leetcode.com/problems/split-array-with-minimum-difference
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

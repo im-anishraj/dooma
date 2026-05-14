@@ -1,0 +1,13 @@
+id: concatenate-non-zero-digits-and-multiply-by-sum-ii
+title: Concatenate Non-Zero Digits and Multiply by Sum II
+url: https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

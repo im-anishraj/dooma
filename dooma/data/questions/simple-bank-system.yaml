@@ -1,0 +1,51 @@
+id: simple-bank-system
+title: Simple Bank System
+url: https://leetcode.com/problems/simple-bank-system
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  airbnb:
+    frequency: 75
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  capital-one:
+    frequency: 100
+  circle:
+    frequency: 100
+  coinbase:
+    frequency: 100
+  dropbox:
+    frequency: 100
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 12
+  hubspot:
+    frequency: 75
+  instacart:
+    frequency: 62
+  meta:
+    frequency: 37
+  okta:
+    frequency: 75
+  phonepe:
+    frequency: 100
+  ramp-2:
+    frequency: 75
+  revolut:
+    frequency: 62
+  stripe:
+    frequency: 50
+  the-trade-desk:
+    frequency: 62
+  uber:
+    frequency: 25
+  yandex:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

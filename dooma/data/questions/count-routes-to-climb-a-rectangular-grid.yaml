@@ -1,0 +1,13 @@
+id: count-routes-to-climb-a-rectangular-grid
+title: Count Routes to Climb a Rectangular Grid
+url: https://leetcode.com/problems/count-routes-to-climb-a-rectangular-grid
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

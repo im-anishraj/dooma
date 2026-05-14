@@ -1,0 +1,13 @@
+id: ternary-expression-parser
+title: Ternary Expression Parser
+url: https://leetcode.com/problems/ternary-expression-parser
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  snapchat:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

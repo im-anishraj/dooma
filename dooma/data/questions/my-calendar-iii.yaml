@@ -1,0 +1,17 @@
+id: my-calendar-iii
+title: My Calendar III
+url: https://leetcode.com/problems/my-calendar-iii
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

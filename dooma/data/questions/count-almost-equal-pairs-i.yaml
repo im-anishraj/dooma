@@ -1,0 +1,15 @@
+id: count-almost-equal-pairs-i
+title: Count Almost Equal Pairs I
+url: https://leetcode.com/problems/count-almost-equal-pairs-i
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  info-edge:
+    frequency: 100
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

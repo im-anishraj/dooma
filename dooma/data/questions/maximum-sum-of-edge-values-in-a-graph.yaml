@@ -1,0 +1,13 @@
+id: maximum-sum-of-edge-values-in-a-graph
+title: Maximum Sum of Edge Values in a Graph
+url: https://leetcode.com/problems/maximum-sum-of-edge-values-in-a-graph
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

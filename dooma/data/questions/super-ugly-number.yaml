@@ -1,0 +1,19 @@
+id: super-ugly-number
+title: Super Ugly Number
+url: https://leetcode.com/problems/super-ugly-number
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

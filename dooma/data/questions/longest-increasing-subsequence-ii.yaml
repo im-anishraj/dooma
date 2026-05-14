@@ -1,0 +1,13 @@
+id: longest-increasing-subsequence-ii
+title: Longest Increasing Subsequence II
+url: https://leetcode.com/problems/longest-increasing-subsequence-ii
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

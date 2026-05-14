@@ -1,0 +1,15 @@
+id: number-of-pairs-of-strings-with-concatenation-equal-to-target
+title: Number of Pairs of Strings With Concatenation Equal to Target
+url: https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  apple:
+    frequency: 50
+  capital-one:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,21 @@
+id: count-zero-request-servers
+title: Count Zero Request Servers
+url: https://leetcode.com/problems/count-zero-request-servers
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  dp-world:
+    frequency: 87
+  flexport:
+    frequency: 62
+  honeywell:
+    frequency: 75
+  lti:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

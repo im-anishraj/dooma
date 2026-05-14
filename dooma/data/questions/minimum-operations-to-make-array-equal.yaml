@@ -1,0 +1,15 @@
+id: minimum-operations-to-make-array-equal
+title: Minimum Operations to Make Array Equal
+url: https://leetcode.com/problems/minimum-operations-to-make-array-equal
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  brillio:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

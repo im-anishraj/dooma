@@ -1,0 +1,21 @@
+id: maximum-number-of-non-overlapping-palindrome-substrings
+title: Maximum Number of Non-overlapping Palindrome Substrings
+url: https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  linkedin:
+    frequency: 50
+  microsoft:
+    frequency: 25
+  oracle:
+    frequency: 37
+  salesforce:
+    frequency: 25
+  sofi:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

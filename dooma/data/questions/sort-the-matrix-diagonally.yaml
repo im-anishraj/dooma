@@ -1,0 +1,19 @@
+id: sort-the-matrix-diagonally
+title: Sort the Matrix Diagonally
+url: https://leetcode.com/problems/sort-the-matrix-diagonally
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  quora:
+    frequency: 87
+  walmart-labs:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

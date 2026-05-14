@@ -1,0 +1,13 @@
+id: minimum-time-to-activate-string
+title: Minimum Time to Activate String
+url: https://leetcode.com/problems/minimum-time-to-activate-string
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

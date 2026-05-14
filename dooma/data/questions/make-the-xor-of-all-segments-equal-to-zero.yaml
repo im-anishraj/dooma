@@ -1,0 +1,15 @@
+id: make-the-xor-of-all-segments-equal-to-zero
+title: Make the XOR of All Segments Equal to Zero
+url: https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  medianet:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

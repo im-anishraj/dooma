@@ -1,0 +1,13 @@
+id: the-knights-tour
+title: The Knight’s Tour
+url: https://leetcode.com/problems/the-knights-tour
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  microsoft:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

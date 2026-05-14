@@ -1,0 +1,29 @@
+id: department-highest-salary
+title: Department Highest Salary
+url: https://leetcode.com/problems/department-highest-salary
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  ozon:
+    frequency: 75
+  target:
+    frequency: 87
+  tcs:
+    frequency: 25
+  tencent:
+    frequency: 62
+  tinkoff:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

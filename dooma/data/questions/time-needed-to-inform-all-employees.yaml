@@ -1,0 +1,19 @@
+id: time-needed-to-inform-all-employees
+title: Time Needed to Inform All Employees
+url: https://leetcode.com/problems/time-needed-to-inform-all-employees
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+  medianet:
+    frequency: 50
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

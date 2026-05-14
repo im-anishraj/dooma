@@ -1,0 +1,13 @@
+id: maximize-ysum-by-picking-a-triplet-of-distinct-xvalues
+title: Maximize Y‑Sum by Picking a Triplet of Distinct X‑Values
+url: https://leetcode.com/problems/maximize-ysum-by-picking-a-triplet-of-distinct-xvalues
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

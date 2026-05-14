@@ -1,0 +1,25 @@
+id: angle-between-hands-of-a-clock
+title: Angle Between Hands of a Clock
+url: https://leetcode.com/problems/angle-between-hands-of-a-clock
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  epic-systems:
+    frequency: 62
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  siemens:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

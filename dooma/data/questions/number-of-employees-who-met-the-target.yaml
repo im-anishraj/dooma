@@ -1,0 +1,15 @@
+id: number-of-employees-who-met-the-target
+title: Number of Employees Who Met the Target
+url: https://leetcode.com/problems/number-of-employees-who-met-the-target
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

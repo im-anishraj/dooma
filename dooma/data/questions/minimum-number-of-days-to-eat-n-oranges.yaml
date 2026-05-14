@@ -1,0 +1,13 @@
+id: minimum-number-of-days-to-eat-n-oranges
+title: Minimum Number of Days to Eat N Oranges
+url: https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

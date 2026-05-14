@@ -1,0 +1,15 @@
+id: total-appeal-of-a-string
+title: Total Appeal of A String
+url: https://leetcode.com/problems/total-appeal-of-a-string
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

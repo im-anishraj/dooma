@@ -1,0 +1,17 @@
+id: minimum-number-of-operations-to-sort-a-binary-tree-by-level
+title: Minimum Number of Operations to Sort a Binary Tree by Level
+url: https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  google:
+    frequency: 12
+  guidewire:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

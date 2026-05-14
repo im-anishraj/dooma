@@ -1,0 +1,13 @@
+id: minimum-moves-to-balance-circular-array
+title: Minimum Moves to Balance Circular Array
+url: https://leetcode.com/problems/minimum-moves-to-balance-circular-array
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

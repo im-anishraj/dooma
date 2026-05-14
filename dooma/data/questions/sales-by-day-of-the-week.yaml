@@ -1,0 +1,13 @@
+id: sales-by-day-of-the-week
+title: Sales by Day of the Week
+url: https://leetcode.com/problems/sales-by-day-of-the-week
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

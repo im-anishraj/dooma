@@ -1,0 +1,13 @@
+id: count-prefixes-of-a-given-string
+title: Count Prefixes of a Given String
+url: https://leetcode.com/problems/count-prefixes-of-a-given-string
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,25 @@
+id: step-by-step-directions-from-a-binary-tree-node-to-another
+title: Step-By-Step Directions From a Binary Tree Node to Another
+url: https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  databricks:
+    frequency: 87
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  oracle:
+    frequency: 25
+  snowflake:
+    frequency: 75
+  tiktok:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,19 @@
+id: self-dividing-numbers
+title: Self Dividing Numbers
+url: https://leetcode.com/problems/self-dividing-numbers
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  epic-systems:
+    frequency: 87
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

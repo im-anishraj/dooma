@@ -1,0 +1,55 @@
+id: reconstruct-itinerary
+title: Reconstruct Itinerary
+url: https://leetcode.com/problems/reconstruct-itinerary
+difficulty: hard
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  bookingcom:
+    frequency: 62
+  capital-one:
+    frequency: 37
+  citadel:
+    frequency: 62
+  compass:
+    frequency: 87
+  ebay:
+    frequency: 75
+  flipkart:
+    frequency: 50
+  google:
+    frequency: 37
+  hopper:
+    frequency: 100
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 12
+  netflix:
+    frequency: 100
+  palo-alto-networks:
+    frequency: 50
+  pinterest:
+    frequency: 100
+  salesforce:
+    frequency: 37
+  snapchat:
+    frequency: 37
+  uber:
+    frequency: 37
+  visa:
+    frequency: 37
+  walmart-labs:
+    frequency: 37
+  yandex:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

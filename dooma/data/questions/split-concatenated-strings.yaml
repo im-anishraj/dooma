@@ -1,0 +1,13 @@
+id: split-concatenated-strings
+title: Split Concatenated Strings
+url: https://leetcode.com/problems/split-concatenated-strings
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  alibaba:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

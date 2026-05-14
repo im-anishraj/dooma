@@ -1,0 +1,15 @@
+id: categorize-box-according-to-criteria
+title: Categorize Box According to Criteria
+url: https://leetcode.com/problems/categorize-box-according-to-criteria
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  microsoft:
+    frequency: 12
+  zendesk:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

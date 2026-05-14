@@ -1,0 +1,53 @@
+id: missing-number
+title: Missing Number
+url: https://leetcode.com/problems/missing-number
+difficulty: easy
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 62
+  apple:
+    frequency: 37
+  aqr-capital-management-llc:
+    frequency: 62
+  arista-networks:
+    frequency: 75
+  blackrock:
+    frequency: 37
+  bloomberg:
+    frequency: 50
+  genpact:
+    frequency: 100
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 50
+  ibm:
+    frequency: 37
+  infosys:
+    frequency: 37
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 50
+  nvidia:
+    frequency: 62
+  oracle:
+    frequency: 25
+  revolut:
+    frequency: 75
+  salesforce:
+    frequency: 37
+  tcs:
+    frequency: 50
+  wipro:
+    frequency: 62
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

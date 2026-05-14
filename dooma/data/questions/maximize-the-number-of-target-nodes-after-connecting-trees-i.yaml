@@ -1,0 +1,15 @@
+id: maximize-the-number-of-target-nodes-after-connecting-trees-i
+title: Maximize the Number of Target Nodes After Connecting Trees I
+url: https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  jio:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,19 @@
+id: implement-router
+title: Implement Router
+url: https://leetcode.com/problems/implement-router
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  cisco:
+    frequency: 75
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

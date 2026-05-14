@@ -1,0 +1,15 @@
+id: earliest-second-to-mark-indices-ii
+title: Earliest Second to Mark Indices II
+url: https://leetcode.com/problems/earliest-second-to-mark-indices-ii
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  mathworks:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

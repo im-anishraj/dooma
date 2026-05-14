@@ -1,0 +1,95 @@
+id: merge-sorted-array
+title: Merge Sorted Array
+url: https://leetcode.com/problems/merge-sorted-array
+difficulty: easy
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 62
+  adobe:
+    frequency: 50
+  amazon:
+    frequency: 75
+  amd:
+    frequency: 87
+  apple:
+    frequency: 62
+  avito:
+    frequency: 75
+  bloomberg:
+    frequency: 75
+  bny-mellon:
+    frequency: 62
+  canonical:
+    frequency: 62
+  cisco:
+    frequency: 37
+  cognizant:
+    frequency: 62
+  de-shaw:
+    frequency: 37
+  epam-systems:
+    frequency: 75
+  flipkart:
+    frequency: 37
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 75
+  hcl:
+    frequency: 75
+  hubspot:
+    frequency: 87
+  ibm:
+    frequency: 37
+  infosys:
+    frequency: 62
+  intel:
+    frequency: 62
+  keeptruckin:
+    frequency: 75
+  linkedin:
+    frequency: 25
+  meta:
+    frequency: 87
+  microsoft:
+    frequency: 75
+  nvidia:
+    frequency: 50
+  oracle:
+    frequency: 37
+  ozon:
+    frequency: 75
+  paypal:
+    frequency: 50
+  persistent-systems:
+    frequency: 62
+  qualcomm:
+    frequency: 62
+  samsung:
+    frequency: 50
+  squarespace:
+    frequency: 100
+  swiggy:
+    frequency: 75
+  tcs:
+    frequency: 50
+  tiktok:
+    frequency: 37
+  verkada:
+    frequency: 62
+  visa:
+    frequency: 37
+  wipro:
+    frequency: 62
+  yahoo:
+    frequency: 62
+  yandex:
+    frequency: 62
+  zoho:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

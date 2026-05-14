@@ -1,0 +1,19 @@
+id: minimum-array-end
+title: Minimum Array End
+url: https://leetcode.com/problems/minimum-array-end
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

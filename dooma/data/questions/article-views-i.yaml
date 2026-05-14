@@ -1,0 +1,29 @@
+id: article-views-i
+title: Article Views I
+url: https://leetcode.com/problems/article-views-i
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 37
+  cognizant:
+    frequency: 62
+  google:
+    frequency: 37
+  linkedin:
+    frequency: 50
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 37
+  tcs:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

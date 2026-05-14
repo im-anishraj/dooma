@@ -1,0 +1,13 @@
+id: shortest-matching-substring
+title: Shortest Matching Substring
+url: https://leetcode.com/problems/shortest-matching-substring
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

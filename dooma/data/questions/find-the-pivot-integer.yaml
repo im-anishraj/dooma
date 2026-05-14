@@ -1,0 +1,17 @@
+id: find-the-pivot-integer
+title: Find the Pivot Integer
+url: https://leetcode.com/problems/find-the-pivot-integer
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

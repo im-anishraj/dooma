@@ -1,0 +1,21 @@
+id: wiggle-sort-ii
+title: Wiggle Sort II
+url: https://leetcode.com/problems/wiggle-sort-ii
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

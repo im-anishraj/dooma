@@ -1,0 +1,15 @@
+id: unique-3-digit-even-numbers
+title: Unique 3-Digit Even Numbers
+url: https://leetcode.com/problems/unique-3-digit-even-numbers
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: next-palindrome-using-same-digits
+title: Next Palindrome Using Same Digits
+url: https://leetcode.com/problems/next-palindrome-using-same-digits
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

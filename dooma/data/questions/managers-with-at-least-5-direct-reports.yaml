@@ -1,0 +1,29 @@
+id: managers-with-at-least-5-direct-reports
+title: Managers with at Least 5 Direct Reports
+url: https://leetcode.com/problems/managers-with-at-least-5-direct-reports
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 50
+  bloomberg:
+    frequency: 62
+  deloitte:
+    frequency: 62
+  google:
+    frequency: 37
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 37
+  tcs:
+    frequency: 25
+  wells-fargo:
+    frequency: 62
+  zs-associates:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

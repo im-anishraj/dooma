@@ -1,0 +1,15 @@
+id: finding-the-number-of-visible-mountains
+title: Finding the Number of Visible Mountains
+url: https://leetcode.com/problems/finding-the-number-of-visible-mountains
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  salesforce:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

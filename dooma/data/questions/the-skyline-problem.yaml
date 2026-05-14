@@ -1,0 +1,39 @@
+id: the-skyline-problem
+title: The Skyline Problem
+url: https://leetcode.com/problems/the-skyline-problem
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  apple:
+    frequency: 37
+  bloomberg:
+    frequency: 12
+  goldman-sachs:
+    frequency: 37
+  google:
+    frequency: 37
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 37
+  nvidia:
+    frequency: 37
+  siemens:
+    frequency: 75
+  tiktok:
+    frequency: 25
+  twitter:
+    frequency: 100
+  uber:
+    frequency: 37
+  yelp:
+    frequency: 100
+  zomato:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

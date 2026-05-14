@@ -1,0 +1,95 @@
+id: coin-change
+title: Coin Change
+url: https://leetcode.com/problems/coin-change
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 50
+  accolite:
+    frequency: 62
+  adobe:
+    frequency: 62
+  affirm:
+    frequency: 50
+  agoda:
+    frequency: 50
+  airbnb:
+    frequency: 37
+  amazon:
+    frequency: 62
+  apple:
+    frequency: 37
+  bloomberg:
+    frequency: 62
+  capgemini:
+    frequency: 50
+  capital-one:
+    frequency: 37
+  datadog:
+    frequency: 100
+  deloitte:
+    frequency: 50
+  deutsche-bank:
+    frequency: 62
+  epam-systems:
+    frequency: 50
+  fractal-analytics:
+    frequency: 87
+  geico:
+    frequency: 75
+  goldman-sachs:
+    frequency: 37
+  google:
+    frequency: 50
+  ibm:
+    frequency: 37
+  infosys:
+    frequency: 62
+  intuit:
+    frequency: 62
+  jpmorgan:
+    frequency: 37
+  mastercard:
+    frequency: 87
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 50
+  netflix:
+    frequency: 50
+  nvidia:
+    frequency: 37
+  oracle:
+    frequency: 50
+  paypal:
+    frequency: 75
+  phonepe:
+    frequency: 50
+  pinterest:
+    frequency: 75
+  salesforce:
+    frequency: 50
+  samsung:
+    frequency: 50
+  sap:
+    frequency: 50
+  servicenow:
+    frequency: 62
+  squarepoint-capital:
+    frequency: 62
+  tiktok:
+    frequency: 75
+  uber:
+    frequency: 50
+  walmart-labs:
+    frequency: 75
+  yandex:
+    frequency: 37
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

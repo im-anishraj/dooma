@@ -1,0 +1,23 @@
+id: path-with-maximum-probability
+title: Path with Maximum Probability
+url: https://leetcode.com/problems/path-with-maximum-probability
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  samsung:
+    frequency: 50
+  tcs:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

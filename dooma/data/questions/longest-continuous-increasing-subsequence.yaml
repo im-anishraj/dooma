@@ -1,0 +1,21 @@
+id: longest-continuous-increasing-subsequence
+title: Longest Continuous Increasing Subsequence
+url: https://leetcode.com/problems/longest-continuous-increasing-subsequence
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 25
+  yandex:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

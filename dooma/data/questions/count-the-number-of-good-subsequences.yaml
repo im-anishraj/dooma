@@ -1,0 +1,19 @@
+id: count-the-number-of-good-subsequences
+title: Count the Number of Good Subsequences
+url: https://leetcode.com/problems/count-the-number-of-good-subsequences
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  nvidia:
+    frequency: 37
+  palantir-technologies:
+    frequency: 50
+  tusimple:
+    frequency: 100
+  ukg:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

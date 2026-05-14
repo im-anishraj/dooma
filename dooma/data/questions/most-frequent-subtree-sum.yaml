@@ -1,0 +1,15 @@
+id: most-frequent-subtree-sum
+title: Most Frequent Subtree Sum
+url: https://leetcode.com/problems/most-frequent-subtree-sum
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

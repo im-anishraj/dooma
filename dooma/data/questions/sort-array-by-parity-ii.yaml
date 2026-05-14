@@ -1,0 +1,21 @@
+id: sort-array-by-parity-ii
+title: Sort Array By Parity II
+url: https://leetcode.com/problems/sort-array-by-parity-ii
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 12
+  couchbase:
+    frequency: 62
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

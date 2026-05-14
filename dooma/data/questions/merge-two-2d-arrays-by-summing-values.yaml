@@ -1,0 +1,23 @@
+id: merge-two-2d-arrays-by-summing-values
+title: Merge Two 2D Arrays by Summing Values
+url: https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  yandex:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,23 @@
+id: calculate-amount-paid-in-taxes
+title: Calculate Amount Paid in Taxes
+url: https://leetcode.com/problems/calculate-amount-paid-in-taxes
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  interactive-brokers:
+    frequency: 100
+  meta:
+    frequency: 25
+  oracle:
+    frequency: 37
+  snowflake:
+    frequency: 87
+  stripe:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

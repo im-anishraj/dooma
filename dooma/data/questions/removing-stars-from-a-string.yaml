@@ -1,0 +1,21 @@
+id: removing-stars-from-a-string
+title: Removing Stars From a String
+url: https://leetcode.com/problems/removing-stars-from-a-string
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 12
+  ibm:
+    frequency: 37
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

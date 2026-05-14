@@ -1,0 +1,21 @@
+id: find-kth-bit-in-nth-binary-string
+title: Find Kth Bit in Nth Binary String
+url: https://leetcode.com/problems/find-kth-bit-in-nth-binary-string
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

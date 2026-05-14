@@ -1,0 +1,23 @@
+id: leaf-similar-trees
+title: Leaf-Similar Trees
+url: https://leetcode.com/problems/leaf-similar-trees
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  oracle:
+    frequency: 25
+  snowflake:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

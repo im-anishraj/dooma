@@ -1,0 +1,13 @@
+id: detect-pattern-of-length-m-repeated-k-or-more-times
+title: Detect Pattern of Length M Repeated K or More Times
+url: https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  hrt:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

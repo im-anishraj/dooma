@@ -1,0 +1,15 @@
+id: count-pairs-that-form-a-complete-day-i
+title: Count Pairs That Form a Complete Day I
+url: https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  infosys:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

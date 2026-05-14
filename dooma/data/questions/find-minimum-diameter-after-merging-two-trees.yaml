@@ -1,0 +1,17 @@
+id: find-minimum-diameter-after-merging-two-trees
+title: Find Minimum Diameter After Merging Two Trees
+url: https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  servicenow:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

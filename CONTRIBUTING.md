@@ -4,14 +4,13 @@ First off, thank you for considering contributing to Dooma! It's people like you
 
 ## 1. Branching Strategy
 
-We follow a strict GitFlow-inspired branching strategy:
+Dooma uses short-lived feature and fix branches with `main` as the release branch:
 
 - **`main`**: Production-ready code. Releases are cut from here.
-- **`develop`**: The main integration branch. All feature branches merge into here.
-- **`feature/*`**: For new features (e.g., `feature/spaced-repetition`).
-- **`fix/*`** or **`hotfix/*`**: For urgent bug fixes.
+- **`feature/*`** or **`codex/*`**: Focused feature branches.
+- **`fix/*`** or **`hotfix/*`**: Focused bug-fix branches.
 
-**Always branch off `develop`** when starting a new feature, and open your Pull Request against the `develop` branch.
+Branch from `main` unless a maintainer asks you to target another branch.
 
 ## 2. Development Setup
 
@@ -20,17 +19,12 @@ We follow a strict GitFlow-inspired branching strategy:
    git clone https://github.com/<your-username>/dooma.git
    cd dooma
    ```
-2. Checkout the develop branch: `git checkout develop`
-3. Create your feature branch: `git checkout -b feature/your-feature-name`
-4. Install the package locally:
-   ```bash
-   pip install -e .
-   ```
-5. Install development tools when you plan to run formatting and static checks:
+2. Create your feature branch: `git checkout -b feature/your-feature-name`
+3. Install the package with development tools:
    ```bash
    pip install -e ".[dev]"
    ```
-6. Run the CLI locally:
+4. Run the CLI locally:
    ```bash
    dooma
    ```
@@ -42,11 +36,18 @@ We enforce standard Python formatting:
 - Use `ruff` for linting.
 - Use type hints wherever possible, validated by `mypy`.
 
-Before submitting a PR, ensure you have run:
+Before submitting a PR, run:
 ```bash
-black .
 ruff check .
 mypy dooma
+python -m pytest
+```
+
+If you changed any dataset YAML under `dooma/data/`, also run:
+
+```bash
+python scripts/build_index.py
+python scripts/build_index.py --check
 ```
 
 ## 4. Pull Request Process

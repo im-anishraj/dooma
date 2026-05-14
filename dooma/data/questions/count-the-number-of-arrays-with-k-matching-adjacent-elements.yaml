@@ -1,0 +1,21 @@
+id: count-the-number-of-arrays-with-k-matching-adjacent-elements
+title: Count the Number of Arrays with K Matching Adjacent Elements
+url: https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  phonepe:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

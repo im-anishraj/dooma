@@ -1,0 +1,21 @@
+id: build-array-from-permutation
+title: Build Array from Permutation
+url: https://leetcode.com/problems/build-array-from-permutation
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 37
+  google:
+    frequency: 25
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

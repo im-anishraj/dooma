@@ -1,0 +1,15 @@
+id: minimum-initial-energy-to-finish-tasks
+title: Minimum Initial Energy to Finish Tasks
+url: https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  akuna-capital:
+    frequency: 100
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

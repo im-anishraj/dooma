@@ -1,0 +1,29 @@
+id: continuous-subarray-sum
+title: Continuous Subarray Sum
+url: https://leetcode.com/problems/continuous-subarray-sum
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 25
+  meta:
+    frequency: 62
+  microsoft:
+    frequency: 25
+  phonepe:
+    frequency: 50
+  swiggy:
+    frequency: 50
+  yandex:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

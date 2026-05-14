@@ -1,0 +1,19 @@
+id: find-greatest-common-divisor-of-array
+title: Find Greatest Common Divisor of Array
+url: https://leetcode.com/problems/find-greatest-common-divisor-of-array
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  tiaa:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

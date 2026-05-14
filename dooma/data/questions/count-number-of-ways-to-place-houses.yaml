@@ -1,0 +1,19 @@
+id: count-number-of-ways-to-place-houses
+title: Count Number of Ways to Place Houses
+url: https://leetcode.com/problems/count-number-of-ways-to-place-houses
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  nagarro:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

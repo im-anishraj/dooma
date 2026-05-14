@@ -1,0 +1,41 @@
+id: design-twitter
+title: Design Twitter
+url: https://leetcode.com/problems/design-twitter
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  coupang:
+    frequency: 75
+  google:
+    frequency: 12
+  meesho:
+    frequency: 75
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  paypal:
+    frequency: 37
+  salesforce:
+    frequency: 37
+  swiggy:
+    frequency: 50
+  tesla:
+    frequency: 50
+  twitter:
+    frequency: 100
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

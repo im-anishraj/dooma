@@ -1,0 +1,47 @@
+id: palindrome-linked-list
+title: Palindrome Linked List
+url: https://leetcode.com/problems/palindrome-linked-list
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 50
+  ebay:
+    frequency: 50
+  google:
+    frequency: 50
+  infosys:
+    frequency: 37
+  intel:
+    frequency: 62
+  ixl:
+    frequency: 87
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 50
+  morgan-stanley:
+    frequency: 50
+  oracle:
+    frequency: 37
+  sap:
+    frequency: 50
+  servicenow:
+    frequency: 50
+  siemens:
+    frequency: 62
+  yandex:
+    frequency: 25
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

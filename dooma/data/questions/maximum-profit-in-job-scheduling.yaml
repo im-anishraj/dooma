@@ -1,0 +1,59 @@
+id: maximum-profit-in-job-scheduling
+title: Maximum Profit in Job Scheduling
+url: https://leetcode.com/problems/maximum-profit-in-job-scheduling
+difficulty: hard
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  airbnb:
+    frequency: 87
+  amazon:
+    frequency: 50
+  bloomberg:
+    frequency: 37
+  bytedance:
+    frequency: 50
+  citadel:
+    frequency: 50
+  doordash:
+    frequency: 75
+  flipkart:
+    frequency: 37
+  goldman-sachs:
+    frequency: 37
+  google:
+    frequency: 12
+  infosys:
+    frequency: 37
+  meesho:
+    frequency: 62
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 37
+  oracle:
+    frequency: 50
+  paypal:
+    frequency: 37
+  phonepe:
+    frequency: 75
+  pinterest:
+    frequency: 87
+  ponyai:
+    frequency: 100
+  snowflake:
+    frequency: 75
+  swiggy:
+    frequency: 50
+  tiktok:
+    frequency: 37
+  uber:
+    frequency: 25
+  verkada:
+    frequency: 100
+  weride:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,21 @@
+id: can-i-win
+title: Can I Win
+url: https://leetcode.com/problems/can-i-win
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  linkedin:
+    frequency: 50
+  meta:
+    frequency: 12
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

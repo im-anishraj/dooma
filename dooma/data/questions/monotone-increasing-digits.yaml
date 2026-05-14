@@ -1,0 +1,15 @@
+id: monotone-increasing-digits
+title: Monotone Increasing Digits
+url: https://leetcode.com/problems/monotone-increasing-digits
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  credit-karma:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

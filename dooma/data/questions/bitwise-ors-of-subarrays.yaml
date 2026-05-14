@@ -1,0 +1,25 @@
+id: bitwise-ors-of-subarrays
+title: Bitwise ORs of Subarrays
+url: https://leetcode.com/problems/bitwise-ors-of-subarrays
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 25
+  bny-mellon:
+    frequency: 75
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  tcs:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,117 @@
+id: merge-k-sorted-lists
+title: Merge k Sorted Lists
+url: https://leetcode.com/problems/merge-k-sorted-lists
+difficulty: hard
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  adobe:
+    frequency: 37
+  airbnb:
+    frequency: 75
+  amazon:
+    frequency: 75
+  anduril:
+    frequency: 62
+  apple:
+    frequency: 75
+  bloomberg:
+    frequency: 62
+  bytedance:
+    frequency: 50
+  cisco:
+    frequency: 37
+  citadel:
+    frequency: 50
+  cloudflare:
+    frequency: 62
+  cme-group:
+    frequency: 75
+  coupang:
+    frequency: 50
+  dell:
+    frequency: 62
+  deloitte:
+    frequency: 100
+  docusign:
+    frequency: 62
+  doordash:
+    frequency: 37
+  ebay:
+    frequency: 50
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 50
+  huawei:
+    frequency: 62
+  hubspot:
+    frequency: 50
+  ibm:
+    frequency: 37
+  indeed:
+    frequency: 75
+  ixl:
+    frequency: 87
+  linkedin:
+    frequency: 50
+  meta:
+    frequency: 75
+  microsoft:
+    frequency: 62
+  mongodb:
+    frequency: 75
+  netapp:
+    frequency: 75
+  netskope:
+    frequency: 100
+  nutanix:
+    frequency: 50
+  nvidia:
+    frequency: 75
+  oracle:
+    frequency: 75
+  oyo:
+    frequency: 87
+  palantir-technologies:
+    frequency: 62
+  pinterest:
+    frequency: 37
+  qualcomm:
+    frequency: 50
+  rippling:
+    frequency: 75
+  rivian:
+    frequency: 75
+  salesforce:
+    frequency: 37
+  samsung:
+    frequency: 62
+  snowflake:
+    frequency: 75
+  sofi:
+    frequency: 75
+  tcs:
+    frequency: 37
+  tiktok:
+    frequency: 75
+  twitter:
+    frequency: 100
+  two-sigma:
+    frequency: 62
+  uber:
+    frequency: 62
+  verkada:
+    frequency: 62
+  walmart-labs:
+    frequency: 62
+  warnermedia:
+    frequency: 75
+  yandex:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

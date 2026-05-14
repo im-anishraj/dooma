@@ -1,0 +1,21 @@
+id: find-x-sum-of-all-k-long-subarrays-i
+title: Find X-Sum of All K-Long Subarrays I
+url: https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 37
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

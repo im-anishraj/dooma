@@ -1,0 +1,21 @@
+id: maximum-profit-from-trading-stocks
+title: Maximum Profit From Trading Stocks
+url: https://leetcode.com/problems/maximum-profit-from-trading-stocks
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 12
+  blackrock:
+    frequency: 50
+  oracle:
+    frequency: 50
+  servicenow:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

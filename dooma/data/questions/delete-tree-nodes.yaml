@@ -1,0 +1,13 @@
+id: delete-tree-nodes
+title: Delete Tree Nodes
+url: https://leetcode.com/problems/delete-tree-nodes
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

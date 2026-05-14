@@ -1,0 +1,13 @@
+id: insufficient-nodes-in-root-to-leaf-paths
+title: Insufficient Nodes in Root to Leaf Paths
+url: https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

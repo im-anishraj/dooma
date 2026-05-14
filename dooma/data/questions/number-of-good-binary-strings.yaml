@@ -1,0 +1,13 @@
+id: number-of-good-binary-strings
+title: Number of Good Binary Strings
+url: https://leetcode.com/problems/number-of-good-binary-strings
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  expedia:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

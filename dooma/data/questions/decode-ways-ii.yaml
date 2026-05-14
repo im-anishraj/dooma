@@ -1,0 +1,15 @@
+id: decode-ways-ii
+title: Decode Ways II
+url: https://leetcode.com/problems/decode-ways-ii
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  meta:
+    frequency: 25
+  phonepe:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

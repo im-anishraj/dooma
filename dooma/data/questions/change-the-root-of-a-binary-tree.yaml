@@ -1,0 +1,13 @@
+id: change-the-root-of-a-binary-tree
+title: Change the Root of a Binary Tree
+url: https://leetcode.com/problems/change-the-root-of-a-binary-tree
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

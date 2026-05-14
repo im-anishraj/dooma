@@ -1,0 +1,15 @@
+id: tag-validator
+title: Tag Validator
+url: https://leetcode.com/problems/tag-validator
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  faire:
+    frequency: 75
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

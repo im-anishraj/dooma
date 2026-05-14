@@ -1,0 +1,13 @@
+id: count-student-number-in-departments
+title: Count Student Number in Departments
+url: https://leetcode.com/problems/count-student-number-in-departments
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  twitter:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

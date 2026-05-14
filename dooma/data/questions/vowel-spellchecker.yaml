@@ -1,0 +1,25 @@
+id: vowel-spellchecker
+title: Vowel Spellchecker
+url: https://leetcode.com/problems/vowel-spellchecker
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  grammarly:
+    frequency: 87
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  thumbtack:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

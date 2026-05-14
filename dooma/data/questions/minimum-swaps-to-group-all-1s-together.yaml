@@ -1,0 +1,17 @@
+id: minimum-swaps-to-group-all-1s-together
+title: Minimum Swaps to Group All 1's Together
+url: https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  expedia:
+    frequency: 100
+  microsoft:
+    frequency: 12
+  tiktok:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

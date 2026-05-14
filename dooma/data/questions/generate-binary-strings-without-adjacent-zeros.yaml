@@ -1,0 +1,19 @@
+id: generate-binary-strings-without-adjacent-zeros
+title: Generate Binary Strings Without Adjacent Zeros
+url: https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

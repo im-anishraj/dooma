@@ -1,0 +1,23 @@
+id: scramble-string
+title: Scramble String
+url: https://leetcode.com/problems/scramble-string
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  darwinbox:
+    frequency: 100
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  rubrik:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

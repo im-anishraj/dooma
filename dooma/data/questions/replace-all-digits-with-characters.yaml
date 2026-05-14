@@ -1,0 +1,13 @@
+id: replace-all-digits-with-characters
+title: Replace All Digits with Characters
+url: https://leetcode.com/problems/replace-all-digits-with-characters
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

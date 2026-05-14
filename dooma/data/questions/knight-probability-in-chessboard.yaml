@@ -1,0 +1,23 @@
+id: knight-probability-in-chessboard
+title: Knight Probability in Chessboard
+url: https://leetcode.com/problems/knight-probability-in-chessboard
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  apple:
+    frequency: 25
+  goldman-sachs:
+    frequency: 50
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  spinny:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

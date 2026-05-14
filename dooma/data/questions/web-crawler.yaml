@@ -1,0 +1,25 @@
+id: web-crawler
+title: Web Crawler
+url: https://leetcode.com/problems/web-crawler
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  anthropic:
+    frequency: 75
+  dropbox:
+    frequency: 100
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 12
+  rubrik:
+    frequency: 37
+  snowflake:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

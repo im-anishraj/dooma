@@ -1,0 +1,15 @@
+id: convert-an-array-into-a-2d-array-with-conditions
+title: Convert an Array Into a 2D Array With Conditions
+url: https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  gojek:
+    frequency: 87
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

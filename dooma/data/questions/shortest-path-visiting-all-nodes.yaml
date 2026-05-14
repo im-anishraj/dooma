@@ -1,0 +1,19 @@
+id: shortest-path-visiting-all-nodes
+title: Shortest Path Visiting All Nodes
+url: https://leetcode.com/problems/shortest-path-visiting-all-nodes
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 37
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,23 @@
+id: minimum-number-of-changes-to-make-binary-string-beautiful
+title: Minimum Number of Changes to Make Binary String Beautiful
+url: https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  ibm:
+    frequency: 37
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

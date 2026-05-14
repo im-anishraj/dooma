@@ -1,0 +1,23 @@
+id: maximum-number-of-vowels-in-a-substring-of-given-length
+title: Maximum Number of Vowels in a Substring of Given Length
+url: https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  tcs:
+    frequency: 25
+  wayfair:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

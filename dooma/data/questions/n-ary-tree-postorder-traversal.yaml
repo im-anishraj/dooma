@@ -1,0 +1,17 @@
+id: n-ary-tree-postorder-traversal
+title: N-ary Tree Postorder Traversal
+url: https://leetcode.com/problems/n-ary-tree-postorder-traversal
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

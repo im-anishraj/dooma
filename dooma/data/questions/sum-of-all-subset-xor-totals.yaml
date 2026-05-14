@@ -1,0 +1,23 @@
+id: sum-of-all-subset-xor-totals
+title: Sum of All Subset XOR Totals
+url: https://leetcode.com/problems/sum-of-all-subset-xor-totals
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

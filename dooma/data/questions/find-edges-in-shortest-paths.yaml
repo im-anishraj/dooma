@@ -1,0 +1,15 @@
+id: find-edges-in-shortest-paths
+title: Find Edges in Shortest Paths
+url: https://leetcode.com/problems/find-edges-in-shortest-paths
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  doordash:
+    frequency: 25
+  weride:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

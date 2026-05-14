@@ -1,0 +1,23 @@
+id: distribute-candies-among-children-ii
+title: Distribute Candies Among Children II
+url: https://leetcode.com/problems/distribute-candies-among-children-ii
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  phonepe:
+    frequency: 75
+  rubrik:
+    frequency: 62
+  zs-associates:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,23 @@
+id: the-maze-ii
+title: The Maze II
+url: https://leetcode.com/problems/the-maze-ii
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  oracle:
+    frequency: 25
+  tiktok:
+    frequency: 37
+  uber:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

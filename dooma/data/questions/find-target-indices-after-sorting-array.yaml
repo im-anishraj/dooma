@@ -1,0 +1,15 @@
+id: find-target-indices-after-sorting-array
+title: Find Target Indices After Sorting Array
+url: https://leetcode.com/problems/find-target-indices-after-sorting-array
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,21 @@
+id: minimum-time-to-complete-trips
+title: Minimum Time to Complete Trips
+url: https://leetcode.com/problems/minimum-time-to-complete-trips
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  meesho:
+    frequency: 75
+  meta:
+    frequency: 12
+  uber:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

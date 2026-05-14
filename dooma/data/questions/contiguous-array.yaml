@@ -1,0 +1,39 @@
+id: contiguous-array
+title: Contiguous Array
+url: https://leetcode.com/problems/contiguous-array
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 50
+  bloomberg:
+    frequency: 37
+  google:
+    frequency: 37
+  infosys:
+    frequency: 37
+  keeptruckin:
+    frequency: 87
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 37
+  morgan-stanley:
+    frequency: 62
+  oracle:
+    frequency: 50
+  tiktok:
+    frequency: 37
+  uber:
+    frequency: 25
+  walmart-labs:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

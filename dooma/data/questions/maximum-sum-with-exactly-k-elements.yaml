@@ -1,0 +1,13 @@
+id: maximum-sum-with-exactly-k-elements
+title: Maximum Sum With Exactly K Elements
+url: https://leetcode.com/problems/maximum-sum-with-exactly-k-elements
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

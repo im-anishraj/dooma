@@ -1,0 +1,21 @@
+id: merge-nodes-in-between-zeros
+title: Merge Nodes in Between Zeros
+url: https://leetcode.com/problems/merge-nodes-in-between-zeros
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  josh-technology:
+    frequency: 62
+  microsoft:
+    frequency: 37
+  oracle:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,25 @@
+id: cinema-seat-allocation
+title: Cinema Seat Allocation
+url: https://leetcode.com/problems/cinema-seat-allocation
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  geico:
+    frequency: 87
+  linkedin:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 37
+  yandex:
+    frequency: 25
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

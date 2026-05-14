@@ -1,0 +1,21 @@
+id: missing-element-in-sorted-array
+title: Missing Element in Sorted Array
+url: https://leetcode.com/problems/missing-element-in-sorted-array
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  arista-networks:
+    frequency: 62
+  google:
+    frequency: 12
+  meta:
+    frequency: 50
+  paypal:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

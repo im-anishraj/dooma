@@ -1,0 +1,13 @@
+id: maximize-points-after-choosing-k-tasks
+title: Maximize Points After Choosing K Tasks
+url: https://leetcode.com/problems/maximize-points-after-choosing-k-tasks
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

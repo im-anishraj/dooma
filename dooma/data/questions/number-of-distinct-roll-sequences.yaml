@@ -1,0 +1,13 @@
+id: number-of-distinct-roll-sequences
+title: Number of Distinct Roll Sequences
+url: https://leetcode.com/problems/number-of-distinct-roll-sequences
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  servicenow:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: maximum-xor-with-an-element-from-array
+title: Maximum XOR With an Element From Array
+url: https://leetcode.com/problems/maximum-xor-with-an-element-from-array
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

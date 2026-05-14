@@ -1,0 +1,25 @@
+id: create-maximum-number
+title: Create Maximum Number
+url: https://leetcode.com/problems/create-maximum-number
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accolite:
+    frequency: 50
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  flipkart:
+    frequency: 62
+  google:
+    frequency: 25
+  microsoft:
+    frequency: 12
+  oracle:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

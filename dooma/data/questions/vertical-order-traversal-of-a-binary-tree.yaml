@@ -1,0 +1,33 @@
+id: vertical-order-traversal-of-a-binary-tree
+title: Vertical Order Traversal of a Binary Tree
+url: https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 50
+  bitgo:
+    frequency: 62
+  bloomberg:
+    frequency: 50
+  deliveroo:
+    frequency: 62
+  doordash:
+    frequency: 50
+  google:
+    frequency: 37
+  meta:
+    frequency: 75
+  microsoft:
+    frequency: 37
+  oracle:
+    frequency: 50
+  samsung:
+    frequency: 87
+  tiktok:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,17 @@
+id: k-divisible-elements-subarrays
+title: K Divisible Elements Subarrays
+url: https://leetcode.com/problems/k-divisible-elements-subarrays
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  turing:
+    frequency: 50
+  uber:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

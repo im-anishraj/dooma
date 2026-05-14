@@ -1,0 +1,23 @@
+id: find-subsequence-of-length-k-with-the-largest-sum
+title: Find Subsequence of Length K With the Largest Sum
+url: https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 75
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  tcs:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

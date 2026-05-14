@@ -1,0 +1,29 @@
+id: longest-substring-with-at-least-k-repeating-characters
+title: Longest Substring with At Least K Repeating Characters
+url: https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  baidu:
+    frequency: 100
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  tiktok:
+    frequency: 62
+  walmart-labs:
+    frequency: 37
+  yandex:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

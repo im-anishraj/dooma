@@ -1,0 +1,17 @@
+id: strobogrammatic-number
+title: Strobogrammatic Number
+url: https://leetcode.com/problems/strobogrammatic-number
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  meta:
+    frequency: 50
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

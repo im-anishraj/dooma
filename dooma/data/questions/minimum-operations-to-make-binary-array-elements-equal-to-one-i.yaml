@@ -1,0 +1,23 @@
+id: minimum-operations-to-make-binary-array-elements-equal-to-one-i
+title: Minimum Operations to Make Binary Array Elements Equal to One I
+url: https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  uber:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

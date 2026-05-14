@@ -1,0 +1,21 @@
+id: exam-room
+title: Exam Room
+url: https://leetcode.com/problems/exam-room
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  apple:
+    frequency: 37
+  google:
+    frequency: 25
+  quora:
+    frequency: 87
+  samsung:
+    frequency: 50
+  uber:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

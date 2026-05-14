@@ -1,0 +1,13 @@
+id: split-array-with-equal-sum
+title: Split Array with Equal Sum
+url: https://leetcode.com/problems/split-array-with-equal-sum
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  alibaba:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

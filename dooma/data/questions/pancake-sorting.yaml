@@ -1,0 +1,19 @@
+id: pancake-sorting
+title: Pancake Sorting
+url: https://leetcode.com/problems/pancake-sorting
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  darwinbox:
+    frequency: 62
+  microsoft:
+    frequency: 12
+  oracle:
+    frequency: 25
+  square:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

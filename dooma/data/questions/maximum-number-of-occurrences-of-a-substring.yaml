@@ -1,0 +1,25 @@
+id: maximum-number-of-occurrences-of-a-substring
+title: Maximum Number of Occurrences of a Substring
+url: https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  hubspot:
+    frequency: 75
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  roblox:
+    frequency: 75
+  salesforce:
+    frequency: 75
+  yahoo:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

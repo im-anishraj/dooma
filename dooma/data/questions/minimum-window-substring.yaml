@@ -1,0 +1,79 @@
+id: minimum-window-substring
+title: Minimum Window Substring
+url: https://leetcode.com/problems/minimum-window-substring
+difficulty: hard
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 62
+  airbnb:
+    frequency: 75
+  amazon:
+    frequency: 62
+  apolloio:
+    frequency: 87
+  apple:
+    frequency: 25
+  applovin:
+    frequency: 100
+  bloomberg:
+    frequency: 37
+  cisco:
+    frequency: 37
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 37
+  harness:
+    frequency: 87
+  ibm:
+    frequency: 62
+  infosys:
+    frequency: 50
+  linkedin:
+    frequency: 62
+  lyft:
+    frequency: 87
+  makemytrip:
+    frequency: 62
+  meesho:
+    frequency: 50
+  meta:
+    frequency: 75
+  microsoft:
+    frequency: 50
+  oracle:
+    frequency: 37
+  qualtrics:
+    frequency: 62
+  salesforce:
+    frequency: 50
+  snapchat:
+    frequency: 87
+  snowflake:
+    frequency: 87
+  sofi:
+    frequency: 87
+  swiggy:
+    frequency: 50
+  thoughtspot:
+    frequency: 87
+  tiktok:
+    frequency: 75
+  uber:
+    frequency: 62
+  walmart-labs:
+    frequency: 62
+  yandex:
+    frequency: 50
+  zeta:
+    frequency: 75
+  zoho:
+    frequency: 37
+  zopsmart:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

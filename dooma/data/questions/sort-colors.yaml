@@ -1,0 +1,79 @@
+id: sort-colors
+title: Sort Colors
+url: https://leetcode.com/problems/sort-colors
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  agoda:
+    frequency: 50
+  amazon:
+    frequency: 62
+  apple:
+    frequency: 37
+  autodesk:
+    frequency: 50
+  bloomberg:
+    frequency: 62
+  capgemini:
+    frequency: 50
+  cisco:
+    frequency: 37
+  ebay:
+    frequency: 62
+  flipkart:
+    frequency: 62
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 50
+  info-edge:
+    frequency: 62
+  makemytrip:
+    frequency: 62
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 62
+  morgan-stanley:
+    frequency: 62
+  nagarro:
+    frequency: 62
+  nvidia:
+    frequency: 62
+  oracle:
+    frequency: 50
+  paypal:
+    frequency: 50
+  phonepe:
+    frequency: 50
+  pocket-gems:
+    frequency: 100
+  salesforce:
+    frequency: 37
+  samsung:
+    frequency: 62
+  slice:
+    frequency: 100
+  swiggy:
+    frequency: 75
+  target:
+    frequency: 100
+  tcs:
+    frequency: 62
+  tiktok:
+    frequency: 62
+  visa:
+    frequency: 50
+  walmart-labs:
+    frequency: 62
+  workday:
+    frequency: 75
+  zoho:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

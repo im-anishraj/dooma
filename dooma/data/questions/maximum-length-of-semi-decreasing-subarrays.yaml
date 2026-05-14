@@ -1,0 +1,13 @@
+id: maximum-length-of-semi-decreasing-subarrays
+title: Maximum Length of Semi-Decreasing Subarrays
+url: https://leetcode.com/problems/maximum-length-of-semi-decreasing-subarrays
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

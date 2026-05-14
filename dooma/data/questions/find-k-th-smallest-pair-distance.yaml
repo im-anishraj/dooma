@@ -1,0 +1,19 @@
+id: find-k-th-smallest-pair-distance
+title: Find K-th Smallest Pair Distance
+url: https://leetcode.com/problems/find-k-th-smallest-pair-distance
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 25
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,19 @@
+id: design-circular-deque
+title: Design Circular Deque
+url: https://leetcode.com/problems/design-circular-deque
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  goldman-sachs:
+    frequency: 37
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

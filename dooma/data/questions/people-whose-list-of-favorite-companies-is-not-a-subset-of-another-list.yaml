@@ -1,0 +1,15 @@
+id: people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list
+title: People Whose List of Favorite Companies Is Not a Subset of Another List
+url: https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  datadog:
+    frequency: 75
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -4,13 +4,13 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "dooma"
-version = "1.0.0"
-description = "A blazing-fast, interactive terminal explorer for 17,000+ company-wise DSA interview questions."
+version = "2.0.6"
+description = "Offline-first terminal DSA interview prep CLI with 3,310 questions, 17,931 company mappings, fast search, mock interviews, sheets, and local progress."
 readme = "README.md"
 requires-python = ">=3.9"
 license = { text = "MIT" }
 authors = [
-    { name = "dooma-dev" }
+    { name = "Anish Raj" }
 ]
 keywords = ["dsa", "interview", "leetcode", "terminal", "cli", "algorithms"]
 classifiers = [
@@ -32,7 +32,9 @@ classifiers = [
 dependencies = [
     "typer>=0.9.0",
     "rich>=13.0.0",
-    "pydantic>=2.0.0",
+    "rapidfuzz>=3.0.0",
+    "pyyaml>=6.0",
+    "click>=8.0.0",
 ]
 
 [project.urls]
@@ -45,6 +47,7 @@ dev = [
     "black>=23.0.0",
     "ruff>=0.1.0",
     "mypy>=1.0.0",
+    "pytest>=7.0.0",
 ]
 
 [project.scripts]
@@ -54,7 +57,17 @@ dooma = "dooma.cli.main:app"
 include = ["dooma*"]
 
 [tool.setuptools.package-data]
-dooma = ["dataset/*.json"]
+dooma = [
+    "dataset/*.json",
+    "data/index.json",
+    "data/companies/*.yaml",
+    "data/patterns/*.yaml",
+    "data/questions/*.yaml",
+    "data/sheets/*.yaml",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
 
 [tool.black]
 line-length = 88

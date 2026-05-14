@@ -1,0 +1,15 @@
+id: minimum-time-to-complete-all-tasks
+title: Minimum Time to Complete All Tasks
+url: https://leetcode.com/problems/minimum-time-to-complete-all-tasks
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  snapchat:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

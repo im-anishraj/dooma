@@ -1,0 +1,13 @@
+id: count-elements-with-strictly-smaller-and-greater-elements
+title: Count Elements With Strictly Smaller and Greater Elements
+url: https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

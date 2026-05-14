@@ -1,0 +1,21 @@
+id: count-largest-group
+title: Count Largest Group
+url: https://leetcode.com/problems/count-largest-group
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  mercari:
+    frequency: 100
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

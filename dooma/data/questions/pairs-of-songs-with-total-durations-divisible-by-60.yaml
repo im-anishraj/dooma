@@ -1,0 +1,35 @@
+id: pairs-of-songs-with-total-durations-divisible-by-60
+title: Pairs of Songs With Total Durations Divisible by 60
+url: https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  apple:
+    frequency: 25
+  atlassian:
+    frequency: 37
+  citadel:
+    frequency: 50
+  citrix:
+    frequency: 62
+  goldman-sachs:
+    frequency: 50
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  oracle:
+    frequency: 62
+  paypal:
+    frequency: 62
+  tiktok:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

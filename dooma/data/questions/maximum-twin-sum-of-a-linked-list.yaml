@@ -1,0 +1,23 @@
+id: maximum-twin-sum-of-a-linked-list
+title: Maximum Twin Sum of a Linked List
+url: https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  josh-technology:
+    frequency: 87
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

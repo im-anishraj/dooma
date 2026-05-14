@@ -1,0 +1,27 @@
+id: recyclable-and-low-fat-products
+title: Recyclable and Low Fat Products
+url: https://leetcode.com/problems/recyclable-and-low-fat-products
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 62
+  bloomberg:
+    frequency: 62
+  google:
+    frequency: 75
+  meta:
+    frequency: 62
+  microsoft:
+    frequency: 62
+  tcs:
+    frequency: 37
+  uber:
+    frequency: 25
+  yahoo:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

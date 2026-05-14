@@ -1,0 +1,25 @@
+id: duplicate-emails
+title: Duplicate Emails
+url: https://leetcode.com/problems/duplicate-emails
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  epam-systems:
+    frequency: 50
+  google:
+    frequency: 25
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 25
+  tcs:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

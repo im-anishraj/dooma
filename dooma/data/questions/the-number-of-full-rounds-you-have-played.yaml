@@ -1,0 +1,13 @@
+id: the-number-of-full-rounds-you-have-played
+title: The Number of Full Rounds You Have Played
+url: https://leetcode.com/problems/the-number-of-full-rounds-you-have-played
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

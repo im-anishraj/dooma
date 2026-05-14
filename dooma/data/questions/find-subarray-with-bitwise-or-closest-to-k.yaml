@@ -1,0 +1,13 @@
+id: find-subarray-with-bitwise-or-closest-to-k
+title: Find Subarray With Bitwise OR Closest to K
+url: https://leetcode.com/problems/find-subarray-with-bitwise-or-closest-to-k
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  salesforce:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

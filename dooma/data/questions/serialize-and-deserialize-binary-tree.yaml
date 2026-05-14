@@ -1,0 +1,65 @@
+id: serialize-and-deserialize-binary-tree
+title: Serialize and Deserialize Binary Tree
+url: https://leetcode.com/problems/serialize-and-deserialize-binary-tree
+difficulty: hard
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 62
+  apple:
+    frequency: 50
+  atlassian:
+    frequency: 37
+  bloomberg:
+    frequency: 50
+  citadel:
+    frequency: 62
+  doordash:
+    frequency: 50
+  flipkart:
+    frequency: 37
+  general-motors:
+    frequency: 50
+  google:
+    frequency: 37
+  hive:
+    frequency: 87
+  linkedin:
+    frequency: 62
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 62
+  nutanix:
+    frequency: 50
+  nvidia:
+    frequency: 62
+  oracle:
+    frequency: 25
+  paypal:
+    frequency: 37
+  qualcomm:
+    frequency: 50
+  quora:
+    frequency: 50
+  sprinklr:
+    frequency: 50
+  tcs:
+    frequency: 37
+  tesla:
+    frequency: 50
+  tiktok:
+    frequency: 62
+  uber:
+    frequency: 62
+  workday:
+    frequency: 87
+  yahoo:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

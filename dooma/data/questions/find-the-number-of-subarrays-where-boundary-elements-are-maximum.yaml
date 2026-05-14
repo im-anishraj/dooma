@@ -1,0 +1,15 @@
+id: find-the-number-of-subarrays-where-boundary-elements-are-maximum
+title: Find the Number of Subarrays Where Boundary Elements Are Maximum
+url: https://leetcode.com/problems/find-the-number-of-subarrays-where-boundary-elements-are-maximum
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  linkedin:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

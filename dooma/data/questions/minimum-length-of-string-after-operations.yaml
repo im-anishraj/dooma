@@ -1,0 +1,17 @@
+id: minimum-length-of-string-after-operations
+title: Minimum Length of String After Operations
+url: https://leetcode.com/problems/minimum-length-of-string-after-operations
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  ibm:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

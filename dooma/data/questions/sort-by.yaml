@@ -1,0 +1,17 @@
+id: sort-by
+title: Sort By
+url: https://leetcode.com/problems/sort-by
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

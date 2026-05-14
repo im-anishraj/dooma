@@ -1,0 +1,13 @@
+id: make-string-a-subsequence-using-cyclic-increments
+title: Make String a Subsequence Using Cyclic Increments
+url: https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

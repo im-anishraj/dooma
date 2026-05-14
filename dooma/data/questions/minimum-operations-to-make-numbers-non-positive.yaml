@@ -1,0 +1,15 @@
+id: minimum-operations-to-make-numbers-non-positive
+title: Minimum Operations to Make Numbers Non-positive
+url: https://leetcode.com/problems/minimum-operations-to-make-numbers-non-positive
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  citadel:
+    frequency: 87
+  snowflake:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

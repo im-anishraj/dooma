@@ -1,0 +1,13 @@
+id: make-the-prefix-sum-non-negative
+title: Make the Prefix Sum Non-negative
+url: https://leetcode.com/problems/make-the-prefix-sum-non-negative
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

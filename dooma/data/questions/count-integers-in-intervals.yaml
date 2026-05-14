@@ -1,0 +1,19 @@
+id: count-integers-in-intervals
+title: Count Integers in Intervals
+url: https://leetcode.com/problems/count-integers-in-intervals
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  databricks:
+    frequency: 37
+  google:
+    frequency: 12
+  linkedin:
+    frequency: 62
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

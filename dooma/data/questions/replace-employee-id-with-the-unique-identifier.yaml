@@ -1,0 +1,31 @@
+id: replace-employee-id-with-the-unique-identifier
+title: Replace Employee ID With The Unique Identifier
+url: https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 37
+  cognizant:
+    frequency: 50
+  google:
+    frequency: 37
+  infosys:
+    frequency: 37
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 37
+  point72:
+    frequency: 100
+  tcs:
+    frequency: 25
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

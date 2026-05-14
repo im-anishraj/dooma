@@ -1,0 +1,27 @@
+id: consecutive-numbers
+title: Consecutive Numbers
+url: https://leetcode.com/problems/consecutive-numbers
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 37
+  delhivery:
+    frequency: 100
+  google:
+    frequency: 37
+  meesho:
+    frequency: 75
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  turing:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: swap-adjacent-in-lr-string
+title: Swap Adjacent in LR String
+url: https://leetcode.com/problems/swap-adjacent-in-lr-string
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 37
+  lg-electronics:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: partition-array-into-k-distinct-groups
+title: Partition Array Into K-Distinct Groups
+url: https://leetcode.com/problems/partition-array-into-k-distinct-groups
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

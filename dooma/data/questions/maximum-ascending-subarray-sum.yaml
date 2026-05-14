@@ -1,0 +1,19 @@
+id: maximum-ascending-subarray-sum
+title: Maximum Ascending Subarray Sum
+url: https://leetcode.com/problems/maximum-ascending-subarray-sum
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  tcs:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

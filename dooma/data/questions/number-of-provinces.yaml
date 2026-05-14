@@ -1,0 +1,31 @@
+id: number-of-provinces
+title: Number of Provinces
+url: https://leetcode.com/problems/number-of-provinces
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 50
+  amazon:
+    frequency: 50
+  bloomberg:
+    frequency: 50
+  google:
+    frequency: 37
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 37
+  pinterest:
+    frequency: 37
+  tcs:
+    frequency: 25
+  two-sigma:
+    frequency: 100
+  uber:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

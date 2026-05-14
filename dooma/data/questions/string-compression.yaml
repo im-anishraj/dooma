@@ -1,0 +1,97 @@
+id: string-compression
+title: String Compression
+url: https://leetcode.com/problems/string-compression
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  affirm:
+    frequency: 62
+  amazon:
+    frequency: 50
+  anduril:
+    frequency: 50
+  apple:
+    frequency: 62
+  bloomberg:
+    frequency: 50
+  cognizant:
+    frequency: 50
+  crowdstrike:
+    frequency: 100
+  epam-systems:
+    frequency: 62
+  expedia:
+    frequency: 100
+  godaddy:
+    frequency: 100
+  goldman-sachs:
+    frequency: 62
+  google:
+    frequency: 37
+  ibm:
+    frequency: 62
+  intuit:
+    frequency: 37
+  lg-electronics:
+    frequency: 100
+  lyft:
+    frequency: 75
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 50
+  mongodb:
+    frequency: 62
+  nvidia:
+    frequency: 50
+  olx:
+    frequency: 100
+  oracle:
+    frequency: 50
+  palantir-technologies:
+    frequency: 50
+  palo-alto-networks:
+    frequency: 87
+  paytm:
+    frequency: 62
+  pinterest:
+    frequency: 50
+  qualtrics:
+    frequency: 62
+  rakuten:
+    frequency: 87
+  ripple:
+    frequency: 100
+  rivian:
+    frequency: 87
+  salesforce:
+    frequency: 87
+  servicenow:
+    frequency: 75
+  snapchat:
+    frequency: 87
+  the-trade-desk:
+    frequency: 62
+  tiktok:
+    frequency: 37
+  tinkoff:
+    frequency: 62
+  uber:
+    frequency: 25
+  yahoo:
+    frequency: 50
+  yandex:
+    frequency: 87
+  yelp:
+    frequency: 100
+  zoho:
+    frequency: 50
+  zoox:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

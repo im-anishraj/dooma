@@ -1,0 +1,19 @@
+id: final-array-state-after-k-multiplication-operations-i
+title: Final Array State After K Multiplication Operations I
+url: https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

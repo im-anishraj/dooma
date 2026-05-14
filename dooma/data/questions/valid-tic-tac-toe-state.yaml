@@ -1,0 +1,17 @@
+id: valid-tic-tac-toe-state
+title: Valid Tic-Tac-Toe State
+url: https://leetcode.com/problems/valid-tic-tac-toe-state
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  microsoft:
+    frequency: 37
+  tiktok:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: count-bowl-subarrays
+title: Count Bowl Subarrays
+url: https://leetcode.com/problems/count-bowl-subarrays
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

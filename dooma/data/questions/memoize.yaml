@@ -1,0 +1,19 @@
+id: memoize
+title: Memoize
+url: https://leetcode.com/problems/memoize
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  hubspot:
+    frequency: 50
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: count-islands-with-total-value-divisible-by-k
+title: Count Islands With Total Value Divisible by K
+url: https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  intuit:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,19 @@
+id: construct-the-lexicographically-largest-valid-sequence
+title: Construct the Lexicographically Largest Valid Sequence
+url: https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

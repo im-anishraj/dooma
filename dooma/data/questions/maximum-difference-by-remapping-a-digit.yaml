@@ -1,0 +1,17 @@
+id: maximum-difference-by-remapping-a-digit
+title: Maximum Difference by Remapping a Digit
+url: https://leetcode.com/problems/maximum-difference-by-remapping-a-digit
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

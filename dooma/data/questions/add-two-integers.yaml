@@ -1,0 +1,31 @@
+id: add-two-integers
+title: Add Two Integers
+url: https://leetcode.com/problems/add-two-integers
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  adobe:
+    frequency: 37
+  akamai:
+    frequency: 75
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 37
+  google:
+    frequency: 62
+  jane-street:
+    frequency: 62
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 50
+  tiktok:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,85 @@
+id: rotate-image
+title: Rotate Image
+url: https://leetcode.com/problems/rotate-image
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 50
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 62
+  amd:
+    frequency: 75
+  apple:
+    frequency: 75
+  at-t:
+    frequency: 75
+  bloomberg:
+    frequency: 62
+  capital-one:
+    frequency: 75
+  cisco:
+    frequency: 87
+  flipkart:
+    frequency: 50
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 50
+  ibm:
+    frequency: 75
+  infosys:
+    frequency: 62
+  intel:
+    frequency: 62
+  jpmorgan:
+    frequency: 87
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 62
+  nutanix:
+    frequency: 75
+  nvidia:
+    frequency: 50
+  oracle:
+    frequency: 37
+  paypal:
+    frequency: 50
+  qualcomm:
+    frequency: 75
+  rakuten:
+    frequency: 87
+  roblox:
+    frequency: 75
+  samsung:
+    frequency: 50
+  sig:
+    frequency: 87
+  tcs:
+    frequency: 25
+  tesla:
+    frequency: 50
+  tinkoff:
+    frequency: 87
+  uber:
+    frequency: 50
+  visa:
+    frequency: 50
+  walmart-labs:
+    frequency: 50
+  watchguard:
+    frequency: 100
+  yahoo:
+    frequency: 50
+  zillow:
+    frequency: 100
+  zoho:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

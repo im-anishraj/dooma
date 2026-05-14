@@ -1,0 +1,19 @@
+id: minimum-operations-to-make-array-sum-divisible-by-k
+title: Minimum Operations to Make Array Sum Divisible by K
+url: https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

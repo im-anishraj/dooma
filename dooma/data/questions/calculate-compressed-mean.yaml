@@ -1,0 +1,13 @@
+id: calculate-compressed-mean
+title: Calculate Compressed Mean
+url: https://leetcode.com/problems/calculate-compressed-mean
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

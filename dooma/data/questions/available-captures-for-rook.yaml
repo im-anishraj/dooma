@@ -1,0 +1,15 @@
+id: available-captures-for-rook
+title: Available Captures for Rook
+url: https://leetcode.com/problems/available-captures-for-rook
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  square:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

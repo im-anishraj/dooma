@@ -1,0 +1,17 @@
+id: count-items-matching-a-rule
+title: Count Items Matching a Rule
+url: https://leetcode.com/problems/count-items-matching-a-rule
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

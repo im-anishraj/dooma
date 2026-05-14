@@ -1,0 +1,37 @@
+id: shortest-distance-from-all-buildings
+title: Shortest Distance from All Buildings
+url: https://leetcode.com/problems/shortest-distance-from-all-buildings
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  apple:
+    frequency: 25
+  applied-intuition:
+    frequency: 100
+  bloomberg:
+    frequency: 12
+  bytedance:
+    frequency: 50
+  doordash:
+    frequency: 75
+  google:
+    frequency: 25
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 25
+  tiktok:
+    frequency: 37
+  waymo:
+    frequency: 75
+  wix:
+    frequency: 50
+  zenefits:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

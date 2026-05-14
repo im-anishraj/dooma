@@ -1,0 +1,19 @@
+id: largest-3-same-digit-number-in-string
+title: Largest 3-Same-Digit Number in String
+url: https://leetcode.com/problems/largest-3-same-digit-number-in-string
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 12
+  opentext:
+    frequency: 100
+  paypay:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,17 @@
+id: buddy-strings
+title: Buddy Strings
+url: https://leetcode.com/problems/buddy-strings
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  doordash:
+    frequency: 62
+  google:
+    frequency: 25
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

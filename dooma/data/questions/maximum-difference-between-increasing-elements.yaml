@@ -1,0 +1,23 @@
+id: maximum-difference-between-increasing-elements
+title: Maximum Difference Between Increasing Elements
+url: https://leetcode.com/problems/maximum-difference-between-increasing-elements
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  cisco:
+    frequency: 62
+  google:
+    frequency: 12
+  mathworks:
+    frequency: 50
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

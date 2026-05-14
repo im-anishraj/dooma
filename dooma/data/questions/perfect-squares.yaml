@@ -1,0 +1,35 @@
+id: perfect-squares
+title: Perfect Squares
+url: https://leetcode.com/problems/perfect-squares
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 50
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 37
+  citadel:
+    frequency: 50
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 37
+  microsoft:
+    frequency: 37
+  revolut:
+    frequency: 87
+  walmart-labs:
+    frequency: 37
+  yandex:
+    frequency: 50
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

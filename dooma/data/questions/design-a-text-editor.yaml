@@ -1,0 +1,37 @@
+id: design-a-text-editor
+title: Design a Text Editor
+url: https://leetcode.com/problems/design-a-text-editor
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  dropbox:
+    frequency: 100
+  google:
+    frequency: 25
+  jane-street:
+    frequency: 62
+  liberty-mutual:
+    frequency: 100
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  oracle:
+    frequency: 25
+  rubrik:
+    frequency: 37
+  salesforce:
+    frequency: 50
+  shopify:
+    frequency: 62
+  snapchat:
+    frequency: 50
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

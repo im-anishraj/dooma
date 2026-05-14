@@ -1,0 +1,15 @@
+id: count-number-of-balanced-permutations
+title: Count Number of Balanced Permutations
+url: https://leetcode.com/problems/count-number-of-balanced-permutations
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

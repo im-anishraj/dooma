@@ -1,0 +1,15 @@
+id: make-array-zero-by-subtracting-equal-amounts
+title: Make Array Zero by Subtracting Equal Amounts
+url: https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 50
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

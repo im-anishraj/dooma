@@ -1,0 +1,13 @@
+id: find-the-occurrence-of-first-almost-equal-substring
+title: Find the Occurrence of First Almost Equal Substring
+url: https://leetcode.com/problems/find-the-occurrence-of-first-almost-equal-substring
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

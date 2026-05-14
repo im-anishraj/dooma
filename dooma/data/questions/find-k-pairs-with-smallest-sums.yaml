@@ -1,0 +1,31 @@
+id: find-k-pairs-with-smallest-sums
+title: Find K Pairs with Smallest Sums
+url: https://leetcode.com/problems/find-k-pairs-with-smallest-sums
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 12
+  flipkart:
+    frequency: 37
+  google:
+    frequency: 37
+  linkedin:
+    frequency: 50
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  oracle:
+    frequency: 37
+  uber:
+    frequency: 50
+  walmart-labs:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

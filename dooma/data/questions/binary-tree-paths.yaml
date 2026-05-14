@@ -1,0 +1,27 @@
+id: binary-tree-paths
+title: Binary Tree Paths
+url: https://leetcode.com/problems/binary-tree-paths
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  apple:
+    frequency: 50
+  bloomberg:
+    frequency: 25
+  capital-one:
+    frequency: 62
+  google:
+    frequency: 37
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 12
+  revolut:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

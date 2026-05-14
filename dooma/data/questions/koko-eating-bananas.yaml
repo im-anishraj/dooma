@@ -1,0 +1,93 @@
+id: koko-eating-bananas
+title: Koko Eating Bananas
+url: https://leetcode.com/problems/koko-eating-bananas
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 62
+  adobe:
+    frequency: 50
+  amazon:
+    frequency: 75
+  apple:
+    frequency: 25
+  atlassian:
+    frequency: 50
+  autodesk:
+    frequency: 50
+  bloomberg:
+    frequency: 62
+  citadel:
+    frequency: 50
+  de-shaw:
+    frequency: 50
+  doordash:
+    frequency: 75
+  flipkart:
+    frequency: 75
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 62
+  hashedin:
+    frequency: 62
+  infosys:
+    frequency: 37
+  josh-technology:
+    frequency: 62
+  linkedin:
+    frequency: 25
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 62
+  netflix:
+    frequency: 62
+  nykaa:
+    frequency: 87
+  okta:
+    frequency: 62
+  oracle:
+    frequency: 50
+  oyo:
+    frequency: 100
+  palo-alto-networks:
+    frequency: 50
+  paypal:
+    frequency: 50
+  phonepe:
+    frequency: 62
+  quantiphi:
+    frequency: 100
+  quince:
+    frequency: 62
+  ripple:
+    frequency: 75
+  salesforce:
+    frequency: 37
+  snapchat:
+    frequency: 37
+  swiggy:
+    frequency: 50
+  tcs:
+    frequency: 37
+  tiktok:
+    frequency: 50
+  trexquant:
+    frequency: 87
+  turing:
+    frequency: 75
+  uber:
+    frequency: 50
+  vmware:
+    frequency: 62
+  walmart-labs:
+    frequency: 50
+  zepto:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

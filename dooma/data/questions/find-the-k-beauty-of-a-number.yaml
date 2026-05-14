@@ -1,0 +1,17 @@
+id: find-the-k-beauty-of-a-number
+title: Find the K-Beauty of a Number
+url: https://leetcode.com/problems/find-the-k-beauty-of-a-number
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  postmates:
+    frequency: 100
+  quora:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

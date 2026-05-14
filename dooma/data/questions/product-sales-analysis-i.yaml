@@ -1,0 +1,27 @@
+id: product-sales-analysis-i
+title: Product Sales Analysis I
+url: https://leetcode.com/problems/product-sales-analysis-i
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 12
+  cognizant:
+    frequency: 62
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 37
+  ripple:
+    frequency: 75
+  tcs:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

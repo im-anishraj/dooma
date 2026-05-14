@@ -1,0 +1,61 @@
+id: integer-to-english-words
+title: Integer to English Words
+url: https://leetcode.com/problems/integer-to-english-words
+difficulty: hard
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 50
+  attentive:
+    frequency: 62
+  bloomberg:
+    frequency: 12
+  cisco:
+    frequency: 37
+  delhivery:
+    frequency: 100
+  ebay:
+    frequency: 50
+  faire:
+    frequency: 87
+  fractal-analytics:
+    frequency: 75
+  goldman-sachs:
+    frequency: 37
+  google:
+    frequency: 37
+  gusto:
+    frequency: 100
+  hopper:
+    frequency: 87
+  linkedin:
+    frequency: 25
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 62
+  nordstrom:
+    frequency: 87
+  nvidia:
+    frequency: 37
+  oracle:
+    frequency: 37
+  palantir-technologies:
+    frequency: 62
+  roblox:
+    frequency: 75
+  snowflake:
+    frequency: 50
+  tcs:
+    frequency: 37
+  warnermedia:
+    frequency: 87
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

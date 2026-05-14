@@ -1,0 +1,19 @@
+id: number-of-submatrices-that-sum-to-target
+title: Number of Submatrices That Sum to Target
+url: https://leetcode.com/problems/number-of-submatrices-that-sum-to-target
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  snapchat:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

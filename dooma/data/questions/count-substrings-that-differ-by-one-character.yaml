@@ -1,0 +1,13 @@
+id: count-substrings-that-differ-by-one-character
+title: Count Substrings That Differ by One Character
+url: https://leetcode.com/problems/count-substrings-that-differ-by-one-character
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

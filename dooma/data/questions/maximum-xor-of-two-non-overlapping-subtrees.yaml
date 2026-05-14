@@ -1,0 +1,15 @@
+id: maximum-xor-of-two-non-overlapping-subtrees
+title: Maximum XOR of Two Non-Overlapping Subtrees
+url: https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  directi:
+    frequency: 100
+  medianet:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

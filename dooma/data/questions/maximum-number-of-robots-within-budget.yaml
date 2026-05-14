@@ -1,0 +1,15 @@
+id: maximum-number-of-robots-within-budget
+title: Maximum Number of Robots Within Budget
+url: https://leetcode.com/problems/maximum-number-of-robots-within-budget
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  inmobi:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

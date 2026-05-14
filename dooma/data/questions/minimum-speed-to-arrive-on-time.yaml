@@ -1,0 +1,17 @@
+id: minimum-speed-to-arrive-on-time
+title: Minimum Speed to Arrive on Time
+url: https://leetcode.com/problems/minimum-speed-to-arrive-on-time
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  apple:
+    frequency: 25
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

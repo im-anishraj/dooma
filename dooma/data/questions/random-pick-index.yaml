@@ -1,0 +1,17 @@
+id: random-pick-index
+title: Random Pick Index
+url: https://leetcode.com/problems/random-pick-index
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  meta:
+    frequency: 62
+  tiktok:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

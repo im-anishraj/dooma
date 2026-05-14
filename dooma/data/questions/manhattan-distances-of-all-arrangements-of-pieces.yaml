@@ -1,0 +1,17 @@
+id: manhattan-distances-of-all-arrangements-of-pieces
+title: Manhattan Distances of All Arrangements of Pieces
+url: https://leetcode.com/problems/manhattan-distances-of-all-arrangements-of-pieces
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  rubrik:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

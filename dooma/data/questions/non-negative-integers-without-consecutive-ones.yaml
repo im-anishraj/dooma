@@ -1,0 +1,21 @@
+id: non-negative-integers-without-consecutive-ones
+title: Non-negative Integers without Consecutive Ones
+url: https://leetcode.com/problems/non-negative-integers-without-consecutive-ones
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  pocket-gems:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,17 @@
+id: check-if-the-rectangle-corner-is-reachable
+title: Check if the Rectangle Corner Is Reachable
+url: https://leetcode.com/problems/check-if-the-rectangle-corner-is-reachable
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

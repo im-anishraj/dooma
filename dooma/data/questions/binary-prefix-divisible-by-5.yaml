@@ -1,0 +1,17 @@
+id: binary-prefix-divisible-by-5
+title: Binary Prefix Divisible By 5
+url: https://leetcode.com/problems/binary-prefix-divisible-by-5
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

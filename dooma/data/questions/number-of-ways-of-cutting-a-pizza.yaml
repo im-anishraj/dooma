@@ -1,0 +1,13 @@
+id: number-of-ways-of-cutting-a-pizza
+title: Number of Ways of Cutting a Pizza
+url: https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

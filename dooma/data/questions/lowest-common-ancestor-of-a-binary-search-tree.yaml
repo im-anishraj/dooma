@@ -1,0 +1,31 @@
+id: lowest-common-ancestor-of-a-binary-search-tree
+title: Lowest Common Ancestor of a Binary Search Tree
+url: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 50
+  capgemini:
+    frequency: 50
+  google:
+    frequency: 25
+  linkedin:
+    frequency: 62
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 50
+  twitter:
+    frequency: 100
+  yandex:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

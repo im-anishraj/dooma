@@ -1,0 +1,49 @@
+id: find-pivot-index
+title: Find Pivot Index
+url: https://leetcode.com/problems/find-pivot-index
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  adobe:
+    frequency: 37
+  agoda:
+    frequency: 62
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 25
+  attentive:
+    frequency: 62
+  bloomberg:
+    frequency: 25
+  coupang:
+    frequency: 87
+  ebay:
+    frequency: 50
+  expedia:
+    frequency: 50
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 25
+  ibm:
+    frequency: 62
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 25
+  myntra:
+    frequency: 75
+  nvidia:
+    frequency: 50
+  radius:
+    frequency: 100
+  salesforce:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

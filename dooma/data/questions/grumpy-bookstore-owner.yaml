@@ -1,0 +1,27 @@
+id: grumpy-bookstore-owner
+title: Grumpy Bookstore Owner
+url: https://leetcode.com/problems/grumpy-bookstore-owner
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  capital-one:
+    frequency: 37
+  google:
+    frequency: 12
+  ibm:
+    frequency: 37
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  nutanix:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

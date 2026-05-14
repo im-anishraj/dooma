@@ -1,0 +1,31 @@
+id: number-of-operations-to-make-network-connected
+title: Number of Operations to Make Network Connected
+url: https://leetcode.com/problems/number-of-operations-to-make-network-connected
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  akuna-capital:
+    frequency: 100
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  ibm:
+    frequency: 62
+  intuit:
+    frequency: 37
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  phonepe:
+    frequency: 62
+  salesforce:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

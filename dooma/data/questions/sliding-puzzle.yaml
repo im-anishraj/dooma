@@ -1,0 +1,25 @@
+id: sliding-puzzle
+title: Sliding Puzzle
+url: https://leetcode.com/problems/sliding-puzzle
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  airbnb:
+    frequency: 75
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  nvidia:
+    frequency: 50
+  uber:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

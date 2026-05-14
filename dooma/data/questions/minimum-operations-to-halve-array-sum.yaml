@@ -1,0 +1,15 @@
+id: minimum-operations-to-halve-array-sum
+title: Minimum Operations to Halve Array Sum
+url: https://leetcode.com/problems/minimum-operations-to-halve-array-sum
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  microsoft:
+    frequency: 25
+  oracle:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

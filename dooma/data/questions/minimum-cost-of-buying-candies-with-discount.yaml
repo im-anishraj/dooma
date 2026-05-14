@@ -1,0 +1,17 @@
+id: minimum-cost-of-buying-candies-with-discount
+title: Minimum Cost of Buying Candies With Discount
+url: https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  garmin:
+    frequency: 100
+  meta:
+    frequency: 12
+  nokia:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,3 @@
+id: heap
+name: Heap / Priority Queue
+description: Min/max heap for top-k and scheduling

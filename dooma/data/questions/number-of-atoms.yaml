@@ -1,0 +1,27 @@
+id: number-of-atoms
+title: Number of Atoms
+url: https://leetcode.com/problems/number-of-atoms
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  agoda:
+    frequency: 87
+  amazon:
+    frequency: 12
+  docusign:
+    frequency: 62
+  fastenal:
+    frequency: 100
+  flipkart:
+    frequency: 37
+  google:
+    frequency: 25
+  microsoft:
+    frequency: 12
+  tiktok:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

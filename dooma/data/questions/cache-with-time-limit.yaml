@@ -1,0 +1,25 @@
+id: cache-with-time-limit
+title: Cache With Time Limit
+url: https://leetcode.com/problems/cache-with-time-limit
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  confluent:
+    frequency: 62
+  google:
+    frequency: 12
+  netflix:
+    frequency: 100
+  oracle:
+    frequency: 25
+  thousandeyes:
+    frequency: 100
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

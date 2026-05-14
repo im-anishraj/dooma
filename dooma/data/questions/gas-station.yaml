@@ -1,0 +1,65 @@
+id: gas-station
+title: Gas Station
+url: https://leetcode.com/problems/gas-station
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accolite:
+    frequency: 62
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 62
+  apple:
+    frequency: 37
+  bitgo:
+    frequency: 87
+  bloomberg:
+    frequency: 50
+  chubb:
+    frequency: 87
+  cisco:
+    frequency: 37
+  cme-group:
+    frequency: 100
+  dream11:
+    frequency: 62
+  flipkart:
+    frequency: 75
+  freecharge:
+    frequency: 100
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 37
+  ibm:
+    frequency: 37
+  infosys:
+    frequency: 75
+  juspay:
+    frequency: 50
+  mastercard:
+    frequency: 75
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 50
+  oracle:
+    frequency: 50
+  phonepe:
+    frequency: 62
+  salesforce:
+    frequency: 50
+  servicenow:
+    frequency: 50
+  tiktok:
+    frequency: 37
+  visa:
+    frequency: 50
+  zoho:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

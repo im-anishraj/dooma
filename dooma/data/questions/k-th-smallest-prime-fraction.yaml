@@ -1,0 +1,17 @@
+id: k-th-smallest-prime-fraction
+title: K-th Smallest Prime Fraction
+url: https://leetcode.com/problems/k-th-smallest-prime-fraction
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  ponyai:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

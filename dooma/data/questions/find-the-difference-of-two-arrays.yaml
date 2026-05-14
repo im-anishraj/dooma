@@ -1,0 +1,25 @@
+id: find-the-difference-of-two-arrays
+title: Find the Difference of Two Arrays
+url: https://leetcode.com/problems/find-the-difference-of-two-arrays
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 37
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  yandex:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

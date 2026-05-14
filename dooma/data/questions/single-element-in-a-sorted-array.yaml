@@ -1,0 +1,49 @@
+id: single-element-in-a-sorted-array
+title: Single Element in a Sorted Array
+url: https://leetcode.com/problems/single-element-in-a-sorted-array
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 50
+  amazon:
+    frequency: 62
+  apple:
+    frequency: 25
+  blinkit:
+    frequency: 100
+  bloomberg:
+    frequency: 62
+  cognizant:
+    frequency: 50
+  coupang:
+    frequency: 62
+  flipkart:
+    frequency: 37
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 50
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 62
+  moloco:
+    frequency: 75
+  oracle:
+    frequency: 50
+  servicenow:
+    frequency: 50
+  snowflake:
+    frequency: 50
+  tcs:
+    frequency: 37
+  zoho:
+    frequency: 37
+  zomato:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: binary-tree-longest-consecutive-sequence-ii
+title: Binary Tree Longest Consecutive Sequence II
+url: https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

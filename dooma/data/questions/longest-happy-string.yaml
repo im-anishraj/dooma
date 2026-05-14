@@ -1,0 +1,29 @@
+id: longest-happy-string
+title: Longest Happy String
+url: https://leetcode.com/problems/longest-happy-string
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  capgemini:
+    frequency: 50
+  geico:
+    frequency: 62
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  rakuten:
+    frequency: 87
+  tiktok:
+    frequency: 62
+  wayfair:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

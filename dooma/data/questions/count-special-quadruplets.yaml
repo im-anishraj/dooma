@@ -1,0 +1,17 @@
+id: count-special-quadruplets
+title: Count Special Quadruplets
+url: https://leetcode.com/problems/count-special-quadruplets
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

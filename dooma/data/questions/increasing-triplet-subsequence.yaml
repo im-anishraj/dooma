@@ -1,0 +1,29 @@
+id: increasing-triplet-subsequence
+title: Increasing Triplet Subsequence
+url: https://leetcode.com/problems/increasing-triplet-subsequence
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 50
+  coupang:
+    frequency: 50
+  factset:
+    frequency: 62
+  google:
+    frequency: 37
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 37
+  nutanix:
+    frequency: 75
+  tiktok:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,27 @@
+id: house-robber-iv
+title: House Robber IV
+url: https://leetcode.com/problems/house-robber-iv
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  arcesium:
+    frequency: 87
+  bloomberg:
+    frequency: 25
+  cashfree:
+    frequency: 100
+  google:
+    frequency: 25
+  linkedin:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

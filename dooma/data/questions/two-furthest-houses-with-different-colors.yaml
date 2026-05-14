@@ -1,0 +1,17 @@
+id: two-furthest-houses-with-different-colors
+title: Two Furthest Houses With Different Colors
+url: https://leetcode.com/problems/two-furthest-houses-with-different-colors
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  visa:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

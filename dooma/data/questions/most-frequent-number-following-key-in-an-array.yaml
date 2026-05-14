@@ -1,0 +1,13 @@
+id: most-frequent-number-following-key-in-an-array
+title: Most Frequent Number Following Key In an Array
+url: https://leetcode.com/problems/most-frequent-number-following-key-in-an-array
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

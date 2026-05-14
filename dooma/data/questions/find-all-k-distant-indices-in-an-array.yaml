@@ -1,0 +1,19 @@
+id: find-all-k-distant-indices-in-an-array
+title: Find All K-Distant Indices in an Array
+url: https://leetcode.com/problems/find-all-k-distant-indices-in-an-array
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

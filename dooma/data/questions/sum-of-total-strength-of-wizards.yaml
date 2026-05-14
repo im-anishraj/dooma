@@ -1,0 +1,15 @@
+id: sum-of-total-strength-of-wizards
+title: Sum of Total Strength of Wizards
+url: https://leetcode.com/problems/sum-of-total-strength-of-wizards
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

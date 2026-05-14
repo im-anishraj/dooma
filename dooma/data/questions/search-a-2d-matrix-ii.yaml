@@ -1,0 +1,45 @@
+id: search-a-2d-matrix-ii
+title: Search a 2D Matrix II
+url: https://leetcode.com/problems/search-a-2d-matrix-ii
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 62
+  baidu:
+    frequency: 62
+  bloomberg:
+    frequency: 37
+  bytedance:
+    frequency: 50
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 37
+  keeptruckin:
+    frequency: 75
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 37
+  oracle:
+    frequency: 50
+  paypal:
+    frequency: 37
+  snapchat:
+    frequency: 50
+  tiktok:
+    frequency: 25
+  tripadvisor:
+    frequency: 62
+  uber:
+    frequency: 25
+  whatnot:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

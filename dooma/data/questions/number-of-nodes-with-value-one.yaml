@@ -1,0 +1,13 @@
+id: number-of-nodes-with-value-one
+title: Number of Nodes With Value One
+url: https://leetcode.com/problems/number-of-nodes-with-value-one
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  infosys:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

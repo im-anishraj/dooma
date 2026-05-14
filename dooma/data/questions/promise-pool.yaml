@@ -1,0 +1,13 @@
+id: promise-pool
+title: Promise Pool
+url: https://leetcode.com/problems/promise-pool
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

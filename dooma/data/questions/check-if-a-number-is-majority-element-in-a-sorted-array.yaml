@@ -1,0 +1,13 @@
+id: check-if-a-number-is-majority-element-in-a-sorted-array
+title: Check If a Number Is Majority Element in a Sorted Array
+url: https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  salesforce:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

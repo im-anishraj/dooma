@@ -1,0 +1,17 @@
+id: sum-of-perfect-square-ancestors
+title: Sum of Perfect Square Ancestors
+url: https://leetcode.com/problems/sum-of-perfect-square-ancestors
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  meesho:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

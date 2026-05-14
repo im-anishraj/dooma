@@ -1,0 +1,15 @@
+id: jump-game-v
+title: Jump Game V
+url: https://leetcode.com/problems/jump-game-v
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

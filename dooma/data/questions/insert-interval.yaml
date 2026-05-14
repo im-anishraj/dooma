@@ -1,0 +1,43 @@
+id: insert-interval
+title: Insert Interval
+url: https://leetcode.com/problems/insert-interval
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 50
+  blend:
+    frequency: 100
+  bloomberg:
+    frequency: 37
+  google:
+    frequency: 50
+  linkedin:
+    frequency: 50
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 37
+  mongodb:
+    frequency: 75
+  oracle:
+    frequency: 37
+  paypal:
+    frequency: 37
+  phonepe:
+    frequency: 62
+  tesco:
+    frequency: 62
+  tiktok:
+    frequency: 37
+  uber:
+    frequency: 37
+  walmart-labs:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

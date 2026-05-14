@@ -1,0 +1,15 @@
+id: rearrange-products-table
+title: Rearrange Products Table
+url: https://leetcode.com/problems/rearrange-products-table
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

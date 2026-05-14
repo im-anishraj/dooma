@@ -1,0 +1,19 @@
+id: lexicographically-smallest-string-after-substring-operation
+title: Lexicographically Smallest String After Substring Operation
+url: https://leetcode.com/problems/lexicographically-smallest-string-after-substring-operation
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  agoda:
+    frequency: 50
+  amazon:
+    frequency: 12
+  goldman-sachs:
+    frequency: 25
+  ibm:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

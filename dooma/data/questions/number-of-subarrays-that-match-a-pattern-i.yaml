@@ -1,0 +1,23 @@
+id: number-of-subarrays-that-match-a-pattern-i
+title: Number of Subarrays That Match a Pattern I
+url: https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-i
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  autodesk:
+    frequency: 100
+  capital-one:
+    frequency: 50
+  google:
+    frequency: 12
+  uber:
+    frequency: 25
+  visa:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

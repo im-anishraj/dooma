@@ -1,0 +1,23 @@
+id: design-underground-system
+title: Design Underground System
+url: https://leetcode.com/problems/design-underground-system
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  axon:
+    frequency: 100
+  bloomberg:
+    frequency: 75
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 12
+  rippling:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,29 @@
+id: frog-jump
+title: Frog Jump
+url: https://leetcode.com/problems/frog-jump
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  google:
+    frequency: 25
+  microsoft:
+    frequency: 12
+  oracle:
+    frequency: 25
+  otterai:
+    frequency: 75
+  snapchat:
+    frequency: 87
+  sprinklr:
+    frequency: 50
+  squarepoint-capital:
+    frequency: 75
+  tiktok:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,17 @@
+id: range-sum-of-sorted-subarray-sums
+title: Range Sum of Sorted Subarray Sums
+url: https://leetcode.com/problems/range-sum-of-sorted-subarray-sums
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

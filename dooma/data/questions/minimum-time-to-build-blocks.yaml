@@ -1,0 +1,13 @@
+id: minimum-time-to-build-blocks
+title: Minimum Time to Build Blocks
+url: https://leetcode.com/problems/minimum-time-to-build-blocks
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

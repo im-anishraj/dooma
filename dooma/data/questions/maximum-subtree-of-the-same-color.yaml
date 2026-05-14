@@ -1,0 +1,15 @@
+id: maximum-subtree-of-the-same-color
+title: Maximum Subtree of the Same Color
+url: https://leetcode.com/problems/maximum-subtree-of-the-same-color
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  blackrock:
+    frequency: 62
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

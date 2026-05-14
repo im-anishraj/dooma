@@ -1,0 +1,19 @@
+id: maximum-number-of-distinct-elements-after-operations
+title: Maximum Number of Distinct Elements After Operations
+url: https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

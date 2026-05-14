@@ -1,0 +1,23 @@
+id: time-needed-to-rearrange-a-binary-string
+title: Time Needed to Rearrange a Binary String
+url: https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  google:
+    frequency: 12
+  paypal:
+    frequency: 75
+  salesforce:
+    frequency: 75
+  servicenow:
+    frequency: 50
+  wayfair:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: queries-on-number-of-points-inside-a-circle
+title: Queries on Number of Points Inside a Circle
+url: https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  anduril:
+    frequency: 50
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: intersection-of-three-sorted-arrays
+title: Intersection of Three Sorted Arrays
+url: https://leetcode.com/problems/intersection-of-three-sorted-arrays
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  apple:
+    frequency: 25
+  meta:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

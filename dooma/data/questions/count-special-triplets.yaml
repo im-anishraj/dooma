@@ -1,0 +1,17 @@
+id: count-special-triplets
+title: Count Special Triplets
+url: https://leetcode.com/problems/count-special-triplets
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

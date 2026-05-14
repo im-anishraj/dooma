@@ -1,0 +1,37 @@
+id: minimum-remove-to-make-valid-parentheses
+title: Minimum Remove to Make Valid Parentheses
+url: https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 25
+  apple:
+    frequency: 37
+  bloomberg:
+    frequency: 62
+  ge-digital:
+    frequency: 62
+  google:
+    frequency: 25
+  meta:
+    frequency: 100
+  microsoft:
+    frequency: 25
+  oracle:
+    frequency: 37
+  snapchat:
+    frequency: 50
+  tencent:
+    frequency: 62
+  tiktok:
+    frequency: 50
+  walmart-labs:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

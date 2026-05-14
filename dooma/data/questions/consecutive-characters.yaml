@@ -1,0 +1,19 @@
+id: consecutive-characters
+title: Consecutive Characters
+url: https://leetcode.com/problems/consecutive-characters
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  goldman-sachs:
+    frequency: 37
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

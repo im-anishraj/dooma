@@ -1,0 +1,17 @@
+id: total-cost-to-hire-k-workers
+title: Total Cost to Hire K Workers
+url: https://leetcode.com/problems/total-cost-to-hire-k-workers
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  gsa-capital:
+    frequency: 87
+  mathworks:
+    frequency: 100
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

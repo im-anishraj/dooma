@@ -1,0 +1,73 @@
+id: happy-number
+title: Happy Number
+url: https://leetcode.com/problems/happy-number
+difficulty: easy
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 75
+  adobe:
+    frequency: 37
+  agoda:
+    frequency: 50
+  airbnb:
+    frequency: 75
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 50
+  blackrock:
+    frequency: 100
+  bloomberg:
+    frequency: 50
+  cisco:
+    frequency: 50
+  cognizant:
+    frequency: 50
+  google:
+    frequency: 50
+  intel:
+    frequency: 62
+  jpmorgan:
+    frequency: 62
+  jump-trading:
+    frequency: 100
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 50
+  nference:
+    frequency: 100
+  nike:
+    frequency: 100
+  oracle:
+    frequency: 25
+  paypal:
+    frequency: 37
+  snowflake:
+    frequency: 100
+  swiggy:
+    frequency: 75
+  tcs:
+    frequency: 50
+  tesla:
+    frequency: 50
+  tiktok:
+    frequency: 37
+  twitter:
+    frequency: 100
+  uber:
+    frequency: 50
+  verily:
+    frequency: 100
+  visa:
+    frequency: 50
+  yahoo:
+    frequency: 50
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

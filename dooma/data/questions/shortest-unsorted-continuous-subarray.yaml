@@ -1,0 +1,31 @@
+id: shortest-unsorted-continuous-subarray
+title: Shortest Unsorted Continuous Subarray
+url: https://leetcode.com/problems/shortest-unsorted-continuous-subarray
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  deloitte:
+    frequency: 50
+  ebay:
+    frequency: 50
+  google:
+    frequency: 37
+  liveramp:
+    frequency: 100
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  tiktok:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

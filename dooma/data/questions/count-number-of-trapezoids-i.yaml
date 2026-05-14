@@ -1,0 +1,17 @@
+id: count-number-of-trapezoids-i
+title: Count Number of Trapezoids I
+url: https://leetcode.com/problems/count-number-of-trapezoids-i
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 50
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

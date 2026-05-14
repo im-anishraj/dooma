@@ -1,0 +1,31 @@
+id: max-stack
+title: Max Stack
+url: https://leetcode.com/problems/max-stack
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  google:
+    frequency: 12
+  linkedin:
+    frequency: 100
+  lyft:
+    frequency: 75
+  meta:
+    frequency: 12
+  nutanix:
+    frequency: 50
+  oracle:
+    frequency: 25
+  tiktok:
+    frequency: 37
+  walmart-labs:
+    frequency: 75
+  woven-by-toyota:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

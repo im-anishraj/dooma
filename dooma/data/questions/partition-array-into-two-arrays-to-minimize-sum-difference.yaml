@@ -1,0 +1,31 @@
+id: partition-array-into-two-arrays-to-minimize-sum-difference
+title: Partition Array Into Two Arrays to Minimize Sum Difference
+url: https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  arcesium:
+    frequency: 100
+  bloomberg:
+    frequency: 37
+  google:
+    frequency: 37
+  infosys:
+    frequency: 37
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  salesforce:
+    frequency: 25
+  samsung:
+    frequency: 87
+  texas-instruments:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

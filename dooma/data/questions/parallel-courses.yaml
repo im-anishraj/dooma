@@ -1,0 +1,25 @@
+id: parallel-courses
+title: Parallel Courses
+url: https://leetcode.com/problems/parallel-courses
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  netflix:
+    frequency: 75
+  snowflake:
+    frequency: 62
+  tiktok:
+    frequency: 25
+  uber:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

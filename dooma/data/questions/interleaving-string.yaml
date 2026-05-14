@@ -1,0 +1,37 @@
+id: interleaving-string
+title: Interleaving String
+url: https://leetcode.com/problems/interleaving-string
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  apple:
+    frequency: 37
+  axon:
+    frequency: 75
+  bloomberg:
+    frequency: 37
+  ebay:
+    frequency: 62
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 37
+  nuro:
+    frequency: 62
+  thoughtspot:
+    frequency: 75
+  walmart-labs:
+    frequency: 37
+  zeta:
+    frequency: 62
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

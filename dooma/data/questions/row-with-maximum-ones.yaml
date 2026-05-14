@@ -1,0 +1,19 @@
+id: row-with-maximum-ones
+title: Row With Maximum Ones
+url: https://leetcode.com/problems/row-with-maximum-ones
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

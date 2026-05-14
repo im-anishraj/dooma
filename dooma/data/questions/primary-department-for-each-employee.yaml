@@ -1,0 +1,21 @@
+id: primary-department-for-each-employee
+title: Primary Department for Each Employee
+url: https://leetcode.com/problems/primary-department-for-each-employee
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

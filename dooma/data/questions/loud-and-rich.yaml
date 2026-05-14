@@ -1,0 +1,23 @@
+id: loud-and-rich
+title: Loud and Rich
+url: https://leetcode.com/problems/loud-and-rich
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  de-shaw:
+    frequency: 37
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  paypal:
+    frequency: 50
+  phonepe:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

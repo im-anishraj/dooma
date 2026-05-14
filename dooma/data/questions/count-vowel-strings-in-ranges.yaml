@@ -1,0 +1,29 @@
+id: count-vowel-strings-in-ranges
+title: Count Vowel Strings in Ranges
+url: https://leetcode.com/problems/count-vowel-strings-in-ranges
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  atlassian:
+    frequency: 37
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  ibm:
+    frequency: 75
+  mathworks:
+    frequency: 50
+  microsoft:
+    frequency: 25
+  paypal:
+    frequency: 75
+  twilio:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

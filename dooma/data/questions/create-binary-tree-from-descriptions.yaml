@@ -1,0 +1,21 @@
+id: create-binary-tree-from-descriptions
+title: Create Binary Tree From Descriptions
+url: https://leetcode.com/problems/create-binary-tree-from-descriptions
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  clari:
+    frequency: 100
+  google:
+    frequency: 25
+  linkedin:
+    frequency: 50
+  uber:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

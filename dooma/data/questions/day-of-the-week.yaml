@@ -1,0 +1,15 @@
+id: day-of-the-week
+title: Day of the Week
+url: https://leetcode.com/problems/day-of-the-week
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: transform-array-by-parity
+title: Transform Array by Parity
+url: https://leetcode.com/problems/transform-array-by-parity
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  infosys:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

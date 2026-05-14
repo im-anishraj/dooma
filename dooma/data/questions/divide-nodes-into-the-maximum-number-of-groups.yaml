@@ -1,0 +1,23 @@
+id: divide-nodes-into-the-maximum-number-of-groups
+title: Divide Nodes Into the Maximum Number of Groups
+url: https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  uber:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

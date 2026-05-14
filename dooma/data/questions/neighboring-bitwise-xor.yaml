@@ -1,0 +1,15 @@
+id: neighboring-bitwise-xor
+title: Neighboring Bitwise XOR
+url: https://leetcode.com/problems/neighboring-bitwise-xor
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

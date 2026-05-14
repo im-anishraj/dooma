@@ -1,0 +1,15 @@
+id: minimum-operations-to-make-the-array-alternating
+title: Minimum Operations to Make the Array Alternating
+url: https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

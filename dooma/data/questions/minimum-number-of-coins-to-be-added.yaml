@@ -1,0 +1,15 @@
+id: minimum-number-of-coins-to-be-added
+title: Minimum Number of Coins to be Added
+url: https://leetcode.com/problems/minimum-number-of-coins-to-be-added
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  flipkart:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

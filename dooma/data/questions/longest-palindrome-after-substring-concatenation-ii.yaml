@@ -1,0 +1,13 @@
+id: longest-palindrome-after-substring-concatenation-ii
+title: Longest Palindrome After Substring Concatenation II
+url: https://leetcode.com/problems/longest-palindrome-after-substring-concatenation-ii
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

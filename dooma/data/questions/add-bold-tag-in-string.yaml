@@ -1,0 +1,23 @@
+id: add-bold-tag-in-string
+title: Add Bold Tag in String
+url: https://leetcode.com/problems/add-bold-tag-in-string
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  gusto:
+    frequency: 75
+  lacework:
+    frequency: 100
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 12
+  tiktok:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

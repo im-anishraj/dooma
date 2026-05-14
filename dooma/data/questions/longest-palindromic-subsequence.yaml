@@ -1,0 +1,39 @@
+id: longest-palindromic-subsequence
+title: Longest Palindromic Subsequence
+url: https://leetcode.com/problems/longest-palindromic-subsequence
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 25
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 25
+  infosys:
+    frequency: 37
+  linkedin:
+    frequency: 50
+  maq-software:
+    frequency: 62
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 25
+  nutanix:
+    frequency: 50
+  tcs:
+    frequency: 37
+  uber:
+    frequency: 50
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

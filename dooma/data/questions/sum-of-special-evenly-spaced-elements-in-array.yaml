@@ -1,0 +1,13 @@
+id: sum-of-special-evenly-spaced-elements-in-array
+title: Sum Of Special Evenly-Spaced Elements In Array
+url: https://leetcode.com/problems/sum-of-special-evenly-spaced-elements-in-array
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  makemytrip:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

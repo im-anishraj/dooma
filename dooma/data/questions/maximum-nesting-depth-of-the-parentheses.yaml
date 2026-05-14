@@ -1,0 +1,25 @@
+id: maximum-nesting-depth-of-the-parentheses
+title: Maximum Nesting Depth of the Parentheses
+url: https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 50
+  google:
+    frequency: 12
+  intel:
+    frequency: 100
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 12
+  tcs:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

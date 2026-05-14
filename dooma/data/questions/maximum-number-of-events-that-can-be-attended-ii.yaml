@@ -1,0 +1,27 @@
+id: maximum-number-of-events-that-can-be-attended-ii
+title: Maximum Number of Events That Can Be Attended II
+url: https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  general-electric:
+    frequency: 100
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  phonepe:
+    frequency: 50
+  snowflake:
+    frequency: 50
+  tcs:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

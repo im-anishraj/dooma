@@ -1,0 +1,33 @@
+id: target-sum
+title: Target Sum
+url: https://leetcode.com/problems/target-sum
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 50
+  bloomberg:
+    frequency: 37
+  google:
+    frequency: 37
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 50
+  myntra:
+    frequency: 62
+  nuro:
+    frequency: 62
+  pinterest:
+    frequency: 62
+  salesforce:
+    frequency: 25
+  servicenow:
+    frequency: 50
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

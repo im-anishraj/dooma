@@ -1,0 +1,39 @@
+id: shortest-path-in-a-grid-with-obstacles-elimination
+title: Shortest Path in a Grid with Obstacles Elimination
+url: https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 25
+  appfolio:
+    frequency: 100
+  bloomberg:
+    frequency: 12
+  databricks:
+    frequency: 62
+  google:
+    frequency: 37
+  imc:
+    frequency: 75
+  meta:
+    frequency: 12
+  nuro:
+    frequency: 62
+  oracle:
+    frequency: 25
+  pinterest:
+    frequency: 87
+  snapchat:
+    frequency: 50
+  tiktok:
+    frequency: 62
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,23 @@
+id: flip-string-to-monotone-increasing
+title: Flip String to Monotone Increasing
+url: https://leetcode.com/problems/flip-string-to-monotone-increasing
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  expedia:
+    frequency: 62
+  google:
+    frequency: 25
+  ibm:
+    frequency: 37
+  meta:
+    frequency: 12
+  tiktok:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

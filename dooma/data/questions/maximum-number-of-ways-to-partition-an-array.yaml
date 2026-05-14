@@ -1,0 +1,15 @@
+id: maximum-number-of-ways-to-partition-an-array
+title: Maximum Number of Ways to Partition an Array
+url: https://leetcode.com/problems/maximum-number-of-ways-to-partition-an-array
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  salesforce:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

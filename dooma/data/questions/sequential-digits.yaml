@@ -1,0 +1,17 @@
+id: sequential-digits
+title: Sequential Digits
+url: https://leetcode.com/problems/sequential-digits
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  f5-networks:
+    frequency: 100
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

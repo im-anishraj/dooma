@@ -1,0 +1,31 @@
+id: sum-of-subarray-ranges
+title: Sum of Subarray Ranges
+url: https://leetcode.com/problems/sum-of-subarray-ranges
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  chubb:
+    frequency: 87
+  de-shaw:
+    frequency: 50
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  phonepe:
+    frequency: 50
+  tiktok:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

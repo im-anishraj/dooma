@@ -1,0 +1,15 @@
+id: modify-graph-edge-weights
+title: Modify Graph Edge Weights
+url: https://leetcode.com/problems/modify-graph-edge-weights
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

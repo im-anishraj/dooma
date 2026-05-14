@@ -1,0 +1,19 @@
+id: lowest-common-ancestor-of-deepest-leaves
+title: Lowest Common Ancestor of Deepest Leaves
+url: https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

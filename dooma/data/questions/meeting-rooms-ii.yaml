@@ -1,0 +1,97 @@
+id: meeting-rooms-ii
+title: Meeting Rooms II
+url: https://leetcode.com/problems/meeting-rooms-ii
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 62
+  anduril:
+    frequency: 50
+  apple:
+    frequency: 62
+  atlassian:
+    frequency: 62
+  aurora:
+    frequency: 62
+  bloomberg:
+    frequency: 62
+  capital-one:
+    frequency: 37
+  cisco:
+    frequency: 37
+  citadel:
+    frequency: 50
+  compass:
+    frequency: 87
+  docusign:
+    frequency: 62
+  ebay:
+    frequency: 50
+  freshworks:
+    frequency: 75
+  google:
+    frequency: 62
+  hubspot:
+    frequency: 62
+  ibm:
+    frequency: 50
+  jpmorgan:
+    frequency: 87
+  lime:
+    frequency: 100
+  lyft:
+    frequency: 50
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 62
+  morgan-stanley:
+    frequency: 50
+  netflix:
+    frequency: 87
+  nutanix:
+    frequency: 62
+  oracle:
+    frequency: 75
+  pinterest:
+    frequency: 37
+  salesforce:
+    frequency: 37
+  samsung:
+    frequency: 50
+  servicenow:
+    frequency: 62
+  snapchat:
+    frequency: 100
+  snowflake:
+    frequency: 37
+  sofi:
+    frequency: 62
+  splunk:
+    frequency: 100
+  tekion:
+    frequency: 62
+  tiktok:
+    frequency: 87
+  two-sigma:
+    frequency: 50
+  uber:
+    frequency: 62
+  walmart-labs:
+    frequency: 37
+  waymo:
+    frequency: 75
+  wells-fargo:
+    frequency: 62
+  whatnot:
+    frequency: 62
+  worldquant:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

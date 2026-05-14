@@ -1,0 +1,15 @@
+id: reach-end-of-array-with-max-score
+title: Reach End of Array With Max Score
+url: https://leetcode.com/problems/reach-end-of-array-with-max-score
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

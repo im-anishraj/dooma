@@ -1,0 +1,29 @@
+id: maximum-sum-of-distinct-subarrays-with-length-k
+title: Maximum Sum of Distinct Subarrays With Length K
+url: https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 37
+  google:
+    frequency: 25
+  ibm:
+    frequency: 62
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  nvidia:
+    frequency: 50
+  tcs:
+    frequency: 25
+  walmart-labs:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

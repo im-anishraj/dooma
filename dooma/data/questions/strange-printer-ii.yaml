@@ -1,0 +1,15 @@
+id: strange-printer-ii
+title: Strange Printer II
+url: https://leetcode.com/problems/strange-printer-ii
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

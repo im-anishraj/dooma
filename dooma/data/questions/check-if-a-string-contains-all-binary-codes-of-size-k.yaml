@@ -1,0 +1,19 @@
+id: check-if-a-string-contains-all-binary-codes-of-size-k
+title: Check If a String Contains All Binary Codes of Size K
+url: https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  grammarly:
+    frequency: 50
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

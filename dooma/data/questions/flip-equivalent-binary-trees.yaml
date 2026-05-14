@@ -1,0 +1,19 @@
+id: flip-equivalent-binary-trees
+title: Flip Equivalent Binary Trees
+url: https://leetcode.com/problems/flip-equivalent-binary-trees
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  anduril:
+    frequency: 50
+  google:
+    frequency: 25
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

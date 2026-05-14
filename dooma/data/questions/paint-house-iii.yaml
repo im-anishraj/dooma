@@ -1,0 +1,17 @@
+id: paint-house-iii
+title: Paint House III
+url: https://leetcode.com/problems/paint-house-iii
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  linkedin:
+    frequency: 25
+  paypal:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,21 @@
+id: add-one-row-to-tree
+title: Add One Row to Tree
+url: https://leetcode.com/problems/add-one-row-to-tree
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  gilt-groupe:
+    frequency: 100
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

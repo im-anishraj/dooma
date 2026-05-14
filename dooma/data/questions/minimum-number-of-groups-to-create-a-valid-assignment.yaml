@@ -1,0 +1,13 @@
+id: minimum-number-of-groups-to-create-a-valid-assignment
+title: Minimum Number of Groups to Create a Valid Assignment
+url: https://leetcode.com/problems/minimum-number-of-groups-to-create-a-valid-assignment
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,19 @@
+id: type-of-triangle
+title: Type of Triangle
+url: https://leetcode.com/problems/type-of-triangle
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 37
+  ibm:
+    frequency: 75
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

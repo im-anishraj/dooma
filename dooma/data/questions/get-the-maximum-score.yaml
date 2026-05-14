@@ -1,0 +1,21 @@
+id: get-the-maximum-score
+title: Get the Maximum Score
+url: https://leetcode.com/problems/get-the-maximum-score
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  intuit:
+    frequency: 37
+  microsoft:
+    frequency: 12
+  mindtickle:
+    frequency: 100
+  oracle:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

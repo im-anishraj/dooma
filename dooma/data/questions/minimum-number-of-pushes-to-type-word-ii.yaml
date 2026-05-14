@@ -1,0 +1,17 @@
+id: minimum-number-of-pushes-to-type-word-ii
+title: Minimum Number of Pushes to Type Word II
+url: https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  de-shaw:
+    frequency: 50
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

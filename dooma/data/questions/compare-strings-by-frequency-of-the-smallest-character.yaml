@@ -1,0 +1,13 @@
+id: compare-strings-by-frequency-of-the-smallest-character
+title: Compare Strings by Frequency of the Smallest Character
+url: https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

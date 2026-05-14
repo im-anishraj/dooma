@@ -1,0 +1,13 @@
+id: longest-winning-streak
+title: Longest Winning Streak
+url: https://leetcode.com/problems/longest-winning-streak
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

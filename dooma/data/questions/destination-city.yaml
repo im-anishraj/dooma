@@ -1,0 +1,19 @@
+id: destination-city
+title: Destination City
+url: https://leetcode.com/problems/destination-city
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  meta:
+    frequency: 12
+  yandex:
+    frequency: 37
+  yelp:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: count-pairs-of-connectable-servers-in-a-weighted-tree-network
+title: Count Pairs of Connectable Servers in a Weighted Tree Network
+url: https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  thoughtspot:
+    frequency: 75
+  ubs:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

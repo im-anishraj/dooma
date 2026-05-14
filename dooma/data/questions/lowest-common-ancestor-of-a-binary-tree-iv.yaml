@@ -1,0 +1,17 @@
+id: lowest-common-ancestor-of-a-binary-tree-iv
+title: Lowest Common Ancestor of a Binary Tree IV
+url: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  atlassian:
+    frequency: 62
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

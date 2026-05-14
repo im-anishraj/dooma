@@ -1,0 +1,33 @@
+id: delete-and-earn
+title: Delete and Earn
+url: https://leetcode.com/problems/delete-and-earn
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 75
+  akuna-capital:
+    frequency: 100
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  citadel:
+    frequency: 50
+  google:
+    frequency: 12
+  meesho:
+    frequency: 50
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  salesforce:
+    frequency: 62
+  tiktok:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

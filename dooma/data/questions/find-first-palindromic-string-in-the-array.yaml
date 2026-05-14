@@ -1,0 +1,13 @@
+id: find-first-palindromic-string-in-the-array
+title: Find First Palindromic String in the Array
+url: https://leetcode.com/problems/find-first-palindromic-string-in-the-array
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

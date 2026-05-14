@@ -1,0 +1,15 @@
+id: remove-duplicates-from-an-unsorted-linked-list
+title: Remove Duplicates From an Unsorted Linked List
+url: https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  microsoft:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

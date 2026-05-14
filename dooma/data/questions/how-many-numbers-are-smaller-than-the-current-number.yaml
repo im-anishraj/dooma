@@ -1,0 +1,23 @@
+id: how-many-numbers-are-smaller-than-the-current-number
+title: How Many Numbers Are Smaller Than the Current Number
+url: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  tcs:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

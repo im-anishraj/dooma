@@ -1,0 +1,61 @@
+id: simplify-path
+title: Simplify Path
+url: https://leetcode.com/problems/simplify-path
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 37
+  arista-networks:
+    frequency: 62
+  bloomberg:
+    frequency: 37
+  capital-one:
+    frequency: 75
+  citadel:
+    frequency: 50
+  gojek:
+    frequency: 100
+  google:
+    frequency: 37
+  grab:
+    frequency: 75
+  ibm:
+    frequency: 37
+  meta:
+    frequency: 87
+  microsoft:
+    frequency: 50
+  nvidia:
+    frequency: 37
+  openai:
+    frequency: 62
+  oracle:
+    frequency: 50
+  patreon:
+    frequency: 100
+  porter:
+    frequency: 100
+  servicenow:
+    frequency: 50
+  snowflake:
+    frequency: 50
+  tiktok:
+    frequency: 50
+  tinkoff:
+    frequency: 87
+  uber:
+    frequency: 25
+  upstart:
+    frequency: 75
+  visa:
+    frequency: 75
+  yandex:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

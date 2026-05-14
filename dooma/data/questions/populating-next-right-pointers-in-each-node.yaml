@@ -1,0 +1,27 @@
+id: populating-next-right-pointers-in-each-node
+title: Populating Next Right Pointers in Each Node
+url: https://leetcode.com/problems/populating-next-right-pointers-in-each-node
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 50
+  bloomberg:
+    frequency: 50
+  google:
+    frequency: 25
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 50
+  oracle:
+    frequency: 37
+  snowflake:
+    frequency: 50
+  walmart-labs:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

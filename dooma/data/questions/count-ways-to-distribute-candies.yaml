@@ -1,0 +1,13 @@
+id: count-ways-to-distribute-candies
+title: Count Ways to Distribute Candies
+url: https://leetcode.com/problems/count-ways-to-distribute-candies
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

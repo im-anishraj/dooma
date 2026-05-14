@@ -1,0 +1,27 @@
+id: repeated-substring-pattern
+title: Repeated Substring Pattern
+url: https://leetcode.com/problems/repeated-substring-pattern
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 25
+  ebay:
+    frequency: 50
+  google:
+    frequency: 37
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  myntra:
+    frequency: 75
+  tcs:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

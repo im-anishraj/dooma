@@ -1,0 +1,21 @@
+id: partition-array-for-maximum-sum
+title: Partition Array for Maximum Sum
+url: https://leetcode.com/problems/partition-array-for-maximum-sum
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

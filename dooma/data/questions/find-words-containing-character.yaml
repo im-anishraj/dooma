@@ -1,0 +1,23 @@
+id: find-words-containing-character
+title: Find Words Containing Character
+url: https://leetcode.com/problems/find-words-containing-character
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  deliveroo:
+    frequency: 100
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

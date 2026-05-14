@@ -1,0 +1,17 @@
+id: minimum-removals-to-balance-array
+title: Minimum Removals to Balance Array
+url: https://leetcode.com/problems/minimum-removals-to-balance-array
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

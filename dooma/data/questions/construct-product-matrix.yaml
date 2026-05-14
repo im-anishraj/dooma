@@ -1,0 +1,13 @@
+id: construct-product-matrix
+title: Construct Product Matrix
+url: https://leetcode.com/problems/construct-product-matrix
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

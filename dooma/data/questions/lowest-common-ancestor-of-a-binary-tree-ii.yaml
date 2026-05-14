@@ -1,0 +1,19 @@
+id: lowest-common-ancestor-of-a-binary-tree-ii
+title: Lowest Common Ancestor of a Binary Tree II
+url: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  atlassian:
+    frequency: 37
+  linkedin:
+    frequency: 50
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

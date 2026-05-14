@@ -1,0 +1,15 @@
+id: count-of-integers
+title: Count of Integers
+url: https://leetcode.com/problems/count-of-integers
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  cisco:
+    frequency: 37
+  goldman-sachs:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

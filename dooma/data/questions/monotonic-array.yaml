@@ -1,0 +1,25 @@
+id: monotonic-array
+title: Monotonic Array
+url: https://leetcode.com/problems/monotonic-array
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 25
+  capital-one:
+    frequency: 50
+  google:
+    frequency: 12
+  meta:
+    frequency: 37
+  ozon:
+    frequency: 100
+  yandex:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

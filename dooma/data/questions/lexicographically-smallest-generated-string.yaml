@@ -1,0 +1,15 @@
+id: lexicographically-smallest-generated-string
+title: Lexicographically Smallest Generated String
+url: https://leetcode.com/problems/lexicographically-smallest-generated-string
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  barclays:
+    frequency: 100
+  tiktok:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

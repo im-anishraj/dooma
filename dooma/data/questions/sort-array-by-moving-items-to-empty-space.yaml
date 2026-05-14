@@ -1,0 +1,13 @@
+id: sort-array-by-moving-items-to-empty-space
+title: Sort Array by Moving Items to Empty Space
+url: https://leetcode.com/problems/sort-array-by-moving-items-to-empty-space
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

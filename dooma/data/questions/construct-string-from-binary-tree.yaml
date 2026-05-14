@@ -1,0 +1,17 @@
+id: construct-string-from-binary-tree
+title: Construct String from Binary Tree
+url: https://leetcode.com/problems/construct-string-from-binary-tree
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  meta:
+    frequency: 12
+  tiktok:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

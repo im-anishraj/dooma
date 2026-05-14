@@ -1,0 +1,88 @@
+name: "🛠️ Engineering task"
+description: Propose scoped work for tests, CI, packaging, performance, refactors, or release safety.
+title: "Engineering: "
+labels: ["tooling", "needs triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this for implementation work that is not primarily a user-facing feature or a bug report.
+
+        Strong engineering issues are small enough to review, clear enough to test, and tied to project reliability.
+
+  - type: dropdown
+    id: task-area
+    attributes:
+      label: Task area
+      options:
+        - Tests
+        - CI
+        - Packaging or PyPI release
+        - Performance
+        - Refactor
+        - Type checking
+        - Security or privacy hardening
+        - Developer experience
+        - Other / not sure
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Why does this work matter now?
+      placeholder: |
+        This reduces release risk because...
+    validations:
+      required: true
+
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope
+      description: What should be included, and what should stay out of scope?
+      placeholder: |
+        Include:
+        - ...
+
+        Out of scope:
+        - ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: implementation
+    attributes:
+      label: Suggested implementation
+      description: Optional, but helpful for contributors.
+      placeholder: |
+        Update `.github/workflows/...`
+        Add tests in `tests/...`
+    validations:
+      required: false
+
+  - type: textarea
+    id: done
+    attributes:
+      label: Definition of done
+      description: Concrete checks for maintainers and contributors.
+      placeholder: |
+        - `ruff check .` passes.
+        - `mypy dooma` passes.
+        - `python -m pytest` passes.
+        - Docs updated if behavior changes.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: size
+    attributes:
+      label: Estimated size
+      description: This helps contributors choose the right task.
+      options:
+        - Small: focused change, good first issue candidate
+        - Medium: touches a few files or needs tests
+        - Large: needs design discussion before implementation
+    validations:
+      required: true

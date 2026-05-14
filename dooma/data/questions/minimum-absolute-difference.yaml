@@ -1,0 +1,41 @@
+id: minimum-absolute-difference
+title: Minimum Absolute Difference
+url: https://leetcode.com/problems/minimum-absolute-difference
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  agoda:
+    frequency: 100
+  amazon:
+    frequency: 12
+  audible:
+    frequency: 100
+  bloomberg:
+    frequency: 37
+  cognizant:
+    frequency: 50
+  google:
+    frequency: 25
+  ibm:
+    frequency: 75
+  jpmorgan:
+    frequency: 75
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  nvidia:
+    frequency: 50
+  oracle:
+    frequency: 62
+  paycom:
+    frequency: 100
+  paypal:
+    frequency: 87
+  salesforce:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

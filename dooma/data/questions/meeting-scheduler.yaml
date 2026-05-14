@@ -1,0 +1,27 @@
+id: meeting-scheduler
+title: Meeting Scheduler
+url: https://leetcode.com/problems/meeting-scheduler
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  citadel:
+    frequency: 75
+  datadog:
+    frequency: 87
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  paypal:
+    frequency: 75
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

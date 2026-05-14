@@ -1,0 +1,25 @@
+id: arithmetic-slices
+title: Arithmetic Slices
+url: https://leetcode.com/problems/arithmetic-slices
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  aetion:
+    frequency: 100
+  amazon:
+    frequency: 12
+  baidu:
+    frequency: 100
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  tiktok:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

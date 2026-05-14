@@ -1,0 +1,13 @@
+id: inverse-coin-change
+title: Inverse Coin Change
+url: https://leetcode.com/problems/inverse-coin-change
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

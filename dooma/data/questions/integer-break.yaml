@@ -1,0 +1,27 @@
+id: integer-break
+title: Integer Break
+url: https://leetcode.com/problems/integer-break
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 50
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  citadel:
+    frequency: 50
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  tiktok:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

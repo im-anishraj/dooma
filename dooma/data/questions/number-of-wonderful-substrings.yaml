@@ -1,0 +1,17 @@
+id: number-of-wonderful-substrings
+title: Number of Wonderful Substrings
+url: https://leetcode.com/problems/number-of-wonderful-substrings
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

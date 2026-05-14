@@ -1,0 +1,37 @@
+id: degree-of-an-array
+title: Degree of an Array
+url: https://leetcode.com/problems/degree-of-an-array
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  expedia:
+    frequency: 50
+  ge-digital:
+    frequency: 100
+  google:
+    frequency: 12
+  jpmorgan:
+    frequency: 37
+  microsoft:
+    frequency: 12
+  oracle:
+    frequency: 50
+  paypal:
+    frequency: 50
+  rivian:
+    frequency: 87
+  sofi:
+    frequency: 62
+  turing:
+    frequency: 50
+  walmart-labs:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

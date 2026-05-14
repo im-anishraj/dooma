@@ -1,0 +1,13 @@
+id: distribute-repeating-integers
+title: Distribute Repeating Integers
+url: https://leetcode.com/problems/distribute-repeating-integers
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

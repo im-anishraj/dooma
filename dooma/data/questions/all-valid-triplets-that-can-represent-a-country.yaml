@@ -1,0 +1,13 @@
+id: all-valid-triplets-that-can-represent-a-country
+title: All Valid Triplets That Can Represent a Country
+url: https://leetcode.com/problems/all-valid-triplets-that-can-represent-a-country
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

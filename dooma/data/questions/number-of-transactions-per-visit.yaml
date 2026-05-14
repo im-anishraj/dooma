@@ -1,0 +1,15 @@
+id: number-of-transactions-per-visit
+title: Number of Transactions per Visit
+url: https://leetcode.com/problems/number-of-transactions-per-visit
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  machine-zone:
+    frequency: 100
+  machinezone:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

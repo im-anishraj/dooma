@@ -1,0 +1,13 @@
+id: count-beautiful-substrings-i
+title: Count Beautiful Substrings I
+url: https://leetcode.com/problems/count-beautiful-substrings-i
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,19 @@
+id: minimize-maximum-of-array
+title: Minimize Maximum of Array
+url: https://leetcode.com/problems/minimize-maximum-of-array
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  oracle:
+    frequency: 25
+  paytm:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

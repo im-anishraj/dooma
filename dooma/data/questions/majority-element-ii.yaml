@@ -1,0 +1,33 @@
+id: majority-element-ii
+title: Majority Element II
+url: https://leetcode.com/problems/majority-element-ii
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 37
+  atlassian:
+    frequency: 50
+  bloomberg:
+    frequency: 37
+  darwinbox:
+    frequency: 50
+  google:
+    frequency: 37
+  intel:
+    frequency: 62
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 37
+  tcs:
+    frequency: 25
+  zenefits:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

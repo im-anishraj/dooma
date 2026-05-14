@@ -1,0 +1,49 @@
+id: zigzag-conversion
+title: Zigzag Conversion
+url: https://leetcode.com/problems/zigzag-conversion
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 37
+  bloomberg:
+    frequency: 50
+  google:
+    frequency: 50
+  infosys:
+    frequency: 37
+  intuit:
+    frequency: 37
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 37
+  microstrategy:
+    frequency: 87
+  mitsogo:
+    frequency: 62
+  oracle:
+    frequency: 50
+  paypal:
+    frequency: 100
+  paypay:
+    frequency: 62
+  salesforce:
+    frequency: 50
+  servicenow:
+    frequency: 62
+  tcs:
+    frequency: 25
+  walmart-labs:
+    frequency: 62
+  zoho:
+    frequency: 75
+  zopsmart:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

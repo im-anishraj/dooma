@@ -1,0 +1,87 @@
+id: house-robber
+title: House Robber
+url: https://leetcode.com/problems/house-robber
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 50
+  adobe:
+    frequency: 62
+  agoda:
+    frequency: 62
+  airbnb:
+    frequency: 75
+  amazon:
+    frequency: 62
+  apple:
+    frequency: 37
+  arcesium:
+    frequency: 62
+  bloomberg:
+    frequency: 50
+  bytedance:
+    frequency: 75
+  cars24:
+    frequency: 87
+  cisco:
+    frequency: 100
+  databricks:
+    frequency: 87
+  datadog:
+    frequency: 62
+  de-shaw:
+    frequency: 50
+  epam-systems:
+    frequency: 62
+  expedia:
+    frequency: 62
+  flipkart:
+    frequency: 37
+  goldman-sachs:
+    frequency: 37
+  google:
+    frequency: 50
+  grab:
+    frequency: 75
+  gusto:
+    frequency: 50
+  infosys:
+    frequency: 62
+  intuit:
+    frequency: 50
+  linkedin:
+    frequency: 50
+  makemytrip:
+    frequency: 62
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 62
+  nordstrom:
+    frequency: 87
+  nvidia:
+    frequency: 50
+  oracle:
+    frequency: 37
+  paypal:
+    frequency: 62
+  phonepe:
+    frequency: 75
+  tcs:
+    frequency: 37
+  tiktok:
+    frequency: 75
+  uber:
+    frequency: 50
+  walmart-labs:
+    frequency: 62
+  zeta:
+    frequency: 62
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

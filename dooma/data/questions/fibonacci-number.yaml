@@ -1,0 +1,47 @@
+id: fibonacci-number
+title: Fibonacci Number
+url: https://leetcode.com/problems/fibonacci-number
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 50
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 50
+  bloomberg:
+    frequency: 50
+  cognizant:
+    frequency: 75
+  google:
+    frequency: 50
+  htc:
+    frequency: 100
+  infosys:
+    frequency: 62
+  intel:
+    frequency: 62
+  lti:
+    frequency: 87
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 50
+  nokia:
+    frequency: 75
+  nvidia:
+    frequency: 62
+  sap:
+    frequency: 50
+  spotify:
+    frequency: 62
+  tcs:
+    frequency: 50
+  wix:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

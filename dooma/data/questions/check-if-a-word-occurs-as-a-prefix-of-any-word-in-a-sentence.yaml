@@ -1,0 +1,23 @@
+id: check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence
+title: Check If a Word Occurs As a Prefix of Any Word in a Sentence
+url: https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  tcs:
+    frequency: 25
+  yelp:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

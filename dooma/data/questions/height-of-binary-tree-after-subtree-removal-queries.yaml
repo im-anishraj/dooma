@@ -1,0 +1,17 @@
+id: height-of-binary-tree-after-subtree-removal-queries
+title: Height of Binary Tree After Subtree Removal Queries
+url: https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 37
+  meta:
+    frequency: 12
+  snowflake:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

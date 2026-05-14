@@ -1,0 +1,13 @@
+id: k-highest-ranked-items-within-a-price-range
+title: K Highest Ranked Items Within a Price Range
+url: https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  bookingcom:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

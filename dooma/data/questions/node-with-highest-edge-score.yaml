@@ -1,0 +1,13 @@
+id: node-with-highest-edge-score
+title: Node With Highest Edge Score
+url: https://leetcode.com/problems/node-with-highest-edge-score
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  juspay:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

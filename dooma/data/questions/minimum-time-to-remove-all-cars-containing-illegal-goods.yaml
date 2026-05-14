@@ -1,0 +1,13 @@
+id: minimum-time-to-remove-all-cars-containing-illegal-goods
+title: Minimum Time to Remove All Cars Containing Illegal Goods
+url: https://leetcode.com/problems/minimum-time-to-remove-all-cars-containing-illegal-goods
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

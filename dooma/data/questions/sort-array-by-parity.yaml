@@ -1,0 +1,27 @@
+id: sort-array-by-parity
+title: Sort Array By Parity
+url: https://leetcode.com/problems/sort-array-by-parity
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  couchbase:
+    frequency: 62
+  ebay:
+    frequency: 62
+  google:
+    frequency: 25
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

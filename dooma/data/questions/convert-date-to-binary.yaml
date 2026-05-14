@@ -1,0 +1,13 @@
+id: convert-date-to-binary
+title: Convert Date to Binary
+url: https://leetcode.com/problems/convert-date-to-binary
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

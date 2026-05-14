@@ -1,0 +1,19 @@
+id: maximum-number-of-k-divisible-components
+title: Maximum Number of K-Divisible Components
+url: https://leetcode.com/problems/maximum-number-of-k-divisible-components
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+  infosys:
+    frequency: 37
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

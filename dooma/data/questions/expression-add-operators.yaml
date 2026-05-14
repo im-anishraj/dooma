@@ -1,0 +1,25 @@
+id: expression-add-operators
+title: Expression Add Operators
+url: https://leetcode.com/problems/expression-add-operators
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 37
+  linkedin:
+    frequency: 25
+  meta:
+    frequency: 62
+  pinterest:
+    frequency: 87
+  tiktok:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

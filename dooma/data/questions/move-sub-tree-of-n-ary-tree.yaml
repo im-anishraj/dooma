@@ -1,0 +1,13 @@
+id: move-sub-tree-of-n-ary-tree
+title: Move Sub-Tree of N-Ary Tree
+url: https://leetcode.com/problems/move-sub-tree-of-n-ary-tree
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

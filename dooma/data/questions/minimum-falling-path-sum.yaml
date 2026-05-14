@@ -1,0 +1,27 @@
+id: minimum-falling-path-sum
+title: Minimum Falling Path Sum
+url: https://leetcode.com/problems/minimum-falling-path-sum
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 12
+  dream11:
+    frequency: 75
+  goldman-sachs:
+    frequency: 50
+  google:
+    frequency: 37
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 25
+  visa:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

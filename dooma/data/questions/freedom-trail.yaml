@@ -1,0 +1,19 @@
+id: freedom-trail
+title: Freedom Trail
+url: https://leetcode.com/problems/freedom-trail
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+  phonepe:
+    frequency: 50
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

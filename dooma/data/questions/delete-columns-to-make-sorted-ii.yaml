@@ -1,0 +1,17 @@
+id: delete-columns-to-make-sorted-ii
+title: Delete Columns to Make Sorted II
+url: https://leetcode.com/problems/delete-columns-to-make-sorted-ii
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,19 @@
+id: alternating-groups-i
+title: Alternating Groups I
+url: https://leetcode.com/problems/alternating-groups-i
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  samsara:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

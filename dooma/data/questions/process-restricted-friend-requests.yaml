@@ -1,0 +1,15 @@
+id: process-restricted-friend-requests
+title: Process Restricted Friend Requests
+url: https://leetcode.com/problems/process-restricted-friend-requests
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

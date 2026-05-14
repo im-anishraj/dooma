@@ -1,0 +1,17 @@
+id: largest-triangle-area
+title: Largest Triangle Area
+url: https://leetcode.com/problems/largest-triangle-area
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: reduce-array-size-to-the-half
+title: Reduce Array Size to The Half
+url: https://leetcode.com/problems/reduce-array-size-to-the-half
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  akuna-capital:
+    frequency: 100
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,59 @@
+id: copy-list-with-random-pointer
+title: Copy List with Random Pointer
+url: https://leetcode.com/problems/copy-list-with-random-pointer
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 75
+  apple:
+    frequency: 25
+  arista-networks:
+    frequency: 75
+  bloomberg:
+    frequency: 50
+  cadence:
+    frequency: 100
+  cvent:
+    frequency: 100
+  de-shaw:
+    frequency: 37
+  docusign:
+    frequency: 87
+  flipkart:
+    frequency: 37
+  google:
+    frequency: 37
+  intel:
+    frequency: 87
+  meta:
+    frequency: 75
+  microsoft:
+    frequency: 62
+  mobileye:
+    frequency: 100
+  morgan-stanley:
+    frequency: 62
+  nvidia:
+    frequency: 50
+  oracle:
+    frequency: 50
+  oyo:
+    frequency: 87
+  phonepe:
+    frequency: 50
+  snowflake:
+    frequency: 62
+  tiktok:
+    frequency: 37
+  uber:
+    frequency: 50
+  walmart-labs:
+    frequency: 50
+  wix:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

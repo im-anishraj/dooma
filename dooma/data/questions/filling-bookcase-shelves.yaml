@@ -1,0 +1,21 @@
+id: filling-bookcase-shelves
+title: Filling Bookcase Shelves
+url: https://leetcode.com/problems/filling-bookcase-shelves
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  6sense:
+    frequency: 87
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  flipkart:
+    frequency: 37
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

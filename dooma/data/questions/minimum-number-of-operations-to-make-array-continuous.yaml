@@ -1,0 +1,19 @@
+id: minimum-number-of-operations-to-make-array-continuous
+title: Minimum Number of Operations to Make Array Continuous
+url: https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  uber:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,21 @@
+id: diagonal-traverse-ii
+title: Diagonal Traverse II
+url: https://leetcode.com/problems/diagonal-traverse-ii
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bp:
+    frequency: 87
+  google:
+    frequency: 25
+  liftoff:
+    frequency: 87
+  meta:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,29 @@
+id: fruit-into-baskets
+title: Fruit Into Baskets
+url: https://leetcode.com/problems/fruit-into-baskets
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 62
+  amazon:
+    frequency: 50
+  bloomberg:
+    frequency: 37
+  google:
+    frequency: 50
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 37
+  netflix:
+    frequency: 50
+  servicenow:
+    frequency: 50
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,19 @@
+id: count-complete-subarrays-in-an-array
+title: Count Complete Subarrays in an Array
+url: https://leetcode.com/problems/count-complete-subarrays-in-an-array
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  tiktok:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

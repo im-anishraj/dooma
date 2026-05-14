@@ -1,0 +1,23 @@
+id: minimum-number-of-removals-to-make-mountain-array
+title: Minimum Number of Removals to Make Mountain Array
+url: https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 37
+  paypal:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

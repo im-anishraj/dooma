@@ -1,0 +1,27 @@
+id: maximum-size-subarray-sum-equals-k
+title: Maximum Size Subarray Sum Equals k
+url: https://leetcode.com/problems/maximum-size-subarray-sum-equals-k
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 12
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 25
+  oracle:
+    frequency: 25
+  palantir-technologies:
+    frequency: 62
+  tiktok:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,17 @@
+id: stone-game-iii
+title: Stone Game III
+url: https://leetcode.com/problems/stone-game-iii
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

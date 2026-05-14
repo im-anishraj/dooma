@@ -1,0 +1,21 @@
+id: maximum-difference-between-adjacent-elements-in-a-circular-array
+title: Maximum Difference Between Adjacent Elements in a Circular Array
+url: https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: find-anagram-mappings
+title: Find Anagram Mappings
+url: https://leetcode.com/problems/find-anagram-mappings
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

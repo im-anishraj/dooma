@@ -1,0 +1,17 @@
+id: jump-game-iii
+title: Jump Game III
+url: https://leetcode.com/problems/jump-game-iii
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  microsoft:
+    frequency: 37
+  tanium:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

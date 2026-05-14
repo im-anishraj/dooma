@@ -1,0 +1,15 @@
+id: find-sum-of-array-product-of-magical-sequences
+title: Find Sum of Array Product of Magical Sequences
+url: https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  infosys:
+    frequency: 37
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

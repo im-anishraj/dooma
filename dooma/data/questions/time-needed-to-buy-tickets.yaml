@@ -1,0 +1,27 @@
+id: time-needed-to-buy-tickets
+title: Time Needed to Buy Tickets
+url: https://leetcode.com/problems/time-needed-to-buy-tickets
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  innovaccer:
+    frequency: 87
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  twitter:
+    frequency: 100
+  uber:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

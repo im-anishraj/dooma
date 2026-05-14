@@ -1,0 +1,19 @@
+id: find-and-replace-pattern
+title: Find and Replace Pattern
+url: https://leetcode.com/problems/find-and-replace-pattern
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  zomato:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

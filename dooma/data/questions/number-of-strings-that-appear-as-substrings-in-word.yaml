@@ -1,0 +1,13 @@
+id: number-of-strings-that-appear-as-substrings-in-word
+title: Number of Strings That Appear as Substrings in Word
+url: https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  uber:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

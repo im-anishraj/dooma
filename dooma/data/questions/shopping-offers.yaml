@@ -1,0 +1,23 @@
+id: shopping-offers
+title: Shopping Offers
+url: https://leetcode.com/problems/shopping-offers
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  airbnb:
+    frequency: 50
+  amazon:
+    frequency: 12
+  coupang:
+    frequency: 75
+  google:
+    frequency: 25
+  mathworks:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

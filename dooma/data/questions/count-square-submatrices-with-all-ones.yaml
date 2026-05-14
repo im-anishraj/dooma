@@ -1,0 +1,23 @@
+id: count-square-submatrices-with-all-ones
+title: Count Square Submatrices with All Ones
+url: https://leetcode.com/problems/count-square-submatrices-with-all-ones
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 37
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  tinkoff:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

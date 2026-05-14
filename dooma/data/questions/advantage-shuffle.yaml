@@ -1,0 +1,17 @@
+id: advantage-shuffle
+title: Advantage Shuffle
+url: https://leetcode.com/problems/advantage-shuffle
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  palo-alto-networks:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,17 @@
+id: escape-a-large-maze
+title: Escape a Large Maze
+url: https://leetcode.com/problems/escape-a-large-maze
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  uipath:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

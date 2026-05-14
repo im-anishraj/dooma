@@ -1,0 +1,17 @@
+id: valid-phone-numbers
+title: Valid Phone Numbers
+url: https://leetcode.com/problems/valid-phone-numbers
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

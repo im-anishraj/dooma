@@ -1,0 +1,13 @@
+id: smallest-string-with-a-given-numeric-value
+title: Smallest String With A Given Numeric Value
+url: https://leetcode.com/problems/smallest-string-with-a-given-numeric-value
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  lendingkart:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

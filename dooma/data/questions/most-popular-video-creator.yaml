@@ -1,0 +1,13 @@
+id: most-popular-video-creator
+title: Most Popular Video Creator
+url: https://leetcode.com/problems/most-popular-video-creator
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  tiktok:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

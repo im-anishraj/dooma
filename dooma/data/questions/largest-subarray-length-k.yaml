@@ -1,0 +1,13 @@
+id: largest-subarray-length-k
+title: Largest Subarray Length K
+url: https://leetcode.com/problems/largest-subarray-length-k
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

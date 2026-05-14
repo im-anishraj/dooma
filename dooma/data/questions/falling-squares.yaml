@@ -1,0 +1,17 @@
+id: falling-squares
+title: Falling Squares
+url: https://leetcode.com/problems/falling-squares
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  square:
+    frequency: 100
+  uber:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

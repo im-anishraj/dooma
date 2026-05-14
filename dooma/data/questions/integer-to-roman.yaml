@@ -1,0 +1,75 @@
+id: integer-to-roman
+title: Integer to Roman
+url: https://leetcode.com/problems/integer-to-roman
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  adobe:
+    frequency: 75
+  agoda:
+    frequency: 50
+  amazon:
+    frequency: 50
+  amd:
+    frequency: 75
+  arista-networks:
+    frequency: 62
+  blackrock:
+    frequency: 37
+  bloomberg:
+    frequency: 50
+  bookingcom:
+    frequency: 62
+  citadel:
+    frequency: 50
+  docusign:
+    frequency: 75
+  doordash:
+    frequency: 37
+  geico:
+    frequency: 62
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 37
+  ibm:
+    frequency: 87
+  infosys:
+    frequency: 37
+  linkedin:
+    frequency: 37
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 50
+  oracle:
+    frequency: 50
+  palo-alto-networks:
+    frequency: 50
+  salesforce:
+    frequency: 50
+  swiggy:
+    frequency: 62
+  tcs:
+    frequency: 25
+  tiktok:
+    frequency: 37
+  twitter:
+    frequency: 100
+  uipath:
+    frequency: 75
+  verkada:
+    frequency: 87
+  walmart-labs:
+    frequency: 62
+  wix:
+    frequency: 100
+  zoho:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

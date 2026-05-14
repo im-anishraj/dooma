@@ -1,0 +1,21 @@
+id: maximum-difference-between-node-and-ancestor
+title: Maximum Difference Between Node and Ancestor
+url: https://leetcode.com/problems/maximum-difference-between-node-and-ancestor
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  epam-systems:
+    frequency: 62
+  josh-technology:
+    frequency: 62
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

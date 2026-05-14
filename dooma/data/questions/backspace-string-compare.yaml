@@ -1,0 +1,41 @@
+id: backspace-string-compare
+title: Backspace String Compare
+url: https://leetcode.com/problems/backspace-string-compare
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  agoda:
+    frequency: 62
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  goldman-sachs:
+    frequency: 50
+  google:
+    frequency: 37
+  ibm:
+    frequency: 50
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  microstrategy:
+    frequency: 75
+  oracle:
+    frequency: 37
+  roku:
+    frequency: 75
+  salesforce:
+    frequency: 25
+  tinkoff:
+    frequency: 62
+  wayfair:
+    frequency: 62
+  wells-fargo:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

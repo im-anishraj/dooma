@@ -1,0 +1,15 @@
+id: display-table-of-food-orders-in-a-restaurant
+title: Display Table of Food Orders in a Restaurant
+url: https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  jpmorgan:
+    frequency: 75
+  nordstrom:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

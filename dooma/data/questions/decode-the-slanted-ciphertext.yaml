@@ -1,0 +1,15 @@
+id: decode-the-slanted-ciphertext
+title: Decode the Slanted Ciphertext
+url: https://leetcode.com/problems/decode-the-slanted-ciphertext
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  grammarly:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

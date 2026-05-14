@@ -1,0 +1,23 @@
+id: construct-binary-tree-from-inorder-and-postorder-traversal
+title: Construct Binary Tree from Inorder and Postorder Traversal
+url: https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 37
+  walmart-labs:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

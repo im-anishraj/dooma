@@ -1,0 +1,13 @@
+id: global-and-local-inversions
+title: Global and Local Inversions
+url: https://leetcode.com/problems/global-and-local-inversions
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

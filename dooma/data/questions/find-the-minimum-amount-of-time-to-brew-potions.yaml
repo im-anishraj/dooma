@@ -1,0 +1,23 @@
+id: find-the-minimum-amount-of-time-to-brew-potions
+title: Find the Minimum Amount of Time to Brew Potions
+url: https://leetcode.com/problems/find-the-minimum-amount-of-time-to-brew-potions
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  goldman-sachs:
+    frequency: 50
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

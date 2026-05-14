@@ -1,0 +1,19 @@
+id: employees-whose-manager-left-the-company
+title: Employees Whose Manager Left the Company
+url: https://leetcode.com/problems/employees-whose-manager-left-the-company
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

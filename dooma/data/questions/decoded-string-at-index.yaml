@@ -1,0 +1,21 @@
+id: decoded-string-at-index
+title: Decoded String at Index
+url: https://leetcode.com/problems/decoded-string-at-index
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  meta:
+    frequency: 12
+  national-instruments:
+    frequency: 100
+  phonepe:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

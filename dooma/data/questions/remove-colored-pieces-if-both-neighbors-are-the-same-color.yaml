@@ -1,0 +1,19 @@
+id: remove-colored-pieces-if-both-neighbors-are-the-same-color
+title: Remove Colored Pieces if Both Neighbors are the Same Color
+url: https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  ibm:
+    frequency: 37
+  mathworks:
+    frequency: 87
+  unity:
+    frequency: 87
+  yelp:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

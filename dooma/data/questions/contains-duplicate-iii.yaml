@@ -1,0 +1,29 @@
+id: contains-duplicate-iii
+title: Contains Duplicate III
+url: https://leetcode.com/problems/contains-duplicate-iii
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  airbnb:
+    frequency: 75
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  netflix:
+    frequency: 87
+  palantir-technologies:
+    frequency: 62
+  yandex:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,21 @@
+id: range-product-queries-of-powers
+title: Range Product Queries of Powers
+url: https://leetcode.com/problems/range-product-queries-of-powers
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  goldman-sachs:
+    frequency: 50
+  google:
+    frequency: 12
+  trilogy:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

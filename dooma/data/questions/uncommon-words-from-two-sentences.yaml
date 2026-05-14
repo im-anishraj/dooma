@@ -1,0 +1,15 @@
+id: uncommon-words-from-two-sentences
+title: Uncommon Words from Two Sentences
+url: https://leetcode.com/problems/uncommon-words-from-two-sentences
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

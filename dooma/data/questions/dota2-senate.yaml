@@ -1,0 +1,23 @@
+id: dota2-senate
+title: Dota2 Senate
+url: https://leetcode.com/problems/dota2-senate
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  american-airlines:
+    frequency: 100
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  valve:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

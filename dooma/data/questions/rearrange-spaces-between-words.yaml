@@ -1,0 +1,13 @@
+id: rearrange-spaces-between-words
+title: Rearrange Spaces Between Words
+url: https://leetcode.com/problems/rearrange-spaces-between-words
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

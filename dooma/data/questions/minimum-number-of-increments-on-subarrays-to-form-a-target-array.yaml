@@ -1,0 +1,25 @@
+id: minimum-number-of-increments-on-subarrays-to-form-a-target-array
+title: Minimum Number of Increments on Subarrays to Form a Target Array
+url: https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  dream11:
+    frequency: 75
+  google:
+    frequency: 62
+  ibm:
+    frequency: 50
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  oracle:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: check-if-point-is-reachable
+title: Check if Point Is Reachable
+url: https://leetcode.com/problems/check-if-point-is-reachable
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  phonepe:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

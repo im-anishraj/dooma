@@ -1,0 +1,31 @@
+id: n-queens-ii
+title: N-Queens II
+url: https://leetcode.com/problems/n-queens-ii
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  deutsche-bank:
+    frequency: 62
+  google:
+    frequency: 25
+  liftoff:
+    frequency: 87
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 25
+  snowflake:
+    frequency: 50
+  walmart-labs:
+    frequency: 37
+  zenefits:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

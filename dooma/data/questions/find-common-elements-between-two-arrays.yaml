@@ -1,0 +1,21 @@
+id: find-common-elements-between-two-arrays
+title: Find Common Elements Between Two Arrays
+url: https://leetcode.com/problems/find-common-elements-between-two-arrays
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  yandex:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

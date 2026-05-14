@@ -1,0 +1,19 @@
+id: maximum-count-of-positive-integer-and-negative-integer
+title: Maximum Count of Positive Integer and Negative Integer
+url: https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  sharechat:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

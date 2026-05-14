@@ -1,0 +1,27 @@
+id: maximize-greatness-of-an-array
+title: Maximize Greatness of an Array
+url: https://leetcode.com/problems/maximize-greatness-of-an-array
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  nvidia:
+    frequency: 75
+  oracle:
+    frequency: 25
+  salesforce:
+    frequency: 50
+  twilio:
+    frequency: 100
+  ukg:
+    frequency: 75
+  weride:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,17 @@
+id: split-array-into-consecutive-subsequences
+title: Split Array into Consecutive Subsequences
+url: https://leetcode.com/problems/split-array-into-consecutive-subsequences
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+  phonepe:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

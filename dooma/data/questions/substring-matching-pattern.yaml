@@ -1,0 +1,13 @@
+id: substring-matching-pattern
+title: Substring Matching Pattern
+url: https://leetcode.com/problems/substring-matching-pattern
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

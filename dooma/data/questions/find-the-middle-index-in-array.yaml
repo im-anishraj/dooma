@@ -1,0 +1,19 @@
+id: find-the-middle-index-in-array
+title: Find the Middle Index in Array
+url: https://leetcode.com/problems/find-the-middle-index-in-array
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  code-studio:
+    frequency: 100
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

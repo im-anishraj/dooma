@@ -1,0 +1,13 @@
+id: find-the-k-th-lucky-number
+title: Find The K-th Lucky Number
+url: https://leetcode.com/problems/find-the-k-th-lucky-number
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

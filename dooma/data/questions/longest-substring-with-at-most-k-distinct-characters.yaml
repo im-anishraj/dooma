@@ -1,0 +1,35 @@
+id: longest-substring-with-at-most-k-distinct-characters
+title: Longest Substring with At Most K Distinct Characters
+url: https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  appdynamics:
+    frequency: 100
+  apple:
+    frequency: 25
+  bitgo:
+    frequency: 75
+  coupang:
+    frequency: 100
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  oracle:
+    frequency: 37
+  tiktok:
+    frequency: 37
+  yandex:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

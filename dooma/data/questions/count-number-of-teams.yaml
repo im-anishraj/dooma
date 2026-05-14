@@ -1,0 +1,23 @@
+id: count-number-of-teams
+title: Count Number of Teams
+url: https://leetcode.com/problems/count-number-of-teams
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  goldman-sachs:
+    frequency: 37
+  google:
+    frequency: 12
+  ibm:
+    frequency: 37
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

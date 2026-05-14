@@ -1,0 +1,33 @@
+id: sum-of-subarray-minimums
+title: Sum of Subarray Minimums
+url: https://leetcode.com/problems/sum-of-subarray-minimums
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 25
+  avito:
+    frequency: 62
+  bloomberg:
+    frequency: 37
+  flipkart:
+    frequency: 62
+  google:
+    frequency: 37
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 37
+  sprinklr:
+    frequency: 75
+  tiktok:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

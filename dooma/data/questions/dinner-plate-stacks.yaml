@@ -1,0 +1,15 @@
+id: dinner-plate-stacks
+title: Dinner Plate Stacks
+url: https://leetcode.com/problems/dinner-plate-stacks
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: maximum-number-of-coins-you-can-get
+title: Maximum Number of Coins You Can Get
+url: https://leetcode.com/problems/maximum-number-of-coins-you-can-get
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

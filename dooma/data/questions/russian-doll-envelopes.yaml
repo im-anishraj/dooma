@@ -1,0 +1,33 @@
+id: russian-doll-envelopes
+title: Russian Doll Envelopes
+url: https://leetcode.com/problems/russian-doll-envelopes
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  argo-ai:
+    frequency: 100
+  atlassian:
+    frequency: 50
+  bloomberg:
+    frequency: 12
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 50
+  intuit:
+    frequency: 50
+  medianet:
+    frequency: 87
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 25
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

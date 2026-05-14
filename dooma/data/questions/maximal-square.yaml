@@ -1,0 +1,71 @@
+id: maximal-square
+title: Maximal Square
+url: https://leetcode.com/problems/maximal-square
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  airbnb:
+    frequency: 75
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 50
+  bloomberg:
+    frequency: 12
+  bookingcom:
+    frequency: 62
+  bytedance:
+    frequency: 75
+  citadel:
+    frequency: 50
+  de-shaw:
+    frequency: 37
+  dp-world:
+    frequency: 87
+  ebay:
+    frequency: 50
+  flipkart:
+    frequency: 50
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 50
+  gsa-capital:
+    frequency: 100
+  karat:
+    frequency: 62
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 37
+  nvidia:
+    frequency: 50
+  oppo:
+    frequency: 100
+  oracle:
+    frequency: 37
+  paypal:
+    frequency: 75
+  phonepe:
+    frequency: 62
+  qualtrics:
+    frequency: 62
+  salesforce:
+    frequency: 50
+  sap:
+    frequency: 62
+  servicenow:
+    frequency: 62
+  tiktok:
+    frequency: 37
+  whatnot:
+    frequency: 62
+  wise:
+    frequency: 100
+  zomato:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

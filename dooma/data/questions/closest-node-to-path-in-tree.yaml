@@ -1,0 +1,13 @@
+id: closest-node-to-path-in-tree
+title: Closest Node to Path in Tree
+url: https://leetcode.com/problems/closest-node-to-path-in-tree
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

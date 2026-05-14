@@ -1,0 +1,19 @@
+id: debounce
+title: Debounce
+url: https://leetcode.com/problems/debounce
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  confluent:
+    frequency: 62
+  meta:
+    frequency: 12
+  tencent:
+    frequency: 62
+  yandex:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

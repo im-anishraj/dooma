@@ -1,0 +1,13 @@
+id: longest-common-subsequence-between-sorted-arrays
+title: Longest Common Subsequence Between Sorted Arrays
+url: https://leetcode.com/problems/longest-common-subsequence-between-sorted-arrays
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,19 @@
+id: minimum-cost-to-reach-destination-in-time
+title: Minimum Cost to Reach Destination in Time
+url: https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  databricks:
+    frequency: 37
+  google:
+    frequency: 12
+  meta:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

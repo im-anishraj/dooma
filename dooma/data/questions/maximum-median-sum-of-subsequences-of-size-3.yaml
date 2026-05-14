@@ -1,0 +1,15 @@
+id: maximum-median-sum-of-subsequences-of-size-3
+title: Maximum Median Sum of Subsequences of Size 3
+url: https://leetcode.com/problems/maximum-median-sum-of-subsequences-of-size-3
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  ibm:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

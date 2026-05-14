@@ -1,0 +1,13 @@
+id: number-of-distinct-binary-strings-after-applying-operations
+title: Number of Distinct Binary Strings After Applying Operations
+url: https://leetcode.com/problems/number-of-distinct-binary-strings-after-applying-operations
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,23 @@
+id: number-of-longest-increasing-subsequence
+title: Number of Longest Increasing Subsequence
+url: https://leetcode.com/problems/number-of-longest-increasing-subsequence
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  intuit:
+    frequency: 37
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 12
+  tiktok:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

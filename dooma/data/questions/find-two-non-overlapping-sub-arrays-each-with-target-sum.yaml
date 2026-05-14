@@ -1,0 +1,13 @@
+id: find-two-non-overlapping-sub-arrays-each-with-target-sum
+title: Find Two Non-overlapping Sub-arrays Each With Target Sum
+url: https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

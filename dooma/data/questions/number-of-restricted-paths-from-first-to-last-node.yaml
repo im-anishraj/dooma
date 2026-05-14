@@ -1,0 +1,13 @@
+id: number-of-restricted-paths-from-first-to-last-node
+title: Number of Restricted Paths From First to Last Node
+url: https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

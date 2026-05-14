@@ -1,0 +1,23 @@
+id: separate-black-and-white-balls
+title: Separate Black and White Balls
+url: https://leetcode.com/problems/separate-black-and-white-balls
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  1kosmos:
+    frequency: 100
+  accenture:
+    frequency: 50
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

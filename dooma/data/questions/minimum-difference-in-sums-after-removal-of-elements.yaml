@@ -1,0 +1,25 @@
+id: minimum-difference-in-sums-after-removal-of-elements
+title: Minimum Difference in Sums After Removal of Elements
+url: https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  infosys:
+    frequency: 50
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

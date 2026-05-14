@@ -1,0 +1,21 @@
+id: count-different-palindromic-subsequences
+title: Count Different Palindromic Subsequences
+url: https://leetcode.com/problems/count-different-palindromic-subsequences
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  linkedin:
+    frequency: 50
+  uber:
+    frequency: 25
+  walmart-labs:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

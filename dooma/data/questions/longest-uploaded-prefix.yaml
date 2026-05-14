@@ -1,0 +1,13 @@
+id: longest-uploaded-prefix
+title: Longest Uploaded Prefix
+url: https://leetcode.com/problems/longest-uploaded-prefix
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,21 @@
+id: count-nodes-equal-to-average-of-subtree
+title: Count Nodes Equal to Average of Subtree
+url: https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 12
+  snowflake:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

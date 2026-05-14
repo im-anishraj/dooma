@@ -1,0 +1,45 @@
+id: maximum-product-of-three-numbers
+title: Maximum Product of Three Numbers
+url: https://leetcode.com/problems/maximum-product-of-three-numbers
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  amazon:
+    frequency: 25
+  apple:
+    frequency: 37
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 12
+  infosys:
+    frequency: 37
+  intuit:
+    frequency: 87
+  keeptruckin:
+    frequency: 75
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  nutanix:
+    frequency: 50
+  nvidia:
+    frequency: 37
+  roku:
+    frequency: 75
+  salesforce:
+    frequency: 62
+  siemens:
+    frequency: 62
+  tcs:
+    frequency: 37
+  tiktok:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

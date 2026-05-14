@@ -1,0 +1,21 @@
+id: min-cost-climbing-stairs
+title: Min Cost Climbing Stairs
+url: https://leetcode.com/problems/min-cost-climbing-stairs
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 37
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

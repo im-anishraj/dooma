@@ -1,0 +1,13 @@
+id: slowest-key
+title: Slowest Key
+url: https://leetcode.com/problems/slowest-key
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  jpmorgan:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

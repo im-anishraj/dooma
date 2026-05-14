@@ -1,0 +1,23 @@
+id: validate-stack-sequences
+title: Validate Stack Sequences
+url: https://leetcode.com/problems/validate-stack-sequences
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  linkedin:
+    frequency: 50
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  sprinklr:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

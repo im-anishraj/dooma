@@ -1,0 +1,25 @@
+id: count-pairs-whose-sum-is-less-than-target
+title: Count Pairs Whose Sum is Less than Target
+url: https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  josh-technology:
+    frequency: 62
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 12
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

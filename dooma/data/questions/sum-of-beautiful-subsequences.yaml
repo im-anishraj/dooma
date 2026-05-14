@@ -1,0 +1,15 @@
+id: sum-of-beautiful-subsequences
+title: Sum of Beautiful Subsequences
+url: https://leetcode.com/problems/sum-of-beautiful-subsequences
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  infosys:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

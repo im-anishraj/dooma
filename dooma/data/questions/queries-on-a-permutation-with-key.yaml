@@ -1,0 +1,13 @@
+id: queries-on-a-permutation-with-key
+title: Queries on a Permutation With Key
+url: https://leetcode.com/problems/queries-on-a-permutation-with-key
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

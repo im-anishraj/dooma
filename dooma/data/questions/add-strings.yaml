@@ -1,0 +1,41 @@
+id: add-strings
+title: Add Strings
+url: https://leetcode.com/problems/add-strings
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  airbnb:
+    frequency: 75
+  amazon:
+    frequency: 25
+  avito:
+    frequency: 87
+  bloomberg:
+    frequency: 25
+  capital-one:
+    frequency: 50
+  google:
+    frequency: 37
+  jane-street:
+    frequency: 62
+  meta:
+    frequency: 62
+  microsoft:
+    frequency: 25
+  oracle:
+    frequency: 37
+  tiktok:
+    frequency: 62
+  uber:
+    frequency: 25
+  visa:
+    frequency: 50
+  wayfair:
+    frequency: 87
+  yandex:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: count-special-subsequences
+title: Count Special Subsequences
+url: https://leetcode.com/problems/count-special-subsequences
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

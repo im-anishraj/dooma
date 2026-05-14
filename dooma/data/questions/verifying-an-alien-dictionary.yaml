@@ -1,0 +1,31 @@
+id: verifying-an-alien-dictionary
+title: Verifying an Alien Dictionary
+url: https://leetcode.com/problems/verifying-an-alien-dictionary
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  anduril:
+    frequency: 50
+  apple:
+    frequency: 37
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 12
+  tiktok:
+    frequency: 25
+  uber:
+    frequency: 37
+  wix:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

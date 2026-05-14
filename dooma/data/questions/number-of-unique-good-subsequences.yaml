@@ -1,0 +1,13 @@
+id: number-of-unique-good-subsequences
+title: Number of Unique Good Subsequences
+url: https://leetcode.com/problems/number-of-unique-good-subsequences
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

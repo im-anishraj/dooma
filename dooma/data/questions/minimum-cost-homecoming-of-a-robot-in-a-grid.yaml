@@ -1,0 +1,17 @@
+id: minimum-cost-homecoming-of-a-robot-in-a-grid
+title: Minimum Cost Homecoming of a Robot in a Grid
+url: https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  goldman-sachs:
+    frequency: 50
+  hp:
+    frequency: 87
+  oracle:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

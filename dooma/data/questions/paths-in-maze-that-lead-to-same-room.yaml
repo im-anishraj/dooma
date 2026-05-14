@@ -1,0 +1,15 @@
+id: paths-in-maze-that-lead-to-same-room
+title: Paths in Maze That Lead to Same Room
+url: https://leetcode.com/problems/paths-in-maze-that-lead-to-same-room
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  salesforce:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

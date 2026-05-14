@@ -1,0 +1,13 @@
+id: consecutive-transactions-with-increasing-amounts
+title: Consecutive Transactions with Increasing Amounts
+url: https://leetcode.com/problems/consecutive-transactions-with-increasing-amounts
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

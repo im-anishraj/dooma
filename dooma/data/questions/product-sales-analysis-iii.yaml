@@ -1,0 +1,21 @@
+id: product-sales-analysis-iii
+title: Product Sales Analysis III
+url: https://leetcode.com/problems/product-sales-analysis-iii
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 12
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

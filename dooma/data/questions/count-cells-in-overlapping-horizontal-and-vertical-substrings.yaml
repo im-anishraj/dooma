@@ -1,0 +1,13 @@
+id: count-cells-in-overlapping-horizontal-and-vertical-substrings
+title: Count Cells in Overlapping Horizontal and Vertical Substrings
+url: https://leetcode.com/problems/count-cells-in-overlapping-horizontal-and-vertical-substrings
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

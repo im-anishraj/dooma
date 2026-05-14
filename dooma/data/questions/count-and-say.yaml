@@ -1,0 +1,37 @@
+id: count-and-say
+title: Count and Say
+url: https://leetcode.com/problems/count-and-say
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 37
+  expedia:
+    frequency: 62
+  google:
+    frequency: 37
+  lg-electronics:
+    frequency: 87
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 25
+  oracle:
+    frequency: 25
+  pinterest:
+    frequency: 87
+  tcs:
+    frequency: 25
+  veeva:
+    frequency: 100
+  wix:
+    frequency: 50
+  zoho:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

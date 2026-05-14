@@ -1,0 +1,13 @@
+id: students-with-invalid-departments
+title: Students With Invalid Departments
+url: https://leetcode.com/problems/students-with-invalid-departments
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,17 @@
+id: number-of-even-and-odd-bits
+title: Number of Even and Odd Bits
+url: https://leetcode.com/problems/number-of-even-and-odd-bits
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,27 @@
+id: minesweeper
+title: Minesweeper
+url: https://leetcode.com/problems/minesweeper
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  anduril:
+    frequency: 50
+  applied-intuition:
+    frequency: 62
+  google:
+    frequency: 12
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 12
+  robinhood:
+    frequency: 62
+  tiktok:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

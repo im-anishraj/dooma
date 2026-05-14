@@ -1,0 +1,13 @@
+id: minimum-adjacent-swaps-to-make-a-valid-array
+title: Minimum Adjacent Swaps to Make a Valid Array
+url: https://leetcode.com/problems/minimum-adjacent-swaps-to-make-a-valid-array
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

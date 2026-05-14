@@ -1,0 +1,17 @@
+id: bricks-falling-when-hit
+title: Bricks Falling When Hit
+url: https://leetcode.com/problems/bricks-falling-when-hit
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  phonepe:
+    frequency: 50
+  snapchat:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

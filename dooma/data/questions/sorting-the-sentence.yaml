@@ -1,0 +1,19 @@
+id: sorting-the-sentence
+title: Sorting the Sentence
+url: https://leetcode.com/problems/sorting-the-sentence
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

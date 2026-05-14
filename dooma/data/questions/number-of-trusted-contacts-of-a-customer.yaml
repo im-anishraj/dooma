@@ -1,0 +1,13 @@
+id: number-of-trusted-contacts-of-a-customer
+title: Number of Trusted Contacts of a Customer
+url: https://leetcode.com/problems/number-of-trusted-contacts-of-a-customer
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  roblox:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

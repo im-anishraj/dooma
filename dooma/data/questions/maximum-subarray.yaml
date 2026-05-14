@@ -1,0 +1,143 @@
+id: maximum-subarray
+title: Maximum Subarray
+url: https://leetcode.com/problems/maximum-subarray
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 75
+  accolite:
+    frequency: 50
+  adp:
+    frequency: 87
+  airbnb:
+    frequency: 37
+  amazon:
+    frequency: 75
+  apple:
+    frequency: 75
+  arista-networks:
+    frequency: 62
+  atlassian:
+    frequency: 37
+  autodesk:
+    frequency: 62
+  blinkit:
+    frequency: 100
+  bloomberg:
+    frequency: 75
+  bytedance:
+    frequency: 50
+  cisco:
+    frequency: 62
+  citadel:
+    frequency: 50
+  cognizant:
+    frequency: 62
+  coupang:
+    frequency: 50
+  criteo:
+    frequency: 75
+  de-shaw:
+    frequency: 37
+  deloitte:
+    frequency: 62
+  epam-systems:
+    frequency: 50
+  fractal-analytics:
+    frequency: 62
+  freshworks:
+    frequency: 75
+  goldman-sachs:
+    frequency: 50
+  google:
+    frequency: 62
+  hashedin:
+    frequency: 62
+  huawei:
+    frequency: 62
+  ibm:
+    frequency: 50
+  infosys:
+    frequency: 75
+  intel:
+    frequency: 62
+  jpmorgan:
+    frequency: 37
+  linkedin:
+    frequency: 75
+  meesho:
+    frequency: 50
+  meta:
+    frequency: 62
+  microsoft:
+    frequency: 75
+  nike:
+    frequency: 87
+  nvidia:
+    frequency: 75
+  optum:
+    frequency: 62
+  oracle:
+    frequency: 50
+  paypal:
+    frequency: 62
+  persistent-systems:
+    frequency: 62
+  phonepe:
+    frequency: 50
+  ripple:
+    frequency: 75
+  salesforce:
+    frequency: 50
+  samsung:
+    frequency: 62
+  sap:
+    frequency: 75
+  servicenow:
+    frequency: 50
+  squarepoint-capital:
+    frequency: 75
+  swiggy:
+    frequency: 50
+  target:
+    frequency: 87
+  tcs:
+    frequency: 62
+  tech-mahindra:
+    frequency: 100
+  tekion:
+    frequency: 75
+  tesla:
+    frequency: 62
+  tiktok:
+    frequency: 50
+  turing:
+    frequency: 62
+  uber:
+    frequency: 37
+  upstart:
+    frequency: 100
+  vimeo:
+    frequency: 62
+  visa:
+    frequency: 75
+  walmart-labs:
+    frequency: 37
+  wells-fargo:
+    frequency: 62
+  wix:
+    frequency: 87
+  yandex:
+    frequency: 37
+  zeta:
+    frequency: 62
+  zoho:
+    frequency: 50
+  zomato:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

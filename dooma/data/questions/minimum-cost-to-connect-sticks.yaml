@@ -1,0 +1,23 @@
+id: minimum-cost-to-connect-sticks
+title: Minimum Cost to Connect Sticks
+url: https://leetcode.com/problems/minimum-cost-to-connect-sticks
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  google:
+    frequency: 25
+  ibm:
+    frequency: 37
+  jpmorgan:
+    frequency: 62
+  mathworks:
+    frequency: 50
+  twitter:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

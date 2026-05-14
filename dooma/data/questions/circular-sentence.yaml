@@ -1,0 +1,15 @@
+id: circular-sentence
+title: Circular Sentence
+url: https://leetcode.com/problems/circular-sentence
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,35 @@
+id: insert-delete-getrandom-o1-duplicates-allowed
+title: Insert Delete GetRandom O(1) - Duplicates allowed
+url: https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  affirm:
+    frequency: 75
+  amazon:
+    frequency: 25
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 12
+  linkedin:
+    frequency: 62
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 12
+  peloton:
+    frequency: 100
+  tiktok:
+    frequency: 37
+  uber:
+    frequency: 25
+  yelp:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

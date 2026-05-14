@@ -1,0 +1,15 @@
+id: check-for-contradictions-in-equations
+title: Check for Contradictions in Equations
+url: https://leetcode.com/problems/check-for-contradictions-in-equations
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  uber:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

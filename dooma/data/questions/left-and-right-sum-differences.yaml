@@ -1,0 +1,15 @@
+id: left-and-right-sum-differences
+title: Left and Right Sum Differences
+url: https://leetcode.com/problems/left-and-right-sum-differences
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

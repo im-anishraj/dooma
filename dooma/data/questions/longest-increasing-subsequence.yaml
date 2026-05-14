@@ -1,0 +1,71 @@
+id: longest-increasing-subsequence
+title: Longest Increasing Subsequence
+url: https://leetcode.com/problems/longest-increasing-subsequence
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 50
+  agoda:
+    frequency: 50
+  amazon:
+    frequency: 50
+  atlassian:
+    frequency: 37
+  autodesk:
+    frequency: 50
+  bloomberg:
+    frequency: 50
+  citadel:
+    frequency: 50
+  flexport:
+    frequency: 62
+  goldman-sachs:
+    frequency: 37
+  google:
+    frequency: 50
+  huawei:
+    frequency: 75
+  infosys:
+    frequency: 50
+  intuit:
+    frequency: 50
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 50
+  nvidia:
+    frequency: 37
+  oracle:
+    frequency: 50
+  paypal:
+    frequency: 75
+  salesforce:
+    frequency: 37
+  samsung:
+    frequency: 87
+  splunk:
+    frequency: 100
+  square:
+    frequency: 87
+  squarepoint-capital:
+    frequency: 75
+  tiktok:
+    frequency: 87
+  uber:
+    frequency: 25
+  visa:
+    frequency: 37
+  walmart-labs:
+    frequency: 62
+  yandex:
+    frequency: 37
+  zemoso:
+    frequency: 87
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

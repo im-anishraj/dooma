@@ -1,0 +1,47 @@
+id: restore-ip-addresses
+title: Restore IP Addresses
+url: https://leetcode.com/problems/restore-ip-addresses
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 50
+  amazon:
+    frequency: 25
+  arista-networks:
+    frequency: 87
+  bloomberg:
+    frequency: 12
+  bytedance:
+    frequency: 50
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 25
+  keeptruckin:
+    frequency: 75
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 50
+  nvidia:
+    frequency: 62
+  oracle:
+    frequency: 50
+  palo-alto-networks:
+    frequency: 62
+  tiktok:
+    frequency: 75
+  visa:
+    frequency: 50
+  wells-fargo:
+    frequency: 62
+  yahoo:
+    frequency: 50
+  zoho:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

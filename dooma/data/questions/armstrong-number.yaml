@@ -1,0 +1,13 @@
+id: armstrong-number
+title: Armstrong Number
+url: https://leetcode.com/problems/armstrong-number
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

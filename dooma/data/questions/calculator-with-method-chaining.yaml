@@ -1,0 +1,17 @@
+id: calculator-with-method-chaining
+title: Calculator with Method Chaining
+url: https://leetcode.com/problems/calculator-with-method-chaining
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

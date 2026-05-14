@@ -1,0 +1,13 @@
+id: find-all-the-lonely-nodes
+title: Find All The Lonely Nodes
+url: https://leetcode.com/problems/find-all-the-lonely-nodes
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

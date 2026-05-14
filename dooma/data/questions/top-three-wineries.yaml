@@ -1,0 +1,13 @@
+id: top-three-wineries
+title: Top Three Wineries
+url: https://leetcode.com/problems/top-three-wineries
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

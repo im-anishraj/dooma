@@ -1,0 +1,23 @@
+id: maximum-xor-of-two-numbers-in-an-array
+title: Maximum XOR of Two Numbers in an Array
+url: https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 37
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

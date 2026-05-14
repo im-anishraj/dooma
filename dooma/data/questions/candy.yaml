@@ -1,0 +1,59 @@
+id: candy
+title: Candy
+url: https://leetcode.com/problems/candy
+difficulty: hard
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  amazon:
+    frequency: 50
+  bending-spoons:
+    frequency: 100
+  bloomberg:
+    frequency: 50
+  de-shaw:
+    frequency: 37
+  dropbox:
+    frequency: 62
+  flipkart:
+    frequency: 62
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 50
+  ibm:
+    frequency: 37
+  infosys:
+    frequency: 37
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 50
+  morgan-stanley:
+    frequency: 50
+  oracle:
+    frequency: 37
+  phonepe:
+    frequency: 75
+  roku:
+    frequency: 75
+  salesforce:
+    frequency: 25
+  sap:
+    frequency: 50
+  tiktok:
+    frequency: 37
+  uber:
+    frequency: 37
+  urban-company:
+    frequency: 100
+  visa:
+    frequency: 37
+  walmart-labs:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

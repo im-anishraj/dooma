@@ -1,0 +1,15 @@
+id: second-minimum-time-to-reach-destination
+title: Second Minimum Time to Reach Destination
+url: https://leetcode.com/problems/second-minimum-time-to-reach-destination
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,35 @@
+id: rotate-list
+title: Rotate List
+url: https://leetcode.com/problems/rotate-list
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 50
+  google:
+    frequency: 50
+  josh-technology:
+    frequency: 62
+  linkedin:
+    frequency: 50
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 37
+  nvidia:
+    frequency: 62
+  oracle:
+    frequency: 37
+  siemens:
+    frequency: 62
+  tcs:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

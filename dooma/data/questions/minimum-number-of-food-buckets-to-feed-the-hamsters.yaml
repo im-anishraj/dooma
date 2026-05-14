@@ -1,0 +1,19 @@
+id: minimum-number-of-food-buckets-to-feed-the-hamsters
+title: Minimum Number of Food Buckets to Feed the Hamsters
+url: https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  geico:
+    frequency: 62
+  grab:
+    frequency: 100
+  microsoft:
+    frequency: 25
+  palo-alto-networks:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

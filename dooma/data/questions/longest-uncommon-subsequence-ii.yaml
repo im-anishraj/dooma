@@ -1,0 +1,15 @@
+id: longest-uncommon-subsequence-ii
+title: Longest Uncommon Subsequence II
+url: https://leetcode.com/problems/longest-uncommon-subsequence-ii
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

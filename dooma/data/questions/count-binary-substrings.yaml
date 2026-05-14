@@ -1,0 +1,51 @@
+id: count-binary-substrings
+title: Count Binary Substrings
+url: https://leetcode.com/problems/count-binary-substrings
+difficulty: easy
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 12
+  blue-origin:
+    frequency: 87
+  de-shaw:
+    frequency: 37
+  dell:
+    frequency: 100
+  google:
+    frequency: 12
+  helix:
+    frequency: 100
+  ibm:
+    frequency: 62
+  jpmorgan:
+    frequency: 100
+  meesho:
+    frequency: 50
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 37
+  morgan-stanley:
+    frequency: 50
+  oracle:
+    frequency: 37
+  salesforce:
+    frequency: 50
+  tiktok:
+    frequency: 25
+  uber:
+    frequency: 25
+  wells-fargo:
+    frequency: 75
+  weride:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

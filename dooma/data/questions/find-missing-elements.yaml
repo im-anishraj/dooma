@@ -1,0 +1,15 @@
+id: find-missing-elements
+title: Find Missing Elements
+url: https://leetcode.com/problems/find-missing-elements
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

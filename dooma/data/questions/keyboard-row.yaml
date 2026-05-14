@@ -1,0 +1,19 @@
+id: keyboard-row
+title: Keyboard Row
+url: https://leetcode.com/problems/keyboard-row
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  mathworks:
+    frequency: 87
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,29 @@
+id: minimum-number-of-days-to-make-m-bouquets
+title: Minimum Number of Days to Make m Bouquets
+url: https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  barclays:
+    frequency: 62
+  bloomberg:
+    frequency: 50
+  flipkart:
+    frequency: 50
+  google:
+    frequency: 37
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 37
+  navi:
+    frequency: 62
+  phonepe:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

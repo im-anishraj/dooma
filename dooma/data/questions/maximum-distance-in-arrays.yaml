@@ -1,0 +1,21 @@
+id: maximum-distance-in-arrays
+title: Maximum Distance in Arrays
+url: https://leetcode.com/problems/maximum-distance-in-arrays
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  yahoo:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

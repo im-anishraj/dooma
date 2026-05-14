@@ -1,0 +1,21 @@
+id: friend-requests-ii-who-has-the-most-friends
+title: 'Friend Requests II: Who Has the Most Friends'
+url: https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 12
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

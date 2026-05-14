@@ -1,0 +1,19 @@
+id: number-of-zero-filled-subarrays
+title: Number of Zero-Filled Subarrays
+url: https://leetcode.com/problems/number-of-zero-filled-subarrays
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,17 @@
+id: count-of-substrings-containing-every-vowel-and-k-consonants-ii
+title: Count of Substrings Containing Every Vowel and K Consonants II
+url: https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

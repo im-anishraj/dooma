@@ -1,0 +1,15 @@
+id: generate-fibonacci-sequence
+title: Generate Fibonacci Sequence
+url: https://leetcode.com/problems/generate-fibonacci-sequence
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

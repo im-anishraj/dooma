@@ -1,0 +1,13 @@
+id: maximum-distance-between-a-pair-of-values
+title: Maximum Distance Between a Pair of Values
+url: https://leetcode.com/problems/maximum-distance-between-a-pair-of-values
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: gcd-of-odd-and-even-sums
+title: GCD of Odd and Even Sums
+url: https://leetcode.com/problems/gcd-of-odd-and-even-sums
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: largest-element-in-an-array-after-merge-operations
+title: Largest Element in an Array after Merge Operations
+url: https://leetcode.com/problems/largest-element-in-an-array-after-merge-operations
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

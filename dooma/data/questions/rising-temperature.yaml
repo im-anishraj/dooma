@@ -1,0 +1,35 @@
+id: rising-temperature
+title: Rising Temperature
+url: https://leetcode.com/problems/rising-temperature
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 50
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 50
+  cisco:
+    frequency: 37
+  cognizant:
+    frequency: 50
+  deloitte:
+    frequency: 62
+  fractal-analytics:
+    frequency: 62
+  google:
+    frequency: 37
+  meesho:
+    frequency: 87
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 50
+  walmart-labs:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

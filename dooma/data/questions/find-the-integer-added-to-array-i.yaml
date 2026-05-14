@@ -1,0 +1,15 @@
+id: find-the-integer-added-to-array-i
+title: Find the Integer Added to Array I
+url: https://leetcode.com/problems/find-the-integer-added-to-array-i
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  mitsogo:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

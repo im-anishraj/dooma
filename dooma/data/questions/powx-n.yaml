@@ -1,0 +1,57 @@
+id: powx-n
+title: Pow(x, n)
+url: https://leetcode.com/problems/powx-n
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 37
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 50
+  bloomberg:
+    frequency: 62
+  cisco:
+    frequency: 37
+  citadel:
+    frequency: 50
+  ebay:
+    frequency: 75
+  epam-systems:
+    frequency: 62
+  goldman-sachs:
+    frequency: 37
+  google:
+    frequency: 50
+  infosys:
+    frequency: 37
+  linkedin:
+    frequency: 75
+  meta:
+    frequency: 87
+  microsoft:
+    frequency: 62
+  nvidia:
+    frequency: 37
+  oracle:
+    frequency: 37
+  qualcomm:
+    frequency: 62
+  salesforce:
+    frequency: 25
+  servicenow:
+    frequency: 50
+  tcs:
+    frequency: 50
+  tiktok:
+    frequency: 37
+  walmart-labs:
+    frequency: 50
+  wix:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

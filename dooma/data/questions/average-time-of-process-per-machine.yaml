@@ -1,0 +1,29 @@
+id: average-time-of-process-per-machine
+title: Average Time of Process per Machine
+url: https://leetcode.com/problems/average-time-of-process-per-machine
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 50
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 50
+  bloomberg:
+    frequency: 50
+  google:
+    frequency: 37
+  infosys:
+    frequency: 50
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 37
+  mindtree:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,59 @@
+id: evaluate-division
+title: Evaluate Division
+url: https://leetcode.com/problems/evaluate-division
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 62
+  citadel:
+    frequency: 75
+  dp-world:
+    frequency: 87
+  flipkart:
+    frequency: 50
+  ge-healthcare:
+    frequency: 87
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 37
+  linkedin:
+    frequency: 25
+  makemytrip:
+    frequency: 62
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 12
+  nuro:
+    frequency: 75
+  phonepe:
+    frequency: 50
+  rippling:
+    frequency: 75
+  snapchat:
+    frequency: 62
+  snowflake:
+    frequency: 37
+  stripe:
+    frequency: 75
+  tesla:
+    frequency: 50
+  tiktok:
+    frequency: 50
+  uber:
+    frequency: 75
+  urban-company:
+    frequency: 100
+  yahoo:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

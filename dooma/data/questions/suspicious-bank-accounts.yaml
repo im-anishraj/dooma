@@ -1,0 +1,13 @@
+id: suspicious-bank-accounts
+title: Suspicious Bank Accounts
+url: https://leetcode.com/problems/suspicious-bank-accounts
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  jpmorgan:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

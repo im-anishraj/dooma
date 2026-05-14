@@ -1,0 +1,35 @@
+id: dot-product-of-two-sparse-vectors
+title: Dot Product of Two Sparse Vectors
+url: https://leetcode.com/problems/dot-product-of-two-sparse-vectors
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  apple:
+    frequency: 37
+  bloomberg:
+    frequency: 37
+  general-motors:
+    frequency: 62
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 12
+  linkedin:
+    frequency: 25
+  meta:
+    frequency: 87
+  microsoft:
+    frequency: 12
+  nvidia:
+    frequency: 62
+  pinterest:
+    frequency: 37
+  tiktok:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

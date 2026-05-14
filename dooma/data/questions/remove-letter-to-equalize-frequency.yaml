@@ -1,0 +1,19 @@
+id: remove-letter-to-equalize-frequency
+title: Remove Letter To Equalize Frequency
+url: https://leetcode.com/problems/remove-letter-to-equalize-frequency
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 62
+  google:
+    frequency: 12
+  tcs:
+    frequency: 62
+  walmart-labs:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

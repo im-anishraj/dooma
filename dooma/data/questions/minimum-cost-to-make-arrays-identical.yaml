@@ -1,0 +1,15 @@
+id: minimum-cost-to-make-arrays-identical
+title: Minimum Cost to Make Arrays Identical
+url: https://leetcode.com/problems/minimum-cost-to-make-arrays-identical
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,25 @@
+id: lexicographically-minimum-string-after-removing-stars
+title: Lexicographically Minimum String After Removing Stars
+url: https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  flexera:
+    frequency: 100
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  salesforce:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

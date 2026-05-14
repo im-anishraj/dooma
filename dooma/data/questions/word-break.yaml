@@ -1,0 +1,81 @@
+id: word-break
+title: Word Break
+url: https://leetcode.com/problems/word-break
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 62
+  apple:
+    frequency: 62
+  arista-networks:
+    frequency: 62
+  autodesk:
+    frequency: 50
+  bloomberg:
+    frequency: 62
+  buyhatke:
+    frequency: 100
+  cleartrip:
+    frequency: 100
+  coupang:
+    frequency: 100
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 50
+  grammarly:
+    frequency: 50
+  intuit:
+    frequency: 62
+  linkedin:
+    frequency: 25
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 50
+  millennium:
+    frequency: 75
+  mongodb:
+    frequency: 100
+  netflix:
+    frequency: 62
+  nordstrom:
+    frequency: 87
+  nutanix:
+    frequency: 62
+  oracle:
+    frequency: 37
+  otterai:
+    frequency: 87
+  palo-alto-networks:
+    frequency: 50
+  pocket-gems:
+    frequency: 100
+  salesforce:
+    frequency: 50
+  sap:
+    frequency: 50
+  snowflake:
+    frequency: 37
+  square:
+    frequency: 100
+  tekion:
+    frequency: 62
+  tiktok:
+    frequency: 50
+  uber:
+    frequency: 62
+  walmart-labs:
+    frequency: 87
+  yahoo:
+    frequency: 87
+  zeta:
+    frequency: 62
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

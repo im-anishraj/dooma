@@ -1,0 +1,27 @@
+id: find-customer-referee
+title: Find Customer Referee
+url: https://leetcode.com/problems/find-customer-referee
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 50
+  meesho:
+    frequency: 50
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 37
+  tcs:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

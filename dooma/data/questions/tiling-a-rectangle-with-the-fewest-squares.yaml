@@ -1,0 +1,17 @@
+id: tiling-a-rectangle-with-the-fewest-squares
+title: Tiling a Rectangle with the Fewest Squares
+url: https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

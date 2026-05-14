@@ -1,0 +1,13 @@
+id: count-words-obtained-after-adding-a-letter
+title: Count Words Obtained After Adding a Letter
+url: https://leetcode.com/problems/count-words-obtained-after-adding-a-letter
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

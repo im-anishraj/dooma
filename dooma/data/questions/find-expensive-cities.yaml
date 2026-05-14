@@ -1,0 +1,13 @@
+id: find-expensive-cities
+title: Find Expensive Cities
+url: https://leetcode.com/problems/find-expensive-cities
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

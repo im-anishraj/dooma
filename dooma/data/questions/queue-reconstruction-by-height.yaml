@@ -1,0 +1,21 @@
+id: queue-reconstruction-by-height
+title: Queue Reconstruction by Height
+url: https://leetcode.com/problems/queue-reconstruction-by-height
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 37
+  medianet:
+    frequency: 50
+  meta:
+    frequency: 12
+  phonepe:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

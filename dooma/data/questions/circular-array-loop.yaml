@@ -1,0 +1,19 @@
+id: circular-array-loop
+title: Circular Array Loop
+url: https://leetcode.com/problems/circular-array-loop
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  goldman-sachs:
+    frequency: 37
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

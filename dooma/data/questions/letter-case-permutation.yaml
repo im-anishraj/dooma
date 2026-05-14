@@ -1,0 +1,25 @@
+id: letter-case-permutation
+title: Letter Case Permutation
+url: https://leetcode.com/problems/letter-case-permutation
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 25
+  tiktok:
+    frequency: 37
+  yelp:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

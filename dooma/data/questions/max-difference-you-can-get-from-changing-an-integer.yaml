@@ -1,0 +1,23 @@
+id: max-difference-you-can-get-from-changing-an-integer
+title: Max Difference You Can Get From Changing an Integer
+url: https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  mercari:
+    frequency: 100
+  meta:
+    frequency: 12
+  trexquant:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

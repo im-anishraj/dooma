@@ -1,0 +1,43 @@
+id: reverse-string
+title: Reverse String
+url: https://leetcode.com/problems/reverse-string
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 50
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 50
+  bloomberg:
+    frequency: 50
+  epam-systems:
+    frequency: 75
+  garmin:
+    frequency: 87
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 37
+  hcl:
+    frequency: 75
+  infosys:
+    frequency: 50
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 37
+  nvidia:
+    frequency: 37
+  odoo:
+    frequency: 87
+  qualcomm:
+    frequency: 62
+  tcs:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: minimum-length-of-anagram-concatenation
+title: Minimum Length of Anagram Concatenation
+url: https://leetcode.com/problems/minimum-length-of-anagram-concatenation
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  turing:
+    frequency: 75
+  ukg:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

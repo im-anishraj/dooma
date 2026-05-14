@@ -1,0 +1,25 @@
+id: regions-cut-by-slashes
+title: Regions Cut By Slashes
+url: https://leetcode.com/problems/regions-cut-by-slashes
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 37
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  tiktok:
+    frequency: 37
+  uber:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

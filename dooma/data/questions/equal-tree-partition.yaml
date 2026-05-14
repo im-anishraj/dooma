@@ -1,0 +1,13 @@
+id: equal-tree-partition
+title: Equal Tree Partition
+url: https://leetcode.com/problems/equal-tree-partition
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

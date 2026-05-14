@@ -1,0 +1,15 @@
+id: count-substrings-without-repeating-character
+title: Count Substrings Without Repeating Character
+url: https://leetcode.com/problems/count-substrings-without-repeating-character
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  oracle:
+    frequency: 25
+  yandex:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

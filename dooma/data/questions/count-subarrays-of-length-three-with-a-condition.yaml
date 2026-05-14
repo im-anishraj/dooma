@@ -1,0 +1,21 @@
+id: count-subarrays-of-length-three-with-a-condition
+title: Count Subarrays of Length Three With a Condition
+url: https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  cognizant:
+    frequency: 100
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

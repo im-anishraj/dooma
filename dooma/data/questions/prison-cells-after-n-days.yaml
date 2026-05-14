@@ -1,0 +1,13 @@
+id: prison-cells-after-n-days
+title: Prison Cells After N Days
+url: https://leetcode.com/problems/prison-cells-after-n-days
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

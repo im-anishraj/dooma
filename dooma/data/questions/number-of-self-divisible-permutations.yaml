@@ -1,0 +1,13 @@
+id: number-of-self-divisible-permutations
+title: Number of Self-Divisible Permutations
+url: https://leetcode.com/problems/number-of-self-divisible-permutations
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  salesforce:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

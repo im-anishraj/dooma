@@ -1,0 +1,25 @@
+id: single-threaded-cpu
+title: Single-Threaded CPU
+url: https://leetcode.com/problems/single-threaded-cpu
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  doordash:
+    frequency: 75
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 37
+  ibm:
+    frequency: 50
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

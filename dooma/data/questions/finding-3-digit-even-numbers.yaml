@@ -1,0 +1,21 @@
+id: finding-3-digit-even-numbers
+title: Finding 3-Digit Even Numbers
+url: https://leetcode.com/problems/finding-3-digit-even-numbers
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

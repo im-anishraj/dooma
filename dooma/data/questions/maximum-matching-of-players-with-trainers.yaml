@@ -1,0 +1,17 @@
+id: maximum-matching-of-players-with-trainers
+title: Maximum Matching of Players With Trainers
+url: https://leetcode.com/problems/maximum-matching-of-players-with-trainers
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

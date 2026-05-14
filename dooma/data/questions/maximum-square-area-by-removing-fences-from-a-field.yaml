@@ -1,0 +1,17 @@
+id: maximum-square-area-by-removing-fences-from-a-field
+title: Maximum Square Area by Removing Fences From a Field
+url: https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  atlassian:
+    frequency: 62
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

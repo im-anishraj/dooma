@@ -1,0 +1,15 @@
+id: mice-and-cheese
+title: Mice and Cheese
+url: https://leetcode.com/problems/mice-and-cheese
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  doordash:
+    frequency: 50
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

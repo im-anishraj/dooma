@@ -1,0 +1,15 @@
+id: amount-of-new-area-painted-each-day
+title: Amount of New Area Painted Each Day
+url: https://leetcode.com/problems/amount-of-new-area-painted-each-day
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

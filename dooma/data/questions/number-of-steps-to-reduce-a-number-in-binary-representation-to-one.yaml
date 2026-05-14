@@ -1,0 +1,23 @@
+id: number-of-steps-to-reduce-a-number-in-binary-representation-to-one
+title: Number of Steps to Reduce a Number in Binary Representation to One
+url: https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  geico:
+    frequency: 87
+  general-motors:
+    frequency: 62
+  google:
+    frequency: 12
+  grab:
+    frequency: 62
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

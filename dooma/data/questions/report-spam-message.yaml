@@ -1,0 +1,15 @@
+id: report-spam-message
+title: Report Spam Message
+url: https://leetcode.com/problems/report-spam-message
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  ibm:
+    frequency: 50
+  salesforce:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

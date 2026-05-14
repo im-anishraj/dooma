@@ -1,0 +1,47 @@
+id: next-greater-element-ii
+title: Next Greater Element II
+url: https://leetcode.com/problems/next-greater-element-ii
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 37
+  bloomberg:
+    frequency: 50
+  flipkart:
+    frequency: 37
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 37
+  intuit:
+    frequency: 37
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 50
+  morgan-stanley:
+    frequency: 50
+  servicenow:
+    frequency: 50
+  sigmoid:
+    frequency: 75
+  tiktok:
+    frequency: 37
+  uber:
+    frequency: 25
+  visa:
+    frequency: 37
+  walmart-labs:
+    frequency: 37
+  zeta:
+    frequency: 75
+  zoho:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

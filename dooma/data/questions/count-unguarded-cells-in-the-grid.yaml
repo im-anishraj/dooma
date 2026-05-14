@@ -1,0 +1,21 @@
+id: count-unguarded-cells-in-the-grid
+title: Count Unguarded Cells in the Grid
+url: https://leetcode.com/problems/count-unguarded-cells-in-the-grid
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  poshmark:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

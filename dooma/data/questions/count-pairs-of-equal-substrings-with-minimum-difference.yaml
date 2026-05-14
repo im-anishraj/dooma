@@ -1,0 +1,13 @@
+id: count-pairs-of-equal-substrings-with-minimum-difference
+title: Count Pairs of Equal Substrings With Minimum Difference
+url: https://leetcode.com/problems/count-pairs-of-equal-substrings-with-minimum-difference
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

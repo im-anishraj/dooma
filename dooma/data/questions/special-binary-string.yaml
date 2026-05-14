@@ -1,0 +1,31 @@
+id: special-binary-string
+title: Special Binary String
+url: https://leetcode.com/problems/special-binary-string
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 75
+  amazon:
+    frequency: 12
+  bnp-paribas:
+    frequency: 100
+  coursera:
+    frequency: 100
+  google:
+    frequency: 12
+  grammarly:
+    frequency: 50
+  microsoft:
+    frequency: 37
+  nvidia:
+    frequency: 100
+  rubrik:
+    frequency: 37
+  ukg:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

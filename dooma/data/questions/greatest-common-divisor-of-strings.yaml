@@ -1,0 +1,27 @@
+id: greatest-common-divisor-of-strings
+title: Greatest Common Divisor of Strings
+url: https://leetcode.com/problems/greatest-common-divisor-of-strings
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  agoda:
+    frequency: 50
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 37
+  google:
+    frequency: 50
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 37
+  oracle:
+    frequency: 25
+  tiktok:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

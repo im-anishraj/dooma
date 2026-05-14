@@ -1,0 +1,25 @@
+id: ugly-number
+title: Ugly Number
+url: https://leetcode.com/problems/ugly-number
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 25
+  github:
+    frequency: 100
+  google:
+    frequency: 37
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  tcs:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

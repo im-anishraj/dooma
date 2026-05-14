@@ -1,0 +1,25 @@
+id: find-winner-on-a-tic-tac-toe-game
+title: Find Winner on a Tic Tac Toe Game
+url: https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  apple:
+    frequency: 50
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 12
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 25
+  zoho:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

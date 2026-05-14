@@ -1,0 +1,17 @@
+id: number-of-valid-words-in-a-sentence
+title: Number of Valid Words in a Sentence
+url: https://leetcode.com/problems/number-of-valid-words-in-a-sentence
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  cisco:
+    frequency: 75
+  meta:
+    frequency: 12
+  oracle:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

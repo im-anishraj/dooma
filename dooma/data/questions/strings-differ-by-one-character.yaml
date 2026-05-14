@@ -1,0 +1,15 @@
+id: strings-differ-by-one-character
+title: Strings Differ by One Character
+url: https://leetcode.com/problems/strings-differ-by-one-character
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  airbnb:
+    frequency: 75
+  okta:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

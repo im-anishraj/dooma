@@ -1,0 +1,13 @@
+id: max-value-of-equation
+title: Max Value of Equation
+url: https://leetcode.com/problems/max-value-of-equation
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

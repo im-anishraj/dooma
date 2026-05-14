@@ -1,0 +1,17 @@
+id: maximum-number-of-words-found-in-sentences
+title: Maximum Number of Words Found in Sentences
+url: https://leetcode.com/problems/maximum-number-of-words-found-in-sentences
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

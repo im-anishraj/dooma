@@ -1,0 +1,13 @@
+id: partition-array-to-minimize-xor
+title: Partition Array to Minimize XOR
+url: https://leetcode.com/problems/partition-array-to-minimize-xor
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: minimum-degree-of-a-connected-trio-in-a-graph
+title: Minimum Degree of a Connected Trio in a Graph
+url: https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  godaddy:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

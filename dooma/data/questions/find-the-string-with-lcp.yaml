@@ -1,0 +1,13 @@
+id: find-the-string-with-lcp
+title: Find the String with LCP
+url: https://leetcode.com/problems/find-the-string-with-lcp
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

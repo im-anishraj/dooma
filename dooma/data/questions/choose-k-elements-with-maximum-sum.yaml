@@ -1,0 +1,13 @@
+id: choose-k-elements-with-maximum-sum
+title: Choose K Elements With Maximum Sum
+url: https://leetcode.com/problems/choose-k-elements-with-maximum-sum
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

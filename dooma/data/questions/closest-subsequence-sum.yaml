@@ -1,0 +1,17 @@
+id: closest-subsequence-sum
+title: Closest Subsequence Sum
+url: https://leetcode.com/problems/closest-subsequence-sum
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  lti:
+    frequency: 87
+  sprinklr:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

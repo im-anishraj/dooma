@@ -1,0 +1,19 @@
+id: maximum-xor-product
+title: Maximum Xor Product
+url: https://leetcode.com/problems/maximum-xor-product
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  atlassian:
+    frequency: 37
+  google:
+    frequency: 12
+  rippling:
+    frequency: 62
+  squarepoint-capital:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

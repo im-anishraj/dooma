@@ -1,0 +1,15 @@
+id: distance-to-a-cycle-in-undirected-graph
+title: Distance to a Cycle in Undirected Graph
+url: https://leetcode.com/problems/distance-to-a-cycle-in-undirected-graph
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  microsoft:
+    frequency: 12
+  oracle:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,25 @@
+id: number-of-ways-to-paint-n-3-grid
+title: Number of Ways to Paint N × 3 Grid
+url: https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  fortinet:
+    frequency: 87
+  google:
+    frequency: 12
+  intuit:
+    frequency: 62
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

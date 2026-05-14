@@ -1,0 +1,21 @@
+id: find-missing-observations
+title: Find Missing Observations
+url: https://leetcode.com/problems/find-missing-observations
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

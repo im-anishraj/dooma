@@ -1,0 +1,17 @@
+id: increment-submatrices-by-one
+title: Increment Submatrices by One
+url: https://leetcode.com/problems/increment-submatrices-by-one
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

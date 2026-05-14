@@ -1,0 +1,17 @@
+id: string-without-aaa-or-bbb
+title: String Without AAA or BBB
+url: https://leetcode.com/problems/string-without-aaa-or-bbb
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  zalando:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

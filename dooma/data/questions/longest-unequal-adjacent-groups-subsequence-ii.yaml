@@ -1,0 +1,15 @@
+id: longest-unequal-adjacent-groups-subsequence-ii
+title: Longest Unequal Adjacent Groups Subsequence II
+url: https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  fourkites:
+    frequency: 100
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

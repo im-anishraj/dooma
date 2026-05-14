@@ -1,0 +1,21 @@
+id: maximum-subsequence-score
+title: Maximum Subsequence Score
+url: https://leetcode.com/problems/maximum-subsequence-score
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  de-shaw:
+    frequency: 75
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

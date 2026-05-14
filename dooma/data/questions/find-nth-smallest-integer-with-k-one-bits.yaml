@@ -1,0 +1,13 @@
+id: find-nth-smallest-integer-with-k-one-bits
+title: Find Nth Smallest Integer With K One Bits
+url: https://leetcode.com/problems/find-nth-smallest-integer-with-k-one-bits
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

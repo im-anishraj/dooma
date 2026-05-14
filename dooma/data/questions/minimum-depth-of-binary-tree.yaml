@@ -1,0 +1,23 @@
+id: minimum-depth-of-binary-tree
+title: Minimum Depth of Binary Tree
+url: https://leetcode.com/problems/minimum-depth-of-binary-tree
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 37
+  google:
+    frequency: 25
+  livspace:
+    frequency: 100
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

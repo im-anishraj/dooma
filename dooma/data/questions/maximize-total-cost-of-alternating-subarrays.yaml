@@ -1,0 +1,13 @@
+id: maximize-total-cost-of-alternating-subarrays
+title: Maximize Total Cost of Alternating Subarrays
+url: https://leetcode.com/problems/maximize-total-cost-of-alternating-subarrays
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

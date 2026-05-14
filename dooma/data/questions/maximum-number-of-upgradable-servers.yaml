@@ -1,0 +1,13 @@
+id: maximum-number-of-upgradable-servers
+title: Maximum Number of Upgradable Servers
+url: https://leetcode.com/problems/maximum-number-of-upgradable-servers
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  snowflake:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,27 @@
+id: sum-of-square-numbers
+title: Sum of Square Numbers
+url: https://leetcode.com/problems/sum-of-square-numbers
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 37
+  google:
+    frequency: 25
+  linkedin:
+    frequency: 50
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 25
+  netflix:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

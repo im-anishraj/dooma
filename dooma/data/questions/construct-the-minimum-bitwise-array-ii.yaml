@@ -1,0 +1,19 @@
+id: construct-the-minimum-bitwise-array-ii
+title: Construct the Minimum Bitwise Array II
+url: https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  aon:
+    frequency: 100
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

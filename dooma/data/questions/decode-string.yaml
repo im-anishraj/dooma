@@ -1,0 +1,93 @@
+id: decode-string
+title: Decode String
+url: https://leetcode.com/problems/decode-string
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  activision:
+    frequency: 75
+  adobe:
+    frequency: 37
+  agoda:
+    frequency: 75
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 50
+  bloomberg:
+    frequency: 75
+  bytedance:
+    frequency: 50
+  cisco:
+    frequency: 50
+  compass:
+    frequency: 100
+  coupang:
+    frequency: 100
+  cyntexa:
+    frequency: 100
+  flexport:
+    frequency: 100
+  geico:
+    frequency: 62
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 62
+  hashedin:
+    frequency: 62
+  hertz:
+    frequency: 100
+  huawei:
+    frequency: 75
+  intuit:
+    frequency: 37
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 50
+  moloco:
+    frequency: 75
+  nutanix:
+    frequency: 62
+  nvidia:
+    frequency: 37
+  oracle:
+    frequency: 62
+  ozon:
+    frequency: 87
+  palo-alto-networks:
+    frequency: 62
+  razorpay:
+    frequency: 87
+  roku:
+    frequency: 87
+  salesforce:
+    frequency: 37
+  splunk:
+    frequency: 87
+  sumologic:
+    frequency: 62
+  tencent:
+    frequency: 100
+  tiktok:
+    frequency: 75
+  tinkoff:
+    frequency: 75
+  walmart-labs:
+    frequency: 37
+  wix:
+    frequency: 75
+  yahoo:
+    frequency: 50
+  yelp:
+    frequency: 100
+  zoho:
+    frequency: 87
+  zopsmart:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

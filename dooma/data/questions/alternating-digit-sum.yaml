@@ -1,0 +1,19 @@
+id: alternating-digit-sum
+title: Alternating Digit Sum
+url: https://leetcode.com/problems/alternating-digit-sum
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  capital-one:
+    frequency: 37
+  ebay:
+    frequency: 100
+  visa:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

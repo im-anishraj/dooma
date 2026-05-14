@@ -1,0 +1,13 @@
+id: form-array-by-concatenating-subarrays-of-another-array
+title: Form Array by Concatenating Subarrays of Another Array
+url: https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

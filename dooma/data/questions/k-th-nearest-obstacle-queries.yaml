@@ -1,0 +1,13 @@
+id: k-th-nearest-obstacle-queries
+title: K-th Nearest Obstacle Queries
+url: https://leetcode.com/problems/k-th-nearest-obstacle-queries
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

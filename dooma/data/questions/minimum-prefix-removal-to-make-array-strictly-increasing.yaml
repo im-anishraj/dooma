@@ -1,0 +1,13 @@
+id: minimum-prefix-removal-to-make-array-strictly-increasing
+title: Minimum Prefix Removal to Make Array Strictly Increasing
+url: https://leetcode.com/problems/minimum-prefix-removal-to-make-array-strictly-increasing
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  jpmorgan:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

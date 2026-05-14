@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Help Desk and usage questions
+    url: https://github.com/im-anishraj/dooma/discussions/120
+    about: Installation help, CLI usage, dataset questions, and troubleshooting belong in Discussions first.
+  - name: Contributor onboarding
+    url: https://github.com/im-anishraj/dooma/discussions/122
+    about: New contributors can ask where to start and get help choosing an issue.
+  - name: Product ideas before they are scoped
+    url: https://github.com/im-anishraj/dooma/discussions/121
+    about: Use Discussions for early product ideas before opening an implementation-ready issue.
+  - name: Security or private credential concern
+    url: https://github.com/im-anishraj/dooma/security/advisories/new
+    about: Please do not open public issues for vulnerabilities, leaked tokens, or private credentials.

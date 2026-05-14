@@ -1,0 +1,37 @@
+id: validate-ip-address
+title: Validate IP Address
+url: https://leetcode.com/problems/validate-ip-address
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 62
+  amazon:
+    frequency: 12
+  apple:
+    frequency: 37
+  cisco:
+    frequency: 37
+  flexport:
+    frequency: 62
+  google:
+    frequency: 12
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 25
+  nvidia:
+    frequency: 37
+  oracle:
+    frequency: 37
+  tiktok:
+    frequency: 37
+  turing:
+    frequency: 87
+  twitter:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

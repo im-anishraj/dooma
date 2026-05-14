@@ -1,8 +1,21 @@
-# Dataset Schema
+# Legacy Dataset Snapshot
 
-`companies.json` stores the offline question database used by the Dooma CLI.
-The top-level value is a JSON object keyed by company name. Each company maps to
-an array of question objects.
+`companies.json` is a legacy source snapshot. The canonical dataset lives in
+YAML files under `dooma/data/`:
+
+- `questions/*.yaml` for canonical question metadata
+- `companies/*.yaml` for company metadata
+- `patterns/*.yaml` for pattern metadata
+- `sheets/*.yaml` for curated roadmaps
+
+Released packages also include `dooma/data/index.json`, a generated compact
+runtime index built from those YAML files. Keep editing YAML, then run
+`python scripts/build_index.py` before release.
+
+The active dataset currently contains 3,310 unique questions and 17,931
+company-question mappings across 662 companies.
+
+The legacy JSON shape is:
 
 ```json
 {

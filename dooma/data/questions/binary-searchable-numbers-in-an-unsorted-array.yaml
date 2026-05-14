@@ -1,0 +1,15 @@
+id: binary-searchable-numbers-in-an-unsorted-array
+title: Binary Searchable Numbers in an Unsorted Array
+url: https://leetcode.com/problems/binary-searchable-numbers-in-an-unsorted-array
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

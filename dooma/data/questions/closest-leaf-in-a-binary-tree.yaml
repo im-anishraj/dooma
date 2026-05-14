@@ -1,0 +1,17 @@
+id: closest-leaf-in-a-binary-tree
+title: Closest Leaf in a Binary Tree
+url: https://leetcode.com/problems/closest-leaf-in-a-binary-tree
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  databricks:
+    frequency: 62
+  linkedin:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,45 @@
+id: partition-equal-subset-sum
+title: Partition Equal Subset Sum
+url: https://leetcode.com/problems/partition-equal-subset-sum
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 50
+  bloomberg:
+    frequency: 50
+  dream11:
+    frequency: 62
+  ebay:
+    frequency: 87
+  epam-systems:
+    frequency: 62
+  flipkart:
+    frequency: 37
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 50
+  linkedin:
+    frequency: 25
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 37
+  salesforce:
+    frequency: 25
+  tcs:
+    frequency: 37
+  tiktok:
+    frequency: 50
+  visa:
+    frequency: 37
+  walmart-labs:
+    frequency: 37
+  zoho:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

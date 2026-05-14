@@ -1,0 +1,15 @@
+id: reshape-data-melt
+title: 'Reshape Data: Melt'
+url: https://leetcode.com/problems/reshape-data-melt
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

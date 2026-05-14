@@ -1,0 +1,13 @@
+id: count-the-number-of-vowel-strings-in-range
+title: Count the Number of Vowel Strings in Range
+url: https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  paypal:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

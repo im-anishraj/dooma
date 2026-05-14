@@ -1,0 +1,13 @@
+id: equalize-strings-by-adding-or-removing-characters-at-ends
+title: Equalize Strings by Adding or Removing Characters at Ends
+url: https://leetcode.com/problems/equalize-strings-by-adding-or-removing-characters-at-ends
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  salesforce:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,43 @@
+id: can-place-flowers
+title: Can Place Flowers
+url: https://leetcode.com/problems/can-place-flowers
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  airbnb:
+    frequency: 37
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 25
+  atlassian:
+    frequency: 50
+  bloomberg:
+    frequency: 37
+  cisco:
+    frequency: 37
+  google:
+    frequency: 37
+  htc:
+    frequency: 100
+  linkedin:
+    frequency: 75
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 37
+  nike:
+    frequency: 75
+  nutanix:
+    frequency: 50
+  oracle:
+    frequency: 25
+  soti:
+    frequency: 100
+  yandex:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

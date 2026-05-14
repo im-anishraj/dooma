@@ -1,0 +1,27 @@
+id: number-of-connected-components-in-an-undirected-graph
+title: Number of Connected Components in an Undirected Graph
+url: https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  apple:
+    frequency: 25
+  general-motors:
+    frequency: 100
+  google:
+    frequency: 25
+  linkedin:
+    frequency: 37
+  meta:
+    frequency: 12
+  tiktok:
+    frequency: 25
+  twitter:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

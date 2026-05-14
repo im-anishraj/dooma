@@ -1,0 +1,13 @@
+id: smallest-index-with-digit-sum-equal-to-index
+title: Smallest Index With Digit Sum Equal to Index
+url: https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,17 @@
+id: count-collisions-on-a-road
+title: Count Collisions on a Road
+url: https://leetcode.com/problems/count-collisions-on-a-road
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  arcesium:
+    frequency: 100
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

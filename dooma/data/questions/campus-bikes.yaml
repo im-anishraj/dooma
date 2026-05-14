@@ -1,0 +1,15 @@
+id: campus-bikes
+title: Campus Bikes
+url: https://leetcode.com/problems/campus-bikes
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  snowflake:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

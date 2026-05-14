@@ -1,0 +1,13 @@
+id: unique-substrings-with-equal-digit-frequency
+title: Unique Substrings With Equal Digit Frequency
+url: https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  expedia:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,31 @@
+id: shortest-palindrome
+title: Shortest Palindrome
+url: https://leetcode.com/problems/shortest-palindrome
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 75
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 37
+  google:
+    frequency: 37
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  pocket-gems:
+    frequency: 100
+  tiktok:
+    frequency: 25
+  uber:
+    frequency: 37
+  visa:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

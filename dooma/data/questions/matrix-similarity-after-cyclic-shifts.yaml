@@ -1,0 +1,15 @@
+id: matrix-similarity-after-cyclic-shifts
+title: Matrix Similarity After Cyclic Shifts
+url: https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  meta:
+    frequency: 12
+  salesforce:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

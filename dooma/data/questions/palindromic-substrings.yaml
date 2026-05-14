@@ -1,0 +1,57 @@
+id: palindromic-substrings
+title: Palindromic Substrings
+url: https://leetcode.com/problems/palindromic-substrings
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  anduril:
+    frequency: 50
+  apple:
+    frequency: 25
+  arista-networks:
+    frequency: 62
+  bloomberg:
+    frequency: 37
+  capital-one:
+    frequency: 37
+  cisco:
+    frequency: 37
+  citadel:
+    frequency: 100
+  epic-systems:
+    frequency: 50
+  goldman-sachs:
+    frequency: 50
+  google:
+    frequency: 37
+  hcl:
+    frequency: 62
+  intuit:
+    frequency: 37
+  linkedin:
+    frequency: 50
+  meta:
+    frequency: 62
+  microsoft:
+    frequency: 37
+  netskope:
+    frequency: 100
+  oracle:
+    frequency: 50
+  paypal:
+    frequency: 50
+  pure-storage:
+    frequency: 87
+  salesforce:
+    frequency: 62
+  sofi:
+    frequency: 62
+  walmart-labs:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

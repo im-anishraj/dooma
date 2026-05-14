@@ -1,0 +1,13 @@
+id: drop-duplicate-rows
+title: Drop Duplicate Rows
+url: https://leetcode.com/problems/drop-duplicate-rows
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,37 @@
+id: boundary-of-binary-tree
+title: Boundary of Binary Tree
+url: https://leetcode.com/problems/boundary-of-binary-tree
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 37
+  blackrock:
+    frequency: 37
+  geico:
+    frequency: 62
+  google:
+    frequency: 25
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 25
+  nutanix:
+    frequency: 50
+  oracle:
+    frequency: 25
+  salesforce:
+    frequency: 50
+  snowflake:
+    frequency: 62
+  uber:
+    frequency: 50
+  walmart-labs:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

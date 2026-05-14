@@ -1,0 +1,31 @@
+id: is-graph-bipartite
+title: Is Graph Bipartite?
+url: https://leetcode.com/problems/is-graph-bipartite
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  lime:
+    frequency: 100
+  linkedin:
+    frequency: 25
+  meta:
+    frequency: 37
+  microsoft:
+    frequency: 25
+  samsung:
+    frequency: 75
+  tiktok:
+    frequency: 37
+  uber:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

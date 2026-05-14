@@ -1,0 +1,15 @@
+id: find-number-of-coins-to-place-in-tree-nodes
+title: Find Number of Coins to Place in Tree Nodes
+url: https://leetcode.com/problems/find-number-of-coins-to-place-in-tree-nodes
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

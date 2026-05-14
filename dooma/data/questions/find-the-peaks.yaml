@@ -1,0 +1,15 @@
+id: find-the-peaks
+title: Find the Peaks
+url: https://leetcode.com/problems/find-the-peaks
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  accelya:
+    frequency: 100
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

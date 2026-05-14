@@ -1,0 +1,15 @@
+id: mark-elements-on-array-by-performing-queries
+title: Mark Elements on Array by Performing Queries
+url: https://leetcode.com/problems/mark-elements-on-array-by-performing-queries
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  barclays:
+    frequency: 100
+  samsung:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

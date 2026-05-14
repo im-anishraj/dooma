@@ -1,0 +1,23 @@
+id: find-servers-that-handled-most-number-of-requests
+title: Find Servers That Handled Most Number of Requests
+url: https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  apple:
+    frequency: 50
+  cisco:
+    frequency: 37
+  citadel:
+    frequency: 62
+  google:
+    frequency: 12
+  wish:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

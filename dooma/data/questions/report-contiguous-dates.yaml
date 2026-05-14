@@ -1,0 +1,15 @@
+id: report-contiguous-dates
+title: Report Contiguous Dates
+url: https://leetcode.com/problems/report-contiguous-dates
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  meta:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

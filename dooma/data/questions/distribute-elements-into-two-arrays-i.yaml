@@ -1,0 +1,15 @@
+id: distribute-elements-into-two-arrays-i
+title: Distribute Elements Into Two Arrays I
+url: https://leetcode.com/problems/distribute-elements-into-two-arrays-i
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  autodesk:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

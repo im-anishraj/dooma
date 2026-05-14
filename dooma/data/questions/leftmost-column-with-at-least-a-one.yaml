@@ -1,0 +1,17 @@
+id: leftmost-column-with-at-least-a-one
+title: Leftmost Column with at Least a One
+url: https://leetcode.com/problems/leftmost-column-with-at-least-a-one
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  meta:
+    frequency: 25
+  sap:
+    frequency: 62
+  uber:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

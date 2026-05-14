@@ -1,0 +1,25 @@
+id: k-th-smallest-in-lexicographical-order
+title: K-th Smallest in Lexicographical Order
+url: https://leetcode.com/problems/k-th-smallest-in-lexicographical-order
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  de-shaw:
+    frequency: 62
+  google:
+    frequency: 25
+  hulu:
+    frequency: 100
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  tiktok:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

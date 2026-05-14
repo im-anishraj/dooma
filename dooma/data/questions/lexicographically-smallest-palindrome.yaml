@@ -1,0 +1,21 @@
+id: lexicographically-smallest-palindrome
+title: Lexicographically Smallest Palindrome
+url: https://leetcode.com/problems/lexicographically-smallest-palindrome
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  mathworks:
+    frequency: 50
+  paypal:
+    frequency: 37
+  tiktok:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

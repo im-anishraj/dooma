@@ -1,0 +1,29 @@
+id: path-with-minimum-effort
+title: Path With Minimum Effort
+url: https://leetcode.com/problems/path-with-minimum-effort
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 37
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  nutanix:
+    frequency: 50
+  snowflake:
+    frequency: 37
+  tiktok:
+    frequency: 37
+  waymo:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

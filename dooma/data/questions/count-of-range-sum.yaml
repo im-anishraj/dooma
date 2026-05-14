@@ -1,0 +1,19 @@
+id: count-of-range-sum
+title: Count of Range Sum
+url: https://leetcode.com/problems/count-of-range-sum
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  oracle:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

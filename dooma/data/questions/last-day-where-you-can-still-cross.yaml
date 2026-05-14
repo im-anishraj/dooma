@@ -1,0 +1,19 @@
+id: last-day-where-you-can-still-cross
+title: Last Day Where You Can Still Cross
+url: https://leetcode.com/problems/last-day-where-you-can-still-cross
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  atlassian:
+    frequency: 37
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

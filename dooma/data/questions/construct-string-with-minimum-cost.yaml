@@ -1,0 +1,13 @@
+id: construct-string-with-minimum-cost
+title: Construct String with Minimum Cost
+url: https://leetcode.com/problems/construct-string-with-minimum-cost
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  mitsogo:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

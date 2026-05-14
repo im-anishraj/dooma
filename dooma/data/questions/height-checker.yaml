@@ -1,0 +1,25 @@
+id: height-checker
+title: Height Checker
+url: https://leetcode.com/problems/height-checker
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  ibm:
+    frequency: 50
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  salesforce:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,19 @@
+id: count-the-number-of-inversions
+title: Count the Number of Inversions
+url: https://leetcode.com/problems/count-the-number-of-inversions
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  salesforce:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,95 @@
+id: course-schedule
+title: Course Schedule
+url: https://leetcode.com/problems/course-schedule
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 50
+  amazon:
+    frequency: 75
+  anduril:
+    frequency: 75
+  apple:
+    frequency: 75
+  bitgo:
+    frequency: 62
+  bloomberg:
+    frequency: 50
+  bytedance:
+    frequency: 75
+  citadel:
+    frequency: 50
+  cloudflare:
+    frequency: 50
+  coupang:
+    frequency: 87
+  crowdstrike:
+    frequency: 62
+  cruise-automation:
+    frequency: 62
+  doordash:
+    frequency: 37
+  ebay:
+    frequency: 75
+  flipkart:
+    frequency: 62
+  google:
+    frequency: 50
+  graviton:
+    frequency: 87
+  ibm:
+    frequency: 37
+  intuit:
+    frequency: 37
+  ixl:
+    frequency: 50
+  linkedin:
+    frequency: 25
+  liveramp:
+    frequency: 62
+  meta:
+    frequency: 62
+  microsoft:
+    frequency: 50
+  nordstrom:
+    frequency: 100
+  nvidia:
+    frequency: 50
+  oracle:
+    frequency: 62
+  paypal:
+    frequency: 37
+  roblox:
+    frequency: 62
+  salesforce:
+    frequency: 37
+  snapchat:
+    frequency: 75
+  snowflake:
+    frequency: 62
+  state-farm:
+    frequency: 100
+  swiggy:
+    frequency: 75
+  tesla:
+    frequency: 50
+  tiktok:
+    frequency: 87
+  uber:
+    frequency: 62
+  visa:
+    frequency: 50
+  walmart-labs:
+    frequency: 50
+  yelp:
+    frequency: 100
+  zenefits:
+    frequency: 100
+  zomato:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

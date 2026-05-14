@@ -1,0 +1,39 @@
+id: binary-tree-level-order-traversal
+title: Binary Tree Level Order Traversal
+url: https://leetcode.com/problems/binary-tree-level-order-traversal
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  adobe:
+    frequency: 50
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 62
+  bloomberg:
+    frequency: 62
+  gojek:
+    frequency: 87
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 37
+  linkedin:
+    frequency: 50
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 50
+  oracle:
+    frequency: 50
+  palo-alto-networks:
+    frequency: 62
+  walmart-labs:
+    frequency: 37
+  yandex:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

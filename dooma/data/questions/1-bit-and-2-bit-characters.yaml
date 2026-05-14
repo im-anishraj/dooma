@@ -1,0 +1,21 @@
+id: 1-bit-and-2-bit-characters
+title: 1-bit and 2-bit Characters
+url: https://leetcode.com/problems/1-bit-and-2-bit-characters
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  ixl:
+    frequency: 62
+  microsoft:
+    frequency: 12
+  quora:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

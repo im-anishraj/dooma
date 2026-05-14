@@ -1,0 +1,15 @@
+id: maximum-size-of-a-set-after-removals
+title: Maximum Size of a Set After Removals
+url: https://leetcode.com/problems/maximum-size-of-a-set-after-removals
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

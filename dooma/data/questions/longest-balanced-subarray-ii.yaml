@@ -1,0 +1,15 @@
+id: longest-balanced-subarray-ii
+title: Longest Balanced Subarray II
+url: https://leetcode.com/problems/longest-balanced-subarray-ii
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

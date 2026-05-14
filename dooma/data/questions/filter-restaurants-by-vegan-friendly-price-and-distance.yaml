@@ -1,0 +1,13 @@
+id: filter-restaurants-by-vegan-friendly-price-and-distance
+title: Filter Restaurants by Vegan-Friendly, Price and Distance
+url: https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  yelp:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

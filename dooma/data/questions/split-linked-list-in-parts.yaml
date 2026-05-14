@@ -1,0 +1,21 @@
+id: split-linked-list-in-parts
+title: Split Linked List in Parts
+url: https://leetcode.com/problems/split-linked-list-in-parts
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

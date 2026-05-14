@@ -1,0 +1,23 @@
+id: rotated-digits
+title: Rotated Digits
+url: https://leetcode.com/problems/rotated-digits
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  arista-networks:
+    frequency: 87
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  uber:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

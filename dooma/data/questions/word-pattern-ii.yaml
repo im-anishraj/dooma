@@ -1,0 +1,23 @@
+id: word-pattern-ii
+title: Word Pattern II
+url: https://leetcode.com/problems/word-pattern-ii
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  apple:
+    frequency: 25
+  dropbox:
+    frequency: 100
+  microsoft:
+    frequency: 12
+  tiktok:
+    frequency: 25
+  uber:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,23 @@
+id: maximum-number-of-points-from-grid-queries
+title: Maximum Number of Points From Grid Queries
+url: https://leetcode.com/problems/maximum-number-of-points-from-grid-queries
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  jpmorgan:
+    frequency: 75
+  meta:
+    frequency: 12
+  uber:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

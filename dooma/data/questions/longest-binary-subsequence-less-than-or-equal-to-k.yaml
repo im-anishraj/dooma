@@ -1,0 +1,17 @@
+id: longest-binary-subsequence-less-than-or-equal-to-k
+title: Longest Binary Subsequence Less Than or Equal to K
+url: https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

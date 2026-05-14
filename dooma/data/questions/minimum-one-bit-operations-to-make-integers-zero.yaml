@@ -1,0 +1,21 @@
+id: minimum-one-bit-operations-to-make-integers-zero
+title: Minimum One Bit Operations to Make Integers Zero
+url: https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  expedia:
+    frequency: 100
+  google:
+    frequency: 12
+  oracle:
+    frequency: 62
+  servicenow:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

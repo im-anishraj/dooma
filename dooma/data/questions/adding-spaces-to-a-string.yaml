@@ -1,0 +1,21 @@
+id: adding-spaces-to-a-string
+title: Adding Spaces to a String
+url: https://leetcode.com/problems/adding-spaces-to-a-string
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,13 @@
+id: rearrange-characters-to-make-target-string
+title: Rearrange Characters to Make Target String
+url: https://leetcode.com/problems/rearrange-characters-to-make-target-string
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

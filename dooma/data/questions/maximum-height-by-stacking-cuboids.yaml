@@ -1,0 +1,19 @@
+id: maximum-height-by-stacking-cuboids
+title: Maximum Height by Stacking Cuboids
+url: https://leetcode.com/problems/maximum-height-by-stacking-cuboids
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  samsung:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

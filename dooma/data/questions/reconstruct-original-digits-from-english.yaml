@@ -1,0 +1,19 @@
+id: reconstruct-original-digits-from-english
+title: Reconstruct Original Digits from English
+url: https://leetcode.com/problems/reconstruct-original-digits-from-english
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  kickdrum:
+    frequency: 87
+  netapp:
+    frequency: 75
+  wix:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

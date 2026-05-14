@@ -1,0 +1,59 @@
+id: set-matrix-zeroes
+title: Set Matrix Zeroes
+url: https://leetcode.com/problems/set-matrix-zeroes
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 50
+  apple:
+    frequency: 50
+  autodesk:
+    frequency: 50
+  bloomberg:
+    frequency: 50
+  ebay:
+    frequency: 75
+  expedia:
+    frequency: 50
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 50
+  infosys:
+    frequency: 50
+  jpmorgan:
+    frequency: 37
+  juspay:
+    frequency: 50
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 62
+  nutanix:
+    frequency: 62
+  nvidia:
+    frequency: 50
+  oracle:
+    frequency: 50
+  paypal:
+    frequency: 37
+  servicenow:
+    frequency: 62
+  tcs:
+    frequency: 37
+  uber:
+    frequency: 25
+  walmart-labs:
+    frequency: 50
+  yahoo:
+    frequency: 50
+  zoho:
+    frequency: 50
+  zscaler:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,15 @@
+id: escape-the-ghosts
+title: Escape The Ghosts
+url: https://leetcode.com/problems/escape-the-ghosts
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  wix:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

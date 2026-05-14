@@ -1,0 +1,15 @@
+id: kth-ancestor-of-a-tree-node
+title: Kth Ancestor of a Tree Node
+url: https://leetcode.com/problems/kth-ancestor-of-a-tree-node
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

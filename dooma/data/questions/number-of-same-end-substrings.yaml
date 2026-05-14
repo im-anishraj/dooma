@@ -1,0 +1,15 @@
+id: number-of-same-end-substrings
+title: Number of Same-End Substrings
+url: https://leetcode.com/problems/number-of-same-end-substrings
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  sprinklr:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

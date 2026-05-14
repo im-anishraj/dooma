@@ -1,0 +1,17 @@
+id: zigzag-grid-traversal-with-skip
+title: Zigzag Grid Traversal With Skip
+url: https://leetcode.com/problems/zigzag-grid-traversal-with-skip
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  tcs:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

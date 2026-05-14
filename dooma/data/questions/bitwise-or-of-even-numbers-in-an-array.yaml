@@ -1,0 +1,15 @@
+id: bitwise-or-of-even-numbers-in-an-array
+title: Bitwise OR of Even Numbers in an Array
+url: https://leetcode.com/problems/bitwise-or-of-even-numbers-in-an-array
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

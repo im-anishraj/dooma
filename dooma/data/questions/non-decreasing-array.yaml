@@ -1,0 +1,21 @@
+id: non-decreasing-array
+title: Non-decreasing Array
+url: https://leetcode.com/problems/non-decreasing-array
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  cashfree:
+    frequency: 75
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+  walmart-labs:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

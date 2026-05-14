@@ -1,0 +1,25 @@
+id: power-grid-maintenance
+title: Power Grid Maintenance
+url: https://leetcode.com/problems/power-grid-maintenance
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  cisco:
+    frequency: 62
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  salesforce:
+    frequency: 62
+  zeta:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

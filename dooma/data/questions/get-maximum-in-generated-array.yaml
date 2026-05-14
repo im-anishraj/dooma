@@ -1,0 +1,15 @@
+id: get-maximum-in-generated-array
+title: Get Maximum in Generated Array
+url: https://leetcode.com/problems/get-maximum-in-generated-array
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  verizon:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

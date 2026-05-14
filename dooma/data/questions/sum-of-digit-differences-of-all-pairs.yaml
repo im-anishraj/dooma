@@ -1,0 +1,15 @@
+id: sum-of-digit-differences-of-all-pairs
+title: Sum of Digit Differences of All Pairs
+url: https://leetcode.com/problems/sum-of-digit-differences-of-all-pairs
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+  turing:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

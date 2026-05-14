@@ -1,0 +1,15 @@
+id: minimum-array-changes-to-make-differences-equal
+title: Minimum Array Changes to Make Differences Equal
+url: https://leetcode.com/problems/minimum-array-changes-to-make-differences-equal
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  airbus:
+    frequency: 100
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

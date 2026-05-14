@@ -1,0 +1,25 @@
+id: minimum-difficulty-of-a-job-schedule
+title: Minimum Difficulty of a Job Schedule
+url: https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  mathworks:
+    frequency: 50
+  microsoft:
+    frequency: 37
+  salesforce:
+    frequency: 37
+  tiktok:
+    frequency: 37
+  turvo:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

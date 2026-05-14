@@ -1,0 +1,21 @@
+id: minimized-maximum-of-products-distributed-to-any-store
+title: Minimized Maximum of Products Distributed to Any Store
+url: https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 25
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  microsoft:
+    frequency: 12
+  siemens:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

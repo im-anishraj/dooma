@@ -1,0 +1,15 @@
+id: count-visited-nodes-in-a-directed-graph
+title: Count Visited Nodes in a Directed Graph
+url: https://leetcode.com/problems/count-visited-nodes-in-a-directed-graph
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bny-mellon:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

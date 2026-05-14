@@ -1,0 +1,21 @@
+id: read-n-characters-given-read4-ii-call-multiple-times
+title: Read N Characters Given read4 II - Call Multiple Times
+url: https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times
+difficulty: hard
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  apple:
+    frequency: 25
+  bloomberg:
+    frequency: 37
+  google:
+    frequency: 25
+  lyft:
+    frequency: 87
+  meta:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,23 @@
+id: elimination-game
+title: Elimination Game
+url: https://leetcode.com/problems/elimination-game
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  autodesk:
+    frequency: 50
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  kickdrum:
+    frequency: 100
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,23 @@
+id: maximum-repeating-substring
+title: Maximum Repeating Substring
+url: https://leetcode.com/problems/maximum-repeating-substring
+difficulty: easy
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  asana:
+    frequency: 87
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 12
+  pure-storage:
+    frequency: 75
+  turing:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

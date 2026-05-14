@@ -1,0 +1,13 @@
+id: minimum-cost-to-change-the-final-value-of-expression
+title: Minimum Cost to Change the Final Value of Expression
+url: https://leetcode.com/problems/minimum-cost-to-change-the-final-value-of-expression
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

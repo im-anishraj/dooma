@@ -1,0 +1,15 @@
+id: matrix-cells-in-distance-order
+title: Matrix Cells in Distance Order
+url: https://leetcode.com/problems/matrix-cells-in-distance-order
+difficulty: easy
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  yahoo:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

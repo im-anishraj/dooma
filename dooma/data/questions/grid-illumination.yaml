@@ -1,0 +1,13 @@
+id: grid-illumination
+title: Grid Illumination
+url: https://leetcode.com/problems/grid-illumination
+difficulty: hard
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  dropbox:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

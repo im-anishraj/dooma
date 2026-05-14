@@ -1,0 +1,19 @@
+id: number-of-orders-in-the-backlog
+title: Number of Orders in the Backlog
+url: https://leetcode.com/problems/number-of-orders-in-the-backlog
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  citadel:
+    frequency: 75
+  google:
+    frequency: 12
+  jane-street:
+    frequency: 62
+  robinhood:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

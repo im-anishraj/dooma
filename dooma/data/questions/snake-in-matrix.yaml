@@ -1,0 +1,13 @@
+id: snake-in-matrix
+title: Snake in Matrix
+url: https://leetcode.com/problems/snake-in-matrix
+difficulty: easy
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

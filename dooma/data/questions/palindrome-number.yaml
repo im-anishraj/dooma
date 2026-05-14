@@ -1,0 +1,81 @@
+id: palindrome-number
+title: Palindrome Number
+url: https://leetcode.com/problems/palindrome-number
+difficulty: easy
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  accenture:
+    frequency: 75
+  adobe:
+    frequency: 37
+  amazon:
+    frequency: 75
+  amd:
+    frequency: 75
+  apple:
+    frequency: 25
+  bcg:
+    frequency: 100
+  bloomberg:
+    frequency: 75
+  capgemini:
+    frequency: 62
+  capital-one:
+    frequency: 50
+  cognizant:
+    frequency: 87
+  deloitte:
+    frequency: 75
+  epam-systems:
+    frequency: 62
+  fpt:
+    frequency: 62
+  garmin:
+    frequency: 87
+  google:
+    frequency: 75
+  ibm:
+    frequency: 50
+  infosys:
+    frequency: 87
+  intel:
+    frequency: 75
+  luxoft:
+    frequency: 100
+  meta:
+    frequency: 62
+  microsoft:
+    frequency: 75
+  mindtree:
+    frequency: 62
+  morgan-stanley:
+    frequency: 62
+  oracle:
+    frequency: 37
+  persistent-systems:
+    frequency: 75
+  qualcomm:
+    frequency: 50
+  samsung:
+    frequency: 50
+  sap:
+    frequency: 62
+  siemens:
+    frequency: 62
+  tcs:
+    frequency: 75
+  uber:
+    frequency: 25
+  wipro:
+    frequency: 75
+  yahoo:
+    frequency: 75
+  yandex:
+    frequency: 25
+  zoho:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,17 @@
+id: range-sum-query-2d-mutable
+title: Range Sum Query 2D - Mutable
+url: https://leetcode.com/problems/range-sum-query-2d-mutable
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 25
+  google:
+    frequency: 25
+sheets: []
+prerequisites: []
+related: []

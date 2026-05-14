@@ -1,0 +1,15 @@
+id: maximum-strength-of-k-disjoint-subarrays
+title: Maximum Strength of K Disjoint Subarrays
+url: https://leetcode.com/problems/maximum-strength-of-k-disjoint-subarrays
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  de-shaw:
+    frequency: 75
+sheets: []
+prerequisites: []
+related: []

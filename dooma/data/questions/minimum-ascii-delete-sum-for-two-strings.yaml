@@ -1,0 +1,19 @@
+id: minimum-ascii-delete-sum-for-two-strings
+title: Minimum ASCII Delete Sum for Two Strings
+url: https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  google:
+    frequency: 12
+  meta:
+    frequency: 12
+  triplebyte:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

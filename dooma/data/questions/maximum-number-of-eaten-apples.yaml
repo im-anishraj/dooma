@@ -1,0 +1,13 @@
+id: maximum-number-of-eaten-apples
+title: Maximum Number of Eaten Apples
+url: https://leetcode.com/problems/maximum-number-of-eaten-apples
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  uber:
+    frequency: 50
+sheets: []
+prerequisites: []
+related: []

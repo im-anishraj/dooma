@@ -1,0 +1,25 @@
+id: minimum-limit-of-balls-in-a-bag
+title: Minimum Limit of Balls in a Bag
+url: https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 12
+  bloomberg:
+    frequency: 25
+  flipkart:
+    frequency: 75
+  google:
+    frequency: 12
+  intuit:
+    frequency: 37
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

@@ -1,0 +1,17 @@
+id: minimum-consecutive-cards-to-pick-up
+title: Minimum Consecutive Cards to Pick Up
+url: https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up
+difficulty: medium
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  google:
+    frequency: 25
+  meta:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

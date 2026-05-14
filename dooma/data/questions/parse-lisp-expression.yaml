@@ -1,0 +1,19 @@
+id: parse-lisp-expression
+title: Parse Lisp Expression
+url: https://leetcode.com/problems/parse-lisp-expression
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  affirm:
+    frequency: 75
+  amazon:
+    frequency: 12
+  attentive:
+    frequency: 87
+  google:
+    frequency: 12
+sheets: []
+prerequisites: []
+related: []

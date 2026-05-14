@@ -1,0 +1,13 @@
+id: find-longest-calls
+title: Find Longest Calls
+url: https://leetcode.com/problems/find-longest-calls
+difficulty: medium
+frequency_tier: rare
+patterns: []
+topics: []
+companies:
+  ibm:
+    frequency: 37
+sheets: []
+prerequisites: []
+related: []

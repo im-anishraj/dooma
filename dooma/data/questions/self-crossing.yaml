@@ -1,0 +1,15 @@
+id: self-crossing
+title: Self Crossing
+url: https://leetcode.com/problems/self-crossing
+difficulty: hard
+frequency_tier: low
+patterns: []
+topics: []
+companies:
+  bloomberg:
+    frequency: 12
+  zomato:
+    frequency: 62
+sheets: []
+prerequisites: []
+related: []

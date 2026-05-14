@@ -1,0 +1,75 @@
+id: time-based-key-value-store
+title: Time Based Key-Value Store
+url: https://leetcode.com/problems/time-based-key-value-store
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  airbnb:
+    frequency: 37
+  amazon:
+    frequency: 50
+  anduril:
+    frequency: 62
+  apple:
+    frequency: 62
+  axon:
+    frequency: 100
+  bloomberg:
+    frequency: 12
+  cars24:
+    frequency: 87
+  citadel:
+    frequency: 50
+  cockroach-labs:
+    frequency: 100
+  coinbase:
+    frequency: 87
+  compass:
+    frequency: 100
+  confluent:
+    frequency: 100
+  crowdstrike:
+    frequency: 75
+  databricks:
+    frequency: 87
+  ebay:
+    frequency: 75
+  flexport:
+    frequency: 100
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 25
+  gusto:
+    frequency: 100
+  instacart:
+    frequency: 87
+  lyft:
+    frequency: 87
+  meta:
+    frequency: 25
+  microsoft:
+    frequency: 37
+  netflix:
+    frequency: 100
+  openai:
+    frequency: 75
+  oracle:
+    frequency: 50
+  palantir-technologies:
+    frequency: 50
+  ramp-2:
+    frequency: 62
+  snowflake:
+    frequency: 62
+  tiktok:
+    frequency: 37
+  uber:
+    frequency: 62
+  verkada:
+    frequency: 87
+sheets: []
+prerequisites: []
+related: []

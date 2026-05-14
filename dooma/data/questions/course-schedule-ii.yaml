@@ -1,0 +1,77 @@
+id: course-schedule-ii
+title: Course Schedule II
+url: https://leetcode.com/problems/course-schedule-ii
+difficulty: medium
+frequency_tier: high
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 62
+  anduril:
+    frequency: 75
+  apple:
+    frequency: 62
+  arista-networks:
+    frequency: 75
+  bloomberg:
+    frequency: 37
+  citadel:
+    frequency: 62
+  doordash:
+    frequency: 50
+  flipkart:
+    frequency: 37
+  goldman-sachs:
+    frequency: 25
+  google:
+    frequency: 37
+  ibm:
+    frequency: 37
+  instabase:
+    frequency: 100
+  intuit:
+    frequency: 75
+  linkedin:
+    frequency: 37
+  meta:
+    frequency: 50
+  microsoft:
+    frequency: 50
+  moloco:
+    frequency: 75
+  mongodb:
+    frequency: 62
+  netflix:
+    frequency: 87
+  nutanix:
+    frequency: 62
+  nvidia:
+    frequency: 50
+  oracle:
+    frequency: 62
+  palantir-technologies:
+    frequency: 50
+  qualcomm:
+    frequency: 50
+  remitly:
+    frequency: 62
+  roblox:
+    frequency: 87
+  salesforce:
+    frequency: 62
+  snapchat:
+    frequency: 75
+  snowflake:
+    frequency: 100
+  tiktok:
+    frequency: 87
+  uber:
+    frequency: 62
+  walmart-labs:
+    frequency: 62
+  zenefits:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []

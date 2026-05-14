@@ -1,0 +1,43 @@
+id: furthest-building-you-can-reach
+title: Furthest Building You Can Reach
+url: https://leetcode.com/problems/furthest-building-you-can-reach
+difficulty: medium
+frequency_tier: medium
+patterns: []
+topics: []
+companies:
+  amazon:
+    frequency: 37
+  bloomberg:
+    frequency: 12
+  de-shaw:
+    frequency: 50
+  dream11:
+    frequency: 75
+  flipkart:
+    frequency: 37
+  google:
+    frequency: 25
+  medianet:
+    frequency: 87
+  meta:
+    frequency: 12
+  microsoft:
+    frequency: 25
+  oyo:
+    frequency: 100
+  phonepe:
+    frequency: 62
+  tiktok:
+    frequency: 50
+  twilio:
+    frequency: 62
+  uber:
+    frequency: 25
+  walmart-labs:
+    frequency: 37
+  zip:
+    frequency: 100
+sheets: []
+prerequisites: []
+related: []
