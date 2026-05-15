@@ -279,6 +279,32 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request. Ke
 
 Dooma is not a LeetCode replacement, online judge, or solution database. It does not submit code, scrape your account, or sync progress to a server. It is a fast local command center for deciding what to solve next and remembering your progress.
 
+## Roadmap
+
+### Dataset Coverage Priorities
+
+We are working on expanding dataset coverage in the following order:
+
+1. **Pattern Tags** - Add pattern-based tagging for better problem categorization
+2. **NeetCode 150** - Ensure complete coverage of NeetCode 150 problems
+3. **Striver SDE Sheet** - Add support for Striver's SDE preparation problems
+4. **Validation Improvements** - Enhance dataset validation and quality checks
+
+### Current Gaps
+
+- Pattern tags are incomplete for some problem categories
+- NeetCode 150 coverage needs expansion
+- Striver SDE sheet integration is in early stages
+- Validation needs improvement for edge cases
+
+### Related Issues
+
+- See issues tagged with `area:data` for specific dataset tasks
+- Check `area:docs` for documentation improvements
+
+> **Note:** Timelines depend on contributor availability. We do not guarantee specific release dates.
+
+
 ## Release And Maintenance
 
 Releases are versioned in `pyproject.toml` and published to PyPI from GitHub Releases through the repository publish workflow. See [RELEASE.md](RELEASE.md) for versioning rules.
