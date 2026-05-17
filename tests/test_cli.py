@@ -5,6 +5,7 @@ import json
 from typer.testing import CliRunner
 
 import dooma.cli.main as cli_main
+import dooma.commands.search as search_cmd
 from dooma import __version__
 from dooma.cli.main import app
 
@@ -129,7 +130,9 @@ def test_random_command(monkeypatch):
     def fake_question_actions(question, statuses):
         calls.append((question.id, statuses))
 
-    monkeypatch.setattr("dooma.commands.practice._question_actions", fake_question_actions)
+    monkeypatch.setattr(
+        "dooma.commands.practice._question_actions", fake_question_actions
+    )
 
     result = runner.invoke(app, ["random", "--difficulty", "easy"])
     assert result.exit_code == 0
@@ -139,6 +142,27 @@ def test_random_command(monkeypatch):
 def test_search_command():
     result = runner.invoke(app, ["search", "two sum"])
     assert result.exit_code == 0
+
+
+def test_search_empty_prompt_exits_cleanly(monkeypatch):
+    monkeypatch.setattr(search_cmd, "load_index", lambda: object())
+    monkeypatch.setattr(search_cmd.Prompt, "ask", lambda *args, **kwargs: "   ")
+
+    result = runner.invoke(app, ["search"])
+
+    assert result.exit_code == 0
+    assert "Empty query" in result.output
+
+
+def test_search_no_results_exits_cleanly_with_message(monkeypatch):
+    query = "definitely-not-a-dooma-question"
+    monkeypatch.setattr(search_cmd, "load_index", lambda: object())
+    monkeypatch.setattr(search_cmd, "fuzzy_search", lambda *args, **kwargs: [])
+
+    result = runner.invoke(app, ["search", query])
+
+    assert result.exit_code == 0
+    assert f"No results for '{query}'" in result.output
 
 
 def test_question_not_found():
