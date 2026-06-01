@@ -315,6 +315,28 @@ def _load_index_from_prebuilt(path: Path) -> Index:
     return _index_from_prebuilt_payload(payload)
 
 
+def _validate_sheet_references(index: Index) -> None:
+    known_sheets = set(index.sheets.keys())
+    errors: list[tuple[str, str]] = []
+    for question_id, question in index.questions.items():
+        for sheet_id in question.sheets:
+            if sheet_id not in known_sheets:
+                errors.append((question_id, sheet_id))
+
+    if not errors:
+        return
+
+    errors.sort()
+    details = "\n".join(
+        f"- question={question_id} sheet={sheet_id}" for question_id, sheet_id in errors
+    )
+    raise ValueError(
+        "Unknown sheet reference(s) found in question data.\n"
+        "Each sheet listed under a question must exist in dooma/data/sheets.\n"
+        f"{details}"
+    )
+
+
 def load_index(*, data_dir: Path | None = None, force: bool = False) -> Index:
     """Build (or return cached) in-memory index from a prebuilt or YAML dataset.
 
@@ -340,6 +362,8 @@ def load_index(*, data_dir: Path | None = None, force: bool = False) -> Index:
             idx = _build_index_from_yaml(base)
     else:
         idx = _build_index_from_yaml(base)
+
+    _validate_sheet_references(idx)
 
     # Cache result
     if data_dir is None:
