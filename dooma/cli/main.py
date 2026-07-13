@@ -373,12 +373,12 @@ def main(
     try:
         index = load_index()
         while True:
+            from dooma import __version__
+            logo = render_logo(version=__version__)
             console.clear()
-            logo = render_logo()
-            welcome = f"[bold #F39C12]Dooma v{__version__} — DSA Interview Prep[/bold #F39C12]"
 
             console.print(Align.center(logo))
-            console.print(Align.center(welcome))
+            console.print()  # Just an empty line spacing
 
             console.print("\n[bold #E74C3C]Commands:[/bold #E74C3C]")
             menu = [

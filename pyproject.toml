@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "dooma"
-version = "2.0.6"
+version = "1.0.2"
 description = "Offline-first terminal DSA interview prep CLI with 3,310 questions, 17,931 company mappings, fast search, mock interviews, sheets, and local progress."
 readme = "README.md"
 requires-python = ">=3.9"
