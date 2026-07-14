@@ -8,6 +8,7 @@ import random as random_module
 import sys
 import webbrowser
 from time import perf_counter
+from typing import Optional
 
 import typer
 from rich.panel import Panel
@@ -249,7 +250,7 @@ def companies(
 
 @app.command("search")
 def search(
-    query: str | None = typer.Argument(None, help="Search query"),
+    query: Optional[str] = typer.Argument(None, help="Search query"),
     limit: int = typer.Option(20, min=1, help="Max results"),
     json_output: bool = typer.Option(False, "--json", help="Output results as compact JSON"),
 ):
