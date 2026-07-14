@@ -47,14 +47,14 @@ app.add_typer(dashboard_app, name="dashboard")
 
 def _version_callback(value: bool) -> None:
     if value:
-        console.print(f"dooma {__version__}")
+        console.print(f"dooma {__version__}", highlight=False)
         raise typer.Exit(0)
 
 
 @app.command()
 def version():
     """Print version and exit."""
-    console.print(f"dooma {__version__}")
+    console.print(f"dooma {__version__}", highlight=False)
 
 
 @app.command("guide")
