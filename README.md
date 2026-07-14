@@ -79,12 +79,12 @@ Dooma is designed to be extremely lightweight, utilizing a precompiled dataset t
 
 ```mermaid
 graph TD
-    CLI[CLI Input] -->|Typer| Fuzz[RapidFuzz Search & Filter]
-    Fuzz -->|Reads O(1)| Index[(Local Dataset: index.json)]
-    Fuzz -->|Cross-references| State[(Local SQLite: state.db)]
-    Index --> UI[Rich Terminal UI]
+    CLI["CLI Input"] -->|"Typer"| Fuzz["RapidFuzz Search & Filter"]
+    Fuzz -->|"Reads O(1)"| Index[("Local Dataset: index.json")]
+    Fuzz -->|"Cross-references"| State[("Local SQLite: state.db")]
+    Index --> UI["Rich Terminal UI"]
     State --> UI
-    UI -->|'o' shortcut| Browser[Web Browser]
+    UI -->|"'o' shortcut"| Browser["Web Browser"]
 ```
 
 </details>
