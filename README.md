@@ -1,7 +1,7 @@
 # Dooma
 
 <p align="center">
-  <img alt="Dooma terminal logo" src="https://raw.githubusercontent.com/im-anishraj/dooma/main/dooma.png" width="711">
+  <img alt="Dooma terminal logo" src="dooma.png" width="711">
 </p>
 
 <p align="center">
