@@ -3,7 +3,9 @@ title: Two Sum
 url: https://leetcode.com/problems/two-sum
 difficulty: easy
 frequency_tier: high
-patterns: []
+patterns:
+  - hash-map
+  - two-pointers
 topics: []
 companies:
   accenture:

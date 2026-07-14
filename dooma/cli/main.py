@@ -47,14 +47,14 @@ app.add_typer(dashboard_app, name="dashboard")
 
 def _version_callback(value: bool) -> None:
     if value:
-        console.print(f"dooma {__version__}")
+        console.print(f"dooma {__version__}", highlight=False)
         raise typer.Exit(0)
 
 
 @app.command()
 def version():
     """Print version and exit."""
-    console.print(f"dooma {__version__}")
+    console.print(f"dooma {__version__}", highlight=False)
 
 
 @app.command("guide")
@@ -250,15 +250,18 @@ def companies(
 
 @app.command("search")
 def search(
-    query: str = typer.Argument("", help="Search query"),
+    query: str | None = typer.Argument(None, help="Search query"),
     limit: int = typer.Option(20, min=1, help="Max results"),
     json_output: bool = typer.Option(False, "--json", help="Output results as compact JSON"),
 ):
     """Fuzzy search across question titles, patterns, and topics."""
     index = load_index()
 
-    if not query:
-        query = Prompt.ask("[bold]Search[/bold]")
+    if query is None:
+        try:
+            query = Prompt.ask("[bold]Search[/bold]")
+        except (EOFError, typer.Abort):
+            raise typer.Exit(0)
 
     if not query.strip():
         console.print("[dim]Empty query.[/dim]")
@@ -419,12 +422,19 @@ def main(
 
     try:
         index = load_index()
+        _first_run = True
         while True:
             from dooma import __version__
-            logo = render_logo(version=__version__)
             console.clear()
 
-            console.print(Align.center(logo))
+            if _first_run:
+                from dooma.display import animate_logo
+                animate_logo(version=__version__)
+                _first_run = False
+            else:
+                logo = render_logo(version=__version__)
+                console.print(logo)
+
             console.print()  # Just an empty line spacing
 
             console.print("\n[bold #E74C3C]Commands:[/bold #E74C3C]")
@@ -479,7 +489,7 @@ def main(
             elif choice in ("version", "--version", "-v"):
                 console.print(f"[bold #F39C12]dooma {__version__}[/bold #F39C12]")
                 Prompt.ask("\nPress Enter to continue")
-    except KeyboardInterrupt:
+    except (KeyboardInterrupt, EOFError, typer.Abort):
         console.print("\n[bold #F39C12]Goodbye! 🚀[/bold #F39C12]")
         raise typer.Exit(0)
 

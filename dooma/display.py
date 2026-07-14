@@ -38,17 +38,17 @@ def _render_compact_logo() -> Text:
     )
 
 
-def render_logo(version: str | None = None) -> Text:
+def render_logo(version: str | None = None, eyes: str = "o,o") -> Text:
     """Return the redesigned Dooma terminal wordmark."""
     if console.color_system is None or console.size.width < _IMAGE_LOGO_WIDTH:
         return _render_compact_logo()
 
     # Simple, cute Owl icon (Wisdom/Learning) aligned left
     logo_raw = [
-        "   ___     ",
-        "  (o,o)    ",
-        "  {`\"'}    ",
-        "  -\"-\"-    "
+        " ___   ",
+        f"({eyes})  ",
+        "{`\"'}  ",
+        "-\"-\"-  "
     ]
     
     text = Text()
@@ -74,6 +74,32 @@ def render_logo(version: str | None = None) -> Text:
     text.append(logo_raw[3] + "\n", style="bold #F39C12")
 
     return text
+
+
+def animate_logo(version: str | None = None) -> None:
+    """Animate the owl logo on startup."""
+    from rich.live import Live
+    import time
+
+    if console.color_system is None or console.size.width < _IMAGE_LOGO_WIDTH:
+        console.print(_render_compact_logo())
+        return
+
+    frames = [
+        ("-,-", 0.3),
+        ("D  ", 0.15),
+        ("DS ", 0.15),
+        ("DSA", 0.6),
+        ("-,-", 0.1),
+        ("o,o", 0.1),
+        ("O,O", 0.6),
+    ]
+
+    # Use transient=False so it leaves the final frame on the screen
+    with Live(render_logo(version, frames[0][0]), console=console, transient=False, refresh_per_second=20) as live:
+        for eyes, duration in frames:
+            live.update(render_logo(version, eyes))
+            time.sleep(duration)
 
 def show_onboarding() -> dict:
     """Run the first-time onboarding flow and return config answers."""
@@ -108,7 +134,11 @@ def difficulty_color(diff: str) -> str:
 
 def status_icon(status: str) -> str:
     """Return an emoji for a question status."""
-    return {"solved": "Γ£à", "attempted": "≡ƒöä", "skipped": "ΓÅ¡∩╕Å"}.get(status, "Γ¼£")
+    return {
+        "solved": "[bold green]✔[/bold green]",
+        "attempted": "[bold #F39C12]▶[/bold #F39C12]",
+        "skipped": "[bold dim]⏭[/bold dim]"
+    }.get(status, "[dim]·[/dim]")
 
 
 def render_question_table(
@@ -126,7 +156,7 @@ def render_question_table(
     page_qs = questions[start:end]
 
     table = Table(
-        title=f"{title}  (showing {start+1}ΓÇô{end} of {total})",
+        title=f"{title}  (showing {start+1}–{end} of {total})",
         show_header=True,
         header_style="bold #E74C3C",
         expand=True,
@@ -162,17 +192,15 @@ def render_company_list(companies: list[tuple[str, str, int]]) -> Table:
         table.add_row(str(i), name, str(count))
     return table
 
-
 def render_stats_dashboard(stats: dict) -> Panel:
     """Render the dashboard stats panel."""
-    lines = [
-        "[bold #F39C12]≡ƒôè Your Progress Dashboard[/bold #F39C12]\n",
-        f"  Γ£à Solved:     [green]{stats.get('solved', 0)}[/green]",
-        f"  ≡ƒöä Attempted:  [yellow]{stats.get('attempted', 0)}[/yellow]",
-        f"  ΓÅ¡∩╕Å  Skipped:    [dim]{stats.get('skipped', 0)}[/dim]",
-        f"  ≡ƒôî Bookmarks:  {stats.get('bookmarks', 0)}",
-        f"  ≡ƒô¥ Notes:      {stats.get('notes', 0)}",
-        f"  ≡ƒöÑ Streak:     {stats.get('streak_days', 0)} day(s)  ({stats.get('streak_today', 0)} today)",
-    ]
-    return Panel("\n".join(lines), border_style="#F39C12")
-
+    text = Text.from_markup(
+        "[bold #F39C12]📊 Your Progress Dashboard[/bold #F39C12]\n"
+        f"  [bold green]○[/bold green] Solved:     [green]{stats.get('solved', 0)}[/green]\n"
+        f"  [bold #F39C12]◇[/bold #F39C12] Attempted:  [yellow]{stats.get('attempted', 0)}[/yellow]\n"
+        f"  [bold dim]×[/bold dim]  Skipped:    [dim]{stats.get('skipped', 0)}[/dim]\n"
+        f"  📌 Bookmarks:  {stats.get('bookmarks', 0)}\n"
+        f"  📝 Notes:      {stats.get('notes', 0)}\n"
+        f"  🔥 Streak:     {stats.get('streak_days', 0)} day(s)  ({stats.get('streak_today', 0)} today)\n"
+    )
+    return Panel(text, border_style="#F39C12")
