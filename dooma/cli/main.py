@@ -21,7 +21,7 @@ from dooma.commands.dashboard import app as dashboard_app
 from dooma.commands.mock import app as mock_app
 from dooma.commands.practice import app as practice_app
 from dooma.commands.sheet import app as sheet_app
-from dooma.config import is_onboarded, save_config
+from dooma.config import get_config_path, is_onboarded, save_config
 from dooma.display import console, render_logo, show_onboarding
 from dooma.loader import load_index
 from dooma.search import fuzzy_search
@@ -144,8 +144,6 @@ def doctor():
         checks.append(("State database", str(db.get_db_path()), "OK"))
     except Exception as exc:  # pragma: no cover - defensive health check
         checks.append(("State database", str(exc), "FAIL"))
-
-    from dooma.config import get_config_path
 
     checks.append(("Config path", str(get_config_path()), "OK"))
 
@@ -387,6 +385,13 @@ def config_cmd(
         cfg = load_config()
         for k, v in cfg.items():
             console.print(f"  {k}: {v}")
+
+
+@app.command("paths")
+def paths_cmd():
+    """Print local config and state database paths."""
+    console.print(f"Config path: {get_config_path()}")
+    console.print(f"State database path: {db.get_db_path()}")
 
 
 @app.callback(invoke_without_command=True)
