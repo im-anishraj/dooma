@@ -38,7 +38,7 @@ def _render_compact_logo() -> Text:
     )
 
 
-def render_logo(version: str = None) -> Text:
+def render_logo(version: str | None = None) -> Text:
     """Return the redesigned Dooma terminal wordmark."""
     if console.color_system is None or console.size.width < _IMAGE_LOGO_WIDTH:
         return _render_compact_logo()
