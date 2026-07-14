@@ -21,5 +21,5 @@ def dashboard():
     console.clear()
     console.print(display.render_logo())
     console.print()
-    console.print(display.render_dashboard(stats))
+    console.print(display.render_stats_dashboard(stats))
     console.print(f"\n[dim]Total questions in database: {stats['total_questions']}[/dim]")

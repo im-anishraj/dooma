@@ -40,7 +40,7 @@ def _render_compact_logo() -> Text:
 
 def render_logo(version: str = None) -> Text:
     """Return the redesigned Dooma terminal wordmark."""
-    if console.color_system is None or _console_width() < _IMAGE_LOGO_WIDTH:
+    if console.color_system is None or console.size.width < _IMAGE_LOGO_WIDTH:
         return _render_compact_logo()
 
     # Simple, cute Owl icon (Wisdom/Learning) aligned left
@@ -75,9 +75,6 @@ def render_logo(version: str = None) -> Text:
 
     return text
 
-def _console_width() -> int:
-    """Return the configured console width, including explicit Rich test widths."""
-    return getattr(console, "_width", None) or console.size.width
 def show_onboarding() -> dict:
     """Run the first-time onboarding flow and return config answers."""
     from rich.prompt import Prompt
@@ -102,3 +99,80 @@ def show_onboarding() -> dict:
     )
 
     return {"goal": goal, "level": level, "roadmap": roadmap, "onboarding_done": True}
+
+
+def difficulty_color(diff: str) -> str:
+    """Return a Rich color string for a difficulty level."""
+    return {"easy": "green", "medium": "#F7CA18", "hard": "#E74C3C"}.get(diff, "white")
+
+
+def status_icon(status: str) -> str:
+    """Return an emoji for a question status."""
+    return {"solved": "Γ£à", "attempted": "≡ƒöä", "skipped": "ΓÅ¡∩╕Å"}.get(status, "Γ¼£")
+
+
+def render_question_table(
+    questions: list[Question],
+    *,
+    title: str = "Questions",
+    statuses: dict[str, str] | None = None,
+    page: int = 0,
+    page_size: int = 15,
+) -> Table:
+    """Build a Rich Table for a list of questions with pagination."""
+    total = len(questions)
+    start = page * page_size
+    end = min(start + page_size, total)
+    page_qs = questions[start:end]
+
+    table = Table(
+        title=f"{title}  (showing {start+1}ΓÇô{end} of {total})",
+        show_header=True,
+        header_style="bold #E74C3C",
+        expand=True,
+    )
+    table.add_column("#", justify="right", style="#F39C12", no_wrap=True, width=4)
+    table.add_column("Status", width=4)
+    table.add_column("Title", style="white", ratio=3)
+    table.add_column("Difficulty", width=10)
+    table.add_column("Freq", style="#F7CA18", width=6)
+    table.add_column("URL", style="blue", ratio=2)
+
+    sts = statuses or {}
+    for i, q in enumerate(page_qs, start=start + 1):
+        dc = difficulty_color(q.difficulty)
+        diff_fmt = f"[{dc}]{q.difficulty or 'N/A'}[/{dc}]"
+        icon = status_icon(sts.get(q.id, "unsolved"))
+        table.add_row(str(i), icon, q.title, diff_fmt, q.frequency_tier, q.url)
+
+    return table
+
+
+def render_company_list(companies: list[tuple[str, str, int]]) -> Table:
+    """Render a table of companies with question counts.
+
+    Each item is (company_id, display_name, question_count).
+    """
+    table = Table(title="Companies", show_header=True, header_style="bold #E74C3C", expand=True)
+    table.add_column("#", justify="right", style="#F39C12", width=4)
+    table.add_column("Company", style="white", ratio=2)
+    table.add_column("Questions", justify="right", style="#F7CA18", width=10)
+
+    for i, (cid, name, count) in enumerate(companies, 1):
+        table.add_row(str(i), name, str(count))
+    return table
+
+
+def render_stats_dashboard(stats: dict) -> Panel:
+    """Render the dashboard stats panel."""
+    lines = [
+        "[bold #F39C12]≡ƒôè Your Progress Dashboard[/bold #F39C12]\n",
+        f"  Γ£à Solved:     [green]{stats.get('solved', 0)}[/green]",
+        f"  ≡ƒöä Attempted:  [yellow]{stats.get('attempted', 0)}[/yellow]",
+        f"  ΓÅ¡∩╕Å  Skipped:    [dim]{stats.get('skipped', 0)}[/dim]",
+        f"  ≡ƒôî Bookmarks:  {stats.get('bookmarks', 0)}",
+        f"  ≡ƒô¥ Notes:      {stats.get('notes', 0)}",
+        f"  ≡ƒöÑ Streak:     {stats.get('streak_days', 0)} day(s)  ({stats.get('streak_today', 0)} today)",
+    ]
+    return Panel("\n".join(lines), border_style="#F39C12")
+
