@@ -20,7 +20,6 @@ from dooma.commands.browse import app as browse_app
 from dooma.commands.dashboard import app as dashboard_app
 from dooma.commands.mock import app as mock_app
 from dooma.commands.practice import app as practice_app
-from dooma.commands.search import app as search_app
 from dooma.commands.sheet import app as sheet_app
 from dooma.config import is_onboarded, save_config
 from dooma.display import console, render_logo, show_onboarding
@@ -41,7 +40,6 @@ app = typer.Typer(
 # Register sub-commands
 app.add_typer(practice_app, name="practice")
 app.add_typer(browse_app, name="browse")
-app.add_typer(search_app, name="search")
 app.add_typer(sheet_app, name="sheet")
 app.add_typer(mock_app, name="mock")
 app.add_typer(dashboard_app, name="dashboard")
@@ -250,6 +248,50 @@ def companies(
         )
         return
     console.print(display.render_company_list(company_data))
+
+
+@app.command("search")
+def search(
+    query: str = typer.Argument("", help="Search query"),
+    limit: int = typer.Option(20, min=1, help="Max results"),
+    json_output: bool = typer.Option(False, "--json", help="Output results as compact JSON"),
+):
+    """Fuzzy search across question titles, patterns, and topics."""
+    index = load_index()
+
+    if not query:
+        query = Prompt.ask("[bold]Search[/bold]")
+
+    if not query.strip():
+        console.print("[dim]Empty query.[/dim]")
+        raise typer.Exit(0)
+
+    results = fuzzy_search(query, index, limit=limit)
+    if not results:
+        if json_output:
+            typer.echo(json.dumps([]))
+        else:
+            console.print(f"[red]No results for '{query}'[/red]")
+        raise typer.Exit(0)
+
+    statuses = db.get_all_statuses()
+
+    if json_output:
+        payload = [
+            {
+                "id": q.id,
+                "title": q.title,
+                "difficulty": q.difficulty,
+                "url": q.url,
+                "frequency_tier": q.frequency_tier,
+                "status": statuses.get(q.id, "unsolved"),
+            }
+            for q in results
+        ]
+        typer.echo(json.dumps(payload, separators=(",", ":")))
+    else:
+        table = display.render_question_table(results, title=f"Search: {query}", statuses=statuses)
+        console.print(table)
 
 
 @app.command("patterns")

@@ -141,6 +141,38 @@ def test_search_command():
     assert result.exit_code == 0
 
 
+def test_search_json_command():
+    # --json after query should work with @app.command
+    result = runner.invoke(app, ["search", "two sum", "--json"])
+    assert result.exit_code == 0
+
+    questions = json.loads(result.output)
+    assert len(questions) > 0
+    assert list(questions[0]) == ["id", "title", "difficulty", "url", "frequency_tier", "status"]
+    assert isinstance(questions[0]["id"], str)
+    assert isinstance(questions[0]["title"], str)
+    assert isinstance(questions[0]["difficulty"], str)
+    assert isinstance(questions[0]["url"], str)
+    assert isinstance(questions[0]["frequency_tier"], str)
+    assert isinstance(questions[0]["status"], str)
+    # JSON output should not contain Rich table markup
+    assert "Search:" not in result.output
+
+
+def test_search_json_limit():
+    result = runner.invoke(app, ["search", "two sum", "--json", "--limit", "3"])
+    assert result.exit_code == 0
+    questions = json.loads(result.output)
+    assert len(questions) == 3
+
+
+def test_search_json_empty(monkeypatch):
+    monkeypatch.setattr("dooma.cli.main.fuzzy_search", lambda q, i, limit=20: [])
+    result = runner.invoke(app, ["search", "two sum", "--json"])
+    assert result.exit_code == 0
+    assert json.loads(result.output) == []
+
+
 def test_question_not_found():
     result = runner.invoke(app, ["question", "nonexistent-question-xyz"])
     assert result.exit_code == 1
