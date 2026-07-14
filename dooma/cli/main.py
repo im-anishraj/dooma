@@ -250,15 +250,18 @@ def companies(
 
 @app.command("search")
 def search(
-    query: str = typer.Argument("", help="Search query"),
+    query: str | None = typer.Argument(None, help="Search query"),
     limit: int = typer.Option(20, min=1, help="Max results"),
     json_output: bool = typer.Option(False, "--json", help="Output results as compact JSON"),
 ):
     """Fuzzy search across question titles, patterns, and topics."""
     index = load_index()
 
-    if not query:
-        query = Prompt.ask("[bold]Search[/bold]")
+    if query is None:
+        try:
+            query = Prompt.ask("[bold]Search[/bold]")
+        except (EOFError, typer.Abort):
+            raise typer.Exit(0)
 
     if not query.strip():
         console.print("[dim]Empty query.[/dim]")
