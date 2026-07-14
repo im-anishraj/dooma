@@ -10,7 +10,6 @@ import webbrowser
 from time import perf_counter
 
 import typer
-from rich.align import Align
 from rich.panel import Panel
 from rich.prompt import Prompt
 from rich.table import Table

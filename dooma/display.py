@@ -78,8 +78,9 @@ def render_logo(version: str | None = None, eyes: str = "o,o") -> Text:
 
 def animate_logo(version: str | None = None) -> None:
     """Animate the owl logo on startup."""
-    from rich.live import Live
     import time
+
+    from rich.live import Live
 
     if console.color_system is None or console.size.width < _IMAGE_LOGO_WIDTH:
         console.print(_render_compact_logo())
