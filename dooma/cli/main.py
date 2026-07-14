@@ -482,7 +482,7 @@ def main(
             elif choice in ("version", "--version", "-v"):
                 console.print(f"[bold #F39C12]dooma {__version__}[/bold #F39C12]")
                 Prompt.ask("\nPress Enter to continue")
-    except KeyboardInterrupt:
+    except (KeyboardInterrupt, EOFError, typer.Abort):
         console.print("\n[bold #F39C12]Goodbye! 🚀[/bold #F39C12]")
         raise typer.Exit(0)
 
