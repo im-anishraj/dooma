@@ -33,7 +33,7 @@ _IMAGE_LOGO_WIDTH = 55  # For compact fallback logic
 def _render_compact_logo() -> Text:
     """Return a fallback compact text wordmark."""
     return Text.from_markup(
-        "[#F39C12]DOOMA[/] - [#F7CA18]technical interview workspace[/]\n"
+        "[#F39C12]DOOMA[/] - [#F7CA18]technical interview prep[/]\n"
         "[dim]17,931 interview mappings • offline first[/]"
     )
 
@@ -57,7 +57,7 @@ def render_logo(version: str | None = None, eyes: str = "o,o") -> Text:
     
     # Line 2 (Tags)
     text.append(logo_raw[1], style="bold #F39C12")
-    text.append("technical interview workspace", style="#F7CA18")
+    text.append("technical interview prep", style="#F7CA18")
     text.append(" • ", style="dim")
     text.append("17,931 interview mappings", style="#E74C3C")
     text.append(" • ", style="dim")
