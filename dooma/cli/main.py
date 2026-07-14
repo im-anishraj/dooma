@@ -422,12 +422,19 @@ def main(
 
     try:
         index = load_index()
+        _first_run = True
         while True:
             from dooma import __version__
-            logo = render_logo(version=__version__)
             console.clear()
 
-            console.print(Align.center(logo))
+            if _first_run:
+                from dooma.display import animate_logo
+                animate_logo(version=__version__)
+                _first_run = False
+            else:
+                logo = render_logo(version=__version__)
+                console.print(logo)
+
             console.print()  # Just an empty line spacing
 
             console.print("\n[bold #E74C3C]Commands:[/bold #E74C3C]")
