@@ -66,7 +66,7 @@ def render_logo(version: str | None = None, eyes: str = "o,o") -> Text:
     # Line 3 (Version)
     text.append(logo_raw[2], style="bold #F39C12")
     if version:
-        text.append(f"Dooma v{version} — DSA Interview Prep\n", style="bold #F39C12")
+        text.append(f"Dooma v{version}\n", style="bold #F39C12")
     else:
         text.append("\n")
         
