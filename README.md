@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <strong>technical interview prep • 17,931 company mappings • local-first</strong><br>
-  Search 3,310 questions, browse company mappings, run mock sessions, and track progress locally.
+  <strong>The local-first terminal workspace for technical interview prep.</strong><br>
+  Search 3,310 questions, browse 17,931 mappings across 662 companies, and track progress—all in the CLI.
 </p>
 
 <p align="center">
@@ -15,8 +15,6 @@
   <a href="https://pepy.tech/project/dooma"><img alt="Downloads" src="https://img.shields.io/pepy/dt/dooma?style=for-the-badge"></a>
 </p>
 
-Dooma is a fast, offline-first terminal workspace for technical interview preparation. It turns scattered interview-prep data into a focused CLI workflow—giving you a fast way to find what companies ask, open the exact LeetCode-style problem, and track your progress without accounts or network dependencies.
-
 ---
 
 ## ⚡ Quickstart
@@ -26,103 +24,84 @@ pip install dooma
 dooma
 ```
 
-<!-- TODO: Insert Demo GIF / Screenshot here -->
+<!-- TODO: Insert high-quality demo GIF here showing fuzzy search (dooma search), an interactive mock session, and the progress dashboard -->
 
 ---
 
-## ❤️ Why Developers Love Dooma
+## 🔒 The Local-First Advantage
 
-- **Company-First Discovery:** Browse up-to-date question pools for companies like Google, Amazon, Meta, Microsoft, and Bloomberg.
-- **Lightning Fast Search:** Jump directly from rough text (like `two sum` or `binary tree`) to the exact question.
-- **Offline-First Runtime:** Packaged with a prebuilt index, eliminating the need to parse thousands of files or wait for network requests.
-- **Private Progress Tracking:** Your solved problems, notes, bookmarks, and streaks live entirely locally in `~/.dooma`.
-- **Keyboard-Driven Workflow:** Manage everything from the terminal without breaking your flow.
+Modern preparation tools demand sign-ups, track analytics, rely on internet connectivity, and force you to navigate distracting web interfaces. Dooma flips this model. 
 
----
-
-## 🔒 Why Local-First?
-
-Preparing for technical interviews is deeply personal and requires intense focus. You shouldn't have to navigate distracting dashboards, sign in to accounts, or rely on an internet connection just to figure out what to practice next. 
-
-By operating entirely locally, Dooma ensures that your data remains yours. Your progress, notes, and activity are never scraped, uploaded, or synced to a remote server. It's just you, your terminal, and the code.
+- **Instant Discovery:** Sub-millisecond RapidFuzz search across 3,310 questions.
+- **Company-Focused:** Access curated, up-to-date question pools for 662 companies (including Google, Amazon, Meta).
+- **Zero Distractions:** Launch timed mock interview sessions directly in your CLI. No browser tabs required.
+- **Absolute Privacy:** Your activity, notes, and solve rates are written directly to your local `~/.dooma/state.db`. Nothing is ever uploaded.
 
 ---
 
-## 🛠️ Features & Workflows
+## 🛠️ Workflows
 
-Launch the interactive hub simply by running `dooma`. From there, you can navigate through the primary workflows:
+Launch the interactive workspace simply by running `dooma`.
 
 | Command | Purpose |
 | --- | --- |
-| `dooma practice` | Browse questions interactively |
-| `dooma browse companies`| Explore question pools by company |
-| `dooma search <query>` | Fuzzy search questions by keyword |
-| `dooma sheet blind-75` | Work through curated roadmaps |
-| `dooma mock` | Start a timed mock interview session |
-| `dooma dashboard` | View your local progress and streaks |
-| `dooma bookmarks` | Access your saved questions |
-| `dooma doctor` | Check dataset and database health |
+| `dooma practice` | Interactively browse the question database |
+| `dooma browse companies`| Explore question pools mapped to specific companies |
+| `dooma search <query>` | Fuzzy search questions by keyword or topic |
+| `dooma sheet blind-75` | Work through curated industry-standard roadmaps |
+| `dooma mock` | Start a timed, randomized mock interview session |
+| `dooma dashboard` | Review your solve rates, local progress, and streaks |
+| `dooma bookmarks` | Access your saved and starred questions |
 
-### Interactive Question Actions
+> [!TIP]
+> **Command Chaining:** Try `dooma mock --count 3 --difficulty hard` to jump straight into a tough session.
 
-While inside any practice, company, or sheet flow, use these hotkeys:
+### Interactive Hotkeys
 
-- **`o`** – Open the problem URL in your browser
-- **`m`** – Cycle status: `unsolved -> attempted -> solved -> skipped`
-- **`b`** – Toggle bookmark
-- **`n`** – Add or edit a local note
-- **`q`** – Go back
+While inside any question flow, use these hotkeys to update your local state instantly:
+
+| Key | Action |
+| :---: | --- |
+| `o` | Open the problem URL in your browser |
+| `m` | Cycle status (unsolved → attempted → solved → skipped) |
+| `Space` | Toggle bookmark |
+| `n` | Write or edit a private local note |
+| `q` | Return to the previous menu |
 
 ---
 
-## 🏗️ Architecture & Tech Stack
+## 🏗️ Architecture
 
-Dooma processes raw YAML datasets into a high-performance runtime JSON index, rendering data through a rich CLI interface.
-
-| Category | Technology |
-|----------|-------------|
-| Language | Python 3.9+ |
-| CLI Framework | Typer |
-| Terminal UI | Rich |
-| Search | RapidFuzz |
+Dooma is designed to be extremely lightweight, utilizing a precompiled dataset to achieve sub-second startup times.
 
 <details>
-<summary><strong>View High-Level Data Flow</strong></summary>
+<summary><strong>View System Workflow</strong></summary>
 
-```text
-User Command
-     │
-     ▼
-Load Local Dataset (index.json)
-     │
-     ▼
-Filter Companies / Questions
-     │
-     ▼
-Render Rich Terminal UI
-     │
-     ▼
-Interactive Navigation
+```mermaid
+graph TD
+    CLI[CLI Input] -->|Typer| Fuzz[RapidFuzz Search & Filter]
+    Fuzz -->|Reads O(1)| Index[(Local Dataset: index.json)]
+    Fuzz -->|Cross-references| State[(Local SQLite: state.db)]
+    Index --> UI[Rich Terminal UI]
+    State --> UI
+    UI -->|'o' shortcut| Browser[Web Browser]
 ```
 
 </details>
 
 <details>
-<summary><strong>View Project Structure</strong></summary>
+<summary><strong>View Codebase Structure</strong></summary>
 
 ```text
 dooma/
-├── .github/             # GitHub workflows and issue templates
-├── dooma/               # Core application package
-│   ├── cli/             # Typer commands and home screen
-│   ├── dataset/         # Company-question datasets (legacy JSON)
-│   ├── db.py            # SQLite progress & state handling
-│   ├── display.py       # Rich terminal rendering
-│   └── loader.py        # Index loader
-├── scripts/             # Dataset build (YAML -> JSON) utilities
-├── tests/               # Unit and integration tests
-├── README.md            # Project documentation
-└── RELEASES.md          # Changelog
+├── dooma/               # Core application logic
+│   ├── cli/             # Typer command definitions
+│   ├── dataset/         # Local-first JSON data models
+│   ├── db.py            # SQLite state management
+│   ├── display.py       # Rich UI rendering
+│   └── loader.py        # Dataset index loading
+├── scripts/             # Internal utilities (YAML -> JSON compilation)
+└── tests/               # Pytest suite
 ```
 
 </details>
@@ -131,90 +110,79 @@ dooma/
 
 ## 🚀 Project Vision
 
-Dooma's long-term vision is to become the definitive offline hub for developers preparing for technical interviews. We aim to bridge the gap between problem discovery (knowing *what* to solve) and deliberate practice (tracking *how* you solve it), all without leaving the terminal environment where developers already feel most at home.
-
-### Current Priorities
-- **Pattern Categorization:** Expanding taxonomy tags for all problems.
-- **Curated Sheets:** Full mapping for NeetCode 150 and Striver SDE sheets.
-- **Dataset Validation:** Hardening the validation pipeline for new question additions.
+Our goal is to build the definitive local-first hub for technical interview preparation. We aim to bridge the gap between problem discovery (knowing *what* to solve) and deliberate practice (tracking *how* you solve it)—all from the terminal where engineers already feel most at home.
 
 ---
 
 ## 🗺️ Roadmap
 
-| Feature | Status | Details |
-| --- | :---: | --- |
-| **Company Mappings** | ✅ | 17,931 mappings across 662 companies |
-| **Question Database** | ✅ | 3,310 unique questions |
-| **Blind 75 Sheet** | 🟡 | 71 questions mapped |
-| **Pattern Taxonomy** | 🟡 | 25 pattern entries (tags pending) |
-| **NeetCode 150 Sheet** | ⏳ | Definitions exist, mapping needed |
-| **Striver SDE Sheet** | ⏳ | Definitions exist, mapping needed |
+We are actively building the future of local-first interview prep. 
+
+| Phase | Focus | Impact |
+| --- | --- | --- |
+| **Now** | **Pattern Taxonomy** | Mapping 3,310 questions to 25 distinct patterns to enable pattern-based learning. |
+| **Now** | **Dataset Validation** | Hardening the YAML validation pipeline to ensure high data integrity for new contributions. |
+| **Next** | **Curated Sheets** | Integrating the complete NeetCode 150 and Striver SDE roadmaps. |
+| **Future** | **Spaced Repetition** | Introducing an algorithm to resurface challenging questions based on local metrics. |
 
 ---
 
-## 🤝 Looking for Contributors
+## 🤝 Contributing
 
-**First-time contributors are explicitly welcome!** Whether you're a Python expert, a technical writer, or a data enthusiast, there's a place for you here. 
+We want to make contributing to Dooma as seamless as using it. **First-time contributors are explicitly welcome!**
 
-We are currently looking for:
-- 🐍 **Python Developers:** CLI improvements, tests, and performance tweaks.
-- 🎨 **UI Contributors:** Refining the Rich terminal rendering for edge cases.
-- 📊 **Dataset Contributors:** Mapping questions, adding patterns, and fixing metadata.
-- 📝 **Documentation:** Improving tutorials, comments, and guides.
+### Where We Need Help
+
+- 🐍 **Python Developers:** Optimize RapidFuzz search ranking, add regression tests, and expand CLI features.
+- 🎨 **UI Designers:** Refine the Rich terminal rendering for edge cases in narrow or non-standard terminals.
+- 📊 **Data Enthusiasts:** Help map the remaining Blind 75, NeetCode 150, and Striver SDE questions. Check issues labeled [`area:data`](https://github.com/im-anishraj/dooma/labels/area%3Adata).
 
 ### Good First Issues
 
-The best way to get started is by tackling practical, data-driven tasks:
-1. Check issues labeled [`good first issue`](https://github.com/im-anishraj/dooma/labels/good%20first%20issue) or [`area:data`](https://github.com/im-anishraj/dooma/labels/area%3Adata).
-2. Help map missing pattern tags to existing questions.
-3. Add missing problems to curated sheets (like NeetCode 150).
+Looking for an easy place to start? 
+1. Check the [good first issue](https://github.com/im-anishraj/dooma/labels/good%20first%20issue) label.
+2. The highest impact task right now is adding **pattern tags** to existing questions in the YAML dataset.
 
-### Development Guide
+### Development Workflow
 
-1. Clone and install dependencies:
+1. **Clone and install dependencies:**
    ```bash
    git clone https://github.com/im-anishraj/dooma.git
    cd dooma
    pip install -e ".[dev]"
    ```
-2. Run tests and linters:
+2. **Run tests and verify standards:**
    ```bash
    ruff check .
    mypy dooma
    python -m pytest
    ```
-3. Update the dataset index (if changing YAML files):
+3. **Rebuild index (if modifying dataset YAMLs):**
    ```bash
    python scripts/build_index.py
    ```
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a pull request.
+Please read our [CONTRIBUTING.md](CONTRIBUTING.md) guide before opening a pull request.
 
 ---
 
 ## 💬 Community
 
-<!-- TODO: Add links to Discord / GitHub Discussions / Website -->
 - [GitHub Discussions](https://github.com/im-anishraj/dooma/discussions) - Ask questions, share ideas, and follow announcements.
 - **Discord** - *(Coming soon)*
-- **Website** - *(Coming soon)*
 
 ---
 
 ## ❓ FAQ
 
-**Does Dooma require a LeetCode Premium account?**  
-No. Dooma provides metadata, categorization, and links. You will need your own account to actually submit code on the respective platform.
+**Does Dooma submit code for me or require a LeetCode Premium account?**  
+No. Dooma provides metadata, problem categorization, and direct links. You do not need a premium account to use Dooma, but you will need an account on the respective platform (like LeetCode) to submit your actual code.
 
-**Does Dooma submit code for me?**  
-No. Dooma is an offline tracker and discovery hub, not an online judge.
-
-**Can I sync my progress across machines?**  
-Currently, all state is stored in `~/.dooma/state.db`. You can manually back up or sync this SQLite file using Dropbox, Syncthing, or a similar tool.
+**Where is my data stored? Can I sync it?**  
+All state (bookmarks, notes, progress) is stored locally in `~/.dooma/state.db`. You can sync this SQLite file across machines using Dropbox, iCloud, or Syncthing.
 
 **How do I completely reset my progress?**  
-You can reset onboarding config via `dooma config --reset` or safely delete the `~/.dooma` directory to start fresh.
+You can reset your onboarding config via `dooma config --reset` or safely delete the `~/.dooma` directory to start completely fresh.
 
 ---
 
