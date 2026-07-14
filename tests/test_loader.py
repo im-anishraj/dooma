@@ -123,6 +123,31 @@ def test_custom_data_dir_uses_yaml_fallback(tmp_path):
     assert idx.by_sheet["starter"][0].id == "sample-question"
 
 
+def test_unknown_sheet_reference_fails_validation(tmp_path):
+    for directory in ("patterns", "companies", "sheets", "questions"):
+        (tmp_path / directory).mkdir()
+
+    (tmp_path / "sheets" / "known.yaml").write_text(
+        "id: known\nname: Known\nquestions: []\n",
+        encoding="utf-8",
+    )
+    (tmp_path / "questions" / "bad-question.yaml").write_text(
+        "\n".join(
+            [
+                "id: bad-question",
+                "title: Bad Question",
+                "url: https://leetcode.com/problems/bad-question",
+                "sheets:",
+                "- does-not-exist",
+            ]
+        ),
+        encoding="utf-8",
+    )
+
+    with pytest.raises(ValueError, match=r"question=bad-question.*sheet=does-not-exist"):
+        load_index(data_dir=tmp_path, force=True)
+
+
 def test_source_hash_normalizes_line_endings(tmp_path):
     """Generated index checks should be stable across Windows and Linux."""
     questions_dir = tmp_path / "questions"
