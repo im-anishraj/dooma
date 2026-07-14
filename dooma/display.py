@@ -34,7 +34,7 @@ def _render_compact_logo() -> Text:
     """Return a fallback compact text wordmark."""
     return Text.from_markup(
         "[#F39C12]DOOMA[/] - [#F7CA18]technical interview prep[/]\n"
-        "[dim]17,931 interview mappings • offline first[/]"
+        "[dim]17,931 company mappings • local-first[/]"
     )
 
 
@@ -59,9 +59,9 @@ def render_logo(version: str | None = None, eyes: str = "o,o") -> Text:
     text.append(logo_raw[1], style="bold #F39C12")
     text.append("technical interview prep", style="#F7CA18")
     text.append(" • ", style="dim")
-    text.append("17,931 interview mappings", style="#E74C3C")
+    text.append("17,931 company mappings", style="#E74C3C")
     text.append(" • ", style="dim")
-    text.append("offline first\n", style="#F39C12")
+    text.append("local-first\n", style="#F39C12")
     
     # Line 3 (Version)
     text.append(logo_raw[2], style="bold #F39C12")
