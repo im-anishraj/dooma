@@ -16,7 +16,7 @@ def test_render_logo_uses_image_logo_on_wide_color_terminal(monkeypatch):
 
     # The new horizontally aligned Owl logo is 4 lines long
     assert len(logo.plain.splitlines()) == 4
-    assert "terminal DSA forge" in logo.plain
+    assert "technical interview workspace" in logo.plain
 
 
 def test_render_logo_uses_compact_logo_on_narrow_terminal(monkeypatch):
@@ -30,4 +30,4 @@ def test_render_logo_uses_compact_logo_on_narrow_terminal(monkeypatch):
 
     # The new compact logo is 2 lines long
     assert len(logo.plain.splitlines()) == 2
-    assert "terminal DSA forge" in logo.plain
+    assert "technical interview workspace" in logo.plain
