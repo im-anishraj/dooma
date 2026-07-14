@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Dooma terminal logo" src="dooma.png" width="711">
+  <img alt="Dooma terminal logo" src="assets/dooma.png" width="711">
 </p>
 
 <p align="center">
@@ -24,7 +24,19 @@ pip install dooma
 dooma
 ```
 
-<!-- TODO: Insert high-quality demo GIF here showing fuzzy search (dooma search), an interactive mock session, and the progress dashboard -->
+### See Dooma in Action
+
+<p align="center">
+  <img src="assets/practice_mode.png" alt="Practice Mode" width="48%">
+  <img src="assets/mock_interview.png" alt="Mock Interview" width="48%">
+</p>
+<p align="center">
+  <img src="assets/search_results.png" alt="Fuzzy Search" width="48%">
+  <img src="assets/companies.png" alt="Company Mappings" width="48%">
+</p>
+<p align="center">
+  <img src="assets/dashboard.png" alt="Progress Dashboard" width="97%">
+</p>
 
 ---
 
