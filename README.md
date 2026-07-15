@@ -24,6 +24,8 @@ pip install dooma
 dooma
 ```
 
+Using Dooma on Windows? See the [Windows terminal troubleshooting guide](docs/windows-terminal-troubleshooting.md) for help with missing icons, text encoding, and narrow layouts.
+
 ### See Dooma in Action
 
 <p align="center">
